@@ -1,0 +1,2042 @@
+
+
+<!doctype html>
+<html xmlns:fb="http://ogp.me/ns/fb#">
+<head>
+	<!-- VIEW: Home Page -->
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta property="og:site_name" content="AOL Moviefone"/>
+    	<meta property="fb:admins" content="100001205535367"/>
+        <meta property="fb:app_id" content="133082040051963"/>
+        <meta name="google-site-verification" content="RI2-9wUIhgsKlnYuFKemFb4zhFW1J1QmmYGVXcAXTXo" /> 
+        <meta name="msvalidate.01" content="5ABD8A078F3356F3A6A8C8643C31FB8F" />
+		
+	<title>The Moviefone Blog</title>
+		<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="twitter:widgets:theme" content="dark" />
+
+
+
+
+
+<link rel="canonical" href="http://news.moviefone.com/" />
+
+
+				<script type="text/javascript">
+(function(b){function a(e,g){var f=b.getElementsByTagName("head")[0],d=b.createElement("script"),c=0;d.type="text/javascript";d.src=e;d.onload=d.onreadystatechange=function(){if(!c&&(!d.readyState||d.readyState==="loaded"||d.readyState==="complete")){c=1;g&&g();d.onload=d.onreadystatechange=null;f.removeChild(d)}};f.insertBefore(d,f.firstChild)}window.Aol||(Aol={});Aol.getJS=a})(document);
+
+//declare mf obj and array to push inits
+this.MF || (MF={}); 
+MF.fn = [];	
+</script>		<script>
+var bN_cfg = {
+	h: location.hostname,
+	p: {
+		"dL_ch": "us.mfedit",
+		"dL_dpt": "main",
+		"dL_sDpt": "main",
+		"dL_cmsID": ""
+	}
+};
+function runOmni() {
+	s_265.pfxID = "mov";
+	s_265.pageName = "The Moviefone Blog main";
+	s_265.server = "news.moviefone.com";
+	s_265.channel = "us.mfedit";
+	s_265.pageType = "";
+	s_265.prop1 = "main";
+	s_265.prop54 = "blogsmith";
+	s_265.prop2 = "main";
+	s_265.prop8 = "bss:378";
+	s_265.mmxgo = true;
+	s_265.prop12 = document.location;
+
+	s_265.t();
+}
+var s_account = "aolmov,aolsvc";
+(function(d){
+var s = d.createElement("script"),
+    h = d.getElementsByTagName("head")[0];
+s.src = "http://o.aolcdn.com/os_merge/?file=/aol/beacon.min.js&file=/aol/omniture.min.js";
+h.appendChild(s);
+})(document);
+</script>		<script src="http://o.aolcdn.com/ads/adsWrapper.js"></script>
+<script>
+adSetAdURL("/_uac/adpage.html");
+
+ adSetUGC = 0;
+adSetMOAT('1');
+</script>								        
+	
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+
+<link rel="shortcut icon" href="http://www.blogsmithmedia.com/www.moviefone.com/media/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="http://o.aolcdn.com/os_merge/?file=/movies/mf-assets/mf-global.css&file=/movies/ch_movies/mf-superfish-nav.css&file=/movies/mf-assets/mf-header.css&file=/movies/mf-assets/mf-footer.css&file=/movies/ch_movies/jquery-ui-1.8.4-custom.css&file=/movies/mf-assets/mf-showtimes.css&file=/movies/css-movies/mf-home.css&file=/movies/ch_movies/jquery-fancybox.css&file=/movies/ch_movies/friendinvite.css&file=/movies/css-movies/migration-temp.css&file=/aol/18-aol-comments.css&file=/aol/aol-most-popular.min.css&file=/aol/aol-facebook-social.css&expsec=31536000&ver=44" />
+<link rel="stylesheet" type="text/css" href="http://o.aolcdn.com/os/movies/css-js/mf-dark.css?16?16" />
+<link rel="stylesheet" type="text/css" href="http://www.blogsmithmedia.com/news.moviefone.com/media/mf-dark-blog.css?96" />
+<link rel="stylesheet" type="text/css" href="http://www.blogsmithmedia.com/news.moviefone.com/media/main-override.css?109" />
+<link rel="stylesheet" type="text/css" href="http://www.blogsmithmedia.com/news.moviefone.com/media/mf-sailthru.css?04" />
+
+
+</head>
+		
+
+
+	
+<body class="blog movie bloghomepage">
+	
+	<a class="hide" accesskey="c" href="#content">Skip to main content</a>
+	
+		<div class="header-ad">
+	<script type="text/javascript">
+		<!--
+		adSetType('F');
+		htmlAdWH('93319301', 'LB', 'LB');
+		adSetType('');
+		//-->
+	</script>
+</div><!-- END .header-ad -->			
+	<div id="container" class="clear-fix">
+
+		<div id="header" class="clear-fix">
+												<div id="moviefone-header" class="transparent-header">
+
+	<div class="header-wrap">
+
+<div class="auth">
+ 
+ <span id="mfUserImg"></span><span id="mfUserName"></span><a href="#" id="mfSignIn" name="mfSignIn"></a>
+ 
+
+<span id="GH_NewsletterSettings"> | 
+        	            		<a id="settingsLaunch" class="GH_hat_A" href="#">Newsletter Settings</a>
+                		</span>
+</div>
+
+	
+	 		<a href="http://www.moviefone.com" class="logo"></a>
+ 			<div class="menu">
+				
+				<a class="get-showtimes" href="http://www.moviefone.com/showtimes">
+				
+				    Get Showtimes
+				</a>
+
+				<div class="clear"></div>
+ 			</div>
+		
+
+
+
+
+<div class="head-fav">
+  <span class="fav-heart"></span>
+  <a href="http://www.moviefone.com/theaters/favorites" class="head-fav-theaters">Favorite Theaters</a>
+</div>
+			
+			 <div class="search">
+				<form id="frm-search" action="http://www.moviefone.com/search/">
+					<div class="mf-search">              
+						<input type="hidden" id="search-text-value" name="search-text-value">
+						<input type="text" id="search-text" maxlength="150" class="mf-search-text" name="search-text" title="Search Movies, Actors, Zip code" value="Search Movies, Actors, Zip code" autocomplete="off" onblur="this.value=(this.value=='') ? 'Search Movies, Actors, Zip code' : this.value;">
+						<input type="submit" value="" class="mf-search-btn">
+						<div class="clear"></div>
+						<div id="search-data-box"></div>
+					</div>
+				</form>
+			</div>
+
+
+<div class="auth-social">
+
+
+
+
+<div class="social">
+
+ <div class="header-facebook">
+<div class="header-facebook-inner">
+  <div class="fb-like" data-href="http://www.facebook.com/moviefone" data-send="false" data-layout="button_count" data-width="60" data-show-faces="false"></div>
+</div>
+ </div>
+
+
+<div class="header-twitter">
+<a href="https://twitter.com/moviefone" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @moviefone</a>
+</div>
+
+
+<div class="header-gplus">
+<div class="g-follow" data-annotation="none" data-height="20" data-href="https://plus.google.com/102026184108879548952" data-rel="publisher"></div>
+</div>
+
+
+
+
+</div>
+
+
+</div>
+
+
+		
+<div class="clear"></div>
+	</div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>								</div><!-- header -->
+	</div>
+                <div id="moviefone-subheader">
+<ul class="subhead"><li class="first"><a href="http://www.moviefone.com/new-movie-releases">In Theaters</a></li><li><a href="http://www.moviefone.com/coming-soon">Coming Soon</a></li><li><a href="http://www.moviefone.com/dvd">On DVD</a></li><li><a href="http://www.moviefone.com/movie-genre">Movie Genres</a></li><li><a href="http://news.moviefone.com/">News</a></li><li><a href="http://www.moviefone.com/movie-trailers">Trailers</a></li><li><a href="http://www.moviefone.com/reviews">Reviews</a></li><li><a href="http://www.moviefone.com/unscripted">Unscripted</a></li><li class="last"><a href="http://www.moviefone.com/holiday-movies">Holiday Movies</a></li></ul>
+</div>  	        		
+	<div id="content-wrapper">
+				           <div id="content-inner">
+               
+								
+				<div id="content" class="clear-fix">						
+															
+			        			        			        			
+
+               
+
+			<div id="main-column"  >
+				<div class="page-header">
+<h1>Movie News</h1>
+
+</div>				<div id="dl-carousel-new">
+  <div class="overlay"></div>
+  <div class="dl-info-bg"></div>
+  <div id="dl-container">
+  <div class="arrow-wrapper">
+    <div class="prev"></div>
+    <div class="next"></div>
+  </div>
+
+    <ul id="slide-list">
+
+<li id="slide-1" class="slide">
+
+<a href="http://news.moviefone.com/2013/11/29/james-franco-facts/"><img name="replace-image" class="dl-image" data-src="http://o.aolcdn.com/dims-global/dims/GLOB/5/620/350/100/http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/3000x1602+0+0/resize/660x350!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/adam/1c62463f765c3d1252d2400d0175e348/185452244.jpg" src="http://o.aolcdn.com/js/x.gif" /></a>
+<div class="dl-content">
+  <a class="dl-image-link" href="http://news.moviefone.com/2013/11/29/james-franco-facts/"></a>
+  <a class="dl-link" href="http://news.moviefone.com/2013/11/29/james-franco-facts/">
+
+He Turned 'Three's Company' Into a Drama
+</a>
+  <div class="dl-desc">
+
+This, and 19 more things you probably didn't know about James Franco
+<a href="http://news.moviefone.com/2013/11/29/james-franco-facts/">Read More</a></div>
+
+</div>
+
+</li>
+<li id="slide-2" class="slide">
+
+<a href="http://news.moviefone.com/2013/11/28/family-movie-mistakes/"><img name="replace-image" class="dl-image" data-src="http://o.aolcdn.com/dims-global/dims/GLOB/5/620/350/100/http://hss-prod.hss.aol.com/hss/storage/adam/c8940cb68e5cbacaf689cc32ddcd4cac/back to the future.JPG" src="http://o.aolcdn.com/js/x.gif" /></a>
+<div class="dl-content">
+  <a class="dl-image-link" href="http://news.moviefone.com/2013/11/28/family-movie-mistakes/"></a>
+  <a class="dl-link" href="http://news.moviefone.com/2013/11/28/family-movie-mistakes/">
+
+Family Movie Mistakes
+</a>
+  <div class="dl-desc">
+
+22 uh-oh moments from family-friendly flicks
+<a href="http://news.moviefone.com/2013/11/28/family-movie-mistakes/">Read More</a></div>
+
+</div>
+
+</li>
+<li id="slide-3" class="slide">
+
+<a href="http://news.moviefone.com/2013/11/28/remakes-asian-movies/"><img name="replace-image" class="dl-image" data-src="http://o.aolcdn.com/dims-global/dims/GLOB/5/620/350/100/http://hss-prod.hss.aol.com/hss/storage/adam/3e769d3ea82eee74022ae2569b070274/oldboy korean.JPG" src="http://o.aolcdn.com/js/x.gif" /></a>
+<div class="dl-content">
+  <a class="dl-image-link" href="http://news.moviefone.com/2013/11/28/remakes-asian-movies/"></a>
+  <a class="dl-link" href="http://news.moviefone.com/2013/11/28/remakes-asian-movies/">
+
+From East to West
+</a>
+  <div class="dl-desc">
+
+5 remakes you didn't know were based on asian movies
+<a href="http://news.moviefone.com/2013/11/28/remakes-asian-movies/">Read More</a></div>
+
+</div>
+
+</li>
+<li id="slide-4" class="slide">
+
+<a href="http://news.moviefone.com/2013/11/27/best-disney-soundtracks-of-the-past-25-years/"><img name="replace-image" class="dl-image" data-src="http://o.aolcdn.com/dims-global/dims/GLOB/5/620/350/100/http://hss-prod.hss.aol.com/hss/storage/adam/350ece48b517f622f33880740ca54b3c/Anna_Hans.jpg" src="http://o.aolcdn.com/js/x.gif" /></a>
+<div class="dl-content">
+  <a class="dl-image-link" href="http://news.moviefone.com/2013/11/27/best-disney-soundtracks-of-the-past-25-years/"></a>
+  <a class="dl-link" href="http://news.moviefone.com/2013/11/27/best-disney-soundtracks-of-the-past-25-years/">
+
+25 Years of Disney Tunes
+</a>
+  <div class="dl-desc">
+
+The best soundtracks, from "Frozen" to "The Little Mermaid"
+<a href="http://news.moviefone.com/2013/11/27/best-disney-soundtracks-of-the-past-25-years/">Read More</a></div>
+
+</div>
+
+</li>
+<li id="slide-5" class="slide">
+
+<a href="http://news.moviefone.com/2013/11/27/road-house-remake/"><img name="replace-image" class="dl-image" data-src="http://o.aolcdn.com/dims-global/dims/GLOB/5/620/350/100/http://hss-prod.hss.aol.com/hss/storage/adam/232bf36d3bc86ea97ca06a4bee3936ba/road house remake.jpg" src="http://o.aolcdn.com/js/x.gif" /></a>
+<div class="dl-content">
+  <a class="dl-image-link" href="http://news.moviefone.com/2013/11/27/road-house-remake/"></a>
+  <a class="dl-link" href="http://news.moviefone.com/2013/11/27/road-house-remake/">
+
+A 'Road House' Remake?
+</a>
+  <div class="dl-desc">
+
+The Patrick Swayze action flick is the latest to get a reboot
+<a href="http://news.moviefone.com/2013/11/27/road-house-remake/">Read More</a></div>
+
+</div>
+
+</li>
+
+</ul>
+
+</div>
+
+
+
+<div id="dl-thumbs">
+<span rel="1" name="dots" class="dots">
+  <a href="javascript:void(0);" class="thumb-link  active" id="thumb-link-1"></a>
+</span>
+<span rel="2" name="dots" class="dots">
+  <a href="javascript:void(0);" class="thumb-link " id="thumb-link-2"></a>
+</span>
+<span rel="3" name="dots" class="dots">
+  <a href="javascript:void(0);" class="thumb-link " id="thumb-link-3"></a>
+</span>
+<span rel="4" name="dots" class="dots">
+  <a href="javascript:void(0);" class="thumb-link " id="thumb-link-4"></a>
+</span>
+<span rel="5" name="dots" class="dots">
+  <a href="javascript:void(0);" class="thumb-link" id="thumb-link-5"></a>
+</span>
+
+	
+</div>  
+
+<div class="clear"></div>			
+</div>												<div class="border-clear"></div>
+
+<div class="pressed">
+<div id="movie-news">
+<div class="news-item-wrap"><div class="news-item">
+
+
+<div class="image">
+<a href="http://news.moviefone.com/2013/12/02/rita-ora-fifty-shades-of-grey/">
+ 
+
+  
+ 
+   <img class="lazy" src="http://o.aolcdn.com/js/x.gif" data-original="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/3859x2066+0+99/resize/660x350!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/adam/423788bd509465dc7d8b5e239be9f542/185159903.jpg" width="300px" height="170px" />
+
+ 
+
+
+
+</a>
+</div>
+
+
+
+<div class="info"><h4><a class="title" href="http://news.moviefone.com/2013/12/02/rita-ora-fifty-shades-of-grey/">'Fifty Shades of Grey': Rita Ora Lands Role</a></h4>
+<div class="byline"><a href="http://news.moviefone.com/bloggers/katie-roberts">by Katie Roberts</a></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="border-clear"></div><div class="news-item">
+
+
+<div class="image">
+<a href="http://news.moviefone.com/2013/12/02/tracks-trailer-mia-wasikowska/">
+ 
+
+  
+ 
+   <img class="lazy" src="http://o.aolcdn.com/js/x.gif" data-original="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1485x780+300+191/resize/660x350!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/adam/4a77a0b63cbdbcaa0e8cd40e7ebaebf8/180246651.jpg" width="300px" height="170px" />
+
+ 
+
+
+
+</a>
+</div>
+
+
+
+<div class="info"><h4><a class="title" href="http://news.moviefone.com/2013/12/02/tracks-trailer-mia-wasikowska/">'Tracks' Trailer: Mia Wasikowska Faces Snakes, Loneliness in Australian Outback (VIDEO)</a></h4>
+<div class="byline"><a href="http://news.moviefone.com/bloggers/katie-roberts">by Katie Roberts</a></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="border-clear"></div><div class="news-item">
+
+
+<div class="image">
+<a href="http://news.moviefone.com/2013/12/02/colin-trevorrow-jurassic-world-tease/">
+ 
+
+  
+ 
+   <img class="lazy" src="http://o.aolcdn.com/js/x.gif" data-original="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1936x1017+236+245/resize/660x350!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/adam/f3b609bd12a6a3ba7d051ea415778836/450154843.jpg" width="300px" height="170px" />
+
+ 
+
+
+
+</a>
+</div>
+
+
+
+<div class="info"><h4><a class="title" href="http://news.moviefone.com/2013/12/02/colin-trevorrow-jurassic-world-tease/">Colin Trevorrow: 'Jurassic World' Is More Than a Reboot</a></h4>
+<div class="byline"><a href="http://news.moviefone.com/bloggers/katie-roberts">by Katie Roberts</a></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="border-clear"></div><div class="news-item">
+
+
+<div class="image">
+<a href="http://news.moviefone.com/2013/12/02/bourne-5-release-date/">
+ 
+
+  
+ 
+   <img class="lazy" src="http://o.aolcdn.com/js/x.gif" data-original="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/3000x1606+0+4/resize/660x350!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/adam/d8c57197183341f739ac78e6d976641f/4a982d7108e742d192a42d0263c1b56e.jpeg" width="300px" height="170px" />
+
+ 
+
+
+
+</a>
+</div>
+
+
+
+<div class="info"><h4><a class="title" href="http://news.moviefone.com/2013/12/02/bourne-5-release-date/">'Bourne 5' Release Date Revealed, Director Confirmed</a></h4>
+<div class="byline"><a href="http://news.moviefone.com/bloggers/katie-roberts">by Katie Roberts</a></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="border-clear"></div><div class="news-item">
+
+
+<div class="image">
+<a href="http://news.moviefone.com/2013/12/02/paul-walker-car-crash-updates/">
+ 
+
+  
+ 
+   <img class="lazy" src="http://o.aolcdn.com/js/x.gif" data-original="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/4752x2545+0+129/resize/660x350!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/adam/edddb2e12256fe45cb66612b7fb9fa5d/113269794.jpg" width="300px" height="170px" />
+
+ 
+
+
+
+</a>
+</div>
+
+
+
+<div class="info"><h4><a class="title" href="http://news.moviefone.com/2013/12/02/paul-walker-car-crash-updates/">Paul Walker's Fatal Car Crash: Theories as to What Went Wrong</a></h4>
+<div class="byline"><a href="http://news.moviefone.com/bloggers/katie-roberts">by Katie Roberts</a></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="border-clear"></div><div class="news-item">
+
+
+<div class="image">
+<a href="http://news.moviefone.com/2013/12/02/paul-walker-humanitarian/">
+ 
+
+  
+ 
+   <img class="lazy" src="http://o.aolcdn.com/js/x.gif" data-original="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/3000x1605+0+52/resize/660x350!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/adam/6b3c7d15cd78a923bd5ab8a31256f879/168254225.jpeg" width="300px" height="170px" />
+
+ 
+
+
+
+</a>
+</div>
+
+
+
+<div class="info"><h4><a class="title" href="http://news.moviefone.com/2013/12/02/paul-walker-humanitarian/">Paul Walker Remembered as Humanitarian, Athlete, Father</a></h4>
+<div class="byline"><a href="http://news.moviefone.com/bloggers/katie-roberts">by Katie Roberts</a></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="border-clear"></div><div class="news-item">
+
+
+<div class="image">
+<a href="http://news.moviefone.com/2013/12/02/paul-walker-death-fast-and-furious-7/">
+ 
+
+  
+ 
+   <img class="lazy" src="http://o.aolcdn.com/js/x.gif" data-original="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1949x1033+550+100/resize/660x350!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/adam/34f06ce1b53dc2a165e867885736d6e9/be9b342d79c24d1a83677f065df54c7d.jpeg" width="300px" height="170px" />
+
+ 
+
+
+
+</a>
+</div>
+
+
+
+<div class="info"><h4><a class="title" href="http://news.moviefone.com/2013/12/02/paul-walker-death-fast-and-furious-7/">Paul Walker's Death: 'Fast &amp; Furious 7' Faces Delay, Co-Stars Say Goodbye</a></h4>
+<div class="byline"><a href="http://news.moviefone.com/bloggers/drew-taylor">by Drew Taylor</a></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="border-clear"></div><div class="news-item">
+
+
+<div class="image">
+<a href="http://news.moviefone.com/2013/12/02/fifty-shades-of-grey-filming/">
+ 
+
+  
+ 
+   <img class="lazy" src="http://o.aolcdn.com/js/x.gif" data-original="http://hss-prod.hss.aol.com/hss/storage/adam/11f15eb66f87e06ade07b4f03baf9eec/fifty-shades-filming-begins.jpg" width="300px" height="170px" />
+
+ 
+
+
+
+</a>
+</div>
+
+
+
+<div class="info"><h4><a class="title" href="http://news.moviefone.com/2013/12/02/fifty-shades-of-grey-filming/">'Fifty Shades of Grey' Filming Begins: Get Your Handcuffs Ready</a></h4>
+<div class="byline"><a href="http://news.moviefone.com/bloggers/drew-taylor">by Drew Taylor</a></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="border-clear"></div><div class="news-item">
+
+
+<div class="image">
+<a href="http://news.moviefone.com/2013/12/02/jennifer-lawrence-barbara-walters-fascinating-people-2013/">
+ 
+
+  
+ 
+   <img class="lazy" src="http://o.aolcdn.com/js/x.gif" data-original="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/3280x1731+0+310/resize/660x350!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/adam/1653b88e490d389d03c4a970f0f39ccb/450959049.jpg" width="300px" height="170px" />
+
+ 
+
+
+
+</a>
+</div>
+
+
+
+<div class="info"><h4><a class="title" href="http://news.moviefone.com/2013/12/02/jennifer-lawrence-barbara-walters-fascinating-people-2013/">Jennifer Lawrence Is One of Barbara Walters's 10 Most Fascinating People of 2013</a></h4>
+<div class="byline"><a href="http://news.moviefone.com/bloggers/laura-larson">by Laura Larson</a></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="border-clear"></div><div class="news-item">
+
+
+<div class="image">
+<a href="http://news.moviefone.com/2013/12/02/smaug-revealed-air-new-zealand-plane/">
+ 
+
+  
+ 
+   <img class="lazy" src="http://o.aolcdn.com/js/x.gif" data-original="http://hss-prod.hss.aol.com/hss/storage/adam/318e27b2120f078e2aca0dbc6d442df3/hobbit-smaug-revealed.jpg" width="300px" height="170px" />
+
+ 
+
+
+
+</a>
+</div>
+
+
+
+<div class="info"><h4><a class="title" href="http://news.moviefone.com/2013/12/02/smaug-revealed-air-new-zealand-plane/">'The Hobbit: The Desolation of Smaug': Smaug Revealed on Side of Air New Zealand Plane</a></h4>
+<div class="byline"><a href="http://news.moviefone.com/bloggers/drew-taylor">by Drew Taylor</a></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="border-clear"></div><div class="news-item">
+
+
+<div class="image">
+<a href="http://news.moviefone.com/2013/12/02/paul-walker-hours-trailer/">
+ 
+
+  
+ 
+   <img class="lazy" src="http://o.aolcdn.com/js/x.gif" data-original="http://hss-prod.hss.aol.com/hss/storage/adam/6b47078c73b46716c3be358e625a59f4/paul-walker-hours.jpg" width="300px" height="170px" />
+
+ 
+
+
+
+</a>
+</div>
+
+
+
+<div class="info"><h4><a class="title" href="http://news.moviefone.com/2013/12/02/paul-walker-hours-trailer/">Paul Walker Is a Desperate Dad in 'Hours' Trailer (VIDEO)</a></h4>
+<div class="byline"><a href="http://news.moviefone.com/bloggers/drew-taylor">by Drew Taylor</a></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="border-clear"></div><div class="news-item">
+
+
+<div class="image">
+<a href="http://news.moviefone.com/2013/12/02/ron-burgundy-curling-video-anchorman-2/">
+ 
+
+   <img class="lazy" src="http://o.aolcdn.com/js/x.gif" data-original="http://hss-prod.hss.aol.com/hss/storage/adam/eecacd53924df3fc7bb006616eeca542/RonBurgundy-660.jpg" width="300px" height="170px" />
+
+
+</a>
+</div>
+
+
+
+<div class="info"><h4><a class="title" href="http://news.moviefone.com/2013/12/02/ron-burgundy-curling-video-anchorman-2/">Ron Burgundy, Curling Sportscaster (VIDEO)</a></h4>
+<div class="byline"><a href="http://news.moviefone.com/bloggers/chris-jancelewicz">by Chris Jancelewicz</a></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="border-clear"></div><div class="news-item">
+
+
+<div class="image">
+<a href="http://news.moviefone.com/2013/12/02/oldboy-box-office/">
+ 
+
+  
+ 
+   <img class="lazy" src="http://o.aolcdn.com/js/x.gif" data-original="http://hss-prod.hss.aol.com/hss/storage/adam/39a7e4060a7c656385482fdc65f1e822/oldboy-spike-lee-box-office.jpg" width="300px" height="170px" />
+
+ 
+
+
+
+</a>
+</div>
+
+
+
+<div class="info"><h4><a class="title" href="http://news.moviefone.com/2013/12/02/oldboy-box-office/">Box Office: Did 'Oldboy' Even Have a Chance?</a></h4>
+<div class="byline"><a href="http://news.moviefone.com/bloggers/gary-susman">by Gary Susman</a></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="border-clear"></div><div class="news-item">
+
+
+<div class="image">
+<a href="http://news.moviefone.com/2013/12/01/paul-walker-death-car-accident/">
+ 
+
+  
+ 
+   <img class="lazy" src="http://o.aolcdn.com/js/x.gif" data-original="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/2387x1242+274+141/resize/660x350!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/adam/1d11bc3cb0113171d90a6a92ffb66bd7/164250993.jpg" width="300px" height="170px" />
+
+ 
+
+
+
+</a>
+</div>
+
+
+
+<div class="info"><h4><a class="title" href="http://news.moviefone.com/2013/12/01/paul-walker-death-car-accident/">Paul Walker's Death: Details on the Car Crash That Killed the 'Fast &amp; Furious' Star</a></h4>
+<div class="byline"><a href="http://news.moviefone.com/bloggers/laura-larson">by Laura Larson</a></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="border-clear"></div><div class="news-item">
+
+
+<div class="image">
+<a href="http://news.moviefone.com/2013/12/01/weekend-box-office-hunger-games/">
+ 
+
+  
+ 
+   <img class="lazy" src="http://o.aolcdn.com/js/x.gif" data-original="http://hss-prod.hss.aol.com/hss/storage/adam/5776f2107a6e8c5c53b35501dcde7126/hunger games catching fire.jpg" width="300px" height="170px" />
+
+ 
+
+
+
+</a>
+</div>
+
+
+
+<div class="info"><h4><a class="title" href="http://news.moviefone.com/2013/12/01/weekend-box-office-hunger-games/">Weekend Box Office: 'The Hunger Games: Catching Fire' Repeats at No.1, 'Frozen' Impressive in Debut at No.2</a></h4>
+<div class="byline"><a href="http://news.moviefone.com/bloggers/the-associated-press">by The Associated Press</a></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="border-clear"></div><div class="news-item">
+
+
+<div class="image">
+<a href="http://news.moviefone.com/2013/11/30/paul-walker-dead/">
+ 
+
+  
+ 
+   <img class="lazy" src="http://o.aolcdn.com/js/x.gif" data-original="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/3800x2051+0+120/resize/660x350!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/adam/e6ba9fca14ebbc0f85f37dcfc948099d/33ba89bdbfad4ac981c9cfca9345113a.jpeg" width="300px" height="170px" />
+
+ 
+
+
+
+</a>
+</div>
+
+
+
+<div class="info"><h4><a class="title" href="http://news.moviefone.com/2013/11/30/paul-walker-dead/">Paul Walker Dead: 'Fast &amp; Furious' Star Dies in Car Crash (BREAKING)</a></h4>
+<div class="byline"><a href="http://news.moviefone.com/bloggers/the-associated-press">by The Associated Press</a></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="border-clear"></div><div class="news-item">
+
+
+<div class="image">
+<a href="http://news.moviefone.com/2013/11/30/dreamworks-president-obama-motion-capture/">
+ 
+
+  
+ 
+   <img class="lazy" src="http://o.aolcdn.com/js/x.gif" data-original="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/3000x1610+0+205/resize/660x350!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/adam/271ffe368b3e9610985b48aa4b2d5a95/452150335.jpg" width="300px" height="170px" />
+
+ 
+
+
+
+</a>
+</div>
+
+
+
+<div class="info"><h4><a class="title" href="http://news.moviefone.com/2013/11/30/dreamworks-president-obama-motion-capture/">Dreamworks Teaches President Obama All About Motion Capture (VIDEO)</a></h4>
+<div class="byline"><a href="http://news.moviefone.com/bloggers/kelly-woo">by Kelly Woo</a></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="border-clear"></div><div class="news-item">
+
+
+<div class="image">
+<a href="http://news.moviefone.com/2013/11/29/dc-entertainment-aquaman/">
+ 
+
+  
+ 
+   <img class="lazy" src="http://o.aolcdn.com/js/x.gif" data-original="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1632x882+35+0/resize/660x350!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/adam/cd2d20c145853e837796ca835d1ef339/825307b2f8a344e68f8bc5c8c82c57e8.jpeg" width="300px" height="170px" />
+
+ 
+
+
+
+</a>
+</div>
+
+
+
+<div class="info"><h4><a class="title" href="http://news.moviefone.com/2013/11/29/dc-entertainment-aquaman/">DC Entertainment Really, Really Wants Aquaman to Be the Next Big Superhero</a></h4>
+<div class="byline"><a href="http://news.moviefone.com/bloggers/kelly-woo">by Kelly Woo</a></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="border-clear"></div><div class="news-item">
+
+
+<div class="image">
+<a href="http://news.moviefone.com/2013/11/28/homefront-review-james-franco-jason-statham/">
+ 
+
+  
+ 
+   <img class="lazy" src="http://o.aolcdn.com/js/x.gif" data-original="http://hss-prod.hss.aol.com/hss/storage/adam/9911217be02825aa5e5fd57a90bf132c/Homefront-660.jpg" width="300px" height="170px" />
+
+ 
+
+
+
+</a>
+</div>
+
+
+
+<div class="info"><h4><a class="title" href="http://news.moviefone.com/2013/11/28/homefront-review-james-franco-jason-statham/">'Homefront' Review: James Franco's a Better Match for Jason Statham Than You'd Think</a></h4>
+<div class="byline"><a href="http://news.moviefone.com/bloggers/rick-mele">by Rick Mele</a></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="border-clear"></div><div class="news-item last-item">
+
+
+<div class="image">
+<a href="http://news.moviefone.com/2013/11/28/josh-gad-frozen-snowman-olaf-interview/">
+ 
+
+  
+ 
+   <img class="lazy" src="http://o.aolcdn.com/js/x.gif" data-original="http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1598x858+142+0/resize/660x350!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/adam/8f2afab6b585277f2026615ac212ccf5/7ce6a908cf0a494291259f89385c773a.jpeg" width="300px" height="170px" />
+
+ 
+
+
+
+</a>
+</div>
+
+
+
+<div class="info"><h4><a class="title" href="http://news.moviefone.com/2013/11/28/josh-gad-frozen-snowman-olaf-interview/">Josh Gad, 'Frozen' Snowman Olaf, on Fulfilling His Disney Dreams (and Stealing the Movie)</a></h4>
+<div class="byline"><a href="http://news.moviefone.com/bloggers/rick-mele">by Rick Mele</a></div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div id="moremovie-news"></div>
+<div class="clear"></div>
+</div>
+</div>																																																																			</div><!-- main-column -->
+			
+			        <div id="side-column">
+								<div class="mf-ad300-container">
+    		    <div class="mf-ad300">
+		<script type="text/javascript">
+		<!--
+		adSetType('F');
+		htmlAdWH('93319302', 'RR', 'RR');
+		adSetType('');
+		//-->
+		</script>
+	</div>
+</div>				<div class="latest-news-side zergnet movie-module">
+
+<div class="movie-module-head red">
+  <div class="head-left"></div>
+  <h3 class="head-center">Around the Web</h3>
+  <div class="head-right"></div>
+</div>
+
+
+  <div class="latest-activity-side">
+  <div class="body">
+
+<div class="zergwidget" id="zergnet-widget-13974" style="text-align:center;">
+    <a href="http://www.zergnet.com/?w=13974" target="_blank"><b>ZergNet</b></a>
+</div>
+
+<script language="javascript" type="text/javascript">
+    (function() {
+        var zergnet = document.createElement('script');
+        zergnet.type = 'text/javascript'; zergnet.async = true;
+        zergnet.src = 'http://www.zergnet.com/zerg.js?id=13974';
+        var znscr = document.getElementsByTagName('script')[0];
+        znscr.parentNode.insertBefore(zergnet, znscr);
+    })();
+</script>
+
+ </div>
+</div>
+
+</div>								<div class="movie-module" id="hot-topics">
+<div class="movie-module-head red">
+  <div class="head-left"></div>
+  <h3 class="head-center">Popular Movie Categories</h3>
+  <div class="head-right"></div>
+</div>
+<div class="movie-module-body"><li><a href="http://www.moviefone.com/horror-movies">Horror Movies</a></li><li><a href="http://news.moviefone.com/category/coming-soon">Coming Soon</a></li><li><a href="http://news.moviefone.com/category/dvds">DVDs</a></li><li><a href="http://news.moviefone.com/category/free-movies-online/">Free Movies Online</a></li><li><a href="http://news.moviefone.com/category/new-releases">New Releases</a></li><li><a href="http://news.moviefone.com/category/reviews">Reviews</a></li><li><a href="http://news.moviefone.com/category/trailers">Trailers and Clips</a></li><li><a href="http://news.moviefone.com/tag/weekend-movie-preview">Weekend Movie Preview</a></li><li class="see-all"><a href="/category">Popular Categories &raquo;</a></li>
+<li class="see-all"><a href="/tag">Popular Tags &raquo;</a></li>
+</ul></div></div>												<div id="stay-connected" class="mf-stayconnected movie-module">
+	
+	<div class="movie-module-head red">	
+	  <div class="head-left"></div>
+	  <h3 class="head-center">Stay Connected with Moviefone</h3>
+	  <div class="head-right"></div>
+	</div>
+	
+	<div class="follow_bl">	
+		<div class="social-items">
+			<div class="social-items-row">
+                                <a target="blank" href="http://twitter.com/moviefone"><span class="social-item f_twitter"></span></a>
+				<a target="blank" href="http://www.facebook.com/moviefone"><span class="social-item f_facebook"></span></a>
+				<a target="blank" href="https://plus.google.com/102026184108879548952" rel="publisher"><span class="social-item f_gplus"></span></a>
+				<a target="blank" href="http://moviefone.tumblr.com/"><span class="social-item f_tumblr"></span></a>
+				<a target="blank" href="http://www.youtube.com/user/MoviefoneVideo"><span class="social-item f_youtube"></span></a>
+				<a target="blank" href="https://itunes.apple.com/us/app/movies-by-moviefone-for-ipad/id429911302?mt=8"><span class="social-item f_apple"></span></a>
+				<a target="blank" href="https://play.google.com/store/apps/details?id=com.aol.mobile.moviefone"><span class="social-item f_android"></span></a>
+                                <a href="http://news.moviefone.com/rss.xml" target="blank"><span class="social-item f_rss"></span></a>
+			</div>
+		</div>
+		<div id="mf-newsletter" class="aol-newsletter"> 
+                        <b class="arrow"></b>
+			<p class="message"></p>
+			<form action="http://www.moviefone.com/b-c/sailthru/signup.php" method="post" class="mf-news-form">
+			   <p class="message"></p>
+			   <input type="hidden" name="lists[main]" value="1" />
+			   <input type="text" placeholder="Subscribe to our Newsletter" value="Subscribe to our Newsletter" onblur="this.value=(this.value=='') ? 'Subscribe to our Newsletter' : this.value;" onclick="if(this.placeholder=='Subscribe to our Newsletter'){this.placeholder='';}" class="signup-email" />
+			   <input type="button" class="button" value="Sign Up">
+			   <div class="clear"></div>
+			</form>
+		 </div>
+<div class="clear"></div>
+		
+		
+
+
+
+<a class="download-btn" href='javascript:mc.s2c.background(null).id(10).key("ao1qY7AaoRF6Lm9q").title("Get Moviefone on your Smartphone").message("Moviefone on your phone").overlay("#CC0000").linkColor("#CC0000").border("5px solid #CC0000").linkUrl("http://aol.it/V3rxKZ").emailHint().department("S2CW: www.moviefone.com: Moviefone for Smartphones").sendColorDark("#660000").sendColorLight("#CC0000").disclaimer("Message and data rates may apply. By clicking Send, you represent that you are the account holder for the number you provided (or have the account holder`s permission to receive a text message) and agree that the AOL Terms and Privacy Policy apply. Send <b>HELP</b> to 73456 or click Help below for more info. To stop messages to your phone anytime, send <b>STOP</b> to 73456").helpUrl("http://aoltxt.com/FAQ").help("Terms").show();'>Download the Free App!</a>
+
+ <div class="border-clear"></div>
+
+<div class="facebook-like">
+<div id="facebook" class="facebook"></div>
+</div>
+	
+	         <div class="border-clear"></div>
+		<div class="seven-film">
+                        <div class="sevenfilm-info">
+			  Call <a class="call" href="http://www.moviefone.com/777-FILM">777-FILM</a>
+			  <span> | </span>
+			  <span>Text your zip to <a href="http://blog.moviefone.com/2011/02/11/wanna-see-a-movie-while-on-the-go/">7FILM</a></span>
+                        </div>
+		</div>	
+	</div>
+</div>
+
+<div class="clear"></div>												<div class="fb_module"><iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FMoviefone&amp;width=300&amp;height=258&amp;show_faces=true&amp;colorscheme=dark&amp;stream=false&amp;border_color=%23333333&amp;header=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:258px;" allowTransparency="true"></iframe></div>				<div class="sponsored-links">
+<script type="text/javascript">adsonar_placementId=1551285;adsonar_pid=1013769;adsonar_ps=0;adsonar_zw=300;adsonar_zh=250;adsonar_jv='ads.tw.adsonar.com';</script>
+<script language="JavaScript" src="http://js.adsonar.com/js/adsonar.js"></script>
+</div>				<div id="home-featured"><div id="p20736414"><div class="news-item">
+
+<div class="info">
+
+<h4><a class="title" href="http://news.moviefone.com/2013/10/03/american-hustle-posters/"><span id="pt20736414">'American Hustle' Poster Debut: The '70s Never Looked So Good (PHOTOS)</span></a></h4>
+
+
+
+
+<div class="image">
+<a href="http://news.moviefone.com/2013/10/03/american-hustle-posters/">
+  <img name="replace-image" src="http://o.aolcdn.com/js/x.gif" data-src="http://o.aolcdn.com/dims-global/dims/GLOB/5/300/219/90/http://hss-prod.hss.aol.com/hss/storage/adam/f0b50cac5817af99a26a553aef5c1f6a/american hustle poster debut.jpg" width="300px" />
+</a>
+</div>
+
+
+
+
+
+<div class="clear"></div>
+<div class="byline"><a href="http://news.moviefone.com/2013/10/03/american-hustle-posters/#comments">Comments</a></div>
+
+</div>
+
+<div class="clear"></div>
+
+</div>
+<div class="border-clear"></div></div><div id="p20736094"><div class="news-item">
+
+<div class="info">
+
+<h4><a class="title" href="http://news.moviefone.com/2013/10/02/meg-ryan/"><span id="pt20736094">Whatever Happened to Meg Ryan?</span></a></h4>
+
+
+
+
+<div class="image">
+<a href="http://news.moviefone.com/2013/10/02/meg-ryan/">
+  <img name="replace-image" src="http://o.aolcdn.com/js/x.gif" data-src="http://o.aolcdn.com/dims-global/dims/GLOB/5/300/219/90/http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/2000x1043+0+117/resize/660x350!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/adam/5be09f7a5e35a5d5713dac47b5e48c8b/99c2c22dbe98499bae480b6e4062e5ae.jpeg" width="300px" />
+</a>
+</div>
+
+
+
+
+
+<div class="clear"></div>
+<div class="byline"><a href="http://news.moviefone.com/2013/10/02/meg-ryan/#comments">Comments</a></div>
+
+</div>
+
+<div class="clear"></div>
+
+</div>
+<div class="border-clear"></div></div><div id="p20735979"><div class="news-item">
+
+<div class="info">
+
+<h4><a class="title" href="http://news.moviefone.com/2013/10/02/mia-farrow-admits-frank-sinatra-could-be-the-father-of-her-son/"><span id="pt20735979">Mia Farrow Admits Frank Sinatra Could Be the Father of Her Son, Ronan</span></a></h4>
+
+
+
+
+<div class="image">
+<a href="http://news.moviefone.com/2013/10/02/mia-farrow-admits-frank-sinatra-could-be-the-father-of-her-son/">
+  <img name="replace-image" src="http://o.aolcdn.com/js/x.gif" data-src="http://o.aolcdn.com/dims-global/dims/GLOB/5/300/219/90/http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/2058x1074+0+121/resize/660x350!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/adam/2c92c803577d9ecec97f53638b530f1f/e9967d0f40a94bb39a66f5eb17609ae9.jpeg" width="300px" />
+</a>
+</div>
+
+
+
+
+
+<div class="clear"></div>
+<div class="byline"><a href="http://news.moviefone.com/2013/10/02/mia-farrow-admits-frank-sinatra-could-be-the-father-of-her-son/#comments">Comments</a></div>
+
+</div>
+
+<div class="clear"></div>
+
+</div>
+<div class="border-clear"></div></div><div id="p20716629"><div class="news-item">
+
+<div class="info">
+
+<h4><a class="title" href="http://news.moviefone.com/2013/09/10/james-wan-insidious-chapter-2-interview/"><span id="pt20716629">James Wan, 'Insidious: Chapter 2' Director: 'I Am Finished With the Horror Genre'</span></a></h4>
+
+
+
+
+<div class="image">
+<a href="http://news.moviefone.com/2013/09/10/james-wan-insidious-chapter-2-interview/">
+  <img name="replace-image" src="http://o.aolcdn.com/js/x.gif" data-src="http://o.aolcdn.com/dims-global/dims/GLOB/5/300/219/90/http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/3890x2087+0+367/resize/660x350!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/adam/1efb22586d62a0dd51d34bf99e7310d7/ba1e9e57b8e345dd8591f484adb9addd.jpeg" width="300px" />
+</a>
+</div>
+
+
+
+
+
+<div class="clear"></div>
+<div class="byline"><a href="http://news.moviefone.com/2013/09/10/james-wan-insidious-chapter-2-interview/#comments">Comments</a></div>
+
+</div>
+
+<div class="clear"></div>
+
+</div>
+<div class="border-clear"></div></div><div id="p20637034"><div class="news-item">
+
+<div class="info">
+
+<h4><a class="title" href="http://news.moviefone.com/2013/06/26/roland-emmerich-movies-that-shaped-childhood/"><span id="pt20637034">Roland Emmerich Reveals the Movies That Shaped His Childhood (VIDEO)</span></a></h4>
+
+
+
+
+<div class="image">
+<a href="http://news.moviefone.com/2013/06/26/roland-emmerich-movies-that-shaped-childhood/">
+  <img name="replace-image" src="http://o.aolcdn.com/js/x.gif" data-src="http://o.aolcdn.com/dims-global/dims/GLOB/5/300/219/90/http://pthumbnails.5min.com/10356620/517830974_3_660_401.jpg" width="300px" />
+</a>
+</div>
+
+
+
+
+
+<div class="clear"></div>
+<div class="byline"><a href="http://news.moviefone.com/2013/06/26/roland-emmerich-movies-that-shaped-childhood/#comments">Comments</a></div>
+
+</div>
+
+<div class="clear"></div>
+
+</div>
+<div class="border-clear"></div></div><div id="p20633267"><div class="news-item">
+
+<div class="info">
+
+<h4><a class="title" href="http://news.moviefone.com/2013/06/25/roland-emmerich-movies-i-wish-id-made-video/"><span id="pt20633267">Roland Emmerich Wishes He'd Made 'Cinema Paradiso' (VIDEO)</span></a></h4>
+
+
+
+
+<div class="image">
+<a href="http://news.moviefone.com/2013/06/25/roland-emmerich-movies-i-wish-id-made-video/">
+  <img name="replace-image" src="http://o.aolcdn.com/js/x.gif" data-src="http://o.aolcdn.com/dims-global/dims/GLOB/5/300/219/90/http://pthumbnails.5min.com/10356620/517830975_3_660_401.jpg" width="300px" />
+</a>
+</div>
+
+
+
+
+
+<div class="clear"></div>
+<div class="byline"><a href="http://news.moviefone.com/2013/06/25/roland-emmerich-movies-i-wish-id-made-video/#comments">Comments</a></div>
+
+</div>
+
+<div class="clear"></div>
+
+</div>
+<div class="border-clear"></div></div><div id="p20633161"><div class="news-item">
+
+<div class="info">
+
+<h4><a class="title" href="http://news.moviefone.com/2013/06/24/roland-emmerich-why-i-love-movies-video/"><span id="pt20633161">Roland Emmerich: Why I Love Movies (VIDEO)</span></a></h4>
+
+
+
+
+<div class="image">
+<a href="http://news.moviefone.com/2013/06/24/roland-emmerich-why-i-love-movies-video/">
+  <img name="replace-image" src="http://o.aolcdn.com/js/x.gif" data-src="http://o.aolcdn.com/dims-global/dims/GLOB/5/300/219/90/http://pthumbnails.5min.com/10356620/517830971_c_660_401.jpg" width="300px" />
+</a>
+</div>
+
+
+
+
+
+<div class="clear"></div>
+<div class="byline"><a href="http://news.moviefone.com/2013/06/24/roland-emmerich-why-i-love-movies-video/#comments">Comments</a></div>
+
+</div>
+
+<div class="clear"></div>
+
+</div>
+</div></div>								<div class="footer-inner">
+ <div class="border-clear"></div>
+ <a class="footer-logo" href="http://www.moviefone.com">Moviefone</a>
+ <a class="footer-link mf-feedback" href="http://feedback.aol.com/rs/rs.php?sid=moviefone" target="_blank">Send us Feedback</a> 
+ <span class="seperator">|</span>
+  <a class="footer-link" href="http://www.moviefone.com/static-sitemap">Sitemap</a> 
+ <span class="seperator">|</span>
+ <a class="footer-link" href="http://legal.aol.com/TOS" target="_blank">Terms of Service</a> 
+ <span class="seperator">|</span>
+ <a class="footer-link" href="http://privacy.aol.com/" target="_blank">Privacy Policy</a>
+ <span class="seperator">|</span>
+ <div class="footer-link">Aol.com &copy; 2013 Aol Inc.</div>
+ <span class="seperator">|</span>
+ <div class="footer-link">All Rights Reserved</div>
+ 
+</div>
+
+<div class="sticky-feedback">
+<a title="Feedback" href="http://feedback.aol.com/rs/rs.php?sid=movies" class="mf-feedback">Feedback</a>
+</div>																																															</div><!-- side-column -->
+                      
+                        <!-- bottom -->
+                        <div id="bottom">
+		                																																								                        </div><!-- end of bottom -->
+
+		</div><!-- content -->
+             </div><!-- content-inner -->
+	</div><!-- content-wrapper -->
+	<div id="footer">
+																							</div><!-- footer -->
+	
+</div>
+
+<script type="text/javascript">
+
+window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '133082040051963',   
+      status     : true,              
+      xfbml      : true,
+      cookie    : true
+    });
+
+   
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/all.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+	
+
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+
+com = {}
+com.aol = {}
+com.aol.jsloader = {}
+com.aol.pushloader = {}
+
+
+com.aol.pushloader = function() {
+
+ for ( var i=0, m = MF.fn, l = MF.fn.length; i < l; i++ ) {
+		m[i]();
+          };
+
+};
+
+
+
+
+com.aol.jsloader.doJSObjectsNow = function() {
+
+
+
+		//newsletter
+		if ($("#mf-newsletter").length) {
+		  $("#mf-newsletter").aolNewsletter({
+					site: "Moviefone",
+						list: "main",
+						verify: false
+		  });
+		}
+
+		//INIT NAVIGATION
+		if ($("ul.mf-nav-list").length) {
+		  mfJsObj.navigation.init();
+		}
+
+		//SEND US FEEDBACK
+		if ($(".mf-feedback").length) {
+		  $(".mf-feedback").click(function(e) {e.preventDefault();fBo2('moviefone_beta');});
+		}
+
+		//SMART SEARCH
+		if ($("#frm-search").length) {
+						   $("#frm-search").submit(function(e) {
+						return mfJsObj.smartSearch.submitForm();
+					});
+
+						   mfJsObj.smartSearch.ajaxUrl = "http://www.moviefone.com/smart-search";
+						   mfJsObj.smartSearch.searchUrl = "http://www.moviefone.com/search/";
+						   mfJsObj.smartSearch.timerInterval = 800;
+						   mfJsObj.smartSearch.initSearch();
+		}
+
+		if ($("#search-text").length) {
+				$("#search-text").focus(function() {
+						$(this.value = '')
+					});
+		}
+
+
+
+
+		//INIT search page paginations
+		if ($("#paginate-bucket").length) {
+		   mfJsObj.paginateSearch.init();
+		}
+
+		//faq page toggle
+					  if($("#faq-main").length) {
+						$("[name='question']").each(function(index) {
+						$(this).click(function(e) {
+								e.preventDefault();
+								$(this).toggleClass('down');
+							$("#answer"+(index+1)).toggle();
+						});
+					});
+		}
+
+     // Sailthru Newsletter START here
+	
+	SN.blogFullURL = "http://news.moviefone.com";
+	SN.hid = jQuery.cookie("sailthru_hid") == null ? "" : jQuery.cookie("sailthru_hid");
+	SN.sid = "";
+	SN.cl = true;
+	SN.follow_type = "Home Page";
+	SN._init();
+	
+    // Sailthru Newsletter END
+
+
+		if(($("#mapShowtimesTheater").length) || ($("#mapQuestMap").length)) {
+			  Aol.getJS('http://www.mapquestapi.com/sdk/js/v7.0.s/mqa.toolkit.js?key=Amjtd%7Clu6tnu6b2h%2C25%3Do5-lw7su',com.aol.pushloader);
+			 } else {   
+			  com.aol.pushloader();
+		}	 
+   
+};
+
+</script>
+
+<div id="fb-root"></div>
+
+<script language="javascript" type="text/javascript">
+(function(g){var d=g.getElementsByTagName("head")[0]||g.documentElement,c={},e={},f={},b={},h={};function a(j,r){var o=b[j]=this._c,q=g.createElement("script"),n=0,p,m=p="text/javascript",k="c",i=(function(s){s[s]=s+"";return s[s]!=s+""})(new String("__count__"));function l(s,t){function u(w){do{if(!c[w]){return 0}}while(w=b[w]);return 1}var v=f[s];if(t===m){v&&v();l(h[s],k)}else{s&&u(s)&&!e[s]&&a(s,v)}}f[j]=r;if(o&&!i){h[o]=j;p=k}q.type=p;q.src=j;p===m&&(e[j]=1);q.onload=q.onreadystatechange=function(){if(!n&&(!q.readyState||q.readyState==="loaded"||q.readyState==="complete")){c[j]=n=1;l(j,p);q.onload=q.onreadystatechange=null;d.removeChild(q)}};d.insertBefore(q,d.firstChild);return{_c:j,getJS:a}}window.Aol||(Aol={});Aol.getJS=a})(document);
+</script>
+
+
+<script language="javascript" type="text/javascript" src="http://o.aolcdn.com/os/aol/jquery-1.7.2.min.js"></script>
+<script language="javascript" type="text/javascript" src="http://o.aolcdn.com/os/movies/mf-assets/jquery.lazyload.min"></script>
+
+
+
+
+<script language="javascript" type="text/javascript">
+					
+$(document).ready(function() {
+	Aol.getJS('http://o.aolcdn.com/os_merge/?file=/movies/ch_movies/mf-superfish-nav.js&file=/movies/ch_movies/jquery.hoverIntent.minified.js&file=/movies/css-js/mf-dark.js&file=/movies/css-js/mf-dark-showtimes.js&file=/movies/ch_movies/jquery.tools.min.js&file=/movies/mf-assets/jquery-ui-1.8.23.custom.min&file=/movies/ch_movies/feedback.js&file=/movies/ch_movies/jquery.sonar.min.js&file=/movies/ch_movies/jquery.getjs.min.js&file=/aol/jquery.facebooksocial.min.js&file=/movies/ch_movies/swfobject_v2.2.js&file=/aol/jquery.truncate-1.0.min.js&file=/aol/jquery.inlinecss.min.js&file=/aol/jquery.openwindow-1.0.min.js&file=/aol/jquery.multiauth-2.0.min.js&file=/aol/34-jquery.aolcomments.min.js&file=/aol/jquery.shorturl.min.js&file=/movies/css-js/jquery.aolshare.min&file=/movies/js-movies/mf-mc-s2c-min.js&file=/aol/jquery.placeholder.min.js&file=/aol/jquery.aolnewsletter.min.js&file=&file=/corp/js/jquery.cookie.min.js&file=/movies/js-qa/jquery.bxSlider.min.js&expsec=31536000&ver=802',com.aol.jsloader.doJSObjectsNow);
+});
+			
+</script>
+
+<script type="text/javascript" src="http://www.blogsmithmedia.com/news.moviefone.com/include/sailthru-newsletter.js?07"></script>
+
+<script>
+MF.fn.push(function(){
+//if(mfJsObj.showtimes.cookie.get('locationCookie')==""){ mfJsObj.selectTheater.autoLocate(); }
+mfJsObj.headerScroll.init();
+mfJsObj.replaceImage.init();
+if($('.theater-type-wrap').length>0) { mfJsObj.showtimeSelect.init(); }
+	
+$("#facebook").html('<iframe src="http://www.facebook.com/plugins/like.php?app_id=133082040051963&href=http://www.facebook.com/moviefone&send=false&layout=standard&width=260&show_faces=false&action=like&colorscheme=dark&font=arial&height=30" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:260px; height:30px; background: transparent none;" allowTransparency="true"></iframe>');
+
+var checkFav=0;
+
+(function($){
+
+$("[name='mfSignIn']").multiAuth({
+	devId: 'ao19852k0fksIu',
+	getTokenCallback: function(json){
+
+		var $elem = $(this.authLink),
+		response = json.response,
+		userAttr;
+			if (response.statusCode === 200) {
+				userAttr = response.data.userData.attributes;
+				mfJsObj.showtimes.cookie.set('mftk',response.data.token.a,365);
+				$('#mfUserName').html(userAttr.displayName);
+				$elem.html('Sign out');    
+
+                                if($("#userreview-page-noauth").length>0){
+				  $("#userreview-page-noauth").html('<div class="userreview-info"><div class="userreview-date">December 03, 2013</div><div class="userreview-name">'+userAttr.displayName+'</div><div class="userreview-rating"><div class="movie-rate rating-box"><span class="rating-text"></span><span class="vote-stars rating-star rating-star-empty" name=""></span><span class="vote-stars rating-star rating-star-empty" name=""></span><span class="vote-stars rating-star rating-star-empty" name=""></span><span class="vote-stars rating-star rating-star-empty" name=""></span><span class="vote-stars rating-star rating-star-empty" name=""></span></div><div class="clear"></div></div></div><div class="userreview-review"><span id="moviefone-review" class="write-review"><textarea onblur=""id="movie-user-reviewtextarea" rows="5" length="300" wrap="soft" maxlength="300">Enter review here (300 Character Limit)</textarea></span><div id="write-review-facebook" class="write-review-facebook"></div><div id="write-review-submit" class="write-review-submit">Submit Review</div></div>');
+                                  mfJsObj.addReview.currentReview= "";
+                                  mfJsObj.addReview.movieId="";
+                                  mfJsObj.addReview.movieUrl="http://www.moviefone.com/movie///main";
+                                  mfJsObj.addRating.currentRating= "";
+                                  mfJsObj.addRating.movieId="";
+                                  mfJsObj.addRating.movieUrl="http://www.moviefone.com/movie///main";
+                                  mfJsObj.addRating.authState=1;
+                                  FB.init({ appId  : '133082040051963', cookie : true, xfbml  : true });
+                                  mfJsObj.addReview.init();
+                                  mfJsObj.addRating.init();
+                                  
+                                   $("#mfSignInReview").hide();
+                                }
+
+                                $(".write-a-review").text('Write a Review');
+				$("[name='favTheaters']").each(function(){ $(".theater-fav").fadeIn(); });
+
+				
+				
+				
+               		$("[name='mfSignIn']").each(function(){
+												  var e = this;
+												  var theaterId = $(e).attr("rel");
+												  if($(e).hasClass("add-fav-auth")==true){
+													$("#theaterItem"+theaterId).html('<span class="fav-add-link'+theaterId+'" rel="'+theaterId+'" name="favTheaters"><a id="fav'+theaterId+'" href="javascript:addRemoveFavoriteTheater(\'http://www.moviefone.com/addFavoriteTheaters?theaterId='+theaterId+'\', \'http://www.moviefone.com/deleteFavoriteTheaters?theaterId='+theaterId+'\', document.getElementById(\'fav'+theaterId+'\'), document.getElementById(\'favflyout'+theaterId+'\'), \'\',\''+theaterId+'\');" class="favorite-add">Add to Favorites</a></span>'); 
+												  }
+					});
+				
+				
+                                
+                                if(checkFav==0){
+                                  checkFav = 1; 
+                                if($('#mfSignInTheater').length>0){
+                                     $.ajax({ url: 'http://www.moviefone.com?a=get-fav-theaters&stamp=1386061200&selectedShowDate=20131203', 
+				     success: function(response, status, xhr){
+						$("#main-column").html(response); 
+                                                $("#main-column").fadeIn();
+                                                $(".favoritetheaters .date-loc").show(); 
+                                                $(".favoritetheaters .showtime-tools").show(); 
+                                                mfJsObj.showtimeSelect.init(); 
+                                                mfJsObj.modulePopup.init();  
+                                                mfJsObj.watchIt.pageurl="http://www.moviefone.com/theaters/favorites";
+                                                mfJsObj.watchIt.type = "favtheaters";
+                                                mfJsObj.watchIt.init();
+						 
+												 
+                                                	  
+				      },
+				      error: function(response, status, xhr){
+				    	  $("#mfUserNameTheater").html("There was an error. Please try again.");
+				      }
+				  });
+
+                                 }
+                                }
+
+
+				if($('#movie-maininfo .movie-rate').length>0){
+                                        $("#movie-maininfo .vote-stars").attr("name","").text("").removeClass("sign-in");
+                                        mfJsObj.addRating.init();
+					$("#movie-maininfo .vote-stars").click(function(){	
+						if(mfJsObj.addRating.rated=="no"){
+							  mfJsObj.addRating.authState= 1;
+							  $.ajax({ url: "/userReview/addRating?id="+mfJsObj.addRating.movieId ,type: "POST", data: ({rating: mfJsObj.addRating.rating}), success: function(){
+								  //rating is submitted	  
+								  mfJsObj.addRating.init();
+								  mfJsObj.addRating.currentRating = mfJsObj.addRating.rating*20;
+								  mfJsObj.addRating.starLit();
+								  FB.api('/me/aolmoviefone:rate', 'post', { movie : mfJsObj.addRating.movieUrl });
+                                                                  $("#movie-ratings .rating-text").text("You Rated");
+							  }});
+							  mfJsObj.addRating.rated="yes";
+						}
+					});
+
+				   $('#movie-maininfo .write-review-signin').hide();
+				   $('#movie-maininfo .write-review').show();
+				   $('#movie-maininfo .write-review').attr("name","modulePopup");
+				   $('#movie-maininfo .write-review').attr("id","moviefone-review");	
+				   $('#movie-maininfo .write-review').html('<div class="movie-popup-content" id="moviefone-review-popcontent" style="top: 200px; left: 796.5px; display: none;"><div class="movie-popup-inner"><div class="write-review-header">Write A Review</div><div class="border-clear"></div><div id="write-review-content"><textarea maxlength="300" wrap="soft" length="300" rows="5" id="movie-user-reviewtextarea" class="write-review-textarea">Enter review here (300 Character Limit)</textarea><div class="write-review-bottom"><div class="write-review-facebook" id="write-review-facebook" style="display: block;"><input type="checkbox" checked="checked" value="yes" name="reviewfbshare" class="write-review-facebookbox" id="write-review-facebookbox">Share your review on Facebook</div><div class="write-review-submit" id="write-review-submit">Submit Review</div></div></div></div><div class="movie-popup-foot"><div class="write-review-other"></div></div><div class="movie-popup-arrow"></div></div>Write a review');
+				   mfJsObj.addReview.init();
+				   mfJsObj.modulePopup.init();
+			   }
+			   
+			} else {
+
+				$elem.html('Sign In');
+
+                                if($("#userreview-page-noauth").length>0){
+				  $("#userreview-page-noauth").html('');
+                                   $("#mfSignInReview").show();
+                                }
+
+                $(".add-fav-auth").text('Add to Favorites');
+                $(".write-review-signin span").text('Write a Review');
+				$("[name='favTheaters']").each(function(){
+	         		var e = this;
+	        		var theaterId = $(e).attr("rel");
+					$(".theater-fav").fadeOut(); 
+				});
+				if($('#movie-maininfo .movie-rate').length>0){
+				    mfJsObj.addRating.authState= 0;   
+				    $('#movie-maininfo .write-review').attr("name","no-name");
+				    $('#movie-maininfo .write-review').attr("id","no-review");	
+				    $('#movie-maininfo .write-review .signinlink').html('');
+				    $('#movie-maininfo .write-review-signin').show();
+				    $('#movie-maininfo .write-review').hide();
+		   			mfJsObj.addReview.init();	
+				}
+				
+				$('#mfUserName').html('');
+				mfJsObj.showtimes.cookie.set('mftk','',365);
+	
+		   }
+		}
+	});
+
+})(jQuery);
+	
+
+
+
+
+
+
+
+
+	
+});
+
+
+
+</script>
+
+<script type="text/javascript">
+// Sailthru Newsletter START
+MF.fn.push(function(){
+    SN.blogFullURL = "http://news.moviefone.com";
+    SN.hid = jQuery.cookie("sailthru_hid") == null ? "" : jQuery.cookie("sailthru_hid");
+    SN.sid = "";
+    SN.cl = true;
+    SN._init(); 
+});
+    // Sailthru Newsletter END  
+</script><script type="text/javascript">
+MF.fn.push(function(){
+
+
+
+
+//homepage dynamic lead begins
+
+	mfJsObj.dynamicLead = {'slideNo':2,'currentSlide':1, 't':"",'speed':7000, 'slideWidth':640, 'totalSlides':5, 'adframe':"", 'adCheck':0, 'isVideoOn':"no" };
+
+	mfJsObj.dynamicLead.init = function(){
+
+
+
+		mfJsObj.dynamicLead.currentSlide = mfJsObj.dynamicLead.slideNo-1;
+		mfJsObj.dynamicLead.totalSlides = $("#slide-list").children().length;
+
+        $(window).scroll(function () {
+	     mfJsObj.headerScroll.offset = $(window).scrollTop();
+
+         if ($("#slide-"+mfJsObj.dynamicLead.currentSlide).attr("rel")=="video" && mfJsObj.dynamicLead.isVideoOn == "yes"){
+          if(mfJsObj.headerScroll.offset>100){
+			if($("body").hasClass("wallpaper")!=true) {$("#moviefone-header").fadeIn();}
+		  }else{
+			if($("body").hasClass("wallpaper")!=true) {$("#moviefone-header").fadeOut();}
+		  }
+         }
+
+	});
+
+	$("#slide-list .play-btn").click(function() {
+		mfJsObj.dynamicLead.loadVideo();
+		clearInterval(mfJsObj.dynamicLead.t);
+	});
+
+	mfJsObj.dynamicLead.slideWidth = $("#dl-carousel-new .dl-image").width();
+	mfJsObj.dynamicLead.totalSlides = $("#dl-carousel-new .slide").length;
+
+        var imageLazyUrl = $("#slide-2 .dl-image").attr("data-src");
+	$("#slide-2 .dl-image").attr('src',imageLazyUrl);
+        var imageLazyUrl = $("#slide-3 .dl-image").attr("data-src");
+	$("#slide-3 .dl-image").attr('src',imageLazyUrl);
+        var imageLazyUrl = $("#slide-4 .dl-image").attr("data-src");
+	$("#slide-4 .dl-image").attr('src',imageLazyUrl);
+        var imageLazyUrl = $("#slide-5 .dl-image").attr("data-src");
+	$("#slide-5 .dl-image").attr('src',imageLazyUrl);
+        var imageLazyUrl = $("#slide-6 .dl-image").attr("data-src");
+	$("#slide-6 .dl-image").attr('src',imageLazyUrl);
+	mfJsObj.dynamicLead.t = setInterval(mfJsObj.dynamicLead.slider , mfJsObj.dynamicLead.speed);
+
+	$("#dl-carousel-new").mouseenter(function() {
+		$("#dl-carousel-new .next").css("background","transparent none");
+		clearInterval(mfJsObj.dynamicLead.t);
+	});
+
+	$("#dl-carousel-new").mouseleave(function() {
+		clearInterval(mfJsObj.dynamicLead.t);
+		mfJsObj.dynamicLead.t = setInterval(mfJsObj.dynamicLead.slider , mfJsObj.dynamicLead.speed);
+	});
+
+	$("#slide-list").mouseenter(function() {
+		clearInterval(mfJsObj.dynamicLead.t);
+	});
+
+
+	$("#dl-carousel-new .next").unbind("click").click(function() {
+		if(mfJsObj.dynamicLead.slideNo==mfJsObj.dynamicLead.totalSlides){
+			mfJsObj.dynamicLead.slideNo=1;
+			mfJsObj.dynamicLead.currentSlide=mfJsObj.dynamicLead.slideNo;
+		}else{
+
+                        if(mfJsObj.dynamicLead.currentSlide!=mfJsObj.dynamicLead.slideNo) {
+                              mfJsObj.dynamicLead.slideNo = mfJsObj.dynamicLead.slideNo;
+                        }else{
+ 			      mfJsObj.dynamicLead.slideNo++;
+                        }
+			mfJsObj.dynamicLead.currentSlide =mfJsObj.dynamicLead.slideNo;
+		}
+		mfJsObj.dynamicLead.getSlide();
+	});
+
+	$("#dl-carousel-new .prev").unbind("click").click(function() {
+		if(mfJsObj.dynamicLead.slideNo==1){
+			mfJsObj.dynamicLead.slideNo=mfJsObj.dynamicLead.totalSlides;
+			mfJsObj.dynamicLead.currentSlide=mfJsObj.dynamicLead.slideNo;
+		}else{
+
+                        if(mfJsObj.dynamicLead.currentSlide!=mfJsObj.dynamicLead.slideNo) {
+                             if(mfJsObj.dynamicLead.currentSlide==1){
+                                 mfJsObj.dynamicLead.slideNo = mfJsObj.dynamicLead.totalSlides;
+                             }else{
+                                 mfJsObj.dynamicLead.slideNo = mfJsObj.dynamicLead.slideNo-2;
+                             }
+
+                        }else{
+ 			      mfJsObj.dynamicLead.slideNo--;
+                        }
+
+			mfJsObj.dynamicLead.currentSlide= mfJsObj.dynamicLead.slideNo;
+		}
+
+
+
+		mfJsObj.dynamicLead.getSlide();
+	});
+
+	$("[name='dots']").each(function(){
+		  var e = this;
+		  $(e).click(function() {
+			mfJsObj.dynamicLead.slideNo = parseInt($(e).attr("rel"));
+			mfJsObj.dynamicLead.currentSlide = parseInt($(e).attr("rel"));
+			mfJsObj.dynamicLead.getSlide();
+			clearInterval(mfJsObj.dynamicLead.t);
+		  });
+	});
+
+
+	if($("#slide-list .slide").attr("rel")=="video"){
+		$(".dl-info-bg").css("opacity","0.9");
+	}
+
+
+}
+mfJsObj.dynamicLead.slider = function () {
+
+	if(mfJsObj.dynamicLead.currentSlide==mfJsObj.dynamicLead.slideNo){mfJsObj.dynamicLead.slideNo=mfJsObj.dynamicLead.slideNo+1;}
+
+	$("#slide-list .slide").each(function(){
+	    var e = this;
+		$(e).hide();
+	});
+
+	if(mfJsObj.dynamicLead.slideNo >1 ){
+			var imageLazyUrl = $("#slide-"+mfJsObj.dynamicLead.slideNo+" .dl-image").attr("data-src");
+			$("#slide-"+mfJsObj.dynamicLead.slideNo+" .dl-image").attr('src',imageLazyUrl);
+	}
+
+    if($("#slide-"+mfJsObj.dynamicLead.slideNo).attr("rel")=="video"){
+		$(".dl-info-bg").css("opacity","0.9");
+
+	}else{
+		$("#dl-carousel-new .overlay").show();
+		$(".dl-info-bg").css("opacity","0.5");
+	}
+
+
+
+
+
+
+
+if($("#slide-"+mfJsObj.dynamicLead.slideNo).attr("rel")=="ad"){
+	if(mfJsObj.dynamicLead.adCheck==0){ mfJsObj.dynamicLead.getAd(); }
+}
+
+    if(mfJsObj.dynamicLead.slideNo>mfJsObj.dynamicLead.totalSlides){
+	mfJsObj.dynamicLead.slideNo=1;
+	mfJsObj.dynamicLead.currentSlide=mfJsObj.dynamicLead.totalSlides;
+    }
+
+
+    $("#slide-"+mfJsObj.dynamicLead.slideNo).fadeIn();
+    $(".thumb-link").removeClass("active");
+    $("#thumb-link-"+mfJsObj.dynamicLead.slideNo).addClass("active");
+
+
+    if(mfJsObj.dynamicLead.slideNo>=mfJsObj.dynamicLead.totalSlides){
+	mfJsObj.dynamicLead.slideNo=1;
+	mfJsObj.dynamicLead.currentSlide=mfJsObj.dynamicLead.totalSlides;
+    }else{
+	mfJsObj.dynamicLead.slideNo = (parseInt(mfJsObj.dynamicLead.slideNo))+1;
+	mfJsObj.dynamicLead.currentSlide= mfJsObj.dynamicLead.slideNo-1;
+    }
+
+
+
+
+    if ($("#slide-"+mfJsObj.dynamicLead.currentSlide).attr("rel")=="video"){
+               $("#video-player-"+mfJsObj.dynamicLead.currentSlide).html("");
+               $("#slide-"+mfJsObj.dynamicLead.currentSlide+" .dl-image").css("visibility","visible");
+               $("#slide-list .play-btn").click(function() {
+		mfJsObj.dynamicLead.loadVideo();
+		clearInterval(mfJsObj.dynamicLead.t);
+	        });
+               $("#slide-list .play-btn-decor").click(function() {
+		mfJsObj.dynamicLead.loadVideo();
+		clearInterval(mfJsObj.dynamicLead.t);
+	        });
+       }
+}
+
+
+mfJsObj.dynamicLead.getAd = function () {
+	if(mfJsObj.dynamicLead.adCheck==0){
+		mfJsObj.dynamicLead.adCheck=1;
+                var adType = $("#dl-ad-slide").attr("rel");
+                if(adType=="wallpaper"){
+		   $("#dl-ad-slide").append('<iframe src="/?a=dynamic-lead-adwallpaper&v=1234" scrolling="no" frameborder="0" width="100%" height="360px" style="border:0 none; margin: -2px 0 0; padding: 0;overflow: hidden; position:relative; z-index: 999999;"></iframe>');
+                }else if(adType=="wallpaper2"){
+		   $("#dl-ad-slide").append('<iframe src="/?a=dynamic-lead-adwallpaper-alt&v=1234" scrolling="no" frameborder="0" width="100%" height="360px" style="border:0 none; margin: -2px 0 0; padding: 0;overflow: hidden; position:relative; z-index: 999999;"></iframe>');
+                }
+                if(adType=="no-wallpaper"){
+		   $("#dl-ad-slide").append('<iframe src="/?a=dynamic-lead-ad&v=1234" scrolling="no" frameborder="0" width="100%" height="360px" style="border:0 none; margin: -2px 0 0; padding: 0;overflow: hidden; position:relative; z-index: 999999;"></iframe>');
+                }
+	}
+}
+
+
+mfJsObj.dynamicLead.hideInfo = function () {
+    mfJsObj.dynamicLead.isVideoOn = "yes";
+	$("#dl-carousel-new .arrow-wrapper").hide();
+	$("#slide-"+mfJsObj.dynamicLead.currentSlide).css("height","360px");
+	$(".dl-content").hide();
+	$(".dl-info-bg").hide();
+	$("#dl-thumbs").hide();
+	if($("body").hasClass("wallpaper")!=true) {$("#moviefone-header").fadeOut();}
+	$("#SmartPlayer_0").css("opacity","1");
+	$("#SmartPlayer_1").css("opacity","1");
+	$("#SmartPlayer_2").css("opacity","1");
+	$("#dl-carousel-new .play-btn-decor").hide();
+	clearInterval(mfJsObj.dynamicLead.t);
+	$("#dl-carousel-new").unbind("mouseleave");
+}
+
+mfJsObj.dynamicLead.showInfo = function () {
+    mfJsObj.dynamicLead.isVideoOn = "no";
+	$("#slide-"+mfJsObj.dynamicLead.currentSlide).css("height","auto");
+	$("#dl-carousel-new .arrow-wrapper").show();
+	$(".dl-content").show();
+	$(".dl-info-bg").show();
+	$("#dl-thumbs").show();
+	if($("body").hasClass("wallpaper")!=true) {$("#moviefone-header").fadeIn();}
+	$("#SmartPlayer_0").css("opacity","0.5");
+	$("#SmartPlayer_1").css("opacity","0.5");
+	$("#SmartPlayer_2").css("opacity","0.5");
+	$("#dl-carousel-new .play-btn-decor").show();
+	mfJsObj.dynamicLead.t = setInterval(mfJsObj.dynamicLead.slider , mfJsObj.dynamicLead.speed);
+	$("#dl-carousel-new").mouseleave(function() {
+		clearInterval(mfJsObj.dynamicLead.t);
+		mfJsObj.dynamicLead.t = setInterval(mfJsObj.dynamicLead.slider , mfJsObj.dynamicLead.speed);
+	});
+}
+
+
+mfJsObj.dynamicLead.reloadVideo= function (e) {
+           if(e.isPlayComplete==true){
+                $("#video-player-"+mfJsObj.dynamicLead.currentSlide).html("");
+               $("#slide-"+mfJsObj.dynamicLead.currentSlide+" .dl-image").css("visibility","visible");
+               $("#slide-list .play-btn").click(function() {
+		mfJsObj.dynamicLead.loadVideo();
+		clearInterval(mfJsObj.dynamicLead.t);
+	        });
+               $("#slide-list .play-btn-decor").click(function() {
+		mfJsObj.dynamicLead.loadVideo();
+		clearInterval(mfJsObj.dynamicLead.t);
+	        });
+           }
+}
+
+mfJsObj.dynamicLead.loadVideo = function () {
+	    mfJsObj.dynamicLead.isVideoOn = "yes";
+		$("#slide-"+mfJsObj.dynamicLead.currentSlide+" .dl-image").css("visibility","hidden");
+	 	$("#slide-"+mfJsObj.dynamicLead.currentSlide).css("height","360px");
+		$("#dl-video .play-btn").addClass("play-btn-decor").removeClass("play-btn").unbind("click").fadeOut();
+		$("#dl-carousel-new .arrow-wrapper").hide();
+		$(".dl-content").hide();
+		$(".dl-info-bg").hide();
+		$("#dl-thumbs").hide();
+		if($("body").hasClass("wallpaper")!=true) {$("#moviefone-header").fadeOut();}
+		$("#SmartPlayer_0").css("opacity","1");
+		$("#SmartPlayer_1").css("opacity","1");
+		$("#SmartPlayer_2").css("opacity","1");
+		$("#dl-carousel-new .play-btn").hide();
+		clearInterval(mfJsObj.dynamicLead.t);
+		$("#dl-carousel-new").unbind("mouseleave");
+		$("#video-player-"+mfJsObj.dynamicLead.currentSlide).html("");
+		$("#video-player-"+mfJsObj.dynamicLead.currentSlide).show();
+		var videoId = $("#video-player-"+mfJsObj.dynamicLead.currentSlide).attr("rel");
+		var targetElementId = "video-player-"+mfJsObj.dynamicLead.currentSlide;
+	    var script = document.createElement( 'script' );
+		script.type = 'text/javascript';
+		script.src = 'http://pshared.5min.com/Scripts/PlayerSeed.js?playList='+videoId+'&height=360&width=980&sid=577&playerActions=1&relatedNumOfResults=0&relatedMode=0&relatedBottomHeight=0&hasCompanion=false&autoStart=true&colorPallet=%23EE2020&videoControlDisplayColor=%23191919&shuffle=0&continuous=false&onPlay=mfJsObj.dynamicLead.hideInfo&onPause=mfJsObj.dynamicLead.showInfo&onTimeUpdate=mfJsObj.dynamicLead.reloadVideo';
+        document.getElementById(targetElementId).appendChild(script);
+
+
+}
+
+mfJsObj.dynamicLead.getSlide = function () {
+
+       if ($("#slide-"+mfJsObj.dynamicLead.currentSlide).attr("rel")=="video"){
+               $("#video-player-"+mfJsObj.dynamicLead.currentSlide).html("");
+               $("#slide-"+mfJsObj.dynamicLead.currentSlide+" .dl-image").css("visibility","visible");
+               $("#slide-list .play-btn").click(function() {
+		mfJsObj.dynamicLead.loadVideo();
+		clearInterval(mfJsObj.dynamicLead.t);
+	        });
+               $("#slide-list .play-btn-decor").click(function() {
+		mfJsObj.dynamicLead.loadVideo();
+		clearInterval(mfJsObj.dynamicLead.t);
+	        });
+       }
+
+	if(mfJsObj.dynamicLead.slideNo==3){
+      $("#dl-container .arrow-wrapper").css("z-index","999");
+	}else{
+		$("#dl-container .arrow-wrapper").css("z-index","999999");
+	}
+
+	if(mfJsObj.dynamicLead.slideNo >1 ){
+			var imageLazyUrl = $("#slide-"+mfJsObj.dynamicLead.slideNo+" .dl-image").attr("data-src");
+			$("#slide-"+mfJsObj.dynamicLead.slideNo+" .dl-image").attr('src',imageLazyUrl);
+
+	}
+
+if($("#slide-"+mfJsObj.dynamicLead.slideNo).attr("rel")=="ad"){
+	if(mfJsObj.dynamicLead.adCheck==0){mfJsObj.dynamicLead.getAd();}
+}
+
+
+if($("#slide-"+mfJsObj.dynamicLead.slideNo).attr("rel")=="video"){
+	$(".dl-info-bg").css("opacity","0.9");
+}else{
+	$("#dl-carousel-new .overlay").show();
+	$(".dl-info-bg").css("opacity","0.5");
+}
+
+	clearInterval(mfJsObj.dynamicLead.t);
+	$("#slide-list .slide").hide();
+	$("#slide-"+mfJsObj.dynamicLead.slideNo).fadeIn();
+	$(".thumb-link").removeClass("active");
+    $("#thumb-link-"+mfJsObj.dynamicLead.slideNo).addClass("active");
+
+}
+//homepage dynamic lead ends
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//homepage view more content begins
+	mfJsObj.viewMoreNews = {'checkScrollLoc':"", 'docHeight':"", 'pageURL':"/more-movie-news", 'element':"#movie-news",'page':2,'checkPage':2,'checkCall':"",'pageType':"", 'tag':"", 'blogger':"", 'category':"","pageEnd":false,"pageTypeUrl":"" };
+
+	mfJsObj.viewMoreNews.init = function() {
+        
+        if(mfJsObj.viewMoreNews.pageType=="blogger"){
+			mfJsObj.viewMoreNews.pageTypeUrl = "/blogger/"+mfJsObj.viewMoreNews.blogger; 
+        } else if(mfJsObj.viewMoreNews.pageType=="category"){ 
+			mfJsObj.viewMoreNews.pageTypeUrl = "/category/"+mfJsObj.viewMoreNews.category;
+        } else if(mfJsObj.viewMoreNews.pageType=="tag"){ 
+			mfJsObj.viewMoreNews.pageTypeUrl = "/tag/"+mfJsObj.viewMoreNews.tag;
+        } else if(mfJsObj.viewMoreNews.pageType=="all-galleries"){ 
+			mfJsObj.viewMoreNews.pageURL= "?a=get-galleries&page=";
+                        mfJsObj.viewMoreNews.pageTypeUrl = "";
+        } else {
+			mfJsObj.viewMoreNews.pageTypeUrl = "/home/";
+        }
+ 
+
+
+
+	//detect mobile devices
+        var ua = navigator.userAgent.toLowerCase(),
+        t_event = (ua.match(/ipad/i)||ua.match(/iphone/i)||ua.match(/android/i)) ? "touchstart" : "scroll";  
+		
+		$(window).bind(t_event, function () {
+			if (t_event == "touchstart"){
+				if (Math.abs(window.orientation) == 0){
+					//portrait
+					mfJsObj.viewMoreNews.checkScrollLoc = $(window).scrollTop() + $(window).height() + 1600;
+					mfJsObj.viewMoreNews.docHeight = $(document).height();
+				}else{
+					//landscape
+					mfJsObj.viewMoreNews.checkScrollLoc = $(window).scrollTop() + $(window).height() + 1000;
+					mfJsObj.viewMoreNews.docHeight = $(document).height();
+				}			
+			}else{
+				mfJsObj.viewMoreNews.checkScrollLoc = $(window).scrollTop() + $(window).height();
+				mfJsObj.viewMoreNews.docHeight = $(document).height();
+			}
+			
+			if(mfJsObj.viewMoreNews.checkScrollLoc>=mfJsObj.viewMoreNews.docHeight){
+                if(mfJsObj.viewMoreNews.page==mfJsObj.viewMoreNews.checkPage && mfJsObj.viewMoreNews.pageEnd==false){
+				   mfJsObj.viewMoreNews.getMoreContent();
+				}
+			}
+
+                      
+		});
+	}
+
+	mfJsObj.viewMoreNews.getMoreContent = function() {
+                   $(mfJsObj.viewMoreNews.element).append("<div class='ajax-loader-wrap'><div class='ajax-red-loader'><img src='http://www.blogsmithmedia.com/www.moviefone.com/media/mf-ajax-loader-graybg.gif' /></div></div>").fadeIn();
+                   $(".ajax-red-loader").fadeIn();
+                   mfJsObj.viewMoreNews.checkPage++;
+                   $.ajax({ url: mfJsObj.viewMoreNews.pageURL+mfJsObj.viewMoreNews.pageTypeUrl+'/'+mfJsObj.viewMoreNews.page ,type: "GET",
+			success: function(response, status, xhr){
+				$(".ajax-loader-wrap").html("");
+				if(response!=""){
+					$(mfJsObj.viewMoreNews.element).append(response).fadeIn();
+					mfJsObj.viewMoreNews.page++;
+					mfJsObj.replaceImage.init();
+				}else{
+					mfJsObj.viewMoreNews.pageEnd = true;
+				}
+			}
+		   });
+
+
+
+
+	}
+//homepage view more content ends
+
+mfJsObj.viewMoreNews.pageType = "";
+mfJsObj.viewMoreNews.tag = "";
+mfJsObj.viewMoreNews.blogger = "";
+mfJsObj.viewMoreNews.category = "";
+mfJsObj.viewMoreNews.init();
+
+mfJsObj.dynamicLead.init();
+mfJsObj.replaceImage.init();
+
+
+
+
+
+
+
+});
+
+$("img.lazy").lazyload();
+</script>
+<!-- Sailthru START -->
+<div id="blackground" style="display:none;position:absolute;top:0;bottom:0;left:0;right:0;width:100%;height:100%;background-color:#000;opacity:0.8;filter:alpha(opacity=80);"></div>
+
+<div id="SettingsContainer" class="sailthru_lightbox">
+   <div class="form">
+        <div class="head">
+            <span class="left"></span>
+            <div class="head-title">
+              <span class="title-text">My Settings</span>
+              <span class="title-arrow"></span>
+              <div class="clear"></div>
+            </div>
+            <span class="right"></span>
+        </div>
+        <div id="SettingsContents">
+            <p class="strong">You are currently subscribed as: <span id="profile_email">{email}</span></p>
+            <hr>
+            
+            <h2>Subscriptions</h2>
+            <fieldset>
+                <p>Get the latest reviews, movie news, photos, and trailers sent straight to your inbox.</p>
+                <div class="lists">
+                    <input type="checkbox" name="Newsletter" value="newsletter" />
+                    <span class="list_name">Weekly Newsletter</span>
+                </div>
+            </fieldset>
+            <hr>
+
+            <h2>Daily alerts</h2>
+
+            <fieldset>
+                <legend>Movies</legend>
+		<p class="item-0">You're not following any movies.</p>
+                <p class="item-n">These are the movies you’re currently following.</p>
+                <ul id="daily_movies" class='my_alerts'></ul>
+            </fieldset>
+
+            <fieldset>
+                <legend>Writers</legend>
+                <p>You follow these writers and will receive an email when they post new articles.</p>
+                <ul id="daily_writers" class='my_alerts'></ul>
+            </fieldset>
+
+
+            <fieldset>
+                <legend>Tags</legend>
+                <p>These are the tags you’re currently following.</p>
+                <ul id="daily_tags" class='my_alerts'></ul>
+            </fieldset>
+
+            <hr>
+            <a class="button" id="settings_update">Update settings</a>
+	    <div class="settings_cancel">X</div>	
+            <div style="clear:both;"></div>
+        </div>
+        <div id="SettingsMessage"></div>
+    </div>
+</div>
+
+<div id="newsletter" class="sailthru_lightbox" style="display:none;">
+    <div class="form">
+        <div class="head">
+            <span class="left"></span>
+            <div class="head-title">
+              <span class="title-text">Email Updates</span>
+              <span class="title-arrow"></span>
+              <div class="clear"></div>
+            </div>
+            <span class="right"></span>
+        </div>
+        <p class="strong">Enter your email address below to receive alerts on the latest news about "<span id="followTagName">TAG NAME HERE</span>" as it becomes available.</p>
+        <p>It's safe with us, we promise not to share with anyone else!</p>
+        <form method="post" action="#" id="alerts_form">
+            <div style="overflow:hidden;">
+                <div class="entry email"><input type="text" name="email" id="email" data-validation="required email" placeholder="Your email"></div>
+		<input type="submit" value="submit" class="button" />
+                <div style="clear:both;"></div>
+		<div id="store-hid" style="font-size:11px; margin-bottom:5px;"><input type="checkbox" name="store_email"> Remember my email address</div>
+		<div style="clear:both;"></div>
+                <div id="check-in" style="font-size:11px;"><input type="checkbox" name="add_weekly" checked> Sign me up for Moviefone's weekly newsletter</div>
+            </div>
+            <a title="Privacy Policy" href="http://privacy.aol.com/" class="brand-color policy" target="_blank">Privacy Policy</a>
+            <div class="settings_cancel">&#10006;</div>
+        </form>
+        <div id="message"></div>
+    </div>
+</div>
+
+
+
+<!-- Sailthru END --></body>
+</html>
+<script type="text/javascript">
+<!--
+document.write('<scr' + 'ipt src="http://news.moviefone.com/traffic/' + '?t=js&bv=&os=&tz=&lg=&rv=&rsv=&pw=%2F&cb=924909627" type="text/javascript"></scr' + 'ipt>');
+// -->
+</script><noscript><img src="http://news.moviefone.com/traffic/?t=px&bv=JavaScript+Disabled&os=&tz=default&lg=&rv=&rsv=&pw=%2F&cb=1660955374" alt="the end" width="1" height="1"border="0" /></noscript>

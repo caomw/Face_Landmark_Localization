@@ -1,0 +1,4790 @@
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+	
+    
+    
+    
+    
+	
+
+	
+    
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+<meta name="keywords" content="TV, TV shows, TV reviews, TV previews, television, Show Patrol, celebrities, Curt Wagner" />
+<meta name="description" content="Show Patrol: RedEye TV news, reviews, celebrity interviews and all things TV-related" />
+<meta name="y_key" content="43959a87935ee9bb">
+<meta name="msvalidate.01" content="AAC9C18F70AC386BC4DCF4DDF9BF1786">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="canonical" href="http://www.redeyechicago.com/entertainment/tv/" />
+
+
+
+     
+
+    
+
+
+
+    
+    
+    
+
+
+
+
+
+
+
+
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.redeyechicago.com/entertainment/tv/rss2.0.xml">
+    
+    
+    <title>Chicago TV reviews, TV previews, TV schedule, celebrity interviews - redeyechicago.com</title>
+
+    
+
+
+
+
+
+
+
+
+
+
+    <link rel="shortcut icon" href="/favicon.ico"/>
+    <link rel="icon" type="image/ico" href="/favicon.ico"/>
+
+	<link href="/hive/stylesheets/reset.css" media="all" rel="stylesheet" type="text/css" />
+	<link href="/hive/stylesheets/content.css" media="all" rel="stylesheet" type="text/css" />
+	<link href="/hive/stylesheets/footer.css" media="all" rel="stylesheet" type="text/css" />
+	<link href="/hive/stylesheets/header.css" media="all" rel="stylesheet" type="text/css" />
+	<link href="/hive/stylesheets/common.css" media="all" rel="stylesheet" type="text/css" />
+	<link href="/hive/stylesheets/structure.css" media="all" rel="stylesheet" type="text/css" />
+	
+	
+	
+	
+		<link href="/hive/stylesheets/adv_search.css" media="all" rel="stylesheet" type="text/css">
+		
+	
+	
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <link href="/hive/stylesheets/ssor.css" media="all" rel="stylesheet" type="text/css" />
+
+
+
+<link href="/stylesheets/market.css" media="all" rel="stylesheet" type="text/css" />
+
+<!--[if lte IE 6]>
+<link href="/hive/stylesheets/ie6-styles.css" media="all" rel="stylesheet" type="text/css" />
+<script defer type="text/javascript" src="/hive/javascripts/pngfix.js"></script>
+<![endif]-->
+
+<!--[if lte IE 7]>
+<link href="/hive/stylesheets/ie7-styles.css" media="all" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+<script src="/hive/javascripts/jquery-1.7.2.js"></script>
+<script src="/hive/javascripts/infuse-0.9p20.js"></script>
+<script>
+  var trblib = window.i$;
+  i$.pluginPath = '/hive/javascripts/plugins/';  
+</script> 
+
+    <script src="/hive/javascripts/jquery-1.3.2.js"></script>
+    
+    <script>
+      jQuery = $;  //rename $ function
+    </script>
+    
+		<script src="/hive/javascripts/prototype.js?"></script>
+		<script src="/hive/javascripts/scriptaculous.js"></script>
+       
+    
+    <script src="/hive/javascripts/tabinterface.js"></script>
+    <script src="/hive/javascripts/AC_RunActiveContent.js"></script>
+    <script src="/hive/javascripts/cookies.js"></script>
+    <script src="/hive/javascripts/taxonomy-ads.js"></script>
+    <script src="/hive/javascripts/windoid.js"></script>
+    <script src="/hive/javascripts/menu.js"></script>
+
+
+    <script src="/hive/javascripts/adv_global.js"></script>
+
+
+
+
+
+
+
+<script>
+trblib.ns('trb').data = {
+  contentId: '',
+  marketCode: 'redeye',
+  section: '/entertainment/tv'
+};
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <script src="/hive/javascripts/jquery.cookies.2.1.0.min.js"></script>
+      <script src="/hive/javascripts/xd/xd.core.js"></script>
+      <script src="/hive/javascripts/xd/xd.ajax.js"></script>
+      <script>
+        xd.configure({
+          'http://redeye.signon.trb.com':{ 
+            sender : 'http://redeye.signon.trb.com/registration/xd/xd_sender.htm',
+            receiver : '/hive/common/includes/xd_receiver.html'
+          }
+    
+        });
+      </script>
+      <script src="/hive/javascripts/signon/carnival.js?v=2012s2"></script>
+      <script>
+        carnival.init({
+          hostname:"http://redeye.signon.trb.com",
+          apiKey:"",
+          product:"redeye",
+          xd:"1",
+          activateMessages:"true",
+          ssorNavBackgroundColor:"#000000",
+          ssorModalTextColor:"",
+          skipNewsletters:"0",
+    
+          wsHostname:"http://redeye.signon.trb.com",
+     
+          captchaType:"reCaptcha",
+          ssorSignInLinkUrl:"",
+          ssorSignUpLinkUrl:"" 
+        });
+      </script>
+      
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+            
+           ( function(){
+                  var hasCaptcha =  'true' || "true";
+                    carnival.configuration( 'has_captcha', hasCaptcha );
+            })();
+            
+      
+    
+</script>
+
+    
+      <script src="/hive/javascripts/signon/tribbit.js?v=2012s1"></script>
+      <script src="/hive/javascripts/signon/ssor.js?v=2012s1"></script>
+    
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+  i$.ns('trb.data').dssOverrideLevelCode = '';
+
+</script>
+
+
+
+
+  
+<script>
+  trblib.require('/hive/javascripts/loggingService.js', function loggingServiceCallback() {
+    trb.loggingService({
+      sn: trb.data.section == '/' ? '' : trb.data.section,
+      mc: trb.data.marketCode,
+      ref: document.referrer,
+      cid: trb.data.contentId && 'P2P-' + trb.data.contentId,
+      es: window.registration && registration.manager.user.getUser() && registration.manager.user.getUser().getMasterId() || window.carnival && carnival.user.profile().masterId
+    });
+  });
+</script>
+
+
+
+
+
+
+
+
+
+
+
+	 
+		
+	
+
+    
+    
+
+    
+
+
+
+
+
+
+ 
+	<script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script> 
+
+
+
+
+
+
+
+
+
+
+
+    <script type="text/javascript" src="http://content.dl-rms.com/rms/mother/36043/nodetag.js"></script>
+
+
+ 
+
+
+ 	
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ 
+
+
+
+
+ 
+
+
+	<style type='text/css'>
+
+body {
+  background-color: transparent !important;
+  background-image: url(http://redeye.trb.com/includes/uploads/2011/02/E174A8E6_redeye-bgreal.jpg) !important;
+  background-repeat: repeat-y !important;
+}
+</style>
+	
+	<script type="text/JavaScript">
+var cachebuster = Math.floor(Math.random()*10000000000);
+var aax_src='1090';
+var amzn_targs='';
+var url = encodeURIComponent(document.location);
+try { url = encodeURIComponent("" + window.top.location); } catch(e) {}
+document.write("<scr"+"ipt src='//aax-us-east.amazon-Adsystem.com/e/dtb/bid?src=" + aax_src + "&u="+url+"&cb=" + Math.round(Math.random()*10000000) + "'></scr"+"ipt>");
+document.close();
+</script>
+	
+
+</head>
+<body class=" ">
+
+  
+
+    
+
+    
+
+    
+    
+    
+    
+    
+    <div id="container" class="">
+        <div id="branding">
+		   
+		   
+			<div id="masthead">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="classified-bar" class="clearfix">
+  <div id="classBarNav" > 
+
+	
+
+	
+
+	
+	<ul class="classBarNavMember">
+		<li id="memberLoginInfo" style="width:220px;"></li>
+	</ul>
+
+<ul class="classBarNavLink">
+
+</ul>
+
+	
+
+  </div>
+</div>
+
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="header" class="    clearfix">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		    	 <div class="headerAdExtra" id="headerAdSlider"> </div> 
+		
+
+    <div id="homepageLink"><a href="/" alt="Home" title="redeyechicago.com">&nbsp;</a></div>
+    <div id="logo">
+        
+            <a href="/" alt="Home" title="redeyechicago.com">
+        
+        <img src="/images/logo.png" alt="redeyechicago.com" />
+        </a>
+    </div>
+    
+    
+        
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="weatherbug" class="weather  night">
+    <a href="/news/weather/" rel="nofollow" alt="Weather" title="Weather">
+        <p class="wu-weather-icon"> 
+			<div class="weather_behavior light fog"></div>
+        </p>
+        <p class="wu-weather">38&#176; F</p>
+    </a>
+</div>
+
+
+    
+     
+        
+        <div class="dateStamp dateFormat4"><div class="dateTop">Tuesday</div><div class="dateBottom"></div></div>
+        
+
+    
+    
+    
+</div>
+
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="navigation" class="clearfix">
+ <div id="layerOne">
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul id="root">
+
+
+<li class="navLink  first">
+
+
+<a href="/" class="mainNav" name="&lpos=Main&lid=HOME"  target="_top"><span>HOME</span></a>
+
+
+<ul class="level2 emptySubNav"><li><a href="javascript:void(0);">&nbsp;</a></li></ul>
+
+</li>
+
+
+
+
+
+
+
+
+<li class="navLink  ">
+
+
+<a href="/news/local/" class="mainNav" name="&lpos=Main&lid=NEWS"  target="_top"><span>NEWS</span></a>
+
+
+<ul class="level2 emptySubNav"><li><a href="javascript:void(0);">&nbsp;</a></li></ul>
+
+</li>
+
+
+
+
+
+
+
+
+<li class="navLink  ">
+
+
+<a href="/entertainment/" class="mainNav" name="&lpos=Main&lid=TV<em>&</em>MOVIES"  target="_top"><span>TV<em>&</em>MOVIES</span></a>
+
+
+<ul class="level2 emptySubNav"><li><a href="javascript:void(0);">&nbsp;</a></li></ul>
+
+</li>
+
+
+
+
+
+
+
+
+<li class="navLink  ">
+
+
+<a href="/entertainment/music/" class="mainNav" name="&lpos=Main&lid=MUSIC"  target="_top"><span>MUSIC</span></a>
+
+
+<ul class="level2 emptySubNav"><li><a href="javascript:void(0);">&nbsp;</a></li></ul>
+
+</li>
+
+
+
+
+
+
+
+
+<li class="navLink  ">
+
+
+<a href="/sports/" class="mainNav" name="&lpos=Main&lid=SPORTS"  target="_top"><span>SPORTS</span></a>
+
+
+<ul class="level2 emptySubNav"><li><a href="javascript:void(0);">&nbsp;</a></li></ul>
+
+</li>
+
+
+
+
+
+
+
+
+<li class="navLink  ">
+
+
+<a href="/entertainment/restaurants-bars/" class="mainNav" name="&lpos=Main&lid=EAT<em>&</em>DRINK"  target="_top"><span>EAT<em>&</em>DRINK</span></a>
+
+
+<ul class="level2 emptySubNav"><li><a href="javascript:void(0);">&nbsp;</a></li></ul>
+
+</li>
+
+
+
+
+
+
+
+
+<li class="navLink  ">
+
+
+<a href="/news/cta/" class="mainNav" name="&lpos=Main&lid=CTA"  target="_top"><span>CTA</span></a>
+
+
+<ul class="level2 emptySubNav"><li><a href="javascript:void(0);">&nbsp;</a></li></ul>
+
+</li>
+
+
+
+
+
+
+
+
+<li class="navLink  ">
+
+
+<a href="http://dating.redeyechicago.com/?source=redeye_nav" class="mainNav" name="&lpos=Main&lid=DATING"  target="_top"><span>DATING</span></a>
+
+
+<ul class="level2 emptySubNav"><li><a href="javascript:void(0);">&nbsp;</a></li></ul>
+
+</li>
+
+
+
+
+
+
+
+
+<li class="navLink  ">
+
+
+<a href="http://games.redeyechicago.com/" class="mainNav" name="&lpos=Main&lid=Games"  target="_top"><span>Games</span></a>
+
+
+<ul class="level2 emptySubNav"><li><a href="javascript:void(0);">&nbsp;</a></li></ul>
+
+</li>
+
+
+
+
+
+</ul>
+
+  
+  
+
+  
+  
+  
+
+ </div> 
+</div>
+<script type="text/javascript">
+
+
+
+
+  eraseCookie("mainPage");
+  createCookie("mainPage","/entertainment/tv","1");
+
+  jQuery(document).ready( function() {
+    menuFix();
+    tribHover();
+  });
+
+
+
+</script>
+			</div>
+			
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+<div id="hotTopic" class="clearfix">
+<ul class="level1" id="rootTopic">
+<li class="hot-link-begin" >
+FIND US ON SOCIAL MEDIA
+</li>
+<li class="hot-link-1">
+
+
+<a href="/redeye-facebook-link,0,2064741.storylink" >Facebook</a>
+
+</li>
+
+
+
+
+<li class="hot-link-2">
+
+
+<a href="/redeye-twitter-link,0,1684167.storylink" >Twitter</a>
+
+</li>
+
+
+
+
+<li class="hot-link-3">
+
+
+<a href="/redeye-tumblr-link,0,4940194.storylink" >Tumblr</a>
+
+</li>
+
+
+
+
+<li class="hot-link-4">
+
+
+<a href="/redeye-pinterest-link,0,293076.storylink" >Pinterest</a>
+
+</li>
+
+
+
+
+<li class="hot-link-5">
+
+
+<a href="/redeye-google-plus-link,0,2450072.storylink" >Google+</a>
+
+</li>
+
+
+
+
+<li class="hot-link-6">
+
+
+<a href="/redeye-instagram-link,0,4758702.storylink" >Instagram</a>
+
+</li>
+
+
+
+
+<li class="hot-link-7">
+
+
+<a href="/redeye-youtube-link,0,1749697.storylink" >YouTube</a>
+
+</li>
+
+
+
+
+<li class="hot-link-8">
+
+
+<a href="/redeye-sports-link,0,6574014.storylink" >RedEye Sports</a>
+
+</li>
+</ul>
+      
+		
+			
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">  /*OVERWRITES*/
+	.adv_search { background-color: #fff; }
+	#adv_search { background-color: #ccc; }
+	#adv_search .adv_search_head,
+	#adv_help .adv_search_head { background-color: #D71921; }
+	#search_overlay { background-color: #ccc; }
+	#search-results ul.advTabs { background-color: #D71921; }
+	#search-results ul.advTabs li a { background-color: #D71921; }
+	#search-results ul.advTabs li.advCurrTab a { background-color: #fff; color: #D71921; }
+	div.panelTab { background: url("/images/adv_search/adv_panel_bg.png") no-repeat; }
+	#adv_keywords_head { background-color: #D71921; }
+	#adv_results .clearfix {display:block;}
+</style>
+
+	<div id="basicsearch">
+		
+		
+			<form class="tribForm" method="get" action="/search/dispatcher.front" onSubmit="javascript:return checkForm(this,'Query')">	
+				<ul>
+				    <li class="horiz">
+					<input type="text" id="searchText" class="adv_search_input" onblur="if (this.value=='') this.value = 'Search'" onfocus="if (this.value=='Search') this.value = ''" name="Query" value="Search" />
+					<input name="target" value="adv_article" type="hidden" />
+					
+					<input type="submit" class="adv_submit" alt="Search" value="" />
+				    </li>
+				</ul>
+			</form>
+		
+	</div>
+<div id="search_overlay">
+    <form class="tribForm" method="get" action="/search/dispatcher.front" onSubmit="javascript:return checkForm(this,'Query')">
+        <ul>
+            <li class="horiz">
+		        <input type="text" id="searchText" maxlength="100" class="adv_search_input" name="Query" />
+		        <input name="target" value="adv_article" type="hidden" />
+		        
+		        <input type="submit" class="adv_submit" alt="Search" value=""/>
+		    </li>
+		</ul>
+    </form>
+    <a id="adv_search_open" href="/">Advanced Search</a>
+</div>
+
+<div id="adv_search">
+    <div class="adv_search_head">
+    	<h3>Advanced Search</h3>
+    	<a href="/" id="adv_search_close">X</a>
+    </div>
+    <form class="tribForm" method="get" name="adv_search_form" action="/search/dispatcher.front" onSubmit="return advSearch.checkAdvForm(this);">
+		<input type="hidden" id="Query" name="Query" value=""/>
+		<input type="hidden" id="date" name="date" value=""/>
+		<input type="hidden" id="target" name="target" value="adv_article"/>
+		<input type="hidden" name="srchType" value="advSearch"/>
+		
+	    <ul>
+	        <li><label for="include_all">include all of these words: <input type="text" id="include_all" maxlength="100"/></label></li>
+	        <li><label for="include_any">include any of these words: <input type="text" id="include_any" maxlength="100"/></label></li>
+	        <li><label for="include_exact">include this exact phrase: <input type="text" id="include_exact" maxlength="100"/></label></li>
+	        <li><label for="exclude">exclude: <input type="text" id="exclude" maxlength="100"/></label></li>
+            
+            <li class="fixed_date">
+            	<label class="inline"><input type="radio" id="top_date_range_pre" name="range" value="pre" checked="checked" /> Select a date range</label>
+				<div id="top_date_range_pre_div">
+	            	<select id="date_range_predefined">
+	                    <option value="">this week</option>
+	                    <option value="" selected="selected">past 30 days</option>
+	                    <option value="">past 3 months</option>
+	                    <option value="">past year</option>
+	                    
+	            	</select>
+            	</div>
+			</li>
+            <li class="custom_date">
+            	<label><input type="radio" id="top_date_range_cust" name="range" value="cust" /> Create a custom date range</label>
+	            <div id="top_date_range_cust_div">
+					<label class="inline custom_from">From: <input type="text" id="date_range_custom_from" disabled="disabled" class="inline disabled" /></label>
+	            	<label class="inline">To: <input type="text" id="date_range_custom_to" disabled="disabled" class="inline disabled" /></label>
+				</div>
+            </li>
+            <li>
+            	<input class="submit" type="submit" value="Search"/>
+            </li>
+        </ul>
+    </form>
+</div>
+
+			
+		
+
+</div>
+
+
+
+            
+				<img height="1" width="1" src="http://view.atdmt.com/action/MSFT_Tribune_AE_ExtData/v3/atc1.ChicagoTribune/atc2.Entertainment/atc3.Tv"/>
+			 
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="slidingbillboard"><center>
+
+          <script type='text/javascript'>function readCookie(name) {   var nameEQ = name + "=";   var ca = document.cookie.split(';');   for(var i=0;i < ca.length;i++) {   var c = ca[i];   while (c.charAt(0)==' ') c = c.substring(1,c.length);   if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);   }   return null;   }   var x = readCookie('c_mId');   if (x)  {   try {if (typeof adTargetConsumerInfo == 'undefined') {document.write('<scr'+'ipt type="text/javascript" src="include-member-ad.javascript"></scr'+'ipt>');   }   } catch(err) {}}   else {var adTargetConsumerInfo = ';rg=ur';var adTargetYieldExInfo = '';}</script><script type='text/javascript'>   var ordString=';ord=' + cachebuster;   var scriptSrc='http://ad.doubleclick.net/N4011/adj/trb.redeyechicago/ent/tv;;ptype=sf;pos=T;dcopt=ist;sz=1x1,728x90;tile=1;';   var noscriptHref='http://ad.doubleclick.net/N4011/jump/trb.redeyechicago/ent/tv;;ptype=sf;pos=T;sz=1x1,728x90;tile=1?" target="_blank" rel="nofollow"';   var noscriptSrc='http://ad.doubleclick.net/N4011/ad/trb.redeyechicago/ent/tv;;ptype=sf;pos=T;dcopt=ist;sz=1x1,728x90;tile=1?" width="728" height="90" border="0" alt=""';   var noscriptHrefEndOfStr=' target="_blank" rel="nofollow"';   var noscriptSrcEndOfString=' width="728" height="90" border="0" alt=""';   indexOfHrefQuestion='111';   indexOfLastImgSrcQuestion='119';   var yieldExParam=';u=';   var ptypeStr='ptype|sf!';   var posStr='pos|T!';   var revenueScienceStr='';   var sizeStr='sz|1x1^728x90!';   try {       if (adTargetConsumerInfo != undefined && adTargetYieldExInfo != undefined) {           scriptSrc = scriptSrc.substring(0, scriptSrc.length -1) + adTargetConsumerInfo + yieldExParam + ptypeStr + posStr + sizeStr + revenueScienceStr + adTargetYieldExInfo + amzn_targs + ordString + '?';           noscriptHref = noscriptHref.substring(0, indexOfHrefQuestion) + adTargetConsumerInfo + yieldExParam + ptypeStr + posStr + sizeStr + revenueScienceStr + adTargetYieldExInfo + amzn_targs + ordString + '?' + noscriptHrefEndOfStr;           noscriptSrc = noscriptSrc.substring(0, indexOfLastImgSrcQuestion) + adTargetConsumerInfo + yieldExParam + ptypeStr + posStr + sizeStr + revenueScienceStr + adTargetYieldExInfo + amzn_targs + ordString + '?' + noscriptSrcEndOfString;       }   } catch(err) {}   document.write('<scr'+'ipt type="text/javascript" src="'+scriptSrc+'"></scr'+'ipt>');   document.write('<noscript><a href="'+noscriptHref+'><img scr="'+noscriptSrc+'></a></noscript>');</script> 
+        
+</center></div>
+
+
+        </div>
+		
+        
+        
+
+        
+        
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+        
+		
+		      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="section">
+    <div id="topLeftWide" class="wide">
+        
+        	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+  <div class="module blurb">
+   <style type="text/css">
+
+/* HEADER AD FIXES */
+
+div#headerAdCode1, div#headerAdCode1.headerAdCodeNoPromo, #inlineHeaderAd { right: 150px !important; top: 75px !important; }
+div#headerAdCode2, div#headerAdCode2.headerAdCodeNoPromo { left: 590px; top: 75px; }
+div.article div.articleRelates ul li { list-style: none outside none !important; }
+
+/*div.newsPromo h2.title a { font-size: 19.6px; background-color: #D71920; border-top-right-radius: 8px; color: white; display: inline-block; text-decoration: none; }
+div.newsPromo h2.title a { padding: 4px 10px 4px 6px; }
+div.newsPromo h2.title a:hover { text-decoration: underline; }
+div.newsPromo h2.title { padding-right: 3px; background-color: #FFF; border-top-right-radius: 8px; display: inline-block; }*/
+
+/* NEWS PROMO STYLES */
+
+div.newsPromo div.titleContainer { background-color: #000000; margin-bottom: 5px; border-top-right-radius: 8px; }
+div.newsPromo h2.headline a { font-size: 17px; letter-spacing: -0.5px; line-height: 17px; }
+
+/* PARTY WITH US STYLES */
+
+div.partyWithUs h2 a, div.partyWithUs h2.headline a, div.partyWithUs h3 a, div.partyWithUs h4 a { font-weight: bold; font-size: 13px; }
+div.headlines.partyWithUs { border-right: 10px solid #00AEEF; border-left: 10px solid #00AEEF; border-bottom: 10px solid #00AEEF; border-style: none solid solid; border-width: medium 10px 10px; margin: -5px 0 0 22px; width: 261px; }
+div.partyWithUs .headlineItem { padding: 5px 5px 5px 10px }
+
+/* GUIDE STYLES */
+
+div.headlines.guideHeadlines h2 a, div.headlines.guideHeadlines h3 a, div.headlines.guideHeadlines h4 a { color: #000000; font-family: Arial; font-size: 17px; font-weight: bold; letter-spacing: -0.5px; line-height: 17px; }
+
+/* HEADLINE SLIDER UPDATES */
+
+a.trb_mod_slider_n { background: url("/images/right-slider-button.jpg") no-repeat scroll right 0 transparent; height: 138px; width: 9px; margin-top: 7px; top: -15px; }
+a.trb_mod_slider_p { background: url("/images/left-slider-button.jpg") no-repeat scroll 0 0 transparent; height: 138px; width: 9px; margin: 7px 0 0 10px; top: -15px; }
+.trb_mod_slider_m { color: #D71921; }
+.trb_mod_slider.trb_mod_slider_size_medium.trb_mod_slider_zone_main a.trb_mod_slider_i, .trb_mod_slider.trb_mod_slider_size_medium a.trb_mod_slider_i, .trb_mod_slider.trb_mod_slider_size_large a.trb_mod_slider_i, .trb_mod_slider.trb_mod_slider_size_large.trb_mod_slider_zone_main a.trb_mod_slider_i { margin: 0 5px; width: 160px; }
+.trb_mod_slider_i img[src] { height: 90px; width: 160px; }
+
+/* MISC UPDATES */
+
+div#tugs_story_display, #gallery-subcontent, #ugcComments { display: none; }
+
+/* TWO COLUMN HEADLINE UPDATES */
+
+div.headlines table.twoColumn h2 a, div.headlines table.twoColumn h2.headline a, div.headlines table.twoColumn h3 a, div.headlines table.twoColumn h4 a { font-weight: bold; }
+
+</style>
+
+<div class="chicago-location">
+CHICAGO
+</div>
+  </div>
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+        
+        	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+  <div class="module blurb">
+   <style type="text/css">
+
+.blogHeadlines div.headlineItem { border-bottom: 1px dotted #C4C6C8; padding: 15px 0px; }
+
+div.headlines span.more a { font-size: 12px; }
+
+a.callToAction em { font-style: normal; font-weight: bold; color: #000000; }
+
+</style>
+  </div>
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+        
+        	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+  <div class="module blurb customImgHeader">
+   <div width="100%" style="background-image: url(/images/show-patrol.jpg);background-repeat: no-repeat;height: 90px;margin-top: -10px;padding-bottom: 4px; border-bottom: 1px solid #999; margin-bottom: 8px;">
+<div class="goingPublicLinks" align="right"><a href="mailto:cwwagner@tribune.com">E-mail</a> |  <a href="/entertainment/tv/redeye-about-curt-wagner,0,1242258.story">About</a> | <a href="http://twitter.com/#!/showpatrol">Twitter</a> | <a href="http://www.redeyechicago.com/entertainment/tv/rss2.0.xml">RSS</a></div> </div>
+
+ 
+  </div>
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+        
+        	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+     
+
+
+
+<div class="module headlines defaultHeadlines  headColumn1 blogHeadlines  noHeadlineBGImage" style=";">
+  <div class="curvedTop">
+  <div class="openCurve"></div>
+  <div class="curvedContent">
+    
+
+    
+
+    
+  
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                <a href="/entertainment/tv/redeye-mob-city-mines-noir-cliches-tv-review-20131202,0,5229965.story" target="_top"><img src="http://www.trbimg.com/img-529cff0f/turbine/redeye-mob-city-mines-noir-cliches-tv-review-20131202/187/187x105" alt="TV review: 'Mob City' mines noir cliches to death" width="187" height="105" class="headlineThumb" title="TV review: 'Mob City' mines noir cliches to death" /></a>
+                                <h2 class="headline  "><a href="/entertainment/tv/redeye-mob-city-mines-noir-cliches-tv-review-20131202,0,5229965.story" target="_top" title="TV review: 'Mob City' mines noir cliches to death">TV review: 'Mob City' mines noir cliches to death</a></h2>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      Frank Darabont turned his love of old horror films into the hugely successful zombie thriller "The Walking Dead" before parting ways with AMC. In "Mob City" (8 p.m. CST Dec. 4, TNT; 1.5 stars out of 4) he shares his enthusiasm for film noir, but with dramatically different and disappointing results.
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-mob-city-mines-noir-cliches-tv-review-20131202,0,5229965.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                <a href="/entertainment/tv/redeye-nikita-mystery-who-is-flying-that-plane-20131202,0,144541.story" target="_top"><img src="http://www.trbimg.com/img-529cf372/turbine/redeye-nikita-mystery-who-is-flying-that-plane-20131202/187/187x105" alt="'Nikita' mystery: Who is flying that plane?" width="187" height="105" class="headlineThumb" title="'Nikita' mystery: Who is flying that plane?" /></a>
+                                <h3 class="headline  "><a href="/entertainment/tv/redeye-nikita-mystery-who-is-flying-that-plane-20131202,0,144541.story" target="_top" title="'Nikita' mystery: Who is flying that plane?">'Nikita' mystery: Who is flying that plane?</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      "Nikita" is unraveling plot twists every Friday, but it won't solve at least one mystery before the final season ends: Who exactly is flying Team Nikita's plane?
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-nikita-mystery-who-is-flying-that-plane-20131202,0,144541.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                <a href="/entertainment/tv/redeye-december-tv-2013-premieres-finales-movies-specials-20131126,0,4128983.story" target="_top"><img src="http://www.trbimg.com/img-52953505/turbine/redeye-december-tv-2013-premieres-finales-movies-specials-20131126/187/187x105" alt="December 2013 TV premieres, finales, movies and specials" width="187" height="105" class="headlineThumb" title="December 2013 TV premieres, finales, movies and specials" /></a>
+                                <h3 class="headline  "><a href="/entertainment/tv/redeye-december-tv-2013-premieres-finales-movies-specials-20131126,0,4128983.story" target="_top" title="December 2013 TV premieres, finales, movies and specials">December 2013 TV premieres, finales, movies and specials</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      "Downton Abbey" won't be back until Jan. 5, but PBS is teasing us in December with "Return to Downton Abbey," a special about the first three seasons airing Dec. 1.
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-december-tv-2013-premieres-finales-movies-specials-20131126,0,4128983.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                <a href="/entertainment/tv/redeye-tv-picks-dec-2-to-dec-8-mob-city-bonnie-clyde-20131129,0,1257076.story" target="_top"><img src="http://www.trbimg.com/img-5299236b/turbine/redeye-tv-picks-dec-2-to-dec-8-mob-city-bonnie-clyde-20131129/187/187x105" alt="TV picks for Dec. 2 to Dec. 8: 'Mob City,' 'Bonnie &amp; Clyde' " width="187" height="105" class="headlineThumb" title="TV picks for Dec. 2 to Dec. 8: 'Mob City,' 'Bonnie &amp; Clyde' " /></a>
+                                <h3 class="headline  "><a href="/entertainment/tv/redeye-tv-picks-dec-2-to-dec-8-mob-city-bonnie-clyde-20131129,0,1257076.story" target="_top" title="TV picks for Dec. 2 to Dec. 8: 'Mob City,' 'Bonnie &amp; Clyde'">TV picks for Dec. 2 to Dec. 8: 'Mob City,' 'Bonnie & Clyde'</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      TV's theme this week appears to be outlaws with two new miniseries debuting: TNT's "Mob City" and A&E Networks' "Bonnie & Clyde." Here are some highlights from the TV schedule for Dec. 2 to Dec. 8.
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-tv-picks-dec-2-to-dec-8-mob-city-bonnie-clyde-20131129,0,1257076.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                <a href="/entertainment/tv/redeye-strike-back-origins-finale-preview-20131127,0,2796039.story" target="_top"><img src="http://www.trbimg.com/img-52967698/turbine/redeye-strike-back-origins-finale-preview-20131127/187/187x105" alt="'Strike Back: Origins' finale preview: Forgive, never forget" width="187" height="105" class="headlineThumb" title="'Strike Back: Origins' finale preview: Forgive, never forget" /></a>
+                                <h3 class="headline  "><a href="/entertainment/tv/redeye-strike-back-origins-finale-preview-20131127,0,2796039.story" target="_top" title="'Strike Back: Origins' finale preview: Forgive, never forget">'Strike Back: Origins' finale preview: Forgive, never forget</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      The final episode of "Strike Back: Origins" brings John Porter and Hugh Collinson face to face as they confront a shared past they'd rather forget.
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-strike-back-origins-finale-preview-20131127,0,2796039.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                <a href="/entertainment/tv/redeye-devin-hester-chicago-bears-man-v-cheetah-20131127,0,634254.story" target="_top"><img src="http://www.trbimg.com/img-52965d72/turbine/redeye-devin-hester-chicago-bears-man-v-cheetah-20131127/187/187x105" alt="Devin Hester races big cat in 'Man v. Cheetah'" width="187" height="105" class="headlineThumb" title="Devin Hester races big cat in 'Man v. Cheetah'" /></a>
+                                <h3 class="headline  "><a href="/entertainment/tv/redeye-devin-hester-chicago-bears-man-v-cheetah-20131127,0,634254.story" target="_top" title="Devin Hester races big cat in 'Man v. Cheetah'">Devin Hester races big cat in 'Man v. Cheetah'</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      Chicago Bears return man Devin Hester tests his speed and agility against the world's fastest land mammal in Nat Geo WILD's "Man v. Cheetah."
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-devin-hester-chicago-bears-man-v-cheetah-20131127,0,634254.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                <a href="/entertainment/tv/redeye-hot-dancers-tv-casting-call-20131126,0,7940192.story" target="_top"><img src="http://www.trbimg.com/img-52955941/turbine/redeye-hot-dancers-tv-casting-call-20131126/187/187x105" alt="'Hot' dancers sought for online casting call" width="187" height="105" class="headlineThumb" title="'Hot' dancers sought for online casting call" /></a>
+                                <h3 class="headline  "><a href="/entertainment/tv/redeye-hot-dancers-tv-casting-call-20131126,0,7940192.story" target="_top" title="'Hot' dancers sought for online casting call">'Hot' dancers sought for online casting call</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      Doron Ofir Casting is looking for male and female dancers&mdash;but you have to have a hot body and face&mdash;for a new TV project.
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-hot-dancers-tv-casting-call-20131126,0,7940192.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                <a href="/entertainment/tv/redeye-chicago-casting-call-great-norway-adventure-20131126,0,1338968.story" target="_top"><img src="http://www.trbimg.com/img-5295420a/turbine/redeye-chicago-casting-call-great-norway-adventure-20131126/187/187x105" alt=" 'Great Norway Adventure' sets Dec. 5 Chicago casting call" width="187" height="105" class="headlineThumb" title=" 'Great Norway Adventure' sets Dec. 5 Chicago casting call" /></a>
+                                <h3 class="headline  "><a href="/entertainment/tv/redeye-chicago-casting-call-great-norway-adventure-20131126,0,1338968.story" target="_top" title="'Great Norway Adventure' sets Dec. 5 Chicago casting call">'Great Norway Adventure' sets Dec. 5 Chicago casting call</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      O'Connor Casting will conduct an open casting call Dec. 5 in Chicago for "The Great Norway Adventure."
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-chicago-casting-call-great-norway-adventure-20131126,0,1338968.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                <a href="http://photos.redeyechicago.com/redeye-tv-best-dressed-characters-photos-20131126" target="_top" onclick=""><img src="http://www.trbimg.com/img-52952015/turbine/redeye-tv-best-dressed-characters-20131126/186/186x105" alt="TV's best-dressed characters" width="186" height="105" class="headlineThumb" title="TV's best-dressed characters" /></a>
+                                <h3 class="headline  "><a href="http://photos.redeyechicago.com/redeye-tv-best-dressed-characters-photos-20131126" target="_top" title="TV's best-dressed characters" onclick="">TV's best-dressed characters</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      In honor of RedEye's November of Dressing Nicely, here's a look at some of TV's best-dressed characters. Who did we miss?
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="http://photos.redeyechicago.com/redeye-tv-best-dressed-characters-photos-20131126" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                <a href="/entertainment/tv/redeye-doctor-who-christmas-special-title-photo-20131126,0,1395490.story" target="_top"><img src="http://www.trbimg.com/img-52950e14/turbine/redeye-doctor-who-christmas-special-title-photo-20131126/187/187x105" alt="'Doctor Who' Christmas special title and photo revealed" width="187" height="105" class="headlineThumb" title="'Doctor Who' Christmas special title and photo revealed" /></a>
+                                <h3 class="headline  "><a href="/entertainment/tv/redeye-doctor-who-christmas-special-title-photo-20131126,0,1395490.story" target="_top" title="'Doctor Who' Christmas special title and photo revealed">'Doctor Who' Christmas special title and photo revealed</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      Christmas is coming, and in the Whoverse all that matters is the title of "Doctor Who" Christmas special, "The Time of the Doctor."
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-doctor-who-christmas-special-title-photo-20131126,0,1395490.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                <a href="/entertainment/tv/redeye-holiday-tv-2013-holiday-specials-movies-classics-20131126,0,2035453.story" target="_top"><img src="http://www.trbimg.com/img-5294dfee/turbine/redeye-holiday-tv-2013-holiday-specials-movies-classics-20131126/187/187x105" alt="Holiday TV 2013: When to watch holiday specials, movies, classics " width="187" height="105" class="headlineThumb" title="Holiday TV 2013: When to watch holiday specials, movies, classics " /></a>
+                                <h3 class="headline  "><a href="/entertainment/tv/redeye-holiday-tv-2013-holiday-specials-movies-classics-20131126,0,2035453.story" target="_top" title="Holiday TV 2013: When to watch holiday specials, movies, classics">Holiday TV 2013: When to watch holiday specials, movies, classics</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      The holiday season is in full swing on TV. From "Rudolph the Red-Nosed Reindeer" to "A Christmas Story" and beyond, here's a schedule of when your favorite holiday classics and new specials will be on TV. (I'll add more as I find them.)
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-holiday-tv-2013-holiday-specials-movies-classics-20131126,0,2035453.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                <a href="/entertainment/tv/redeye-tv-picks-nov-25-to-dec-1-lady-gaga-walking-dead-20131125,0,4605040.story" target="_top"><img src="http://www.trbimg.com/img-5293ae65/turbine/redeye-tv-picks-nov-25-to-dec-1-lady-gaga-walking-dead-20131125/187/187x105" alt="TV picks for Nov. 25 to Dec. 1: Lady Gaga and more!" width="187" height="105" class="headlineThumb" title="TV picks for Nov. 25 to Dec. 1: Lady Gaga and more!" /></a>
+                                <h3 class="headline  "><a href="/entertainment/tv/redeye-tv-picks-nov-25-to-dec-1-lady-gaga-walking-dead-20131125,0,4605040.story" target="_top" title="TV picks for Nov. 25 to Dec. 1: Lady Gaga and more!">TV picks for Nov. 25 to Dec. 1: Lady Gaga and more!</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      Holiday specials and special holiday episodes are all the rage this week on TV, but that's not all. Here are some highlights from the TV schedule for the week of Nov. 25 to Dec. 1.
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-tv-picks-nov-25-to-dec-1-lady-gaga-walking-dead-20131125,0,4605040.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                <a href="/entertainment/tv/redeye-sherlock-teaser-pbs-benedict-cumberbatch-20131123,0,2803919.story" target="_top"><img src="http://www.trbimg.com/img-52912f18/turbine/redeye-sherlock-teaser-pbs-benedict-cumberbatch-20131123/186/186x105" alt="'Sherlock' teaser answers burning question" width="186" height="105" class="headlineThumb" title="'Sherlock' teaser answers burning question" /></a>
+                                <h3 class="headline  "><a href="/entertainment/tv/redeye-sherlock-teaser-pbs-benedict-cumberbatch-20131123,0,2803919.story" target="_top" title="'Sherlock' teaser answers burning question">'Sherlock' teaser answers burning question</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      PBS released a teaser for Season 3 of "Sherlock" on Saturday that answers one burning questions about the master detective: Sherlock lives!
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-sherlock-teaser-pbs-benedict-cumberbatch-20131123,0,2803919.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                <a href="http://photos.redeyechicago.com/redeye-doctor-who-villains-50-years-20131122" target="_top" onclick=""><img src="http://www.trbimg.com/img-52902d60/turbine/redeye-doctor-who-villains-50th-anniversary-photos-20131122/187/187x105" alt="50 years of 'Doctor Who' villains" width="187" height="105" class="headlineThumb" title="50 years of 'Doctor Who' villains" /></a>
+                                <h3 class="headline  "><a href="http://photos.redeyechicago.com/redeye-doctor-who-villains-50-years-20131122" target="_top" title="50 years of 'Doctor Who' villains" onclick="">50 years of 'Doctor Who' villains</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      From the Daleks to the Weeping Angels to The Silence, Doctor Who has battled enemies scary and scarier. Take a look at some of his most fearsome foes during his 50 years on TV,
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="http://photos.redeyechicago.com/redeye-doctor-who-villains-50-years-20131122" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                <a href="http://photos.redeyechicago.com/redeye-doctor-who-photos-11-doctors-20131122" target="_top" onclick=""><img src="http://www.trbimg.com/img-528fc002/turbine/redeye-doctor-who-photos-12-doctors-20131122/187/187x105" alt="'Doctor Who:' photos: Now all 13 Doctors!" width="187" height="105" class="headlineThumb" title="'Doctor Who:' photos: Now all 13 Doctors!" /></a>
+                                <h3 class="headline  "><a href="http://photos.redeyechicago.com/redeye-doctor-who-photos-11-doctors-20131122" target="_top" title="'Doctor Who:' photos: Now all 13 Doctors!" onclick="">'Doctor Who:' photos: Now all 13 Doctors!</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      Whovians around the world are celebrating the 50th anniversary of "Doctor Who." Here's a quick look at the 11 Doctors so far and the next Doctor.
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="http://photos.redeyechicago.com/redeye-doctor-who-photos-11-doctors-20131122" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                <a href="/entertainment/tv/redeye-doctor-who-regenerations-paul-mcgann-minisode-20131122,0,1698761.story" target="_top"><img src="http://www.trbimg.com/img-528f9dd7/turbine/redeye-doctor-who-regenerations-paul-mcgann-minisode-20131122/187/187x105" alt="Doctor Who regenerations complete--so far" width="187" height="105" class="headlineThumb" title="Doctor Who regenerations complete--so far" /></a>
+                                <h3 class="headline  "><a href="/entertainment/tv/redeye-doctor-who-regenerations-paul-mcgann-minisode-20131122,0,1698761.story" target="_top" title="Doctor Who regenerations complete--so far">Doctor Who regenerations complete--so far</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      The Eighth Doctor finally gets his regeneration scene in Steven Moffat's "Doctor Who" minisode, "The Night of the Doctor"--thus ending a 17-year wait for a complete set of regeneration scenes.
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-doctor-who-regenerations-paul-mcgann-minisode-20131122,0,1698761.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                <a href="/entertainment/tv/redeye-strike-back-origins-preview-episode-5-20131122,0,7459295.story" target="_top"><img src="http://www.trbimg.com/img-528f6fb1/turbine/redeye-strike-back-origins-preview-episode-5-20131122/187/187x105" alt="'Strike Back: Origins' preview: Not-so-friendly fire" width="187" height="105" class="headlineThumb" title="'Strike Back: Origins' preview: Not-so-friendly fire" /></a>
+                                <h3 class="headline  "><a href="/entertainment/tv/redeye-strike-back-origins-preview-episode-5-20131122,0,7459295.story" target="_top" title="'Strike Back: Origins' preview: Not-so-friendly fire">'Strike Back: Origins' preview: Not-so-friendly fire</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      "Strike Back Origins" scores another pair of top-notch guest stars when Toby Stephens and Alexander Siddig appear in its fifth episode, airing at 9 p.m. CST Nov. 22 on Cinemax.
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-strike-back-origins-preview-episode-5-20131122,0,7459295.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                <a href="/entertainment/tv/redeye-maggie-q-nikita-final-episodes-interview-20131121,0,6902812.story" target="_top"><img src="http://www.trbimg.com/img-528e7a0b/turbine/redeye-maggie-q-nikita-final-episodes-interview-20131121/187/187x105" alt="Maggie Q: 'Nikita' goes out with a bang" width="187" height="105" class="headlineThumb" title="Maggie Q: 'Nikita' goes out with a bang" /></a>
+                                <h3 class="headline  "><a href="/entertainment/tv/redeye-maggie-q-nikita-final-episodes-interview-20131121,0,6902812.story" target="_top" title="Maggie Q: 'Nikita' goes out with a bang">Maggie Q: 'Nikita' goes out with a bang</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      Maggie Q charmed everyone at The CW's 2010 Upfront presentation with her sweet, funny introduction of her first TV series, "Nikita."
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-maggie-q-nikita-final-episodes-interview-20131121,0,6902812.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                <a href="/entertainment/tv/redeye-american-horror-story-coven-recap-episode-7-dead-20131121,0,5009798.story" target="_top"><img src="http://www.trbimg.com/img-528e16c4/turbine/redeye-american-horror-story-coven-recap-episode-7-dead-20131121/187/187x105" alt="'American Horror Story: Coven' recap, Ep. 7, 'The Dead'" width="187" height="105" class="headlineThumb" title="'American Horror Story: Coven' recap, Ep. 7, 'The Dead'" /></a>
+                                <h3 class="headline  "><a href="/entertainment/tv/redeye-american-horror-story-coven-recap-episode-7-dead-20131121,0,5009798.story" target="_top" title="'American Horror Story: Coven' recap, Ep. 7, 'The Dead'">'American Horror Story: Coven' recap, Ep. 7, 'The Dead'</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      A lot of tongues were wagging in "American Horror Story: Coven," Chapter 7, "The Dead." 
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-american-horror-story-coven-recap-episode-7-dead-20131121,0,5009798.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                <a href="/entertainment/tv/redeye-mike-tyson-interview-undisputed-truth-book-hbo-special-20131119,0,7337791.story" target="_top"><img src="http://www.trbimg.com/img-528c02cb/turbine/redeye-mike-tyson-interview-undisputed-truth-book-hbo-special-20131119/187/187x105" alt="Mike Tyson pulls no punches in book, HBO special" width="187" height="105" class="headlineThumb" title="Mike Tyson pulls no punches in book, HBO special" /></a>
+                                <h3 class="headline  "><a href="/entertainment/tv/redeye-mike-tyson-interview-undisputed-truth-book-hbo-special-20131119,0,7337791.story" target="_top" title="Mike Tyson pulls no punches in book, HBO special">Mike Tyson pulls no punches in book, HBO special</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      Mike Tyson is currently baring his soul to the world in an HBO special and a new memoir, both titled "Undisputed Truth." He's just not sure how he'll explain his shocking life story to his children.
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-mike-tyson-interview-undisputed-truth-book-hbo-special-20131119,0,7337791.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                <a href="/entertainment/tv/redeye-shirley-maclaine-downton-abbey-castle-haunted-20131119,0,4872067.story" target="_top"><img src="http://www.trbimg.com/img-528bcbb3/turbine/redeye-shirley-maclaine-downton-abbey-castle-haunted-20131119/187/187x105" alt="Shirley Maclaine says 'Downton Abbey' castle is haunted" width="187" height="105" class="headlineThumb" title="Shirley Maclaine says 'Downton Abbey' castle is haunted" /></a>
+                                <h3 class="headline  "><a href="/entertainment/tv/redeye-shirley-maclaine-downton-abbey-castle-haunted-20131119,0,4872067.story" target="_top" title="Shirley Maclaine says 'Downton Abbey' castle is haunted">Shirley Maclaine says 'Downton Abbey' castle is haunted</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      Shirley Maclaine gives up a "Downton Abbey" secret on Wednesday's episode of "Katie," telling Couric that spirits haunt Highclere Castle, where "Downton" is filmed.
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-shirley-maclaine-downton-abbey-castle-haunted-20131119,0,4872067.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                <a href="/entertainment/tv/redeye-kanye-west-kim-kardashian-ellen-degeneres-show-interview-20131119,0,572472.story" target="_top"><img src="http://www.trbimg.com/img-528b8411/turbine/redeye-kanye-west-kim-kardashian-ellen-degeneres-show-interview-20131119/187/187x105" alt="Kanye West talks Kimye, baby with Ellen DeGeneres" width="187" height="105" class="headlineThumb" title="Kanye West talks Kimye, baby with Ellen DeGeneres" /></a>
+                                <h3 class="headline  "><a href="/entertainment/tv/redeye-kanye-west-kim-kardashian-ellen-degeneres-show-interview-20131119,0,572472.story" target="_top" title="Kanye West talks Kimye, baby with Ellen DeGeneres">Kanye West talks Kimye, baby with Ellen DeGeneres</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      Kanye West professes his love for Kim Kardashian to Ellen DeGeneres on Tuesday, but avoids the "jump-up-on-the-couch moment."
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-kanye-west-kim-kardashian-ellen-degeneres-show-interview-20131119,0,572472.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                <a href="/entertainment/tv/redeye-marvels-agents-of-shield-preview-the-well-20131118,0,673281.story" target="_top"><img src="http://www.trbimg.com/img-528ab484/turbine/redeye-marvels-agents-of-shield-preview-the-well-20131118/187/187x105" alt="Marvel worlds collide in latest 'Agents of S.H.I.E.L.D.'" width="187" height="105" class="headlineThumb" title="Marvel worlds collide in latest 'Agents of S.H.I.E.L.D.'" /></a>
+                                <h3 class="headline  "><a href="/entertainment/tv/redeye-marvels-agents-of-shield-preview-the-well-20131118,0,673281.story" target="_top" title="Marvel worlds collide in latest 'Agents of S.H.I.E.L.D.'">Marvel worlds collide in latest 'Agents of S.H.I.E.L.D.'</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      The Marvel movie and TV worlds collide again in the next episode of "Marvel's Agents of S.H.I.E.L.D.," and star Chloe Bennet promises fans will love it.
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-marvels-agents-of-shield-preview-the-well-20131118,0,673281.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                <a href="/entertainment/tv/redeye-chloe-bennet-marvels-agents-of-shield-interview-20131118,0,7854465.story" target="_top"><img src="http://www.trbimg.com/img-528ab1bf/turbine/redeye-chloe-bennet-marvels-agents-of-shield-interview-20131118/187/187x105" alt=" 'S.H.I.E.L.D.' star Chloe Bennet ready for Chicago homecoming" width="187" height="105" class="headlineThumb" title=" 'S.H.I.E.L.D.' star Chloe Bennet ready for Chicago homecoming" /></a>
+                                <h3 class="headline  "><a href="/entertainment/tv/redeye-chloe-bennet-marvels-agents-of-shield-interview-20131118,0,7854465.story" target="_top" title="'S.H.I.E.L.D.' star Chloe Bennet ready for Chicago homecoming">'S.H.I.E.L.D.' star Chloe Bennet ready for Chicago homecoming</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      Chloe Bennet can't wait to take a break from saving the world to celebrate Thanksgiving with her family in Chicago.
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-chloe-bennet-marvels-agents-of-shield-interview-20131118,0,7854465.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                <a href="/entertainment/tv/redeye-sesame-street-hunger-games-spoof-video-20131118,0,7001728.story" target="_top"><img src="http://www.trbimg.com/img-528a6632/turbine/redeye-sesame-street-hunger-games-spoof-video-20131118/187/187x105" alt="Sesame Street spoofs 'Hunger Games' in video" width="187" height="105" class="headlineThumb" title="Sesame Street spoofs 'Hunger Games' in video" /></a>
+                                <h3 class="headline  "><a href="/entertainment/tv/redeye-sesame-street-hunger-games-spoof-video-20131118,0,7001728.story" target="_top" title="Sesame Street spoofs 'Hunger Games' in video">Sesame Street spoofs 'Hunger Games' in video</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      Seasame Street is getting in on the "Hunger Games" craze with a spoof video called "Hungry Games&ndash;Catching Fur."
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-sesame-street-hunger-games-spoof-video-20131118,0,7001728.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                
+                                <h3 class="headline  "><a href="/entertainment/tv/redeye-chicagoans-bravo-reality-series-100-days-of-summer-20131118,0,1731661.story" target="_top" title="Chicagoans star in new Bravo reality series">Chicagoans star in new Bravo reality series</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      Six successful Chicagoans are starring in the upcoming reality series "100 Days of Summer," which will debut Jan. 7 on Bravo.
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-chicagoans-bravo-reality-series-100-days-of-summer-20131118,0,1731661.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                
+                                <h3 class="headline  "><a href="/entertainment/tv/redeye-tv-picks-for-november-18-to-24-doctor-who-betas-20131117,0,292332.story" target="_top" title="TV picks for Nov. 18 to Nov. 24: 'Doctor Who,' 'Betas'">TV picks for Nov. 18 to Nov. 24: 'Doctor Who,' 'Betas'</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      It's "Doctor Who" anniversary week, so tune to BBC America for a lot of new programming including the 50th anniversary movie on Saturday. Here's a look at what's coming on TV for the week of Nov. 18-24.
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-tv-picks-for-november-18-to-24-doctor-who-betas-20131117,0,292332.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                
+                                <h3 class="headline  "><a href="/entertainment/tv/redeye-almost-human-micheal-ealy-karl-urban-interview-20131117,0,1810236.story" target="_top" title="'Almost Human' stars Ealy, Urban fascinated by show's tech">'Almost Human' stars Ealy, Urban fascinated by show's tech</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      The new Fox series "Almost Human" on Sunday introduced us to 2048 Los Angeles, where it is commonplace for robots to be partnered with human police officers to fight crime.
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-almost-human-micheal-ealy-karl-urban-interview-20131117,0,1810236.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                
+                                <h3 class="headline  "><a href="http://photos.redeyechicago.com/redeye-doctor-who-50th-anniversary-special-1st-photos-tv-20131015" target="_top" title="Photos: 'Doctor Who: The Day of the Doctor'" onclick="">Photos: 'Doctor Who: The Day of the Doctor'</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      BBC America on Sunday released new images from the "Doctor Who" 50th Anniversary episode "The Day of the Doctor," airing worldwide Nov. 23.
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="http://photos.redeyechicago.com/redeye-doctor-who-50th-anniversary-special-1st-photos-tv-20131015" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                
+                                <h3 class="headline  "><a href="/entertainment/tv/redeye-netflix-revives-the-killing-20131115,0,105818.story" target="_top" title="Netlix revives 'The Killing'">Netlix revives 'The Killing'</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      They just can't kill off "The Killing." The twice-dead series is getting and fourth season thanks to Netflix.
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-netflix-revives-the-killing-20131115,0,105818.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                
+                                <h3 class="headline  "><a href="/entertainment/tv/redeye-strike-back-origins-preview-episode-4-20131115,0,6869472.story" target="_top" title="'Strike Back: Origins' preview: Porter on the run">'Strike Back: Origins' preview: Porter on the run</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      John Porter and Felix Masuku are on the run in the fourth episode of "Strike Back: Origins," debuting at 9 p.m. CST Nov. 11 on Cinemax.
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-strike-back-origins-preview-episode-4-20131115,0,6869472.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                
+                                <h3 class="headline  "><a href="/entertainment/tv/redeye-spoils-of-babylon-trailer-tobey-maguire-ifc-20131114,0,7326837.story" target="_top" title="New 'Spoils of Babylon' trailer tells Tobey Maguire's story">New 'Spoils of Babylon' trailer tells Tobey Maguire's story</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      IFC has released a new trailer for its miniseries parody "The Spoils of Babylon," starring Tobey Maguire as Devon Morehouse.
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-spoils-of-babylon-trailer-tobey-maguire-ifc-20131114,0,7326837.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                
+                                <h3 class="headline  "><a href="/entertainment/tv/redeye-american-horror-story-coven-recap-axeman-cometh-20131113,0,5342224.story" target="_top" title="'American Horror Story: Coven' recap, Ep. 6, 'The Axeman Cometh'">'American Horror Story: Coven' recap, Ep. 6, 'The Axeman Cometh'</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      "American Horror Story: Coven" conjures up another real-life character in Chapter 6, "The Axeman Cometh."
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-american-horror-story-coven-recap-axeman-cometh-20131113,0,5342224.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                
+                                <h3 class="headline  "><a href="/entertainment/tv/redeye-casting-reality-tv-shows-20131113,0,82854.story" target="_top" title="Casting calls from reality TV shows 'Under One Roof,' 'Ruined My Life'">Casting calls from reality TV shows 'Under One Roof,' 'Ruined My Life'</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      Doron Ofir Casting is looking for possible cast members of two upcoming reality TV shows. Here are the details.
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-casting-reality-tv-shows-20131113,0,82854.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                
+                                <h3 class="headline  "><a href="/entertainment/tv/redeye-bellamy-young-scandal-first-lady-20131112,0,2043054.story" target="_top" title="Bellamy Young gives 'Scandal' first lady an edge">Bellamy Young gives 'Scandal' first lady an edge</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      So much happens in one episode of ABC's hit drama "Scandal," it's hard to point a finger at one actor and say "scene-stealer." Yet Bellamy Young has been something of a thief this season.
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-bellamy-young-scandal-first-lady-20131112,0,2043054.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                
+                                <h3 class="headline  "><a href="/entertainment/tv/redeye-bellamy-young-scandal-fun-qa-20131112,0,1087633.story" target="_top" title="Fun with 'Scandal' star Bellamy Young">Fun with 'Scandal' star Bellamy Young</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      Bellamy Young worked late one Friday in October, delaying our phone interview a bit but apologizing when we did connect. It didn't matter. Not only is she the first lady, she's also a talker&mdash;as am I. We talked and talked and she graciously answered even these random questions about her and her...
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-bellamy-young-scandal-fun-qa-20131112,0,1087633.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                
+                                <h3 class="headline  "><a href="/entertainment/tv/redeye-scandal-bellamy-young-favorite-mellie-speeches-20131112,0,2209205.story" target="_top" title="Bellamy Young's most 'Scandal'-ous Mellie speeches">Bellamy Young's most 'Scandal'-ous Mellie speeches</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      "Scandal" star Bellamy Young shares her favorite speeches delivered as first lady Mellie Grant on the ABC hit. One of them comes in the Nov. 14 episode, called "Everything's Coming Up Mellie," so we can't really talk about what happens, but Young did tell us why she loved the speech.
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-scandal-bellamy-young-favorite-mellie-speeches-20131112,0,2209205.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                
+                                <h3 class="headline  "><a href="/entertainment/tv/redeye-stevie-nicks-american-horror-story-coven-20131112,0,6114089.story" target="_top" title="Stevie Nicks to guest star on 'American Horror Story: Coven'">Stevie Nicks to guest star on 'American Horror Story: Coven'</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      "American Horror Story: Coven" is getting more than Stevie Nicks music. The legendary rocker is set to guest star on the FX show, series creator Ryan Murphy tweeted Tuesday.
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-stevie-nicks-american-horror-story-coven-20131112,0,6114089.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                
+                                <h3 class="headline  "><a href="/entertainment/tv/redeye-frankenfood-casting-call-spike-tv-20131112,0,493065.story" target="_top" title="Spike TV casting for 'Frankenfood' competition series">Spike TV casting for 'Frankenfood' competition series</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      Spike TV is launching a competition for creative cooks who like to mix unlikely ingredients, and its "Frankenfood" show is looking for contestants.
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-frankenfood-casting-call-spike-tv-20131112,0,493065.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos inLine  briefRight ">
+                              
+                                
+                                <h4 class="headline  "><a href="/entertainment/tv/redeye-almost-human-tv-review-sci-fi-procedural-robromance-20131111,0,767093.story" target="_top" title="'Almost Human' review: Rousing robromance">'Almost Human' review: Rousing robromance</a></h4>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                      <span>
+                                    
+                                            
+
+
+
+
+
+
+
+
+
+
+                                    
+                                       </span>
+                                    
+                                    
+                                </span>
+                              
+                              
+                                <p class="defaultHeadlinesBrief">
+                                      The futuristic new series "Almost Human" (7 p.m. Nov. 17 and 18, Fox; 3.5 stars out of 4) has a future more promising than the one it depicts.
+                                    </p>
+                                  
+
+                                  	
+                                	
+									 
+                                  	
+
+
+                                  
+                                      <span class="more"><a href="/entertainment/tv/redeye-almost-human-tv-review-sci-fi-procedural-robromance-20131111,0,767093.story" target="_top" class="callToAction">MORE<em>>></em></a> </span>
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+
+
+    <div class="clear"></div>
+    
+        <div class="clear"></div>
+       </div>
+  </div>
+    <div class="curvedBottom">
+      <div></div>
+    </div>
+</div>
+
+        
+    </div>
+    <div id="topRightNarrow" class="narrow">
+        <div>
+    		
+        		
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+
+<div class="zap2it module">
+
+    
+    
+    <script type="text/javascript">var divName = "zap-whatsonnight";</script>
+    <script type="text/javascript" src="http://api.zap2it.com/tvlistings/webservices/primetimeGrid?rty=html&aid=chi&zip=60611&stnlt=11670,11653,11299,11438,11474"></script>
+
+    <!--<div id="zap-whatsonnight">
+        <script type="text/javascript">
+            buildXHTML("zap-whatsonnight");
+        </script>
+    </div>-->
+    
+
+	
+	<div id="tms_widget_nationalad">
+	<div id="tms_widget_nationalad2">
+	<script language="JavaScript" type="text/javascript">
+	if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
+	document.write('<script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/trb.zap2it/ntl/wan;af=chi;sz=234x60;ord=' + ord + '?" type="text/javascript"><\/script>');
+	</script><script language="JavaScript" type="text/javascript">
+	if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0)|| navigator.userAgent.indexOf("WebTV") >= 0) 
+	{document.write('<a href="http://ad.doubleclick.net/jump/trb.zap2it/ntl/wan;af=chi;sz=234x60;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/trb.zap2it/ntl/wan;af=chi;sz=234x60;ord=123456789?" width="234" height="60" border="0" alt=""><\/a>');}
+	</script>
+	<noscript><a href="http://ad.doubleclick.net/jump/trb.zap2it/ntl/wan;af=chi;sz=234x60;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/trb.zap2it/ntl/wan;af=chi;sz=234x60;ord=123456789?" width="234" height="60" border="0" alt=""></a></noscript>
+	</div></div>
+	
+    
+     <div id="tms_widget_footer_wrap">
+        
+        <div id="tms_widget_footer">
+                <a target="_blank" href="http://tvlistings.zap2it.com/">TV listings</a>
+                powered by <a target="_blank" href="http://www.zap2it.com/">Zap2it</a>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>
+			
+    	</div>
+       
+ 		<table class="cubeAd">
+            
+            <tr>
+                <td valign="middle">
+                    <div class="miscAd cube">
+                    
+                        <script type='text/javascript'>function readCookie(name) {   var nameEQ = name + "=";   var ca = document.cookie.split(';');   for(var i=0;i < ca.length;i++) {   var c = ca[i];   while (c.charAt(0)==' ') c = c.substring(1,c.length);   if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);   }   return null;   }   var x = readCookie('c_mId');   if (x)  {   try {if (typeof adTargetConsumerInfo == 'undefined') {document.write('<scr'+'ipt type="text/javascript" src="include-member-ad.javascript"></scr'+'ipt>');   }   } catch(err) {}}   else {var adTargetConsumerInfo = ';rg=ur';var adTargetYieldExInfo = '';}</script><script type='text/javascript'>   var ordString=';ord=' + cachebuster;   var scriptSrc='http://ad.doubleclick.net/N4011/adj/trb.redeyechicago/ent/tv;;ptype=sf;pos=1;sz=300x250,336x280;tile=2;';   var noscriptHref='http://ad.doubleclick.net/N4011/jump/trb.redeyechicago/ent/tv;;ptype=sf;pos=1;sz=300x250,336x280;tile=2?" target="_blank" rel="nofollow"';   var noscriptSrc='http://ad.doubleclick.net/N4011/ad/trb.redeyechicago/ent/tv;;ptype=sf;pos=1;sz=300x250,336x280;tile=2?" width="336" height="280" border="0" alt=""';   var noscriptHrefEndOfStr=' target="_blank" rel="nofollow"';   var noscriptSrcEndOfString=' width="336" height="280" border="0" alt=""';   indexOfHrefQuestion='116';   indexOfLastImgSrcQuestion='114';   var yieldExParam=';u=';   var ptypeStr='ptype|sf!';   var posStr='pos|1!';   var revenueScienceStr='';   var sizeStr='sz|300x250^336x280!';   try {       if (adTargetConsumerInfo != undefined && adTargetYieldExInfo != undefined) {           scriptSrc = scriptSrc.substring(0, scriptSrc.length -1) + adTargetConsumerInfo + yieldExParam + ptypeStr + posStr + sizeStr + revenueScienceStr + adTargetYieldExInfo + amzn_targs + ordString + '?';           noscriptHref = noscriptHref.substring(0, indexOfHrefQuestion) + adTargetConsumerInfo + yieldExParam + ptypeStr + posStr + sizeStr + revenueScienceStr + adTargetYieldExInfo + amzn_targs + ordString + '?' + noscriptHrefEndOfStr;           noscriptSrc = noscriptSrc.substring(0, indexOfLastImgSrcQuestion) + adTargetConsumerInfo + yieldExParam + ptypeStr + posStr + sizeStr + revenueScienceStr + adTargetYieldExInfo + amzn_targs + ordString + '?' + noscriptSrcEndOfString;       }   } catch(err) {}   document.write('<scr'+'ipt type="text/javascript" src="'+scriptSrc+'"></scr'+'ipt>');   document.write('<noscript><a href="'+noscriptHref+'><img scr="'+noscriptSrc+'></a></noscript>');</script>
+                    
+                    </div>
+                </td>
+            </tr>
+        </table> 
+		
+		
+		
+    	<div>
+    		
+        		
+
+
+
+
+
+
+
+<!-- P2P shared content module: pulling in contents of "tribbit-rightrailtop" dropzone from 1482, /about/sectionrails -->
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+  <div class="module blurb">
+   <!--/* OpenX IFrame tag */-->
+<center>
+<iframe style="margin-bottom: 10px;" id="5191387080bb4" name="5191387080bb4" src="http://ox-d.advansenow.com/w/1.0/afr?auid=417434&cb=INSERT_RANDOM_NUMBER_HERE" frameBorder="0" frameSpacing="0" scrolling="no" width="320" height="400"><a href="http://ox-d.advansenow.com/w/1.0/rc?cs=5191387080bb4&cb=INSERT_RANDOM_NUMBER_HERE" ><img src="http://ox-d.advansenow.com/w/1.0/ai?auid=417434&cs=5191387080bb4&cb=INSERT_RANDOM_NUMBER_HERE" border="0" alt=""></a></iframe>
+</center>
+
+  </div>
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+			
+        		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2 class="sectiontitle " style="">Video gallery</h2>
+
+
+
+
+
+
+  <div class="clear"></div>
+
+
+
+			
+        		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+  <div class="module blurb">
+   <center>
+<div class="textwidget" id="ndn_sliding_launcher">
+                <script
+                                type="text/javascript"
+                                src="http://embed.newsinc.com/TopPicks/embed.js?&wid=6693&cid=1252&freewheel=90921&sitesection=redeyechicago_ent&parent=ndn_sliding_launcher">
+                </script>
+</div>
+</center>
+<br>
+  </div>
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+			
+        		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+  <div class="module blurb">
+   <script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'search',
+  search: 'from:showpatrol',
+  interval: 6000,
+  title: 'Tweets from',
+  subject: 'Curt Wagner',
+  width: 300,
+  height: 300,
+  theme: {
+    shell: {
+      background: '#000000',
+      color: '#ffffff'
+    },
+    tweets: {
+      background: '#ffffff',
+      color: '#000000',
+      links: '#1985b5'
+    }
+  },
+  features: {
+    scrollbar: false,
+    loop: true,
+    live: true,
+    hashtags: true,
+    timestamp: true,
+    avatars: true,
+    toptweets: true,
+    behavior: 'default'
+  }
+}).render().start();
+</script>
+<br>
+  </div>
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+			
+        		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+     
+
+
+
+<div class="module headlines defaultHeadlines  headColumn1 railHeadlines  " style=";">
+  <div class="curvedTop">
+  <div class="openCurve"></div>
+  <div class="curvedContent">
+    
+  <div class="titleContainer"><h2 class="title ">More TV</h2></div>
+    
+
+    
+
+    
+  
+                <div class="headlineItem rightHeadlinePos   briefRight ">
+                              
+                                <a href="/entertainment/tv/la-et-st-classic-hollywood-mary-hartman20131202,0,566850.story" target="_top"><img src="http://www.trbimg.com/img-529bfd34/turbine/la-et-trio-classic-life-after-mary-hartman-pictures/101/101x56" alt="Life after 'Mary Hartman'" width="101" height="56" class="headlineThumb" title="Life after 'Mary Hartman'" /></a>
+                                <h2 class="headline  "><a href="/entertainment/tv/la-et-st-classic-hollywood-mary-hartman20131202,0,566850.story" target="_top" title="'Mary Hartman,' one more time">'Mary Hartman,' one more time</a></h2>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                    
+                                </span>
+                              
+                              
+                                
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos   briefRight ">
+                              
+                                <a href="/entertainment/tv/la-et-mn-michael-richards-conversation-20131201,0,294328.story" target="_top"><img src="http://www.trbimg.com/img-529902a6/turbine/la-et-mn-michael-richards-conversation-20131201/101/101x56" alt="Michael Richards goes for a drive" width="101" height="56" class="headlineThumb" title="Michael Richards goes for a drive" /></a>
+                                <h3 class="headline  "><a href="/entertainment/tv/la-et-mn-michael-richards-conversation-20131201,0,294328.story" target="_top" title="Michael Richards goes for a drive">Michael Richards goes for a drive</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                    
+                                </span>
+                              
+                              
+                                
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos   briefRight ">
+                              
+                                
+                                <h3 class="headline  "><a href="/entertainment/tv/la-et-st-holiday-programs-20131128,0,2510050.story" target="_top" title="Holiday TV programming: From Kelly Clarkson to Robot Chicken">Holiday TV programming: From Kelly Clarkson to Robot Chicken</a></h3>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                    
+                                </span>
+                              
+                              
+                                
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+                <div class="headlineItem rightHeadlinePos   briefRight ">
+                              
+                                <a href="/entertainment/tv/la-et-st-charlie-brown-classic-hollywood-20131125,0,977158.story" target="_top"><img src="http://www.trbimg.com/img-5292e1ab/turbine/la-et-trio-peanuts-on-tv-charlie-brown-pictures/101/101x56" alt="'Peanuts' on TV: Three classic 'Charlie Brown' animated specials" width="101" height="56" class="headlineThumb" title="'Peanuts' on TV: Three classic 'Charlie Brown' animated specials" /></a>
+                                <h4 class="headline  "><a href="/entertainment/tv/la-et-st-charlie-brown-classic-hollywood-20131125,0,977158.story" target="_top" title="The recipe for 'A Charlie Brown Thanksgiving'">The recipe for 'A Charlie Brown Thanksgiving'</a></h4>
+                              
+
+                              
+
+                              
+                                <span class="update-source">
+                                    
+                                    
+                                </span>
+                              
+                              
+                                
+                              
+                              
+                              
+                              <div class="clear"></div>
+                            </div>
+            
+
+
+    <div class="clear"></div>
+    
+        <div class="clear"></div>
+       </div>
+  </div>
+    <div class="curvedBottom">
+      <div></div>
+    </div>
+</div>
+
+			
+    	</div>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+
+		
+		
+
+	    
+    	<div>
+    		
+    	</div>
+    </div>
+    <div class="clear"></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+	
+    <div style="clear: both;" />
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+ 
+
+
+  
+
+
+
+
+
+
+<script type='text/javascript'>
+var _sf_async_config={};
+/** CONFIGURATION START **/
+
+_sf_async_config.uid = 32297;
+_sf_async_config.domain = 'www.redeyechicago.com';
+
+
+
+_sf_async_config.sections = 'entertainment,tv';
+
+
+_sf_async_config.authors = '';
+/** CONFIGURATION END **/
+(function(){
+function loadChartbeat() { window._sf_endpt=(new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src', (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') + 'js/chartbeat.js'); document.body.appendChild(e); }
+var oldonload = window.onload;
+window.onload = (typeof window.onload != 'function') ?
+loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+		
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="footer">
+   
+   <div id="footerContainer">
+<div id="footerlogo">
+<a href="/">
+
+<img src="http://redeye.trb.com/media/graphic/2011-02/59701003.jpg" alt="RedEye footer graphic" width="180" height="100" id="siteFooter" title="RedEye footer graphic" />
+
+</a>
+</div>
+<div id="footertext">
+<ul>
+
+<li class="nav">
+
+
+
+<ul class="links">
+
+
+
+<li id="footer-item-1" class="firstMenuItem"><a href="http://435digital.com/"  target="_blank">435 Digital</a></li>
+
+
+
+
+
+
+
+
+
+
+<li id="footer-item-2" class=""><a href="http://www.chicagonow.com/"  target="_blank">ChicagoNow</a></li>
+
+
+
+
+
+
+
+
+
+
+<li id="footer-item-3" class=""><a href="http://www.chicagomag.com/"  target="_blank">Chicago Magazine</a></li>
+
+
+
+
+
+
+
+
+
+
+<li id="footer-item-4" class=""><a href="http://www.chicagoshopping.com/"  target="_parent">Chicago Shopping</a></li>
+
+
+
+
+
+
+
+
+
+
+<li id="footer-item-5" class=""><a href="http://www.chicagoweathercenter.com"  target="_blank">Chicago Weather Center</a></li>
+
+
+
+
+
+
+
+
+
+
+<li id="footer-item-6" class=""><a href="http://www.cltv.com/"  target="_blank">CLTV</a></li>
+
+
+
+
+
+
+
+
+
+
+<li id="footer-item-7" class=""><a href="http://www.themash.com/"  target="_blank">The Mash</a></li>
+
+
+
+
+
+
+
+
+
+
+<li id="footer-item-8" class=""><a href="http://chicago.metromix.com/"  target="_blank">Metromix</a></li>
+
+
+
+
+
+
+
+
+
+
+<li id="footer-item-9" class=""><a href="http://triblocal.com/"  target="_parent">Triblocal</a></li>
+
+
+
+
+
+
+
+
+
+<li id="footer-item-10" ><a href="/chi-tribune-events-group-link,0,1414338.storylink" target="_parent">Tribune Events Group</a></li>
+
+
+
+
+
+
+
+
+
+
+
+<li id="footer-item-11" class=""><a href="http://www.vivelohoy.com/"  target="_blank">Vivelo Hoy</a></li>
+
+
+
+
+
+
+
+
+
+
+<li id="footer-item-12" class=""><a href="http://www.wgnam.com/"  target="_blank">WGN Radio</a></li>
+
+
+
+
+
+
+
+
+
+
+<li id="footer-item-13" class="lastMenuItem"><a href="http://www.wgntv.com/"  target="_blank">WGN-TV</a></li>
+</ul>
+
+
+
+
+
+<ul class="links">
+
+
+
+<li id="footer-item-1" class="firstMenuItem"><a href="http://privacy.tribune.com"  target="_blank">Privacy Policy</a></li>
+
+
+
+
+
+
+
+
+
+<li id="footer-item-2" ><a href="/redeye-terms-of-service,0,549530.htmlstory" target="_parent">Terms of Service</a></li>
+
+
+
+
+
+
+
+
+
+
+<li id="footer-item-3" ><a href="/redeye-report-problem,0,1411790.story" target="_parent">Report a problem</a></li>
+
+
+
+
+
+
+
+
+
+
+<li id="footer-item-4" ><a href="/redeye-opportunities-at-redeye-20110301,0,4157579.story" target="_parent">Opportunities at RedEye</a></li>
+
+
+
+
+
+
+
+
+
+
+<li id="footer-item-5" ><a href="/redeye-careers-footer-link,0,5101556.storylink" target="_parent">Tribune Careers</a></li>
+
+
+
+
+
+
+
+
+
+
+<li id="footer-item-6" ><a href="/redeye-missed-connections-20120621,0,1501524.storylink" target="_parent">Missed Connections</a></li>
+
+
+
+
+
+
+
+
+
+
+<li id="footer-item-7" ><a href="/redeye-advertise-with-redeye-20110222,0,2006318.story" target="_parent">Advertise with RedEye</a></li>
+
+
+
+
+
+
+
+
+
+
+<li id="footer-item-8" ><a href="/redeye-meet-the-redeye-chicago-staff-20130121,0,4768039.htmlpage" target="_parent">Meet/contact our staff</a></li>
+
+
+
+
+
+
+
+
+
+
+<li id="footer-item-9" ><a href="/re-faqs-footer-link,0,1402414.htmlstory" target="_parent">Frequently Asked Questions</a></li>
+
+
+
+
+
+
+
+
+
+
+<li id="footer-item-10" ><a href="/redeye-daily-interactive-crossword-20120403,0,3262038.storylink" target="_parent">Crossword</a></li>
+
+
+
+
+
+
+
+
+
+
+<li id="footer-item-11" ><a href="/redeye-todays-paper-20110225,0,5366833.htmlstory" target="_parent">Today's paper</a></li>
+
+
+
+
+
+
+
+
+
+
+<li id="footer-item-12" ><a href="/redeye-rss-link,0,1747129.storylink" target="_parent">RSS</a></li>
+
+
+
+
+
+
+
+
+
+
+
+<li id="footer-item-13" class=""><a href="http://www.redeyechicago.com/about/mobile/"  target="_parent">Mobile</a></li>
+
+
+
+
+
+
+
+
+
+
+<li id="footer-item-14" class=""><a href="http://blogs.redeyechicago.com/"  target="_parent">Blogs</a></li>
+
+
+
+
+
+
+
+
+
+
+<li id="footer-item-15" class=""><a href="https://subscribe.redeyechicago.com/subscribe.htm"  target="_parent">Subscribe</a></li>
+
+
+
+
+
+
+
+
+
+<li id="footer-item-16" ><a href="/redeye-newsletters-20110526,0,1657744.storylink" target="_parent">Newsletters</a></li>
+
+
+
+
+
+
+
+
+
+
+
+<li id="footer-item-17" class=""><a href="http://www.facebook.com/TheRedEye"  target="_parent">Facebook.com/TheRedEye</a></li>
+
+
+
+
+
+
+
+
+
+
+<li id="footer-item-18" class=""><a href="http://twitter.com/#!/redeyechicago"  target="_parent">Twitter: @redeyechicago</a></li>
+
+
+
+
+
+
+
+
+
+
+<li id="footer-item-19" class="lastMenuItem"><a href="#"  target="_blank">RedEye, 435 N. Michigan Ave., Chicago, IL 60611</a></li>
+</ul>
+
+
+
+</li>
+
+
+<li>
+
+</li>
+
+</ul>
+</div>
+
+  <div class="clear"></div>
+  
+    <div class="family">
+      <a href="http://www.tribune.com/" target="_parent">A Tribune Newspaper website</a>
+    </div>
+  
+
+</div>
+</div>
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script language="JavaScript">
+
+    var s_account = "tribglobal";
+</script>
+
+
+    
+		
+
+ 
+     
+
+    
+
+
+
+
+
+
+
+
+
+
+ 
+
+<!-- START OMNITURE // hive:metrics-tribune -->
+<!-- SiteCatalyst code version: H.1.
+Copyright 1997-2005 Omniture, Inc. More info available at
+http://www.omniture.com -->
+
+
+ 
+
+
+<script type="text/javascript">adblock=true;</script>
+<script type="text/javascript" src="/hive/javascripts/metrics/adframe.js"></script>
+<script type="text/javascript" src="/hive/javascripts/metrics/s_code_trb.js"></script>
+
+
+<script language="JavaScript">
+
+
+        		
+        		s.pageName="RedEye / entertainment / tv - Front.";
+        		s.prop38="Front";
+		s.eVar21="Front";
+        		
+	s.server="redeyechicago.com"; 
+	  s.channel="RedEye:entertainment";
+
+s.prop3="";
+
+( function(){
+	if( window.registration && window.registration.user && window.registration.user.isLoggedIn()){
+		s.prop28 = registration.getMetricsId();
+	}	else if ( window.carnival ) {
+   		var carnival_username_c_unm = readCookie('c_unm');
+   		var carnival_masterid_c_mid = carnival.metrics.getMetricsId();
+   		if( carnival_username_c_unm!=null && carnival_masterid_c_mid ){
+   			s.prop28 = carnival_masterid_c_mid;
+   		}
+  }
+
+ 	if( !s.prop28 ){
+ 		s.prop28 = ""; 
+ 	}
+})();
+
+s.prop32="";
+
+/* Taxonomy Variables */
+s.prop46="";
+
+/* E-commerce Variables */
+s.events=""; 
+
+
+/* P2P blog variables */
+
+	s.prop52=s.pageName;
+
+
+s.eVar20="RedEye";
+
+	s.hier1="RedEye:entertainment:tv"; 
+		s.hier2="entertainment:tv";
+		s.hier4="entertainment:tv";
+	
+	
+	s.prop44="";
+
+if(adblock)
+{
+	s.prop54="ad blocking";
+}
+
+
+
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code) 
+-->  
+</script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.1. -->
+
+
+
+
+
+
+
+
+
+
+
+<!-- START REVENUE SCIENCE PIXELLING CODE -->
+<script src="http://js.revsci.net/gateway/gw.js?csid=B08725"></script>
+<script>
+DM_addEncToLoc("Site", (s.server));
+DM_addEncToLoc("channel", (s.channel));
+DM_addEncToLoc("keyword", (s.prop3));
+DM_cat(s.hier1);
+DM_tag();
+</script>
+<!-- END REVENUE SCIENCE PIXELLING CODE -->
+
+
+
+
+<script type="text/javascript">
+    (function() { 
+	   var old = s.ot; 
+	   s.ot = function(el) { 
+	       return el.tagUrn ? '' : old(el); 
+	   }; 
+	})(); 
+</script>
+
+
+
+
+<!-- Time: Tue Dec 03 00:59:54 PST 2013-->
+
+
+    </div>
+</div>
+
+
+
+
+
+
+
+
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript">
+  (function () {
+    var d = new Image(1, 1);
+    d.onerror = d.onload = function () {
+      d.onerror = d.onload = null;
+    };
+    d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-400338h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+  })();
+</script>
+<noscript>
+  <div>
+    <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-400338h&amp;cg=0&amp;cc=1&amp;ts=noscript"
+    width="1" height="1" alt="" />
+  </div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+
+  
+ 
+
+ 
+
+
+
+
+ 
+
+  
+ 
+
+  
+
+
+ 
+
+  
+ 
+
+  
+
+
+ 
+
+
+ 
+	 
+
+ 
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27440774-1']);
+  _gaq.push(['_setDomainName', 'none']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> 
+  
+
+
+ 
+
+
+
+
+	
+<script src="http://widget.perfectmarket.com/wwwredeyechicago/load.js" type="text/javascript"></script>	
+
+ 
+</body>
+</html>
+
+
+<!--x-Instance-Name: i4latisrapp06-->

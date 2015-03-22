@@ -1,0 +1,444 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="da-DK" prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+    
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />	
+	<meta name="generator" content="WordPress 3.6" /> <!-- leave this for stats please -->
+        <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
+                
+        <title>
+            Kulturplakaten | Kulturplakaten        </title>
+
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.kulturplakaten.dk/feed/" />
+	<link rel="alternate" type="text/xml" title="RSS .92" href="http://www.kulturplakaten.dk/feed/rss/" />
+	<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://www.kulturplakaten.dk/feed/atom/" />
+	<link rel="pingback" href="http://www.kulturplakaten.dk/xmlrpc.php" />
+        <link href='http://fonts.googleapis.com/css?family=Crete+Round' rel='stylesheet' type='text/css'>
+
+        <link href='http://fonts.googleapis.com/css?family=Asap:bold%20700' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Abel' rel='stylesheet' type='text/css'>
+
+        <!--[if IE 8]>
+        <link href="http://www.kulturplakaten.dk/wp-content/themes/Bloggap/style/ie8-media.css" media="screen and (min-width: 250px;)" rel="stylesheet"/>
+        <![endif]-->
+
+
+                <link rel="shortcut icon" href="http://www.kulturplakaten.dk/wp-content/themes/Bloggap/style/img/favicon.ico" />
+
+        
+    
+
+
+
+<style type="text/css">
+
+    body {
+        background-color:#fff;
+    }
+
+    .shortcodes h1, .shortcodes h2, .shortcodes h3, .shortcodes h4, .shortcodes h5, .shortcodes h6, .title-page h1, .form h2 {
+        color: #515050;
+    }
+
+    .shortcodes, .shortcodes p, .shortcodes a, .shortcodes ol li, .shortcodes ul li, .shortcodes blockquote p, .pagination .page-numbers {
+        color:#555555;
+    }
+
+    .shortcodes blockquote p {
+        border-left:2px solid #555555;
+    }
+
+    .footer {
+        background-color:#494949;
+    }
+
+   .footer .footer_box ul li, .footer .footer_box .newsletter span, .footer_box .box-twitter-center span, .footer_box #wp-calendar caption, .footer_box #recentcomments li, .footer_box .rss-date, .footer .footer_box .twitter-links,
+   .rssSummary, .footer_box cite, .footer-text, .footer_box .textwidget, .footer_box .textwidget p, .footer_box_holder .post-date, .footer_box #calendar_wrap th, .footer_box #wp-calendar tr td, .footer_box .twitter_ul span.twitter-links {
+        color:#d8d8d8;
+    }
+
+    .footer_box h2 {
+        color:#fff;
+    }
+
+
+    .footer_box li a, .footer-text a, .footer_box tfoot a, .footer_box tbody a, .footer_box .box-twitter-center a, .footer_box .twittime, .footer_box_holder .rsswidget, .footer_box .sub-menu li a, .footer_box .recentcomments a {
+        color:#d8d8d8    }
+
+   body .footer {
+        border-top:4px solid #d8d8d8;
+    }
+
+    .footer .slide a {
+        background-color:#d8d8d8;
+    }
+
+
+    body .header {
+        background-image:url('http://www.kulturplakaten.dk/wp-content/themes/Bloggap/style/img/pat1.png');
+    }
+
+  
+
+</style>                      
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.19 - http://yoast.com/wordpress/seo/ -->
+<link rel="canonical" href="http://www.kulturplakaten.dk/" />
+<link rel="author" href="https://plus.google.com/u/0/111142976586060574332/"/>
+<meta property="og:locale" content="da_DK" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Kulturplakaten - " />
+<meta property="og:url" content="http://www.kulturplakaten.dk/" />
+<meta property="og:site_name" content="Kulturplakaten" />
+<!-- / Yoast WordPress SEO plugin. -->
+
+<script type="text/javascript">var trackerAjaxUrl="http://www.kulturplakaten.dk/wp-admin/admin-ajax.php";var trackerNonce="7571819e34";</script><link rel='stylesheet' id='main_style-css'  href='http://www.kulturplakaten.dk/wp-content/themes/Bloggap/style.css?ver=3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='superfish-css'  href='http://www.kulturplakaten.dk/wp-content/themes/Bloggap/script/menu/superfish.css?ver=3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='pirobox-css'  href='http://www.kulturplakaten.dk/wp-content/themes/Bloggap/script//fancybox/source/jquery.fancybox.css?ver=3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='scrollbutton-css'  href='http://www.kulturplakaten.dk/wp-content/themes/Bloggap/script/scroll-button/scroll-button.css?ver=3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='flexslider-css'  href='http://www.kulturplakaten.dk/wp-content/themes/Bloggap/script/flexslider/flexslider.css?ver=3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='jplayer-css'  href='http://www.kulturplakaten.dk/wp-content/themes/Bloggap/script/jplayer/skin/blue.monday/jplayer.blue.monday.css?ver=3.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.kulturplakaten.dk/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://www.kulturplakaten.dk/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.kulturplakaten.dk/wp-content/plugins/sick-network-child/js/tracker.js?ver=3.6'></script>
+<script type='text/javascript' src='http://www.kulturplakaten.dk/wp-content/themes/Bloggap/script/common.js?ver=3.6'></script>
+<script type='text/javascript' src='http://www.kulturplakaten.dk/wp-content/themes/Bloggap/script/fancybox/source/jquery.fancybox.js?ver=3.6'></script>
+<script type='text/javascript' src='http://www.kulturplakaten.dk/wp-content/themes/Bloggap/script/flexslider/jquery.flexslider.js?ver=3.6'></script>
+<script type='text/javascript' src='http://www.kulturplakaten.dk/wp-content/themes/Bloggap/script/jplayer/js/jquery.jplayer.min.js?ver=3.6'></script>
+<script type='text/javascript' src='http://www.kulturplakaten.dk/wp-content/themes/Bloggap/script/scroll-button/scroll-button.js?ver=3.6'></script>
+<script type='text/javascript' src='http://www.kulturplakaten.dk/wp-content/themes/Bloggap/script/flexslider/flex-slider.js?ver=3.6'></script>
+<meta name="generator" content="WordPress 3.6" />
+
+
+<style type="text/css">
+
+    body {
+        background-color:#fff;
+    }
+
+    .shortcodes h1, .shortcodes h2, .shortcodes h3, .shortcodes h4, .shortcodes h5, .shortcodes h6, .title-page h1, .form h2 {
+        color: #515050;
+    }
+
+    .shortcodes, .shortcodes p, .shortcodes a, .shortcodes ol li, .shortcodes ul li, .shortcodes blockquote p, .pagination .page-numbers {
+        color:#555555;
+    }
+
+    .shortcodes blockquote p {
+        border-left:2px solid #555555;
+    }
+
+    .footer {
+        background-color:#494949;
+    }
+
+   .footer .footer_box ul li, .footer .footer_box .newsletter span, .footer_box .box-twitter-center span, .footer_box #wp-calendar caption, .footer_box #recentcomments li, .footer_box .rss-date, .footer .footer_box .twitter-links,
+   .rssSummary, .footer_box cite, .footer-text, .footer_box .textwidget, .footer_box .textwidget p, .footer_box_holder .post-date, .footer_box #calendar_wrap th, .footer_box #wp-calendar tr td, .footer_box .twitter_ul span.twitter-links {
+        color:#d8d8d8;
+    }
+
+    .footer_box h2 {
+        color:#fff;
+    }
+
+
+    .footer_box li a, .footer-text a, .footer_box tfoot a, .footer_box tbody a, .footer_box .box-twitter-center a, .footer_box .twittime, .footer_box_holder .rsswidget, .footer_box .sub-menu li a, .footer_box .recentcomments a {
+        color:#d8d8d8    }
+
+   body .footer {
+        border-top:4px solid #d8d8d8;
+    }
+
+    .footer .slide a {
+        background-color:#d8d8d8;
+    }
+
+
+    body .header {
+        background-image:url('http://www.kulturplakaten.dk/wp-content/themes/Bloggap/style/img/pat1.png');
+    }
+
+  
+
+</style>                      </head>
+
+<body class="home blog">
+
+    
+
+<div id="container">
+    <div class="wrapper wrap-full">
+
+        <!-- HEADER -->
+        <div class="header left">
+
+               
+
+
+            <div class="scrollhider">
+                 <div class="scroll">
+                        <!--LOGO-->
+                        <div class="logo left"><a href="http://www.kulturplakaten.dk"><img src="http://www.kulturplakaten.dk/wp-content/themes/Bloggap/style/img/logo.png" alt="logo" /></a><span></span></div><!--/logo-->
+
+                        <!--MENU-->
+                        <div class="button-menu"><a href="#"></a></div><!--/button-menu-->
+                            <div class="nav active-nav right">
+                                <div class="menu-menu-1-container"><ul id="menu-menu-1" class="sf-menu"><li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"><a href="http://www.kulturplakaten.dk/seo/">Søgemaskineoptimering</a></li>
+<li id="menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-30"><a href="http://www.kulturplakaten.dk/">Forside</a></li>
+</ul></div>                    </div><!--/nav-->
+              </div><!-- scroll -->
+            </div><!-- scroll-hider -->
+       
+      
+
+          
+        </div><!--/header-->
+        <!-- CONTENT -->
+        <div class="content front-page right">
+
+                
+
+           
+            <!-- POST COLORS -->
+            <style type="text/css">
+                .single-color1 {
+                    background-color:#;
+                }
+
+                .single-color1 .blog-title a {
+                    color:#;
+                }
+
+                .single-color1 .blog-title a:hover {
+                    color:#;
+                }
+
+                .single-color1 .blog-title p {
+                    color:#;
+                }
+
+                .single-color1 .blog-text p, .single-color1 .shortcodes ol li, .shortcodes ul li {
+                    color:#;
+                }
+
+                .single-color1 .blog-read-more a, .single-color1 .shortcodes .more-link {
+                    color:#;
+                }
+
+                .single-color1 .blog-read-more a:hover, .single-color1 .shortcodes .more-link:hover {
+                    color:#;
+                }
+            </style>
+
+
+
+            <div class="blog-wrap single-color1 magicpixel ">
+            <!--Post Standard-->
+            <div class="blog-one left">
+                <div class="background-color"></div>
+                                     
+
+                <!-- IMAGE POST -->
+                
+
+
+                                                   <div class="blog-category left">
+                        <ul>
+                            <li><img src="http://www.kulturplakaten.dk/wp-content/themes/Bloggap/style/img/blog-icon-1.png" alt="" /></li>
+                            
+                                <li><a href="http://www.kulturplakaten.dk/category/elektronik/">Elektronik</a></li>
+                            
+                        </ul>
+                        <ul>
+                            <li><img src="http://www.kulturplakaten.dk/wp-content/themes/Bloggap/style/img/blog-icon-2.png" alt="images" title="images"  /></li>
+                            <li><span>november 3, 2013</span></li>
+                        </ul>
+                        <ul>
+                            <li><img src="http://www.kulturplakaten.dk/wp-content/themes/Bloggap/style/img/blog-icon-3.png" alt="images" title="images"  /></li>
+                            <li><a href="http://www.kulturplakaten.dk/waterspeakers/#comments/#respond">Ingen kommentarer.</a></li>
+                        </ul>
+                        <ul>
+                            <li><img src="http://www.kulturplakaten.dk/wp-content/themes/Bloggap/style/img/blog-icon-4.png" alt="images" title="images"  /></li>
+                            <li><a href="http://www.kulturplakaten.dk/author/rheko/">Astrid Hansen</a></li>
+                        </ul>
+                    </div><!--/blog-category-->
+                     
+
+                    <!-- ASIDE POST FORMAT -->
+                                        <div class="blog-title left">                        
+                            <a href="http://www.kulturplakaten.dk/waterspeakers/">Waterspeakers</a>                        
+                                            </div><!--/blog-title-->
+                    
+
+                <div class="blog-text shortcodes left">
+                                            <p>Dette er nok et rimelig ligegyldigt indlæg vedrørende waterspeakers, dog er det vigtigt at understrege at waterspeakers er et utroligt redskab til at igangsætte en fest-stemning i en hvilken som helst lokation. Personligt ejer jeg selv disse højttalere, som må siges at være den fedeste gadget indenfor dette område. Waterspeakers fungerer ved at skyde vand...</p>
+                                    </div><!--/blog-text-->
+                                            <div class="blog-read-more left"><a href="http://www.kulturplakaten.dk/waterspeakers/">Read more...</a></div><!--/blog-read-more-->
+                                    
+            </div><!--/blog-one-->
+            <div class="clear"></div>
+            </div><!-- blog-wrap -->
+
+            
+
+           
+            <!-- POST COLORS -->
+            <style type="text/css">
+                .single-color2 {
+                    background-color:#;
+                }
+
+                .single-color2 .blog-title a {
+                    color:#;
+                }
+
+                .single-color2 .blog-title a:hover {
+                    color:#;
+                }
+
+                .single-color2 .blog-title p {
+                    color:#;
+                }
+
+                .single-color2 .blog-text p, .single-color2 .shortcodes ol li, .shortcodes ul li {
+                    color:#;
+                }
+
+                .single-color2 .blog-read-more a, .single-color2 .shortcodes .more-link {
+                    color:#;
+                }
+
+                .single-color2 .blog-read-more a:hover, .single-color2 .shortcodes .more-link:hover {
+                    color:#;
+                }
+            </style>
+
+
+
+            <div class="blog-wrap single-color2 magicpixel ">
+            <!--Post Standard-->
+            <div class="blog-one left">
+                <div class="background-color"></div>
+                                     
+
+                <!-- IMAGE POST -->
+                
+
+
+                                                   <div class="blog-category left">
+                        <ul>
+                            <li><img src="http://www.kulturplakaten.dk/wp-content/themes/Bloggap/style/img/blog-icon-1.png" alt="" /></li>
+                            
+                                <li><a href="http://www.kulturplakaten.dk/category/rygestop/">Rygestop</a></li>
+                            
+                        </ul>
+                        <ul>
+                            <li><img src="http://www.kulturplakaten.dk/wp-content/themes/Bloggap/style/img/blog-icon-2.png" alt="images" title="images"  /></li>
+                            <li><span>oktober 6, 2013</span></li>
+                        </ul>
+                        <ul>
+                            <li><img src="http://www.kulturplakaten.dk/wp-content/themes/Bloggap/style/img/blog-icon-3.png" alt="images" title="images"  /></li>
+                            <li><a href="http://www.kulturplakaten.dk/gar-danmark-en-e-cigaret-generation-i-mode/#comments/#respond">Ingen kommentarer.</a></li>
+                        </ul>
+                        <ul>
+                            <li><img src="http://www.kulturplakaten.dk/wp-content/themes/Bloggap/style/img/blog-icon-4.png" alt="images" title="images"  /></li>
+                            <li><a href="http://www.kulturplakaten.dk/author/rheko/">Astrid Hansen</a></li>
+                        </ul>
+                    </div><!--/blog-category-->
+                     
+
+                    <!-- ASIDE POST FORMAT -->
+                                        <div class="blog-title left">                        
+                            <a href="http://www.kulturplakaten.dk/gar-danmark-en-e-cigaret-generation-i-mode/">Går Danmark en e cigaret generation i møde?</a>                        
+                                            </div><!--/blog-title-->
+                    
+
+                <div class="blog-text shortcodes left">
+                                            <p>Her på det seneste har jeg lagt meget mærke til at danskerne har smidt de farlige og kemikalie indholdende cigaretter ud, for at erstatte dem med e cigaretter. Det er her jeg spørger mig selv, om det er en sund trend at begynde at pulse på en såkaldt e cigaret istedet? I følge flere undersøgelser...</p>
+                                    </div><!--/blog-text-->
+                                            <div class="blog-read-more left"><a href="http://www.kulturplakaten.dk/gar-danmark-en-e-cigaret-generation-i-mode/">Read more...</a></div><!--/blog-read-more-->
+                                    
+            </div><!--/blog-one-->
+            <div class="clear"></div>
+            </div><!-- blog-wrap -->
+
+            
+
+
+
+            <!-- PAGINATION -->
+            <div class="blog-one">
+                <div class="pagination right">
+                                    </div><!--/pagination-->
+            </div>
+
+
+            
+        </div><!--/content-->
+    </div><!--/wrapper-->
+
+
+
+    <!-- FOOTER -->
+    <div class="footer left">
+        <div class="scroll-top"><p id="back-top"><a href="#top"><span></span></a></p></div><!--/scroll-top-->
+        <div class="wrapper">
+
+
+            <div class="footer-content right">
+                <div class="slide"><a href="#" class="btn-slide"></a></div><!--/slide-->
+                <div id="panel">
+                    <div class="panel-content left">
+                        <div class="footer-widgets left">
+
+                        
+                            <div class="footer_box">
+                                <div class="footer_box_holder"><h2>Kategorier</h2>		<ul>
+	<li class="cat-item cat-item-6"><a href="http://www.kulturplakaten.dk/category/elektronik/" title="Vis alle indl&#230;g i kategorien Elektronik">Elektronik</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://www.kulturplakaten.dk/category/rygestop/" title="Vis alle indl&#230;g i kategorien Rygestop">Rygestop</a>
+</li>
+		</ul>
+</div>                                                            </div><!--footer_box-->
+
+
+
+                            <div class="footer_box">
+                                                            </div><!--footer_box-->
+
+
+
+                            <div class="footer_box" style="margin-right: 0;">
+                                                            </div><!--/footer_box-->
+
+
+
+                    
+                        </div><!--/footer-widgets-->
+                        
+
+
+                        <div class="footer-copyright left">
+<a href="http://rasmus-koelln.dk">Blog af Rasmus Kølln</a>
+                            <div class="footer-text left">Copyright Information Goes Here © 2012. All Rights Reserved.</a></div><!--/footer-text-->
+                        </div><!--/footet-copyright-->
+                    </div><!--/panel-content-->
+
+
+           <!-- SOCIAL ICONS for smaller resolutions -->
+          
+
+
+                </div><!--/panel-->
+            </div><!--/footer-content-->
+        </div><!--/wrapper-->
+    </div><!--/footer-->
+</div><!--/container-->
+
+
+
+
+          
+
+
+</body>
+</html>

@@ -1,0 +1,1240 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+	<meta charset="utf-8" />
+	<title>Wirtualna Polska - www.wp.pl</title>
+	<meta name="Expires" content="0">
+	<meta http-equiv="Pragma" content="no-cache">
+	<meta http-equiv="Cache-Control" content="no-cache">
+	<meta http-equiv="X-XRDS-Location" content="http://serwer.openid.wp.pl/?xrds=1">
+	<meta name="author" content="Wirtualna Polska" />
+	<meta name="keywords" content="wp.pl,wp,Wirtualna Polska,Wirtualna,Polska,Katalog,Katalog WWW,Firmy,Encyklopedia,Pogoda,Wiadomosci,Program,Telewizja,Sklep,Kawiarenka,MP3" />
+	<meta name="description" content="Pierwszy horyzontalny portal internetowy w Polsce. Skuteczne medium reklamowe. Bogactwo serwisow informacyjnych i finansowych. Centrum wyszukiwania, komunikacji i rozrywki: wiadomosci, wyszukiwarki, poczta, webpark, czat, komunikator, SMS, randki, kartki, krzyżówki, mp3, gry, gry on-line, muzyka, film. Platforma e-commerce: aukcje, zakupy, przetargi, oferty, turystyka." />
+	<meta name="robots" content="index,follow">
+	<meta property="og:image" content="http://x.wpimg.pl/i/ivar/layout/201201/logo_wppl_1200x630.png" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+	<link rel="shortcut icon" type="image/x-icon" href="i/ivar/layout/201201/favicon.ico" />
+	<link href="https://plus.google.com/105528572931700558344/" rel="publisher" />
+	<link href="s.css?v=83" rel="stylesheet" type="text/css" media="all" />
+
+	<style>
+		#bxEcommerce .prawa span.st4468744 { float: left; margin: 0 5px 0 0; width: 50px; height: 16px; background: url(http://y.wpimg.pl/i/ivar/A/201201/1326722790.gif) no-repeat }
+	</style>
+
+	<script type="text/javascript">
+	<!-- // <![CDATA[
+	var wp_sn = 'sg';
+	var pp_gemius_hitcollector = 'wp.hit.gemius.pl';
+	var pp_gemius_identifier = 'coWacc7R.xHk.xzhRC.LgpQJ38OGWzuyOAxvi8UATAr.s7';
+	var wp_rekid = "7757";
+	var wp_dot_type = 'click';
+	var wp_fba = '1386064711.451';
+	// ]]> -->
+	</script>
+	<script src="http://x.wpimg.pl/i/ivar/layout/201201/wpjslib_101.js?v=43" type="text/javascript" charset="utf-8"></script>
+	<!--[if lt IE 9]><script src="http://x.wpimg.pl/i/ivar/layout/201201/html5.js"></script><![endif]-->
+	<script type="text/javascript">
+	<!-- // <![CDATA[
+	var ajaxEnabled = true;
+	var searchTipsEnabled = true;
+	var isDynamic = true;
+	// ]]> -->
+	</script>
+	<script type="text/javascript">
+	/*<![CDATA[*/
+		var PWAd=document;var PWA_Itxt=false;var PWAr=Math.round(Math.random()*1E17);if(navigator.product=="Gecko"){window.onunload=function(){return true;}}function PWAjel(en,ec){    return true;}PWAd.write('<'+'img src="http://rek.www.wp.pl/rgr.html?PWAr='+PWAr+'" width="1" height="1" border="0" alt="" style="position:absolute;">');try{var PWAgd=PWAd.location.href;function PB(PWAk){}function JB(PWAk){return false;}function NJB(PWAk){return JB(PWAk);}function PWAgchuid(){return '&gchi=dab8f&goli=6172a';}function PWAgs(){    var s=screen;    return "&PWAsw="+s.width+"&PWAsh="+s.height;}function PWAcs(){var PWAcsa=PWAd.cookie.split('; ');var PWAcss=''; for(var PWAi=0;PWAi<PWAcsa.length;PWAi++){if(PWAcsa[PWAi].indexOf('reksticket=')!=-1){PWAcss=PWAcss+'&'+PWAcsa[PWAi]; }}return PWAcss; }function PWAss(dn,st){PWAd.getElementById(dn).style.display=st;}function PWAge(en){return PWAd.getElementById(en);}function PWAgPH(){var PWAhtml;if(PWAgd.indexOf('?')>0){PWAhtml=PWAgd.substr(7,PWAgd.indexOf('?')-7);}else{PWAhtml=PWAgd.substr(7);}return '&phtml='+PWAhtml;}function PWAgPI(){if(this.rekid!=null){return rekid;}else{    return 7757;}}function PWAgQ(){var PWAquery;if(PWAgd.indexOf("?")>0){PWAquery=PWAgd.substr(PWAgd.indexOf("?")+1);}else{return "";}var PWAqarray=PWAquery.split("&");PWAquery="";for(var PWAi=0;PWAi<PWAqarray.length;PWAi++){if(PWAqarray[PWAi].indexOf("ticket=")==-1  && PWAqarray[PWAi].indexOf("<")==-1){PWAquery=PWAquery+"&"+PWAqarray[PWAi];}}return PWAquery;}function PWAgUI(){if(this.login!=null){return '&login='+login;}else{return '';}}function PWAgUP(){if(this.advpref!=null){return '&advpref='+advpref;}else{return '';}}function PWAbn(){var bn="";var nua=navigator.userAgent;if(nua.match('MSIE')) bn="ie";if(nua.match('Firefox')) bn="firefox";if(nua.match('Chrome')) bn="chrome";if(nua.match('Opera')) bn="opera";if(nua.match('iPod')) bn="ipod";if(nua.match('iPhone')) bn="iphone";if(nua.match('iPad')) bn="ipad";if(nua.match('Jakarta')) bn="bot";return "&PWAbn="+bn;}function NPB(PWAk,PWAd){try{if((PWAk=='001')){PB('onload',PWAd);}if((PWAk=='002')){PB('baner',PWAd);}if((PWAk=='003')){PB('billboard',PWAd);}if((PWAk=='004')){PB('box',PWAd);}if((PWAk=='005')){PB('srodtekst',PWAd);}if((PWAk=='006')){PB('banerdol',PWAd);PWAko();}if((PWAk=='007')){PB('skyscraper',PWAd);}if((PWAk=='008')){PB('pop',PWAd);}if((PWAk=='009')){PB('toplayer',PWAd);}if((PWAk=='010')){PB('extra10',PWAd);}if((PWAk=='011')){PB('extra11',PWAd);}if((PWAk=='012')){PB('extra12',PWAd);}if((PWAk=='013')){PB('extra13',PWAd);}if((PWAk=='014')){PB('extra14',PWAd);}if((PWAk=='015')){PB('extra15',PWAd);}if((PWAk=='016')){PB('extra16',PWAd);}if((PWAk=='017')){PB('extra17',PWAd);}if((PWAk=='018')){PB('extra18',PWAd);}if((PWAk=='019')){PB('extra19',PWAd);}if((PWAk=='020')){PB('extra20',PWAd);}if((PWAk=='021')){PB('extra21',PWAd);}if((PWAk=='022')){PB('extra22',PWAd);}if((PWAk=='023')){PB('extra23',PWAd);}if((PWAk=='024')){PB('extra24',PWAd);}if((PWAk=='025')){PB('extra25',PWAd);}if((PWAk=='026')){PB('extra26',PWAd);}if((PWAk=='027')){PB('extra27',PWAd);}if((PWAk=='028')){PB('extra28',PWAd);}if((PWAk=='029')){PB('extra29',PWAd);}if((PWAk=='031')){PB('logo',PWAd);}if((PWAk=='034')){PB('megabox',PWAd);}if((PWAk=='037')){PB('megasky',PWAd);}if((PWAk=='040')){PB('extra40',PWAd);}}catch(e){PWAjel('jsfile_p-NPB',e);}}function NJB(PWAk){return JB(PWAk);}function PWAko(){try{var d=document;if(PWAge('adv01')!=null){if(NJB('onload')==false){PWAss('adv01','none');}else{PWAss('adv01','block');}}if(PWAge('adv02')!=null){if(NJB('baner')==false){PWAss('adv02','none');}else{PWAss('adv02','block');}}if(PWAge('adv03')!=null){if(NJB('billboard')==false){PWAss('adv03','none');}else{PWAss('adv03','block');}}if(PWAge('adv04')!=null){if(NJB('box')==false){PWAss('adv04','none');}else{PWAss('adv04','block');}}if(PWAge('adv05')!=null){if(NJB('srodtekst')==false){PWAss('adv05','none');}else{PWAss('adv05','block');}}if(PWAge('adv06')!=null){if(NJB('banerdol')==false){PWAss('adv06','none');}else{PWAss('adv06','block');}}if(PWAge('adv07')!=null){if(NJB('skyscraper')==false){PWAss('adv07','none');}else{PWAss('adv07','block');}}if(PWAge('adv08')!=null){if(NJB('pop')==false){PWAss('adv08','none');}else{PWAss('adv08','block');}}if(PWAge('adv09')!=null){if(NJB('toplayer')==false){PWAss('adv09','none');}else{PWAss('adv09','block');}}if(PWAge('adv10')!=null){if(NJB('extra10')==false){PWAss('adv10','none');}else{PWAss('adv10','block');}}if(PWAge('adv11')!=null){if(NJB('extra11')==false){PWAss('adv11','none');}else{PWAss('adv11','block');}}if(PWAge('adv12')!=null){if(NJB('extra12')==false){PWAss('adv12','none');}else{PWAss('adv12','block');}}if(PWAge('adv13')!=null){if(NJB('extra13')==false){PWAss('adv13','none');}else{PWAss('adv13','block');}}if(PWAge('adv14')!=null){if(NJB('extra14')==false){PWAss('adv14','none');}else{PWAss('adv14','block');}}if(PWAge('adv15')!=null){if(NJB('extra15')==false){PWAss('adv15','none');}else{PWAss('adv15','block');}}if(PWAge('adv16')!=null){if(NJB('extra16')==false){PWAss('adv16','none');}else{PWAss('adv16','block');}}if(PWAge('adv17')!=null){if(NJB('extra17')==false){PWAss('adv17','none');}else{PWAss('adv17','block');}}if(PWAge('adv18')!=null){if(NJB('extra18')==false){PWAss('adv18','none');}else{PWAss('adv18','block');}}if(PWAge('adv19')!=null){if(NJB('extra19')==false){PWAss('adv19','none');}else{PWAss('adv19','block');}}if(PWAge('adv20')!=null){if(NJB('extra20')==false){PWAss('adv20','none');}else{PWAss('adv20','block');}}if(PWAge('adv21')!=null){if(NJB('extra21')==false){PWAss('adv21','none');}else{PWAss('adv21','block');}}if(PWAge('adv22')!=null){if(NJB('extra22')==false){PWAss('adv22','none');}else{PWAss('adv22','block');}}if(PWAge('adv23')!=null){if(NJB('extra23')==false){PWAss('adv23','none');}else{PWAss('adv23','block');}}if(PWAge('adv24')!=null){if(NJB('extra24')==false){PWAss('adv24','none');}else{PWAss('adv24','block');}}if(PWAge('adv25')!=null){if(NJB('extra25')==false){PWAss('adv25','none');}else{PWAss('adv25','block');}}if(PWAge('adv26')!=null){if(NJB('extra26')==false){PWAss('adv26','none');}else{PWAss('adv26','block');}}if(PWAge('adv27')!=null){if(NJB('extra27')==false){PWAss('adv27','none');}else{PWAss('adv27','block');}}if(PWAge('adv28')!=null){if(NJB('extra28')==false){PWAss('adv28','none');}else{PWAss('adv28','block');}}if(PWAge('adv29')!=null){if(NJB('extra29')==false){PWAss('adv29','none');}else{PWAss('adv29','block');}}if(PWAge('adv31')!=null){if(NJB('logo')==false){PWAss('adv31','none');}else{PWAss('adv31','block');}}if(PWAge('adv34')!=null){if(NJB('megabox')==false){PWAss('adv34','none');}else{PWAss('adv34','block');}}if(PWAge('adv37')!=null){if(NJB('megasky')==false){PWAss('adv37','none');}else{PWAss('adv37','block');}}if(PWAge('adv40')!=null){if(NJB('extra40')==false){PWAss('adv40','none');}else{PWAss('adv40','block');}} }catch(e){PWAjel('jsfile-PWAko',e);}}function PWAbeq(){var PWAs1='';return PWAs1;}var AT_DOT=new Image(1,1), r=Math.random(), ref=new String(document.referrer), page=new String(document.location);AT_DOT.src="http://dot.adtotal.pl/r"+Math.round(r*1E10)+"/ad.gif?SN=at_wppl&Pos=top&pg="+escape(page.substring(0,250))+"&rf="+escape(ref.substring(0,250));var TOD_rr1=0;var TOD_rr2=0;var TOD_rr3=0;function PWAgMU(PWAmt){return "http://rek.www.wp.pl/?rekid="+PWAgPI()+PWAgUI()+PWAgUP()+"&rektype="+PWAmt+PWAgPH()+PWAcs()+PWAgQ()+PWAbeq()+PWAgs()+PWAgchuid()+PWAbn()+"&PWAhour="+(new Date().getHours())+"&PWAminute="+(new Date().getMinutes());}PWAd.write('<scri'+'pt language="Javascript" src="'+ PWAgMU(1) +'&PWAr='+PWAr+'"></scr'+'ipt>');function getFlashVersion(){var PWAfv=0;if(navigator.plugins&&(n=navigator.plugins).length){for(x=0;x<n.length;x++){if(n[x].name.indexOf('Shockwave Flash')!=-1){PWAfv=n[x].description.split('Shockwave Flash ')[1].split('.')[0];}}}else{for(var PWAi=20;PWAi>0;PWAi--){PWAfv=0;try{var flash=new ActiveXObject("ShockwaveFlash.ShockwaveFlash."+PWAi);PWAfv=PWAi;break;}catch(e){}}}return PWAfv;}function getBrowserType(){uAgt='';browserType="";uAgt=navigator.userAgent.toLowerCase();if(uAgt.indexOf("opera")!=-1){browserType="opera";return browserType;}else if(uAgt.indexOf("msie")!=-1){browserType="msie";return browserType;}else if(uAgt.indexOf("mozilla")!=-1){browserType="mozilla";return browserType;}else{browserType="other";return browserType;}}function isWin(){return navigator.platform.indexOf('Win')!=-1;}var i;var selekty=[];if(PWAd.getElementsByTagName){selekty=PWAd.getElementsByTagName("SELECT");}else if(PWAd.all){selekty=PWAd.all.tags("SELECT");}function setSelects(visMode){    if(selekty && selekty.length>0){for(i=0;i<selekty.length;i++){if(selekty[i].style){selekty[i].style.visibility=visMode;}}    }}}catch(e){PWAjel('jsfile',e);}function PWAhE(e,u,l){PWAjel('PWAhE',e+' '+u+' '+l);return true;}if(window.onerror==null){window.onerror=PWAhE;}else{var oer=window.onerror;window.onerror=function(e,u,l){oer(e,u,l);PWAhE(e,u,l);};};
+	/*]]>*/
+	</script>
+</head>
+<body>
+<h1>Strona Główna Wirtualnej Polski</h1>
+<div id="Naglowek">
+	
+	<div id="NaglowekTop">
+		<div id="data">Wtorek, 3 grudnia 2013 imieniny: Franciszka, Ksawerego<a class="nokaut" href="http://pro.hit.gemius.pl/hitredir/id=za.qH282f9swgJJAgrAKS6e0DiGs59tuvbW_icbOpSj.p7/url=www.nokaut.pl/?utm_source=wp&utm_medium=naglowek#pid=68275">Kupuj na Nokaut.pl ›</a></div>
+		<div id="linki">
+			
+			<a href="http://mobilna.wp.pl/" id="mobileLink">WP.PL na komórkę &rsaquo;</a>
+			<a href="https://profil.wp.pl/login_poczta.html?url=http%3A%2F%2Fwww.wp.pl" id="loginLink">Zaloguj się &rsaquo;</a>
+		</div>
+	</div>
+	<div id="NaglowekCnt">
+		<div id="ngLogo">
+			<a href="http://www.wp.pl" title="Strona Główna WP.PL">
+				<img src="http://x.wpimg.pl/i/ivar/layout/201201/wp.png" alt="Strona Główna WP.PL" />
+			</a>
+		</div>
+		<div id="Szukaj">
+			<ul>
+				<li><a href="http://szukaj.wp.pl">Internet</a></li>
+				<li><a href="http://szukaj.wp.pl">WP.PL</a></li>
+				<li><a href="http://tlumaczenia.wp.pl">Tłumacz</a></li>
+			</ul>
+			<form action="/s/szukaj.html" method="get" class="szukajForm">
+				<input type="hidden" name="form" value="01" />
+				<input type="text" value="" name="szukaj1" id="szukaj1" class="szukajRound ebg" />
+				<input type="submit" value="Szukaj" class="szukajSubmit" />
+			</form>
+			<form action="http://szukaj.wp.pl/wp.html" method="get" class="szukajForm">
+				<input type="text" value="" name="q" id="szukaj2" class="szukajRound" />
+				<input type="submit" value="Szukaj" class="szukajSubmit" />
+			</form>
+			<form action="http://tlumaczenia.wp.pl" method="post" class="szukajForm" id="szukajTlumacz">
+				<input type="text" value="" name="text" id="szukaj3" class="szukajRound" />
+				<select name="direction" class="selectDirection drugi">
+					<option value="enpl">ang &rsaquo; pol</option>
+					<option value="plen">pol &rsaquo; ang</option>
+					<option value="depl">nie &rsaquo; pol</option>
+					<option value="plde">pol &rsaquo; nie</option>
+					<option value="rupl">ros &rsaquo; pol</option>
+					<option value="plru">pol &rsaquo; ros</option>
+				</select>
+				<input type="submit" value="Szukaj" class="szukajSubmit" />
+			</form>
+		</div>
+		<ul id="ngIcons">
+			<li class="poczta"><a href="http://poczta.wp.pl">Poczta</a></li>
+			<li class="programtv"><a href="http://tv.wp.pl">Program TV</a></li>
+			<li class="czat"><a href="http://czat.wp.pl">Czat</a></li>
+			<li class="gry"><a href="http://gry.wp.pl/mmo.html">Gry</a></li>
+			<li class="aukcje"><a href="http://allegro.hit.gemius.pl/hitredir/id=bIDgHV.eo8lWmnFFVNtDV.U3TKLFckR3VEwIktZTHlv.k7/url=http%3A%2F%2Fallegro.pl%2F%3Fap%3D2%26bid%3D8103%26aid%3D25380904%26tid%3D0" rel="nofollow" target="_blank">Allegro</a></li>
+			<li class="horoskop"><a href="http://horoskop.wp.pl/">Horoskop</a></li>
+		</ul>
+	</div>
+	<script type="text/javascript">
+	// <![CDATA[
+		var ngIconNewMailAmount = "0";
+	// ]]>
+	</script><!-- Lista serwisów :: BEGIN -->
+<nav>
+    <ul class="serwisy">
+        <li><a class="" href="http://wiadomosci.wp.pl">Wiadomości</a>
+        <ul>
+        <li><a href="http://media.wp.pl">Media</a>
+        </li>
+        <li><a href="http://konflikty.wp.pl">Konflikty</a>
+        </li>
+        <li><a href="http://nasygnale.pl">Na Sygnale</a>
+        </li>
+        <li><a href="http://politykier.pl">Politykier</a>
+        </li>
+        <li><a href="http://topnews.wp.pl/c,1,index.html">Top News</a>
+        </li>
+        <li><a href="http://pogoda.wp.pl">Pogoda</a>
+        </li></ul></li>
+        <li><a class="finanse" href="http://finanse.wp.pl">Finanse</a>
+        <ul>
+        <li><a href="http://gielda.wp.pl">Giełda</a>
+        </li>
+        <li><a href="http://waluty.wp.pl">Waluty</a>
+        </li>
+        <li><a href="http://podatki.wp.pl">Podatki</a>
+        </li>
+        <li><a href="http://banki.wp.pl">Banki</a>
+        </li>
+        <li><a href="http://praca.wp.pl">Praca</a>
+        </li>
+        <li><a href="http://pasazfin.wp.pl">Pasaż Finansowy</a>
+        </li>
+        <li><a href="http://finansomat.wp.pl">Finansomat</a>
+        </li>
+        <li><a href="http://fundusze.wp.pl">Fundusze</a>
+        </li>
+        <li><a href="http://emerytury.wp.pl">Emerytury</a>
+        </li>
+        <li><a href="http://ubezpieczenia.wp.pl">Ubezpieczenia</a>
+        </li></ul></li>
+        <li><a class="sport" href="http://sport.wp.pl">Sport</a>
+        <ul>
+        <li><a href="http://sport.wp.pl/kat,1912,title,Siatkowka-siatkarskie-informacje-kazdego-dnia,kategoria.html">Siatkówka</a>
+        </li>
+        <li><a href="http://ekstraklasa.wp.pl">Ekstraklasa</a>
+        </li>
+        <li><a href="http://sport.wp.pl/kat,1781,name,zuzel,kategoria.html">Ekstraliga</a>
+        </li>
+        <li><a href="http://sport.wp.pl/bartman.html">Bartman Exclusive</a>
+        </li>
+        <li><a href="http://fantasyliga.wp.pl">Fantasy</a>
+        </li>
+        <li><a href="http://babol.pl">Babol</a>
+        </li>
+        <li><a href="http://sport.wp.pl/kat,136876,title,Mistrzostwa-Europy-siatkarzy,kategoria.html">ME siatkarzy</a>
+        </li></ul></li>
+        <li><a class="programtv" href="http://tv.wp.pl">ProgramTV i Film</a>
+        <ul>
+        <li><a href="http://program.wp.pl">Program TV</a>
+        </li>
+        <li><a href="http://film.wp.pl">Film</a>
+        </li>
+        <li><a href="http://aleseriale.pl">Ale Seriale</a>
+        </li>
+        <li><a href="http://teleshow.pl">Teleshow</a>
+        </li>
+        <li><a href="http://komediowo.pl">Komediowo</a>
+        </li>
+        <li><a href="http://tosiewytnie.pl">ToSieWytnie.pl</a>
+        </li>
+        <li><a href="http://wp.tv">WP.TV</a>
+        </li></ul></li>
+        <li><a class="kulturairozrywka" href="http://kultura.wp.pl">Kultura i Rozrywka</a>
+        <ul>
+        <li><a href="http://kultura.wp.pl">Kultura</a>
+        </li>
+        <li><a href="http://muzyka.wp.pl">Muzyka</a>
+        </li>
+        <li><a href="http://ksiazki.wp.pl">Książki</a>
+        </li>
+        <li><a href="http://komiksomania.pl">Komiksomania</a>
+        </li>
+        <li><a href="http://studio.wp.pl">Studio</a>
+        </li></ul></li>
+        <li><a class="kobieta" href="http://kobieta.wp.pl">Kobieta</a>
+        <ul>
+        <li><a href="http://horoskop.wp.pl">Horoskop</a>
+        </li>
+        <li><a href="http://nocoty.pl">Nocoty.pl</a>
+        </li>
+        <li><a href="http://fitness.wp.pl">Zdrowie</a>
+        </li>
+        <li><a href="http://kuchnia.wp.pl">Kuchnia</a>
+        </li>
+        <li><a href="http://diety.wp.pl">Diety</a>
+        </li>
+        <li><a href="http://kobiecyporadnik.pl/cid,5,title,Zycie-intymne,kategoria.html?smjtticaid=6d992">Kobiecy Poradnik</a>
+        </li>
+        <li><a href="http://dzieci.pl">Dla rodziców</a>
+        </li>
+        <li><a href="http://alefaceci.pl">AleFaceci.pl</a>
+        </li>
+        <li><a href="http://kobieta.wp.pl/kalkulatorbmi.html">Kalkulator BMI</a>
+        </li>
+        <li><a href="http://kobieta.wp.pl/kat,1025609,psychologia.html">Psychologia</a>
+        </li>
+        <li><a href="http://alemodelki.pl">Ale Modelki</a>
+        </li></ul></li>
+        <li><a class="facet" href="http://facet.wp.pl">Facet</a>
+        <ul>
+        <li><a href="http://moto.wp.pl">Moto</a>
+        </li>
+        <li><a href="http://tech.wp.pl">Tech</a>
+        </li>
+        <li><a href="http://techtrendy.pl">Techtrendy</a>
+        </li>
+        <li><a href="http://erotyczny.pl">Seks i Erotyka</a>
+        </li>
+        <li><a href="http://niewiarygodne.pl">Niewiarygodne</a>
+        </li>
+        <li><a href="http://luxclub.pl">LuxClub.pl</a>
+        </li>
+        <li><a href="http://trening.wp.pl/">Trening</a>
+        </li>
+        <li><a href="http://facet.wp.pl/topolki2012.html">TOPolki</a>
+        </li>
+        <li><a href="http://dzieci.pl">Dla rodziców</a>
+        </li></ul></li>
+        <li><a class="gry" href="http://gry.wp.pl">Gry</a>
+        <ul>
+        <li><a href="http://gry.wp.pl/wiadomosci/1.html">Newsy</a>
+        </li>
+        <li><a href="http://gry.wp.pl/teksty/1.html?type=recenzje">Recenzje</a>
+        </li>
+        <li><a href="http://gry.wp.pl/mmo.html">Gry MMO</a>
+        </li>
+        <li><a href="http://gryonline.wp.pl">Gry Online</a>
+        </li>
+        <li><a href="http://salongier.wp.pl">Saloon Gier</a>
+        </li>
+        <li><a href="http://violetfall.pl">VioletFall</a>
+        </li></ul></li>
+        <li><a class="turystyka" href="http://turystyka.wp.pl">Turystyka</a>
+        <ul>
+        <li><a href="http://docelu.pl">Do Celu</a>
+        </li>
+        <li><a href="http://wpodrozy.wp.pl">W podróży</a>
+        </li>
+        <li><a href="http://narty.wp.pl">Narty</a>
+        </li>
+        <li><a href="http://polskajestfajna.wp.pl">Polska jest fajna</a>
+        </li>
+        <li><a href="http://wakacje.wp.pl/">Wakacje</a>
+        </li>
+        <li><a href="http://turystyka.wp.pl/centrum,podrozy.html">Centrum Podróży</a>
+        </li></ul></li>
+        <li><a class="dzieci" href="http://dzieci.wp.pl"><b><span style=&quot;color:#ff2897&quot;>D</span><span style=&quot;color:#00b100&quot;>l</span>a<span style=&quot;color:#ffb400&quot;> D</span><span style=&quot;color:#ff00f0&quot;>z</span>i<span style=&quot;color:#31c000&quot;>e</span><span style=&quot;color:#e70000&quot;>c</span>i</b> </a>
+        <ul>
+        <li><a href="http://grajlandia.pl">Grajlandia</a>
+        </li>
+        <li><a href="http://imperiumstylu.wp.pl">Imperium Stylu</a>
+        </li>
+        <li><a href="http://dzieci.pl/cid,118874,artykuly.html">Zabawy z dziećmi</a>
+        </li>
+        <li><a href="http://szkola.wp.pl">Szkoła</a>
+        </li>
+        <li><a href="http://testwiedzy.pl">Test Wiedzy</a>
+        </li></ul></li>
+        <li class="new"><a href="http://opiekunkariery.wp.pl">Kariera</a></li>
+        <li class="new"><a href="http://zrobkartke.wp.pl">Kartki</a></li>
+		<li><a href="http://pro.hit.gemius.pl/hitredir/id=za.qH282f9swgJJAgrAKS6e0DiGs59tuvbW_icbOpSj.p7/url=www.nokaut.pl/?utm_source=wp&utm_medium=menu-glowne#pid=68275"><span style="color:#596F87">Nokaut</span><span style="color:#db0714">.pl</span></a></li>
+        <li class="more"><a href="serwisy.html">więcej &rsaquo;</a></li>
+    </ul>
+</nav>
+<!-- Lista serwisów :: END -->
+
+        <!-- Popularne tematy :: BEGIN -->
+        <div id="PopularneTematy">
+            <header class="naglowekBoksu"><a class="tytul" href="#">Popularne tematy</a> <span id="PopularneTematyZamknij">zamknij</span></header>
+			<ul>
+				<li class="naglowek">WIADOMOŚCI</li>
+				<li><a href="http://wiadomosci.wp.pl/query,papie%BF%20franciszek,szukaj.html">Papież Franciszek</a></li>
+				<li><a href="http://wiadomosci.wp.pl/query,donald%20tusk,szukaj.html">Donald Tusk</a></li>
+				<li><a href="http://wiadomosci.wp.pl/query,jaros%B3aw%20kaczy%F1ski,szukaj.html">Jarosław Kaczyński</a></li>
+				<li><a href="http://wiadomosci.wp.pl/query,janusz%20palikot,szukaj.html">Janusz Palikot</a></li>
+				<li><a href="http://wiadomosci.wp.pl/query,w%B3adimir%20putin,szukaj.html">Władimir Putin</a></li>
+				<li><a href="http://wiadomosci.wp.pl/query,amber%20gold,szukaj.html">Amber Gold</a></li>
+				<li><a href="http://odkrywcy.pl/gid,12353417,title,Przerazajace-katastrofy-ekologiczne,galeriazdjecie.html">Katastrofy ekologiczne</a></li>
+				<li><a href="http://kultura.wp.pl/wydarzenia.html">Wydarzenia kulturalne</a></li>
+				<li><a href="http://pogoda.wp.pl/cid,43116,name,Warszawa,index.html">Pogoda Warszawa</a></li>
+				<li><a href="http://pogoda.wp.pl/cid,43289,name,Krakow,index.html">Pogoda Kraków</a></li>
+				<li class="naglowek">SPORT</li>
+				<li><a href="http://ekstraklasa.wp.pl/kat,98810,kategoria.html">Śląsk Wrocław - najnowsze informacje</a></li>
+				<li><a href="http://ekstraklasa.wp.pl/kat,32296,kategoria.html">Górnik Zabrze - najnowsze informacje</a></li>
+				<li><a href="http://ekstraklasa.wp.pl/kat,97434,kategoria.html">Lechia Gdańsk - najnowsze wiadomości</a></li>
+				<li><a href="http://sport.wp.pl/query,neymar,tag.html">Neymar</a></li>
+				<li><a href="http://sport.wp.pl/query,mariusz%20pudzianowski,tag.html">Pudzian</a></li>
+				<li><a href="http://sport.wp.pl/query,robert%20lewandowski,tag.html">Robert Lewandowski</a></li>
+				<li><a href="http://sport.wp.pl/query,ksw,tag.html">KSW</a></li>
+				<li><a href="http://sport.wp.pl/kat,1754,name,liga-europejska,kategoria.html">Liga Europejska</a></li>
+				<li><a href="http://sport.wp.pl/tag.html?query=liga+mistrz%C3%B3w">Liga Mistrzów</a></li>
+				<li><a href="http://sport.wp.pl/kat,1809,title,NBA,kategoria.html">NBA</a></li>
+			</ul>
+			<ul>
+				<li class="naglowek">TECHNOLOGIE</li>
+				<li><a href="http://tech.wp.pl/kat,1009781,title,Oto-nowy-krol-Samsung-Galaxy-S-III-Pierwsze-wrazenia,wid,14458618,wiadomosc.html">Samsung Galaxy S III</a></li>
+				<li><a href="http://tech.wp.pl/name,Sony-Xperia-J,phoneId,15618,telefon.html">Sony Xperia J</a></li>
+				<li><a href="http://tech.wp.pl/name,Samsung-Galaxy-Mini-2,phoneId,15585,telefon.html">Samsung Galaxy Mini 2</a></li>
+				<li><a href="http://tech.wp.pl/name,Nokia-206,phoneId,15662,telefon.html">Nokia 206</a></li>
+				<li><a href="http://tech.wp.pl/name,Samsung-Galaxy-S4,phoneId,15686,telefon.html">Samsung Galaxy S4</a></li>
+				<li><a href="http://tech.wp.pl/name,Sony-Xperia-Z,phoneId,15671,telefon.html">Sony Xperia Z</a></li>
+				<li><a href="http://tech.wp.pl/kat,1031195,title,Nowiutki-Samsung-Wave-Y-prosty-i-wygodny,wid,14143061,wiadomosc.html">Samsung Wave Y</a></li>
+				<li><a href="http://moto.wp.pl/katalog/peugeot/2008.html">Peugeot 2008</a></li>
+				<li><a href="http://moto.wp.pl/katalog/peugeot/301.html">Peugeot 301</a></li>
+				<li><a href="http://trasy.docelu.pl/">Wyznaczanie trasy</a></li>
+				<li><a href="http://twojeip.wp.pl/">Moje ip</a></li>
+				<li><a href="http://tech.wp.pl/kat,18731,name,Przegladarki-internetowe,programy.html">Przeglądarki internetowe</a></li>
+				<li class="naglowek">ROZRYWKA</li>
+				<li><a href="http://aleseriale.pl/sid,29905,title,Przyjaciolki,serial.html">Przyjaciółki serial</a></li>
+				<li><a href="http://farmerama.wp.pl/">Farmerama</a></li>
+				<li><a href="http://dladzieci.pl/ubieranki.html">Ubieranki</a></li>
+				<li><a href="http://komediowo.pl/kawaly.html">Najlepsze kawały</a></li>
+				<li><a href="http://imperiumstylu.wp.pl">Imperium Stylu - darmowa gra o modzie</a></li>
+			</ul>
+			<ul>
+				<li class="naglowek">BIZNES I PRACA</li>
+				<li><a href="http://praca.wp.pl/szukaj,umowa o dzieło,szukaj.html">Umowa o dzieło</a></li>
+				<li><a href="http://waluty.wp.pl/kursy_nbp.html">Aktualny kurs walut</a></li>
+				<li><a href="http://praca.wp.pl/cv-list-motywacyjny.html">CV i LM</a></li>
+				<li><a href="http://praca.wp.pl/title,Placa-minimalna-2013-r,wid,15038377,wiadomosc-prawo-pracy.html">Płaca minimalna 2012</a></li>
+				<li><a href="http://praca.wp.pl/title,CV-po-angielsku-czyli-zyciorys-in-English,wid,1648279,wiadomosc-cv-list-motywacyjny.html">CV po angielsku</a></li>
+				<li><a href="http://podatki.wp.pl/skaleistawki.html">Aktualne stawki podatkowe</a></li>
+				<li><a href="http://podatki.wp.pl/ulgiiodliczenia.html">Wszystkie ulgi podatkowe - sprawdź!</a></li>
+				<li><a href="http://praca.wp.pl/title,Urlop-okolicznosciowy-ile-dni-wolnego-ci-sie-nalezy,wid,15235334,wiadomosc-kariera-zarobki.html">Urop okolicznościowy</a></li>
+				<li><a href="http://praca.wp.pl/title,Staz-z-urzedu-pracy-wszystko-co-musisz-wiedziec,wid,14370436,wiadomosc.html">Staż z urzędu</a></li>
+				<li class="naglowek">STYL ŻYCIA</li>
+				<li><a href="http://rtvagd.wp.pl/kat,1032149,title,Jaki-wybrac-i-kupic-klimatyzator-przenosny,wid,14717381,wiadomosc.html">Jaki klimatyzator wybrać?</a></li>
+				<li><a href="http://odkrywcy.pl/gid,12466475,title,Jak-wyglada-czerniak,galeriazdjecie.html">Czerniak - zobacz zdjęcia!</a></li>
+				<li><a href="http://odkrywcy.pl/kat,111394,title,Niskie-libido-to-nie-pruderia-a-powazny-problem,wid,12093214,wiadomosc.html">Niskie libido - w czym tkwi problem?</a></li>
+				<li><a href="http://rtvagd.wp.pl/kat,1032165,title,Jaki-wybrac-i-kupic-grill-elektryczny,wid,14533164,wiadomosc.html">Jaki grill elektryczny wybrać?</a></li>
+				<li><a href="http://nocoty.pl/query,natalia%20siwiec,szukaj.html">Natalia Siwiec</a></li>
+				<li><a href="http://anna-mucha.bloog.pl/">Blog Anny Muchy</a></li>
+				<li><a href="http://dzieci.pl/kat,1024253,title,Szczepionka-na-pneumokoki-szczepic-czy-nie-szczepic,wid,11861048,wiadomosc.html">Szczepionka na pneumokoki</a></li>
+				<li><a href="http://fitness.wp.pl/zdrowie/wirtualny-poradnik/art741,dna-moczanowa-objawy-i-profilaktyka.html">Dna moczanowa</a></li>
+				<li><a href="http://dzieci.pl/kalendarz-ciazy.html">Kalendarz ciąży</a></li>
+				<li><a href="http://horoskop.wp.pl/tarot.html">Tarot</a></li>
+				<li><a href="http://fitness.wp.pl/zdrowie/metody-naturalne/art104,hemoroidy-domowe-sposoby.html">Hemoroidy - domowe sposoby</a></li>
+				<li><a href="http://kobieta.wp.pl/kat,48756,title,Prolaktyna-klopotliwy-hormon,wid,13272084,wiadomosc.html">Prolaktyna - kłopotliwy hormon</a></li>
+				<li><a href="http://kobieta.wp.pl/kalkulatorbmi.html">Kalkulator bmi</a></li>
+			</ul>
+        </div>
+
+</div>
+<div id="dynAdv02"></div><div id="dynAdv03"></div>
+<!-- STRONA :: BEGIN -->
+<div id="Strona">
+<div id="Container">
+		<section id="Wiadomosci">
+		<section id="Kontent">
+			
+		<div id="Glonews" class="bx">
+			<ul class="glonewsy">
+				<li class="standard ST-Glo1" ><a href="http://wiadomosci.wp.pl/" class="serwis">WIADOMOśCI</a><h2><a href="http://wiadomosci.wp.pl/gid,16220318,kat,7631,title,Prezes-PiS-na-barykadach,galeria.html" title="Tego po Kaczyńskim nikt się nie spodziewał">Tego po Kaczyńskim nikt się nie spodziewał</a></h2><a href="http://wiadomosci.wp.pl/gid,16220318,kat,7631,title,Prezes-PiS-na-barykadach,galeria.html" title="Tego po Kaczyńskim nikt się nie spodziewał" class="zajawka">Spontaniczne gesty prezesa PiS</a><span class="autor">fot. sergey dolzhenko</span><a href="http://wiadomosci.wp.pl/gid,16220318,kat,7631,title,Prezes-PiS-na-barykadach,galeria.html" title="Tego po Kaczyńskim nikt się nie spodziewał" class="newsFoto"><img src="http://y.wpimg.pl/i/ivar/G/201312/1385988782_a.jpg" alt="" /></a></li>
+				<li class="standard ST-Glo2" ><a href="http://wirtualnaporadnia.wp.tv/" class="serwis">WP.TV</a><h2><a href="http://wirtualnaporadnia.wp.tv/i,Zaburzenia-snu-Wirtualna-poradnia,mid,1353080,index.html" title="5 czynników, które zrujnują ci sen">5 czynników, które zrujnują ci sen</a></h2><a href="http://wirtualnaporadnia.wp.tv/i,Zaburzenia-snu-Wirtualna-poradnia,mid,1353080,index.html" title="5 czynników, które zrujnują ci sen" class="zajawka">Chcesz się wyspać? Nie rób tego</a><span class="autor">fot. Thinkstock</span><a href="http://wirtualnaporadnia.wp.tv/i,Zaburzenia-snu-Wirtualna-poradnia,mid,1353080,index.html" title="5 czynników, które zrujnują ci sen" class="newsFoto"><img src="http://y.wpimg.pl/i/ivar/G/201312/1386059182_a.jpg" alt="" /></a></li>
+				<li class="standard ST-Glo3" ><a href="http://rtvagd.wp.pl/" class="serwis">RTVAGD</a><h2><a href="http://rtvagd.wp.pl/kat,1032113,title,Placisz-duzo-za-gaz-Wiemy-jak-mozesz-zaoszczedzic,wid,16220356,wiadomosc.html" title="Nawet kilkaset złotych oszczędności! Wystarczy to zrobić">Nawet kilkaset złotych oszczędności! Wystarczy to zrobić</a></h2><a href="http://rtvagd.wp.pl/kat,1032113,title,Placisz-duzo-za-gaz-Wiemy-jak-mozesz-zaoszczedzic,wid,16220356,wiadomosc.html" title="Nawet kilkaset złotych oszczędności! Wystarczy to zrobić" class="zajawka">Proste sposoby na obniżenie rachunków za gaz</a><span class="autor">fot. </span><a href="http://rtvagd.wp.pl/kat,1032113,title,Placisz-duzo-za-gaz-Wiemy-jak-mozesz-zaoszczedzic,wid,16220356,wiadomosc.html" title="Nawet kilkaset złotych oszczędności! Wystarczy to zrobić" class="newsFoto"><img src="http://y.wpimg.pl/i/ivar/G/201312/1385993360_a.jpg" alt="" /></a></li>
+				<li class="standard ST-Glo4" ><a href="http://pogoda.wp.pl/" class="serwis">POGODA</a><h2><a href="http://pogoda.wp.pl/gid,16222401,kat,1035571,galeria.html" title="Przerażający mróz, nawet minus 46 stopni!">Przerażający mróz, nawet minus 46 stopni!</a></h2><a href="http://pogoda.wp.pl/gid,16222401,kat,1035571,galeria.html" title="Przerażający mróz, nawet minus 46 stopni!" class="zajawka">Lodowaty fenomen bardzo blisko Polski</a><span class="autor">fot. thisismeta.at</span><a href="http://pogoda.wp.pl/gid,16222401,kat,1035571,galeria.html" title="Przerażający mróz, nawet minus 46 stopni!" class="newsFoto"><img src="http://y.wpimg.pl/i/ivar/G/201312/1386030295_a.jpg" alt="" /></a></li>
+				<li class="standard ST-Glo5" ><a href="http://babol.pl/" class="serwis">BABOL</a><h2><a href="http://babol.pl/kat,1025465,title,Afera-z-nowym-ministrem-sportu,wid,16221600,wiadomosc.html" title="Seksualno-alkoholowa afera w polskim rządzie!">Seksualno-alkoholowa afera w polskim rządzie!</a></h2><a href="http://babol.pl/kat,1025465,title,Afera-z-nowym-ministrem-sportu,wid,16221600,wiadomosc.html" title="Seksualno-alkoholowa afera w polskim rządzie!" class="zajawka">&quot;Wprost&quot; ujawnia kompromitujące fakty o nowym ministrze sportu</a><span class="autor">fot. PAP/Radek Pietruszka</span><a href="http://babol.pl/kat,1025465,title,Afera-z-nowym-ministrem-sportu,wid,16221600,wiadomosc.html" title="Seksualno-alkoholowa afera w polskim rządzie!" class="newsFoto"><img src="http://y.wpimg.pl/i/ivar/G/201312/1385995393_a.jpg" alt="" /></a></li>
+			</ul>
+			<div class="zakladkiCtn"></div>
+		</div>
+		<script type="text/javascript">
+		
+		var GlonewsDefaultTab = 0,
+		GlonewsDefaultRotate = true;
+		</script>
+		<div id="bxZajawkiGal" class="czteryKolumny">
+			<ul>
+				<li><a href="http://film.wp.pl/idGallery,13255,idPhoto,370669,title,Barbara-Wrzesinska-Slynna-aktorka-uniknie-eksmisji,galeria.html" title="Warszawa zafundowała jej ciężkie chwile"><img src="http://y.wpimg.pl/i/ivar/G/201312/1385988487_a.jpg" alt=""><strong>Warszawa zafundowała jej ciężkie chwile</strong><span class="tresc">Dramat Wrzesińskiej jeszcze się nie zakończył</span></a></li>
+				<li><a href="http://muzyka.wp.pl/galeria.html?gid=684676" title="Jest odpowiedź na ostry atak Kukiza"><img src="http://y.wpimg.pl/i/ivar/G/201312/1386060308_a.jpg" alt=""><strong>Jest odpowiedź na ostry atak Kukiza</strong><span class="tresc">Trwa afera z TVN-em w tle</span></a></li>
+				<li><a href="http://teleshow.pl/gid,16221044,img,16221094,kat,1024837,title,Dorota-Gardias-o-trudach-macierzynstwa-Dla-mnie-to-byl-koszmar,galeria.html" title="&quot;Dla mnie to był koszmar!&quot;"><img src="http://y.wpimg.pl/i/ivar/G/201312/1385995621_a.jpg" alt=""><strong>&quot;Dla mnie to był koszmar!&quot;</strong><span class="tresc">Gardias w końcu się do tego przyznała</span></a></li>
+				<li><a href="http://techtrendy.pl/kat,1026501,title,Inteligentny-biustonosz-zobacz-co-potrafi,wid,16222909,wiadomosc.html" title="Inteligentny biustonosz"><img src="http://y.wpimg.pl/i/ivar/G/201312/1386061676_a.jpeg" alt=""><strong>Inteligentny biustonosz</strong><span class="tresc">Zobacz, co potrafi</span></a></li>
+			</ul>
+		</div>
+		<div class="wierszLewa">
+			<div id="bxWPTV" class="bx">
+				<header class="naglowekBoksu">
+					<a class="tytul" href="http://wp.tv">TELEWIZJA INTERNETOWA WP.TV</a>
+				</header>
+				<div class="opcje"><a href="http://wp.tv/ver,rss,chn,1,rss.xml" class="rss">RSS</a></div>
+				
+				<ul class="dot" style="display: block">
+					<li class="pierwszy">
+						<div class="opis">
+							<a href="http://sensacje.wp.tv/i,Wypadek-Paula-Walkera-nagranie-z-monitoringu,mid,1353079,index.html">
+								<img src="http://y.wpimg.pl/i/ivar/W/201312/1386056088_a.jpg" alt=""/>
+								<strong>Wypadek Paula Walkera - nagranie z monitoringu</strong>
+							</a>
+							<span class="tresc">Śmierć gwiazdy</span>
+						</div>
+					</li>
+					<li class="pierwszy">
+						<div class="opis">
+							<a href="http://wiadomosci.wp.tv/i,Hawaje-Smierc-po-ataku-rekina,mid,1353081,index.html">
+								<img src="http://y.wpimg.pl/i/ivar/W/201306/1370416267_a.jpg" alt=""/>
+								<strong>Poszedł na ryby. Nie żyje</strong>
+							</a>
+							<span class="tresc">Atak bestii</span>
+						</div>
+					</li>
+					<li class="pierwszy">
+						<div class="opis">
+							<a href="http://polandia.wp.tv/pl/i,Tibor-z-Wegier-Polandia,mid,1347243,index.html">
+								<img src="http://y.wpimg.pl/i/ivar/W/201311/1385642821_a.jpg" alt=""/>
+								<strong>Szok na weselu. Nie miał pojęcia</strong>
+							</a>
+							<span class="tresc">Poza Warszawą to norma?</span>
+						</div>
+					</li>
+				</ul>
+				<div class="stopkaBoksu"><a href="http://wp.tv">Hity dnia</a> | <a href="http://serie.wp.tv">Serie</a> | <a href="http://kanaly.wp.tv">Kanały</a> | <a href="http://celebryci.wp.tv">Wywiady z celebrytami</a> | <a href="http://wp.tv">więcej &rsaquo;</a>
+				</div>
+			</div>
+			<!-- Przegląd dnia -->
+			<div id="bxPrzeglad" class="bx">
+				<div class="przewijak">
+					<header class="naglowekBoksu"><a class="tytul">gorące tematy</a></header>
+					<div class="strona">
+						<ul class="ST-BX-LinkiFoto">
+						<li><a href="http://aleseriale.pl/gid,13258,img,370776,fototemat.html" title="To koniec! Rozstają się"><img src="http://y.wpimg.pl/i/ivar/Z/201312/1386059372_a.jpg" alt=""><strong>To koniec! Rozstają się</strong></a>Zduński nie chce widzieć żony. Potraktował ją okrutnie!</li>
+						<li><a href="http://aleseriale.pl/gid,13256,img,370701,fototemat.html" title="Mucha mówi dość!"><img src="http://y.wpimg.pl/i/ivar/Z/201312/1385993745_a.jpg" alt=""><strong>Mucha mówi dość!</strong></a>To musiało się stać. Nawet ona dłużej tego nie wytrzyma</li>
+						<li><a href="http://kobieta.wp.pl/gid,16220853,img,16220879,kat,26405,title,Wszyscy-mogli-zobaczyc-jej-majtki-Marika,galeriazdjecie.html" title="Wszyscy mogli zobaczyć ich majtki!"><img src="http://y.wpimg.pl/i/ivar/Z/201312/1385989342_a.jpg" alt=""><strong>Wszyscy mogli zobaczyć ich majtki!</strong></a>Oto słynne bieliźniane wpadki</li>
+						</ul>
+					</div>
+					<div class="przewin">
+						<span class="page" data-page="1">1</span>
+						<span class="page" data-page="2">2</span>
+						<span class="page" data-page="3">3</span>
+						<span class="next">&rsaquo;</span>
+					</div>
+				</div>
+				<div class="dolny">
+					<ul class="dot ST-BX-Linki">
+						<li><a href="http://pytamy.pl/kat,7,title,kawa-na-noc,pytanie.html">Czy <b>kawę</b> można <b>pić przed snem?</b></a></li>
+						<li><a href="http://techtrendy.pl/kat,1026501,title,BenQ-wraca-na-rynek-smartfonow,wid,16223087,wiadomosc.html"><b>Gigant wraca na rynek</b> telefonów</a></li>
+						<li><a href="http://techtrendy.pl/kat,1026503,title,PocketBook-515-Mini-kieszonkowy-czytnik-e-bookow-za-300-zl,wid,16221952,wiadomosc.html">Kieszonkowy <b>czytnik e-booków za 300 zł</b></a></li>
+						<li><a href="http://pytamy.pl/kat,6,title,jecie-kartofelki-w-mundurkach,pytanie.html"><b>Najsmaczniejsze ziemniaki </b>na świecie</a></li>
+					</ul>
+				</div>
+			</div>
+			<!-- end:BOX NIE PRZEGAP -->
+		</div><div id="dynAdv15"></div>
+		<!-- TYLKO W WP -->
+		<div id="bxTylkoWWP" class="bx">
+			<header class="naglowekBoksu">
+				<a class="tytul" href="http://wiadomosci.wp.pl/komentarzewp.html" title="Przejdź do Tylko w WP.PL">tylko w wp.pl</a>
+			</header>
+			<ul class="dot">
+				<li class="pierwszy"><a href="http://film.wp.pl/idGallery,11966,idPhoto,349443,title,Top-10-Najlepsze-auta-z-Szybkich-i-wscieklych,galeria.html" title="Takimi autami szalał gwiazdor &quot;Szybkich i wściekłych&quot; Paul Walker"><img src="http://y.wpimg.pl/i/ivar/G/201312/1385996261_a.jpg" alt=""><strong>Takimi autami szalał gwiazdor &quot;Szybkich i wściekłych&quot; Paul Walker</strong></a><span class="tresc">Niestety, życie to nie film…
+</span></li>
+				<li><a href="http://muzyka.wp.pl/interviewId,684323,title,Docenic-te-dobre-momenty-rozmowa-z-Ania-Rusowicz,wywiad.html" title="Rusowicz o swojej wielkiej przemianie">Rusowicz o swojej wielkiej przemianie</a></li>
+				<li class="wideo"><a href="http://pixel.wp.tv/i,Bananowy-mit-Pixel,mid,1350119,index.html" title="Trucizna w bananach? Zobacz, zanim zjesz ">Trucizna w bananach? Zobacz, zanim zjesz </a></li>
+				<li class="wideo"><a href="http://kontrowersje.wp.tv/i,Osobowosc-typu-borderline-Kontrowersje,mid,1351060,index.html" title="Po pięćdziesiątym kochanku w ciągu roku Polka przestała liczyć">Po pięćdziesiątym kochanku w ciągu roku Polka przestała liczyć</a></li>
+			</ul>
+		</div>
+		<!-- end:TYLKO W WP -->
+		<!-- ROZRYWKA -->
+		<div id="bxRozrywka" class="bx">
+			<header class="naglowekBoksu">
+				<a class="tytul" href="http://film.wp.pl" title="Przejdź do serwisu Film">rozrywka</a>
+			</header>
+			<div class="czteryKolumny">
+				<ul>
+					<li><a href="http://aleseriale.pl/gid,13248,img,370573,fototemat.html" title="Oświadczyny i wypadek w &quot;Na Wspólnej&quot;!"><img src="http://y.wpimg.pl/i/ivar/G/201312/1385883545_a.jpg" alt=""><strong>Oświadczyny i wypadek w &quot;Na Wspólnej&quot;!</strong></a><span class="tresc">Dramatyczne zakończenie. Widzowie muszą się przygotować na najgorsze</span></li>
+					<li><a href="http://film.wp.pl/id,139288,title,Szybcy-i-wsciekli-7-Czy-tragiczna-smierc-aktora-spowoduje-zamkniecie-serii-wideo,wiadomosc.html" title="&quot;Szybcy i wściekli 7&quot; wstrzymani. Co teraz?"><img src="http://y.wpimg.pl/i/ivar/G/201312/1385984817_a.jpg" alt=""><strong>&quot;Szybcy i wściekli 7&quot; wstrzymani. Co teraz?</strong></a><span class="tresc">Jest pierwsza decyzja po tragicznej śmierci Paula Walkera</span></li>
+					<li><a href="http://muzyka.wp.pl/gid,684417,title,galeria.html" title="Była zjawiskowo piękna"><img src="http://y.wpimg.pl/i/ivar/G/201312/1385968771_a.jpg" alt=""><strong>Była zjawiskowo piękna</strong></a><span class="tresc">Dziś wygląda przerażająco. Jest karykaturą samej siebie</span></li>
+					<li><a href="http://aleseriale.pl/gid,13252,img,370624,fototemat.html" title="To koniec! Prawda wyszła na jaw"><img src="http://y.wpimg.pl/i/ivar/G/201312/1385976654_a.jpg" alt=""><strong>To koniec! Prawda wyszła na jaw</strong></a><span class="tresc">Perfidne kłamstwo zszokowało Mostowiaków</span></li>
+				</ul>
+				<div class="stopkaBoksu">
+					<a href="http://aleseriale.pl" title="aleSeriale">aleSeriale</a> | 
+					<a href="http://teleshow.pl" title="Teleshow">Teleshow</a> | 
+					<a href="http://film.wp.pl" title="Film">Film</a> | 
+					<a href="http://nocoty.pl/" title="NoCoTy">NoCoTy</a> | 
+					<a href="http://komediowo.pl" title="Komedie">Komedie</a> | 
+					<a href="http://muzyka.wp.pl" title="Muzyka">Muzyka</a> | 
+					<a href="http://gry.wp.pl" title="Gry">Gry</a> | 
+					<a href="http://ksiazki.wp.pl" title="Książki">Książki</a> | 
+					<a href="http://komiksomania.pl" title="Komiksy">Komiksy</a> | 
+					<a href="http://dot.wp.pl/redir?SN=wp2orangepl&amp;url=http%3A%2F%2Fwww.orange.pl%2Ftelewizja-tu-i-tam%2Fkategoria%2F8468634%2Ffilmy%2Frefwp0038" title="Filmy online" target="_blank">Filmy online</a>
+				</div>
+			</div>
+		</div>
+		<div id="dynAdv08"></div>
+		<!-- end:ROZRYWKA -->
+		<!-- STYL ŻYCIA -->
+		<div id="bxStylZycia" class="bx">
+			<header class="naglowekBoksu">
+				<a class="tytul" href="http://kobieta.wp.pl" title="Przejdź do serwisu">styl życia</a>
+			</header>
+			<div class="dwieKolumny">
+				<ul class="dot">
+					<li class="pierwszy"><a href="http://nocoty.pl/gid,16219623,kat,1013459,title,Najbrzydsze-suknie-slubne-w-polskim-show-biznesie,galeria.html" title="Najbrzydsze suknie ślubne polskich gwiazd"><img src="http://y.wpimg.pl/i/ivar/G/201312/1385991810_a.jpg" alt=""><strong>Najbrzydsze suknie ślubne polskich gwiazd</strong></a><span class="tresc">O tych koszmarach chcemy zapomnieć!</span></li>
+				</ul>
+				<ul class="dot prawa">
+					<li class="pierwszy"><a href="http://aleseriale.pl/gid,13253,img,370643,fototemat.html" title="Kożuchowska dotkliwie skrytykowana"><img src="http://y.wpimg.pl/i/ivar/G/201312/1385986948_a.jpg" alt="" /><strong>Kożuchowska dotkliwie skrytykowana</strong></a></li>
+					<li class="pierwszy"><a href="http://facet.wp.pl/gid,16219707,img,16219895,kat,1007873,galeriazdjecie.html" title="Faceci mają obsesję na punkcie jej biustu"><img src="http://y.wpimg.pl/i/ivar/G/201312/1385980319_a.jpg" alt="" /><strong>Faceci mają obsesję na punkcie jej biustu</strong></a></li>
+					<li><a href="http://pytamy.pl/kat,23,title,co-sadzicie-o-blondynkach,pytanie.html" title="Po czym poznać prawdziwą blondynkę?">Po czym poznać prawdziwą blondynkę?</a></li>
+					<li><a href="http://horoskop.wp.pl/cid,16,hid,156,title,Zapros-go-na-randke,znaki.html" title="Zrób pierwszy krok. On będzie zachwycony!">Zrób pierwszy krok. On będzie zachwycony!</a></li>
+					<li><a href="http://szkola.wp.pl/kat,108798,title,Jak-sie-malowac-do-szkoly,wid,16220135,wiadomosc.html" title="Jak się malować do szkoły?">Jak się malować do szkoły?</a></li>
+				</ul>
+			</div>
+			<div class="czteryKolumny">
+				<ul>
+					<li><a class="naglowekBoksu kolor1" href="http://kobieta.wp.pl" title="Przejdź do serwisu Kobieta">KOBIETA</a><a href="http://kobieta.wp.pl/gid,16220475,img,16220521,kat,59116,title,Masywna-bizuteria,galeriazdjecie.html" title="Co chcą zamaskować?"><strong>Co chcą zamaskować?</strong></a><span class="tresc">Nowy trend wśród gwiazd</span></li>
+					<li><a class="naglowekBoksu kolor2" href="http://nocoty.pl" title="Przejdź do serwisu Nocoty">NOCOTY</a><a href="http://nocoty.pl/galeria.html?gid=16219028&amp;kat=1013459" title="Cieślak w okropnej sukience"><strong>Cieślak w okropnej sukience</strong></a><span class="tresc">Była Czesława Mozila nigdy nie potrafi się ubrać?</span></li>
+					<li><a class="naglowekBoksu kolor3" href="http://dom.wp.pl" title="Przejdź do serwisu Dom">DOM</a><a href="http://dom.wp.pl/gid,16220586,kat,1036153,title,Oryginalne-ozdoby-swiateczne-drewniane-gwiazdki-choinkowe-Zrob-to-sam,galeria.html" title="Szukasz oryginalnego prezentu na Mikołajki?"><strong>Szukasz oryginalnego prezentu na Mikołajki?</strong></a><span class="tresc">Zrób go sam zaledwie w pół godziny!</span></li>
+					<li><a class="naglowekBoksu kolor4" href="http://kobieta.wp.pl" title="Przejdź do serwisu Kobieta">KOBIETA</a><a href="http://kobieta.wp.pl/gid,16211657,img,16211757,kat,79596,title,9-zaskakujacych-sytuacji-w-ktorych-oklamujesz-swojego-meza-Nie-mowisz-partnerowi-o-swoich-nowych-planach,galeriazdjecie.html" title="Kiedy kobiety kłamią?"><strong>Kiedy kobiety kłamią?</strong></a><span class="tresc">W tych sytuacjach wolą ukryć prawdę</span></li>
+				</ul>
+				<ul>
+					<li><a href="http://kobieta.wp.pl/gid,16220475,img,16220521,kat,59116,title,Masywna-bizuteria,galeriazdjecie.html" title="Co chcą zamaskować?"><img src="http://y.wpimg.pl/i/ivar/R/201312/1385984872_a.jpg" alt="" /></a></li>
+					<li><a href="http://nocoty.pl/galeria.html?gid=16219028&amp;kat=1013459" title="Cieślak w okropnej sukience"><img src="http://y.wpimg.pl/i/ivar/G/201312/1385971834_a.jpg" alt="" /></a></li>
+					<li><a href="http://dom.wp.pl/gid,16220586,kat,1036153,title,Oryginalne-ozdoby-swiateczne-drewniane-gwiazdki-choinkowe-Zrob-to-sam,galeria.html" title="Szukasz oryginalnego prezentu na Mikołajki?"><img src="http://y.wpimg.pl/i/ivar/S/201312/1385992300_a.jpg" alt="" /></a></li>
+					<li><a href="http://kobieta.wp.pl/gid,16211657,img,16211757,kat,79596,title,9-zaskakujacych-sytuacji-w-ktorych-oklamujesz-swojego-meza-Nie-mowisz-partnerowi-o-swoich-nowych-planach,galeriazdjecie.html" title="Kiedy kobiety kłamią?"><img src="http://y.wpimg.pl/i/ivar/G/201311/1385801230_a.jpg" alt="" /></a></li>
+				</ul>
+				<div class="stopkaBoksu">
+					<a href="http://kobieta.wp.pl/" title="Kobieta">Kobieta</a> | 
+					<a href="http://facet.wp.pl/" title="Facet">Facet</a> | 
+					<a href="http://kobiecyporadnik.pl/?smjtticaid=6ff84" title="Kobiecy Poradnik">Kobiecy Poradnik</a> | 
+					<a href="http://kuchnia.wp.pl/" title="Kuchnia">Kuchnia</a> | 
+					<a href="http://fitness.wp.pl/" title="Zdrowie">Zdrowie</a> | 
+					<a href="http://dzieci.pl/?smgputicaid=6ff84" title="Dla rodziców">Dla rodziców</a> | 
+					<a href="http://facet.wp.pl/kat,1007821,seks.html" title="Seks">Seks</a> | 
+					<a href="http://alemodelki.pl" title="AleModelki">AleModelki</a> | 
+					<a href="http://horoskop.wp.pl/" title="Horoskop">Horoskop</a> | 
+					<a href="http://dom.wp.pl/" title="Dom">Dom</a>
+				</div>
+			</div>
+		</div>
+		<!-- STYL ŻYCIA --><div id="dynAdv13"></div>
+			<section id="Ciekawostki">
+			<!-- BOX CIEKAWOSTKI -->
+			<div id="bxCiekawostki" class="bx">
+				<header class="naglowekBoksu">
+					<a class="tytul" href="http://niewiarygodne.pl" title="Przejdź do serwisu niewiarygodne.pl">ciekawostki</a>
+				</header>
+				<div class="dwieKolumny">
+					<ul class="dot lewa">
+					<li class="pierwszy"><a href="http://narty.wp.pl/galerie/miedwiezka-rosyjska-wioska-widmo,207,1,1.html" title="Zamrożona rosyjska wioska widmo"><img src="http://y.wpimg.pl/i/ivar/T/201312/1385988385_a.jpg" alt=""><strong>Zamrożona rosyjska wioska widmo</strong></a><span class="tresc">Kto w niej mieszkał?</span></li>
+					</ul>
+					<ul class="dot prawa">
+						<li class="pierwszy">
+							<a href="http://ulubiency.wp.pl/kat,1010779,title,Psy-pochodza-z-Europy,wid,16219453,wiadomosc.html" title="Już wiadomo skąd wzięły się psy"><strong>Już wiadomo skąd wzięły się psy</strong></a>
+							<span class="tresc">Badania DNA potwierdziły, że psy pochodzą od wymarłych wilków, które zamieszkiwały Europę. Do udomowienia mogło dojść ponad 18 tys. lat temu. Psy stały się więc pierwszym gatunkiem udomowionym przez człowieka</span>
+						</li>
+						<li>
+							<a href="http://pytamy.pl/kat,25,title,jak-sprawdzic-swierzosc-oddechu,poradnik.html" title="Jak najprościej sprawdzić świeżość swojego oddechu?"><strong>Jak najprościej sprawdzić świeżość swojego oddechu?</strong></a>
+							<span class="tresc">Najpierw trzeba polizać nadgarstek</span>
+							<a href="http://turystyka.wp.pl/title,Polacy-wybrali-Boze-Narodzenie-i-Sylwester-za-granica,wid,16201299,wiadomosc.html" title="Tu spędzisz Boże Narodzenie i Sylwestra za 1600 zł!"><strong>Tu spędzisz Boże Narodzenie i Sylwestra za 1600 zł!<wideo/></strong></a>
+							<span class="tresc">Tak tanio jeszcze tam nie było</span>
+						</li>
+					</ul>
+				</div>
+				<div class="czteryKolumny">
+					<ul>
+						<li><a href="http://odkrywcy.pl/kat,1037739,title,Zle-wspomnienia-mozna-odziedziczyc,wid,16220684,wiadomosc.html" title="Złe wspomnienia są dziedziczne"><img src="http://y.wpimg.pl/i/ivar/C/201307/1374232092_a.jpg" alt=""><strong>Złe wspomnienia są dziedziczne</strong></a><span class="tresc">Fobie mogą pochodzić od naszych przodków</span></li>
+						<li><a href="http://narty.wp.pl/galerie/najlepszy-region-narciarski-swiata,208,1,1.html" title="Wybrano najlepszy ośrodek narciarski świata!"><img src="http://y.wpimg.pl/i/ivar/C/201312/1385983382_a.jpg" alt=""><strong>Wybrano najlepszy ośrodek narciarski świata!</strong></a><span class="tresc">Znasz to miejsce?</span></li>
+						<li><a href="http://kobieta.wp.pl/gid,16219534,img,16219554,kat,119634,title,Warto-jesc-orzechy,galeriazdjecie.html" title="Sprzyjają płodności, zapobiegają starzeniu"><img src="http://y.wpimg.pl/i/ivar/C/201312/1385982349_a.jpg" alt=""><strong>Sprzyjają płodności, zapobiegają starzeniu</strong></a><span class="tresc">Powinny je jeść zwłaszcza kobiety</span></li>
+						<li><a href="http://niewiarygodne.pl/kat,1031983,title,Trojaczki-przyszly-na-swiat-ze-zdeformowanymi-glowami-Lekarze-dokonali-czegos-nieslychanego,wid,16220397,wiadomosc.html" title="Cierpią na jedną z najbardziej przerażających chorób genetycznych"><img src="http://y.wpimg.pl/i/ivar/C/201312/1385989760_a.jpg" alt=""><strong>Cierpią na jedną z najbardziej przerażających chorób genetycznych</strong></a><span class="tresc">Lekarze dokonali czegoś niesłychanego!</span></li>
+					</ul>
+				</div>
+			</div>
+			<!-- end:BOX CIEKAWOSTKI -->
+			</section>
+<div id="dynAdv34"></div>
+		</section>
+		<section id="News">
+					<!-- POGODA AJAX : BEGIN -->
+		<div id="bxPogoda" class="bx ajax"></div>
+		<!-- POGODA AJAX : END --><div id="dynAdv20"></div><div id="dynAdv05"></div><div id="dynAdv29"></div>
+		<!-- BOX WIADOMOŚCI -->
+		<div id="bxWiadomosci" class="bx">
+			<header class="naglowekBoksu">
+				<a class="tytul" href="http://wiadomosci.wp.pl" title="Przejdź do serwisu Wiadomości">wiadomości</a>
+				<div class="opcje">
+					<a href="http://topnews.wp.pl/cn,Biznes-i-informacje,c,1,index.html" class="topnews" title="Biznes i informacje - Top news - najpopularniejsze w WP.PL">Biznes i informacje - Top news - najpopularniejsze w WP.PL</a>
+					<a href="http://www.wp.pl/rss.xml?id=1" class="rss" title="Wiadomości RSS">RSS</a>
+				</div>
+			</header>
+			<ul class="dot">
+				<li class="pierwszy"><a href="http://wiadomosci.wp.pl/kat,1356,title,Rossijskaja-Gazieta-ostro-o-Polsce,wid,16222825,wiadomosc.html" title="Rosyjska gazeta atakuje Polskę"><img src="http://y.wpimg.pl/i/ivar/W/201312/1386060325.jpeg" alt="" /><strong>Rosyjska gazeta atakuje Polskę</strong></a></li>
+				<li><a href="http://wiadomosci.wp.pl/lbid,5182,title,Goraco-na-Ukrainie,nazywo.html" title="&quot;Chamstwo, bandyci z milicji&quot; - ostro w parlamencie">&quot;Chamstwo, bandyci z milicji&quot; - ostro w parlamencie</a></li>
+				<li><a href="http://wiadomosci.wp.pl/kat,1356,title,Radoslaw-Sikorski-nie-moge-wyjsc-na-Majdan-z-plomienna-przemowa,wid,16222400,wiadomosc.html" title="Burza po wpisie Sikorskiego. Chcą jego dymisji">Burza po wpisie Sikorskiego. Chcą jego dymisji</a></li>
+				<li><a href="http://wiadomosci.wp.pl/kat,1019385,title,Anna-K-matka-zmarlej-4-miesiecznej-Joli-z-Olecka-znowu-klamie-nt-ojca-jej-dzieci,wid,16222557,wiadomosc.html" title="Matka zmarłej 4-miesięcznej Joli z Olecka znowu kłamie">Matka zmarłej 4-miesięcznej Joli z Olecka znowu kłamie</a></li>
+				<li><a href="http://konflikty.wp.pl/gid,16221734,kat,1356,title,Wstydliwa-przeszlosc-prezydenta-Robil-to-w-mlodosci,galeria.html" title="Wstydliwa przeszłość prezydenta. Robił to w młodości">Wstydliwa przeszłość prezydenta. Robił to w młodości</a></li>
+				<li><a href="http://konflikty.wp.pl/kat,1356,title,Media-Korei-Pld-wplywowy-wuj-przywodcy-Korei-Pln-odwolany-ze-stanowiska,wid,16222889,wiadomosc.html" title="Sensacyjne wieści z Korei Płn., tego nikt nie przewidział">Sensacyjne wieści z Korei Płn., tego nikt nie przewidział</a></li>
+				<li><a href="http://wiadomosci.wp.pl/kat,131034,title,Jaroslaw-Kaczynski-Ukraina-potrzebuje-dzialan-merytorycznych-UE-nie-propagandowych,wid,16222665,wiadomosc.html" title="Kaczyński: wyciągniemy konsekwencje, jeśli tak będzie">Kaczyński: wyciągniemy konsekwencje, jeśli tak będzie</a></li>
+				<li><a href="http://wiadomosci.wp.pl/kat,1342,title,Afera-korupcyjna-w-polskim-wojsku-Cywile-z-zarzutami,wid,16222446,wiadomosc.html" title="Afera w polskim wojsku. Kolejne osoby z zarzutami">Afera w polskim wojsku. Kolejne osoby z zarzutami</a></li>
+				<li><a href="http://pogoda.wp.pl/gid,16216880,kat,355,title,Zima-zaatakuje-z-ogromna-sila-prognoza-sezonowa,galeria.html" title="Zima zaatakuje z ogromną siłą - prognoza sezonowa">Zima zaatakuje z ogromną siłą - prognoza sezonowa</a></li>
+				<li><a href="http://wiadomosci.wp.pl/kat,137674,title,Dr-Jaroslaw-Cwiek-Karpowicz-prezydent-Ukrainy-obiecal-zblizenie-do-UE-i-jest-z-tego-rozliczany,wid,16220574,wiadomosc.html" title="&quot;To jest niebezpieczne dla Polski&quot;">&quot;To jest niebezpieczne dla Polski&quot;</a></li>
+				<li><a href="http://wiadomosci.wp.pl/kat,9972,title,Modlitewna-akcja-w-intencji-kaplanow,wid,16222458,wiadomosc.html" title="Szykują dużą akcję. &quot;Nie pozwolimy oczerniać księży&quot;">Szykują dużą akcję. &quot;Nie pozwolimy oczerniać księży&quot;</a></li>
+				<li><a href="http://nasygnale.pl/kat,1025343,title,Czapka-wskazala-zabojce,wid,16220017,wiadomosc.html" title="Zginął na własnym podwórku, bo zauważył złodzieja!">Zginął na własnym podwórku, bo zauważył złodzieja!</a></li>
+				
+			</ul>
+			<div class="stopkaBoksu ST-bxWiadomosci-stopka">
+				<a href="http://wiadomosci.wp.pl/polska_lokalna.html" title="Wiadomości lokalne">Wiadomości lokalne</a> | 
+				<a href="http://wiadomosci.wp.pl/kat,1342,name,Polska,kategoria.html" title="Polska">Polska</a> | 
+				<a href="http://wiadomosci.wp.pl/kat,1356,name,Swiat,kategoria.html" title="Świat">Świat</a> | 
+				<a href="http://konflikty.wp.pl" title="Konflikty">Konflikty</a> | 
+				<a href="http://infografika.wp.pl/" title="Infografika">Infografika</a>
+			</div>
+			<div id="dynAdv17"></div>
+		</div>
+		<!-- end:BOX WIADOMOŚCI -->
+		<!-- BOX SPORT -->
+		<div id="bxSport" class="bx">
+			<header class="naglowekBoksu">
+				<a class="tytul" href="http://sport.wp.pl" title="Przejdź do serwisu Sport">sport</a>
+				<div class="opcje">
+					<a href="http://topnews.wp.pl/cn,Sport-i-turystyka,c,2,index.html" class="topnews" title="Sport i turystyka - Top news - najpopularniejsze w WP.PL">Sport i turystyka - Top news - najpopularniejsze w WP.PL</a>
+					<a href="http://www.wp.pl/rss.xml?id=2" class="rss" title="Sport RSS">RSS</a>
+				</div>
+			</header>
+			<ul class="dot">
+				<li class="pierwszy"><a href="http://sport.wp.pl/kat,1884,title,Wielki-sukces-Anny-Lewandowskiej,wid,16222590,wiadomosc.html" title="Wielki sukces żony Roberta Lewandowskiego. Tego jeszcze nie było"><img src="http://y.wpimg.pl/i/ivar/S/201312/1386064666.jpeg" alt="" /><strong>Wielki sukces żony Roberta Lewandowskiego. Tego jeszcze nie było</strong></a></li>
+				<li><a href="http://sport.wp.pl/kat,1835,title,Biegun-Ammann-cieszyl-sie-z-mojego-zwyciestwa,wid,16219591,wiadomosc.html" title="Biegun zdradza, jak zachował się wobec niego i co powiedział mu Simon Ammann ">Biegun zdradza, jak zachował się wobec niego i co powiedział mu Simon Ammann </a></li>
+				<li><a href="http://sport.wp.pl/kat,1728,title,Boniek-slodzi-kibicom-reprezentacji,wid,16219483,wiadomosc.html" title="&quot;Polacy najlepsi na świecie. Wszyscy mogą zazdrościć&quot;">&quot;Polacy najlepsi na świecie. Wszyscy mogą zazdrościć&quot;</a></li>
+				<li><a href="http://ekstraklasa.wp.pl/kat,32304,title,Uwaga-wariat-Chowac-nogi,wid,16222371,wiadomosc.html" title="T-ME: uwaga, wariat! Wyleciał z boiska po 40. sek.">T-ME: uwaga, wariat! Wyleciał z boiska po 40. sek.</a></li>
+				<li><a href="http://sport.wp.pl/kat,126440,title,FIM-wyroznila-Patryka-Dudka,wid,16219677,wiadomosc.html" title="Światowa federacja wskazała na Polaka. Odkrycie roku!">Światowa federacja wskazała na Polaka. Odkrycie roku!</a></li>
+				<li><a href="http://sport.wp.pl/kat,1746,title,Bild-objasnia-gesty-Kloppa-przy-linii,wid,16221970,wiadomosc.html" title="Po zgrzycie z golem &quot;Lewego&quot; Niemcy wyjaśniają...">Po zgrzycie z golem &quot;Lewego&quot; Niemcy wyjaśniają...</a></li>
+				<li><a href="http://sport.wp.pl/kat,1750,title,Mourinho-odda-Luiza-Barcelonie,wid,16221621,wiadomosc.html" title="Mourinho gotów oddać Barcelonie świetnego piłkarza">Mourinho gotów oddać Barcelonie świetnego piłkarza</a></li>
+				<li><a href="http://sport.wp.pl/kat,1832,title,Kowalczyk-szkoda-bylo-Johaug,wid,16220016,wiadomosc.html" title="Kowalczyk zrobiło się żal norweskiej gwiazdy. Dlaczego?">Kowalczyk zrobiło się żal norweskiej gwiazdy. Dlaczego?</a></li>
+				<li><a href="http://ekstraklasa.wp.pl/kat,98810,title,Levy-sedziowie-nas-masakruja,wid,16222380,wiadomosc.html" title="T-ME: &quot;nieprawdopodobne. Oni nas masakrują&quot;">T-ME: &quot;nieprawdopodobne. Oni nas masakrują&quot;</a></li>
+				<li><a href="http://sport.wp.pl/kat,1750,title,Real-Madryt-i-FC-Barcelona-ukarane,wid,16222220,wiadomosc.html" title="Real Madryt i FC Barcelona ukarane. Zapłacą miliony">Real Madryt i FC Barcelona ukarane. Zapłacą miliony</a></li>
+				<li><a href="http://ekstraklasa.wp.pl/kat,32288,title,Kaminski-widzial-juz-pilke-w-bramce,wid,16220155,wiadomosc.html" title="T-ME: dla Lecha Poznań to szok? &quot;Oczywiście&quot;">T-ME: dla Lecha Poznań to szok? &quot;Oczywiście&quot;</a></li>
+				<li><a href="http://babol.pl/kat,1025465,title,Jest-kolejna-sesja-Radwanskiej,wid,16215976,wiadomosc.html" title="Jest nowa sesja Radwańskiej! Zobacz">Jest nowa sesja Radwańskiej! Zobacz</a></li>
+			</ul>
+			<div class="stopkaBoksu ST-bxSport-stopka">
+				<a href="http://ekstraklasa.wp.pl" title="Ekstraklasa">Ekstraklasa</a> | 
+				<a href="http://sport.wp.pl/kat,1726,name,pilka-nozna,kategoria.html" title="Piłka Nożna">Piłka Nożna</a> | 
+				<a href="http://babol.pl" title="Babol">Babol</a> | 
+				<a href="http://sport.wp.pl/sport_w_tv.html" title="Sport w TV">Sport w TV</a> | 
+				<a href="http://sport.wp.pl/kat,1835,title,Skoki-narciarskie,kategoria.html" title="Skoki">Skoki</a> | 
+				<a href="http://fantasyliga.wp.pl/" title="Fantasy">Fantasy</a>
+			</div>
+						<div id="dynAdv14"></div>
+		</div>
+		<!-- end:BOX SPORT -->
+		<!-- BOX FINANSE -->
+		<div id="bxFinanse" class="bx">
+			<header class="naglowekBoksu">
+				<a class="tytul" href="http://finanse.wp.pl" title="Przejdź do serwisu Finanse">finanse</a>
+				<div class="opcje">
+					<a href="http://topnews.wp.pl/cn,Biznes-i-informacje,c,1,index.html" class="topnews" title="Biznes i informacje - Top news - najpopularniejsze w WP.PL">Biznes i informacje - Top news - najpopularniejsze w WP.PL</a>
+					<a href="http://www.wp.pl/rss.xml?id=3" class="rss" title="Finanse RSS">RSS</a>
+				</div>
+			</header>
+			<ul class="dot">
+				<li class="pierwszy"><a href="http://finanse.wp.pl/gid,16208643,kat,1033691,title,Gdzie-kupuja-Polacy-Cos-sie-zmienilo,galeria.html" title="Polacy już nie chcą tam robić zakupów! Spektakularny upadek świątyń handlu"><img src="http://y.wpimg.pl/i/ivar/F/201312/1386050523.jpeg" alt="" /><strong>Polacy już nie chcą tam robić zakupów! Spektakularny upadek świątyń handlu</strong></a></li>
+				<li><a href="http://finanse.wp.pl/kat,1033719,title,Balcerowicz-zmiany-w-OFE-pozwola-rzadowi-zwiekszyc-wydatki-przed-wyborami,wid,16221347,wiadomosc.html" title="Balcerowicz: rząd chce wywłaszczyć 16 mln Polaków">Balcerowicz: rząd chce wywłaszczyć 16 mln Polaków</a></li>
+				<li><a href="http://finanse.wp.pl/kat,1033725,title,Ozog-system-podatkowy-jest-nieprzyjazny-dla-przedsiebiorcow,wid,16221578,wiadomosc.html" title="Skarbówka - przekleństwo polskich firm">Skarbówka - przekleństwo polskich firm</a></li>
+				<li><a href="http://finanse.wp.pl/kat,1033719,title,Cztery-dni-na-zmiany-w-OFE,wid,16219024,wiadomosc.html" title="Takiej podwyżki VAT-u Polacy rządowi nie wybaczą">Takiej podwyżki VAT-u Polacy rządowi nie wybaczą</a></li>
+				<li><a href="http://finanse.wp.pl/kat,1033691,title,Polacy-kochaja-e-zakupy,wid,16222447,wiadomosc.html" title="Najpopularniejsze sklepy w Polsce? Wcale nie dyskonty!">Najpopularniejsze sklepy w Polsce? Wcale nie dyskonty!</a></li>
+				<li><a href="http://finanse.wp.pl/kat,1033759,title,Sledczy-kontra-Tele-Fonika,wid,16219173,wiadomosc.html" title="Jeden z najbogatszych Polaków usłyszał zarzuty">Jeden z najbogatszych Polaków usłyszał zarzuty</a></li>
+				<li><a href="http://finanse.wp.pl/kat,1033691,title,Czolowi-polscy-eksporterzy-uhonorowani,wid,16222294,wiadomosc.html" title="Te firmy sławią towary z Polski na całym świecie">Te firmy sławią towary z Polski na całym świecie</a></li>
+				<li><a href="http://finanse.wp.pl/kat,1037883,title,Marudzimy-ale-rzadko-reklamujemy,wid,16222448,wiadomosc.html" title="Wpychają nam buble, a my nawet nie protestujemy">Wpychają nam buble, a my nawet nie protestujemy</a></li>
+				<li><a href="http://finanse.wp.pl/kat,1034079,title,KGMS-strefa-wolnego-handlu-UE-USA-przyniesie-wiecej-korzysci-niz-strat,wid,16222208,wiadomosc.html" title="Wolny handel z USA to szansa dla naszego kraju">Wolny handel z USA to szansa dla naszego kraju</a></li>
+				<li><a href="http://finanse.wp.pl/kat,1037883,title,Ministrowie-za-ulatwieniem-konsumentom-odszkodowan-za-kartele,wid,16222360,wiadomosc.html" title="Polska nie poparła odszkodowań dla ofiar karteli">Polska nie poparła odszkodowań dla ofiar karteli</a></li>
+				<li><a href="http://finanse.wp.pl/kat,1033725,title,Zwiazki-zawodowe-niechetnie-widziane-w-firmie,wid,16222474,wiadomosc.html" title="Małe i średnie firmy nie chcą związków">Małe i średnie firmy nie chcą związków</a></li>
+			</ul>
+			<div id="bxFinanseWidget" class="ajax"></div>
+			<div class="stopkaBoksu ST-bxFinanse-stopka">
+				<a href="http://banki.wp.pl/" title="Banki">Banki</a> | 
+				<a href="http://podatki.wp.pl/" title="Podatki">Podatki</a> | 
+				<a href="http://fundusze.wp.pl/" title="Fundusze">Fundusze</a> | 
+				<a href="http://emerytury.wp.pl/" title="Emerytury">Emerytury</a> | 
+				<a href="http://ubezpieczenia.wp.pl" title="Ubezpieczenia">Ubezpieczenia</a>
+			</div>
+						<div id="dynAdv16"></div>
+		</div>
+		<!-- end:BOX FINANSE -->
+		<!-- BOX TECHNOLOGIE -->
+		<div id="bxTechnologie" class="bx">
+			<header class="naglowekBoksu">
+				<a class="tytul" href="http://tech.wp.pl" title="Przejdź do serwisu Tech">technologie</a>
+				<div class="opcje">
+					<a href="http://topnews.wp.pl/cn,Hobby-i-styl-zycia,c,4,index.html" class="topnews" title="Hobby i styl życia - Top news - najpopularniejsze w WP.PL">Hobby i styl życia - Top news - najpopularniejsze w WP.PL</a>
+					<a href="http://www.wp.pl/rss.xml?id=4" class="rss" title="Technologie RSS">RSS</a>
+				</div>
+			</header>
+			<ul class="dot">
+				<li class="pierwszy"><a href="http://tech.wp.pl/kat,1009785,title,Perfidny-atak-na-klientow-banku-PKO-BP,wid,16216237,wiadomosc.html" title="Atak na klientów największego banku w Polsce! Sami przelewali kasę złodziejom"><img src="http://y.wpimg.pl/i/ivar/G/201311/1385736579_a.jpg" alt="" /><strong>Atak na klientów największego banku w Polsce! Sami przelewali kasę złodziejom</strong></a></li>
+				<li><a href="http://techtrendy.pl/title,Oto-specyfikacja-Samsunga-Galaxy-S5,wid,16220567,wiadomosc.html" title="Oto specyfikacja Samsunga Galaxy S5?">Oto specyfikacja Samsunga Galaxy S5?</a></li>
+				<li><a href="http://tech.wp.pl/kat,1009785,title,Nadchodzi-nowy-platny-YouTube,wid,16216264,wiadomosc.html" title="Gruchnęła wiadomość! YouTube będzie płatny">Gruchnęła wiadomość! YouTube będzie płatny</a></li>
+				<li><a href="http://techtrendy.pl/title,Niesamowity-latajacy-samochod-Pomyslnie-przeszedl-testy,wid,16220995,wiadomosc.html" title="Niesamowity latający samochód. Już jest!">Niesamowity latający samochód. Już jest!</a></li>
+				<li><a href="http://rtvagd.wp.pl/kat,1032131,title,Zmywarka-Miele-G-6000-otworzy-drzwiczki-jesli-zapukasz,wid,16221805,wiadomosc.html" title="Zmywarka, która otworzy drzwiczki, jeśli zapukasz">Zmywarka, która otworzy drzwiczki, jeśli zapukasz</a></li>
+				<li><a href="http://techtrendy.pl/title,Nanocam-przyszlosc-samoprowadzacych-sie-samochodow,wid,16220474,wiadomosc.html" title="Oto przyszłość samochodów. Te modele będą tańsze">Oto przyszłość samochodów. Te modele będą tańsze</a></li>
+				<li><a href="http://tech.wp.pl/kat,1009781,title,Telefon-komorkowy-do-samodzielnego-montazu,wid,16219431,wiadomosc.html" title="Telefon komórkowy do samodzielnego montażu">Telefon komórkowy do samodzielnego montażu</a></li>
+			</ul>
+			<div class="stopkaBoksu">
+				<a href="http://techtrendy.pl" title="Techtrendy">Techtrendy</a> | 
+				<a href="http://tech.wp.pl/programy_sg.html" title="Programy">Programy</a> | 
+				<a href="http://dobraaplikacja.pl/" title="Aplikacje">Aplikacje</a> | 
+				<a href="http://tech.wp.pl/telefony.html" title="Telefony">Telefony</a> | 
+				<a href="http://rtvagd.wp.pl/" title="RTV-AGD">RTV-AGD</a>
+			</div>
+		</div>
+		<!-- end:BOX TECHNOLOGIE -->
+		<!-- BOX MOTO -->
+		<div id="bxMoto" class="bx">
+			<header class="naglowekBoksu">
+				<a class="tytul" href="http://moto.wp.pl" title="Przejdź do serwisu Moto">motoryzacja</a>
+				<div class="opcje">
+					<a href="http://topnews.wp.pl/cn,Hobby-i-styl-zycia,c,4,index.html" class="topnews" title="Hobby i styl życia - Top news - najpopularniejsze w WP.PL">Hobby i styl życia - Top news - najpopularniejsze w WP.PL</a>
+					<a href="http://www.wp.pl/rss.xml?id=9" class="rss" title="Moto RSS">RSS</a>
+				</div>
+			</header>
+			<ul class="dot">
+				<li class="pierwszy"><a href="http://moto.wp.pl/kat,45754,title,Jak-dbac-o-opony-zimowe,wid,16209905,wiadomosc.html" title="Jeździsz na zimówkach? Musisz o tym wiedzieć"><img src="http://y.wpimg.pl/i/ivar/M/201310/1381753551.jpeg" alt="" /><strong>Jeździsz na zimówkach? Musisz o tym wiedzieć</strong></a></li>
+				<li><a href="http://moto.wp.pl/gid,16213805,kat,45754,title,Sprawne-auto-za-2-tysiace-zlotych,wid,16213805,galeriazdjecie.html" title="Niezniszczalne samochody za mniej niż jedną pensję">Niezniszczalne samochody za mniej niż jedną pensję</a></li>
+				<li><a href="http://moto.wp.pl/kat,45754,title,Grypa-wrogiem-kierowcy,wid,16207156,wiadomosc.html" title="Śmiertelny wróg kierowcy! Tragiczne konsekwencje">Śmiertelny wróg kierowcy! Tragiczne konsekwencje</a></li>
+				<li><a href="http://moto.wp.pl/kat,55194,title,Nissan-GT-R-Nismo-bije-rekord-toru-Nurburgring,wid,16207687,wiadomosc.html" title="Najszybszy na Nurburgringu. Nie z Niemiec">Najszybszy na Nurburgringu. Nie z Niemiec</a></li>
+				<li><a href="http://moto.wp.pl/kat,123,title,Audi-S3-Limousine-sportowo-i-praktycznie,wid,16214860,wiadomosc.html" title="Niemiecki sedan o świetnych osiągach">Niemiecki sedan o świetnych osiągach</a></li>
+				<li><a href="http://moto.wp.pl/gid,16206159,title,Nissan-GT-R-2014,galeriazdjecie.html" title="Kultowe auto z Japonii. Edycja 2014">Kultowe auto z Japonii. Edycja 2014</a></li>
+				<li><a href="http://moto.wp.pl/kat,55194,title,Mazda3-z-piecioma-gwiazdkami-Euro-NCAP,wid,16207101,wiadomosc.html" title="Nie dość, że hit, to jeszcze bezpieczny">Nie dość, że hit, to jeszcze bezpieczny</a></li>
+			</ul>
+			<div class="stopkaBoksu">
+				<a href="http://moto.wp.pl/kat,107914,name,testy-samochodow,kategoria.html" title="Testy">Testy</a> | 
+				<a href="http://moto.wp.pl/opinie/opinie.html" title="Opinie">Opinie</a> | 
+				<a href="http://moto.wp.pl/wycena_k1.html" title="Wyceny">Wyceny</a> | 
+				<a href="http://ogloszenia.wp.pl/osobowe_/" title="Ogłoszenia">Ogłoszenia</a> | 
+				<a href="http://moto.wp.pl/katalog/katalog.html" title="Katalog">Katalog</a> | 
+				<a href="http://moto.wp.pl/kup_sprzedaj.html" title="Kup auto!">Kup auto!</a>
+			</div>
+		</div>
+		<!-- end:BOX MOTO -->
+		<!-- BOX PRACA -->
+		<div id="bxPraca" class="bx">
+			<header class="naglowekBoksu">
+				<a class="tytul" href="http://praca.wp.pl" title="Przejdź do serwisu Praca">praca</a>
+				<div class="opcje">
+					<a href="http://topnews.wp.pl/cn,Biznes-i-informacje,c,1,index.html" class="topnews" title="Biznes i informacje - Top news - najpopularniejsze w WP.PL">Biznes i informacje - Top news - najpopularniejsze w WP.PL</a>
+					<a href="http://www.wp.pl/rss.xml?id=89" class="rss" title="Praca RSS">RSS</a>
+				</div>
+			</header>
+			<ul class="dot">
+				<li class="pierwszy wideo"><a href="http://praca.wp.pl/title,W-nadchodzacym-roku-w-niektorych-kopalniach-mozliwy-szesciodniowy-tydzien-pracy-WIDEO,wid,16222528,wiadomosc.html" title="Wprowadzają sześciodniowy tydzień pracy!"><img src="http://y.wpimg.pl/i/ivar/G/201311/1385710656_a.jpg" alt="" /><strong>Wprowadzają sześciodniowy tydzień pracy!</strong></a></li>
+				<li><a href="http://praca.wp.pl/title,Przyjma-do-pracy-tysiac-osob-Kogo-szukaja,wid,16220559,wiadomosc.html" title="Światowy gigant zatrudni 1 tys. Polaków">Światowy gigant zatrudni 1 tys. Polaków</a></li>
+				<li><a href="http://praca.wp.pl/title,Cala-prawda-o-tym-co-Polacy-robia-po-pracy,wid,16221846,wiadomosc.html" title="Cała prawda o tym, co Polacy robią po pracy ">Cała prawda o tym, co Polacy robią po pracy </a></li>
+				<li><a href="http://praca.wp.pl/title,65-proc-Polakow-pije-zeby-sie-odstresowac,wid,16221884,wiadomosc.html" title="Najlepszy sposób na odstresowanie?">Najlepszy sposób na odstresowanie?</a></li>
+				<li><a href="http://praca.wp.pl/title,Polska-mapa-szczescia,wid,16222522,wiadomosc.html" title="Czego nie wiesz o bezrobotnych">Czego nie wiesz o bezrobotnych</a></li>
+					<li><a href="http://praca.wp.pl/branza,Informatyka-Programowanie,s,11,oferty-pracy.html#!branze[]=28" title="Oferty pracy dla informatyków">Oferty pracy dla informatyków</a> <a class="ngrek">ogłoszenia</a></li>
+			</ul>
+			<div class="stopkaBoksu ST-bxPraca-stopka">
+				<a href="http://praca.wp.pl/cv-list-motywacyjny.html" title="Moje CV">Moje CV</a> | 
+				<a href="http://praca.wp.pl/eksperci.html" title="Zapytaj eksperta">Zapytaj eksperta</a> | 
+				<a href="http://praca.wp.pl/zarobki.html" title="Kariera">Kariera</a> | 
+				<a href="http://praca.wp.pl/oferty-pracy.html" title="Oferty pracy">Oferty pracy</a>
+			</div>
+		</div>
+		<!-- end:BOX PRACA -->		</section>
+	</section>
+	
+	<section id="Spolecznosc">
+		<div id="bxSpolecznosci" class="bx">
+			<header class="naglowekBoksu">
+				<a class="tytul" href="http://bloog.pl">społeczności</a>
+				<span class="stopkaBoksu"><a href="http://pytamy.pl/">Pytamy</a> | <a href="http://pokochasz.pl">Pokochasz</a> | <a href="http://bloog.pl/">Bloog</a> | <a href="http://czat.wp.pl/">Czat</a> | <a href="http://studio.wp.pl/">Studio</a> | <a href="http://ulubiency.wp.pl/">Ulubieńcy</a> | <a href="http://forum.wp.pl">Forum</a> | 
+				</span>
+			</header>
+			<div class="szescKolumn">
+				<ul>
+							
+					<li><a href="http://pytamy.pl/kat,5,title,jak-sie-robi-golabki1,pytanie.html"><img src="http://y.wpimg.pl/i/ivar/S/201211/1352190349.jpg" alt=""/><strong>Jak się robi gołąbki?</strong></a><span class="tresc">Prosty przepis na tradycyjny obiad</span></li>
+					<li><a href="http://coolbaba.bloog.pl/id,339190594,title,Sila-dokonano-cesarki-i-odebrano-matce-dziecko,index.html"><img src="http://y.wpimg.pl/i/ivar/S/201202/1329396027.jpg" alt=""/><strong>Siłą dokonano cesarki i odebrano matce dziecko</strong></a><span class="tresc">To skandaliczne!</span></li>
+					<li><a href="http://pytamy.pl/kat,273,title,widzieliscie-przerobionego-kaczynskiego,pytanie.html"><img src="http://y.wpimg.pl/i/ivar/S/201312/1386061641_a.jpg" alt=""/><strong>Z tego zdjęcia śmieje się cała Polska</strong></a><span class="tresc">Będzie afera?</span></li>
+					<li><a href="http://flavorsoflife.bloog.pl/id,339079820,title,Sznycel-wiedenski-z-salatka-z-ziemniaka,index.html"><img src="http://y.wpimg.pl/i/ivar/S/201312/1385995559_a.jpg" alt=""/><strong>Pyszny sznycel wiedeński</strong></a><span class="tresc">Musisz go spróbować!</span></li>
+					<li><a href="http://lifeislajf.bloog.pl/id,339179428,title,Piekny-kalendarz-piekni-aktorzy-i-aktorki,index.html"><img src="http://y.wpimg.pl/i/ivar/S/201312/1385982258_a.jpg" alt=""/><strong>Wesołowski wygryzł Małaszyńskiego</strong></a><span class="tresc">To on będzie numerem jeden</span></li>
+					<li><a href="http://atenatte.bloog.pl/id,339167602,title,Czemu-zdradzamy,index.html"><img src="http://y.wpimg.pl/i/ivar/S/201205/1336470277.jpg" alt=""/><strong>Czemu kobiety zdradzają?</strong></a><span class="tresc">Bardzo ciekawa teoria</span></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section id="Widgety">
+        <!-- NOKAUT -->
+        <div id="bxNokaut" class="bx ajax">
+		</div>
+        <!-- end:NOKAUT -->
+					
+        <!-- HOROSKOP -->
+        <div id="bxHoroskop" class="bx ajax"></div>
+        <!-- end:HOROSKOP -->
+
+        <!-- PYTAMY -->
+        <div id="bxPytamy" class="bx ajax"></div>
+        <!-- end:PYTAMY -->
+	</section>	<section id="Sprzedaz">
+					<div class="wiersz pierwszy">
+			
+			<div id="bxEcommerce" class="bx">
+				<header class="naglowekBoksu">ZAKUPY Z WP.PL</header>
+				<div class="lewa">
+				<ul class="dot" id="bxEcommerceZakupy">
+								
+					<li class="pierwszy">
+						<a href="http://pro.hit.gemius.pl/hitredir/id=za.qH282f9swgJJAgrAKS6e0DiGs59tuvbW_icbOpSj.p7/url=www.nokaut.pl/posciel/najpopularniejsze.html?utm_source=wp&amp;utm_medium=posciel#pid=68275" target="_blank">
+							<img src="http://y.wpimg.pl/i/ivar/Z/201311/1383574995_a.jpg" alt="" />
+							<strong>Pościel</strong>
+							<span class="tresc">Elegancka i delikatna pościel. Zobacz co dla Ciebie mamy!
+</span>
+							<span class="cena">ceny od: <strong>37 zł</strong></span>
+						</a>
+					</li>
+					
+					<li class="pierwszy">
+						<a href="http://pro.hit.gemius.pl/hitredir/id=za.qH282f9swgJJAgrAKS6e0DiGs59tuvbW_icbOpSj.p7/url=www.nokaut.pl/zabawki/?utm_source=wp#pid=68275" target="_blank">
+							<img src="http://y.wpimg.pl/i/ivar/Z/201311/1385384126_a.jpg" alt="" />
+							<strong>Zabawki</strong>
+							<span class="tresc">Ponad 100 000 zabawek w jednym miejscu w najlepszych cenach!
+</span>
+							
+						</a>
+					</li>
+					
+					<li class="pierwszy">
+						<a href="http://pro.hit.gemius.pl/hitredir/id=za.qH282f9swgJJAgrAKS6e0DiGs59tuvbW_icbOpSj.p7/url=www.nokaut.pl/zegarki-meskie/najpopularniejsze-z-opisem.html?utm_source=wp&amp;utm_medium=zegarki-meskie#pid=68275" target="_blank">
+							<img src="http://y.wpimg.pl/i/ivar/Z/201311/1383637413_a.jpg" alt="" />
+							<strong>Zegarki męskie</strong>
+							<span class="tresc">Bardzo eleganckie zegarki męskie do kupienia! Zobacz
+</span>
+							<span class="cena">ceny od: <strong>100 zł</strong></span>
+						</a>
+					</li>
+					
+					</ul>
+				</div>
+				<div class="prawa">
+					<ul>
+							<li id="bxEcommerceMinibill"><a href="http://trzyszopy.pl"><img src="http://y.wpimg.pl/i/ivar/Z/201312/1385995376_a.jpg" alt=""/></a></li>
+						<li class="okazja">
+								
+							<span id="bxEcommerceTxtLogo" class="st4468744"></span><a id="bxEcommerceTxt" href="http://gazetki.wp.pl/" title=""><strong>Aktualne gazetki zakupowe</strong><span></span></a>
+								
+						</li>
+						<li>
+								
+							<a id="bxEcommerceLewy" class="male_foto" href="http://conceptshop.pl"><img src="http://y.wpimg.pl/i/ivar/Z/201304/1366093874.gif" alt=""/></a>
+								
+								
+							<a id="bxEcommercePrawy" class="male_foto" href="http://biore.to"><img src="http://y.wpimg.pl/i/ivar/Z/201206/1338879391.gif" alt=""/></a>
+								
+						</li>
+						
+					</ul>
+				</div>
+			</div>
+				<div id="bxOferty" class="bx">
+					<header class="naglowekBoksu">OFERTY Z ALLEGRO</header>
+					<ul id="bxEcommerceAllegro">
+						<li class="pierwszy">
+							<a href="http://allegro.hit.gemius.pl/hitredir/id=bIDgvV.eo0j2BHFV.D7L9.U3.jzFcm7uirpK91Fxc2r.P7/url=http://allegro.pl/listing.php/search?category=76077&amp;sg=0&amp;string=p%C5%82aszcz+damski&amp;ap=2&amp;bid=8104&amp;aid=25380904&amp;tid=0" target="_blank">
+								<img src="http://y.wpimg.pl/i/ivar/O/201301/1359115762.jpg" alt=""/>
+								<strong>Płaszcze damskie na zimę</strong>
+									
+							</a>
+						</li>
+						<li class="pierwszy">
+							<a href="http://allegro.hit.gemius.pl/hitredir/id=bIDgvV.eo0j2BHFV.D7L9.U3.jzFcm7uirpK91Fxc2r.P7/url=http://allegro.pl/wyposazenie-123?string=choinka+led&amp;search_scope=wszystkie+dzia%C5%82y&amp;department=wszystkie+dzia%C5%82y&amp;ap=2&amp;bid=8104&amp;aid=25380904&amp;tid=0" target="_blank">
+								<img src="http://y.wpimg.pl/i/ivar/O/201311/1385626971_a.jpg" alt=""/>
+								<strong>Choinki LED - piękne i kolorowe Święta</strong>
+									
+							</a>
+						</li>
+						<li class="pierwszy">
+							<a href="http://allegro.hit.gemius.pl/hitredir/id=bIDgvV.eo0j2BHFV.D7L9.U3.jzFcm7uirpK91Fxc2r.P7/url=http://allegro.pl/boze-narodzenie-ozdoby-choinkowe-11984?string=bombki&amp;ap=2&amp;bid=8104&amp;aid=25380904&amp;tid=0" target="_blank">
+								<img src="http://y.wpimg.pl/i/ivar/O/201311/1385627532_a.jpg" alt=""/>
+								<strong>Bombki choinkowe. Olbrzymi wybór</strong>
+									
+							</a>
+						</li>
+						<li class="pierwszy">
+							<a href="http://allegro.hit.gemius.pl/hitredir/id=bIDgvV.eo0j2BHFV.D7L9.U3.jzFcm7uirpK91Fxc2r.P7/url=http://allegro.pl/listing.php/search?sg=0&amp;string=ozdoby+choinkowe&amp;ap=2&amp;bid=8104&amp;aid=25380904&amp;tid=0" target="_blank">
+								<img src="http://y.wpimg.pl/i/ivar/Z/201211/1354028453.jpg" alt=""/>
+								<strong>Ozdoby bożonarodzeniowe</strong>
+									 
+							</a>
+						</li>
+					</ul>
+						<div class="stopkaBoksu"><a href="http://biore.to">Biore.to</a> | <a href="http://trzyszopy.pl/?utm_source=wp&amp;utm_medium=link&amp;utm_campaign=koszulki+z+nadrukiem">Koszulki z nadrukiem</a> | <a href="http://motointegrator.wp.pl/szukaj/opony-zimowe-osobowe-2010102/">Opony zimowe</a>
+						</div>
+				</div>			</div>
+							<div class="wiersz">
+				
+			<div id="bxDlaKobiet" class="bx">
+				<header class="naglowekBoksu">DLA KOBIET</header>
+				<ul class="dot">
+					<li class="pierwszy">
+						<a href="http://ad-emea.doubleclick.net/clk;276781001;100566085;y?http://www.zalando.pl/odziez-damska-kurtki-plaszcze/?wmc=DIS48_RH_PL_1881860." target="_blank">
+							<img src="http://y.wpimg.pl/i/ivar/Z/201311/1385468283_a.jpg" alt=""/>
+							<strong>Płaszcze damskie. Dostawa zawsze gratis!</strong>
+							<span class="cena">ceny od: <strong>109,00 zł</strong></span>
+						</a>
+					</li>
+					<li class="pierwszy">
+						<a href="http://conceptshop.pl/category/child/2-odziez?utm_source=wp&amp;utm_medium=baner_ec&amp;utm_campaign=ec47" target="_blank">
+							<img src="http://y.wpimg.pl/i/ivar/Z/201311/1385732776_a.jpg" alt=""/>
+							<strong>Modne ubranka dla dzieci</strong>
+							<span class="cena">ceny od: <strong>79,00 zł</strong></span>
+						</a>
+					</li>
+				</ul>
+			</div>
+			<div id="bxOkazjeCenowe" class="bx">
+				<header class="naglowekBoksu">OKAZJE CENOWE</header>
+				<ul class="dot">
+					<li class="pierwszy">
+						<a href="http://allegro.hit.gemius.pl/hitredir/id=B7abwqsv5EIQmRi0jnx1_IXD7KRdv4Q7tHJeQjOGFhD.o7/url=http://otomoto.pl/osobowe/mazda/cx-5/?utm_source=WP&amp;utm_medium=SG&amp;utm_campaign=OTOMOTO" target="_blank">
+							<img src="http://y.wpimg.pl/i/ivar/Z/201309/1378392463_a.jpg" alt=""/>
+							<strong>Mazda CX5. Idealne, rodzinne auto. Sprawdź teraz! >></strong>
+							<span class="cena"><strong></strong></span>
+						</a>
+					</li>
+					<li class="pierwszy">
+						<a href="http://allegro.hit.gemius.pl/hitredir/id=p8aQy7rMY1Cg7OEiPoEfHtVq7zb1kQOwhyQGzH3YWDr.g7/url=http://otodom.pl/sprzedaz/dom?utm_source=WP&amp;utm_medium=SG&amp;utm_campaign=OTODOM" target="_blank">
+							<img src="http://y.wpimg.pl/i/ivar/Z/201307/1373029989_a.jpg" alt=""/>
+							<strong>Domy jednorodzinne. Kup i zamieszkaj. Tysiące ofert >></strong>
+							<span class="cena"><strong></strong></span>
+						</a>
+					</li>
+					<li class="pierwszy">
+						<a href="http://dot.wp.pl/redir?SN=ecommerce_motointegrator_sg&amp;url=http%3A%2F%2Fmotointegrator.wp.pl%2Fszukaj%2Fopony-201%2F%3Fcf_sezon%3Dzimowa%26utm_source%3DWP%26utm_medium%3DBannerSG%26utm_campaign%3DOpony_zimowe" target="_blank">
+							<img src="http://y.wpimg.pl/i/ivar/Z/201307/1373363658_a.jpg" alt=""/>
+							<strong>Nie czekaj na atak zimy. Kup w promocji</strong>
+							<span class="cena"><strong></strong></span>
+						</a>
+					</li>
+					<li class="pierwszy">
+						<a href="http://dot.wp.pl/redir?SN=ecommerce_agito_sg&amp;url=http://agito.wp.pl/zdrowie-i-uroda/perfumy/2213.html" target="_blank">
+							<img src="http://y.wpimg.pl/i/ivar/Z/201309/1378392225_a.jpg" alt=""/>
+							<strong>Perfumy damskie i męskie. Promocyjne ceny >></strong>
+							<span class="cena"><strong></strong></span>
+						</a>
+					</li>
+				</ul>
+			</div>			</div>
+			
+			<div id="bxPasazFinansowy" class="bx">
+				<header class="naglowekBoksu"><a href="http://pasazfin.wp.pl">PASAŻ FINANSOWY</a></header>
+				<ul class="dot lewa">
+			
+					<li class="pierwszy">
+						<a href="http://www.comperialead.pl/pp_adserverba.php?b=c8b4b1e6255b599bfb&amp;c=js&amp;p=4374&amp;ref=K9rj">
+							<img src="http://y.wpimg.pl/i/ivar/M/201310/1380612782_a.png" alt=""/>
+							<strong>Szybka gotówka dla Ciebie!</strong>
+						</a>
+					</li>
+					
+					<li class="pierwszy">
+						<a href="http://finansomat.wp.pl/inwestycje.htm?campaignID=9ec0cfdc84044494e10582436e013e64">
+							<img src="http://y.wpimg.pl/i/ivar/M/201311/1384777589_a.jpg" alt=""/>
+							<strong>Zarabiaj na lokacie!</strong>
+						</a>
+					</li>
+					
+				
+						<li class="drugi">
+							<a href="https://www.orange.pl/prt/pl/order/process/?formId=neo-ins&amp;minimize=additionalproducts&amp;PNEOIPPI=ADD&amp;PNEOIPPI24=ADD&amp;NEOIAC11-PNEOIPPI24=ADD&amp;BON150_TANIO=ADD&amp;modemParam=01&amp;periodParam=01&amp;promotionParam=01&amp;additionalParam=01">
+								<strong>Kup Neostradę i odbierz 150 zł na zakupy!</strong>
+							</a>
+							<span class="tresc"></span>
+						</li>
+						
+				
+						<li><a href="http://clk.tradedoubler.com/click?p=212483&amp;a=1033302&amp;g=21265292">Gotówka na żądanie. Sprawdź!</a></li>
+						
+						<li><a href="http://finansomat.wp.pl/mieszkaniowe.htm?campaignID=f1903f234d3ba4da38a18aa25751457d">Własne mieszkanie za 283zł/m-c! Sprawdź</a></li>
+						
+						<li><a href="http://www.comperialead.pl/a/pp_adserwer.php?link=d25731c3b27c284ea0fc391b026c75c4">Porównaj najnowsze oferty kredytowe!</a></li>
+						
+				</ul>
+				<ul class="dot prawa">
+					<li class="pierwszy">
+						<a href="http://finansomat.wp.pl/gotowkowe.htm?campaignID=80a9efd37c62cbdee2351192983a43d6">
+							<img src="http://y.wpimg.pl/i/ivar/M/201311/1384947193_a.jpg" alt=""/>
+							<strong>Świąteczna SUPER pożyczka! </strong>
+						</a>
+					</li>
+					
+				
+					<li>
+						<a href="https://wezleasing.pasazfin.wp.pl/?utm_source=wp&amp;utm_medium=link-text&amp;utm_term=11-2013&amp;utm_content=nowe-firmy&amp;utm_campaign=MP11">Leasing dla nowych firm!</a>
+						<span class="tresc"></span>
+					</li>
+						
+					<li>
+						<a href="http://verif.pasazfin.wp.pl/">Pieczątka na fakturze zastąpi komornika!</a>
+						<span class="tresc"></span>
+					</li>
+						
+				</ul>
+				<div class="stopkaBoksu">
+					<a href="http://pasazfin.wp.pl/nav,82,produkty.html">Inwestycje</a> | 
+					<a href="http://pasazfin.wp.pl/nav,4775,produkty.html">Kredyty</a> | 
+					<a href="http://pasazfin.wp.pl/nav,80,produkty.html">Ubezpieczenia</a> | 
+					<a href="http://pasazfin.wp.pl/nav,10652,produkty.html">Podatki</a> | 
+					<a href="http://pasazfin.wp.pl/nav,9994,produkty.html">Wymiana walut</a>
+				</div>
+			</div>
+			<div id="bxTurystyka" class="bx">
+				<header class="naglowekBoksu"><a href="http://turystyka.wp.pl/centrum,podrozy.html">TURYSTYKA</a></header>
+				<ul class="dot">
+						<li class="pierwszy">
+							<a href="http://esky.wp.pl/bilety-lotnicze/promocje">
+								<img src="http://y.wpimg.pl/i/ivar/M/201311/1385372020_a.jpg" alt=""/>
+								<strong>Tanie LOTY!!! Promocje</strong>
+							</a>
+						</li>
+				
+					<li>
+						<a href="http://www.kronplatz.com/pl/book-your-holiday/oferty/"><strong>Kronplatz</strong></a>
+						<span class="tresc">Polecamy</span>
+					</li>
+					<li>
+						<a href="http://domywakacyjne.wp.pl/"><strong><b>Domy wakacyjne </b></strong></a>
+						<span class="tresc">Teraz 30% taniej!</span>
+					</li>
+					<li>
+						<a href="http://pl.csa.cz/en/portal/pl_ozz/pl_special_offers.htm?ref_id=d-x13-pl-wp_bon"><strong>Zapnij pasy!</strong></a>
+						<span class="tresc">kliknij i leć</span>
+					</li>
+				</ul>
+					<div class="stopkaBoksu">
+						<a href="http://hotele.wp.pl/">Hotele</a> |
+						<a href="http://samoloty.wp.pl/">Samoloty</a> |
+						<a href="http://wycieczki.wp.pl/">Wycieczki</a>
+					</div>
+			</div>
+			<div id="bxWPPoleca" class="bx">
+				<header class="naglowekBoksu">WP.PL POLECA</header>
+			
+						<a href="http://muzyka.wp.pl/title,Premiera-albumu-Agi-Zaryan-Remembering-Nina-Abbey,wid,683283,wiadomosc.html"><img src="http://y.wpimg.pl/i/ivar/M/201311/1384433642_a.jpg" alt=""/></a>
+						<ul class="dot">
+								
+						<li class="pierwszy">
+							<a href="http://kultura.wp.pl/gid,16039563,kat,1011061,title,Shrek-komedia-dla-doroslych-na-ktora-mozesz-przyjsc-z-dziecmi,galeria.html">
+								<img src="http://y.wpimg.pl/i/ivar/M/201311/1383661012_a.jpeg" alt=""/>
+								<strong>Muscial Shrek! Musisz się wybrać</strong>
+							</a>
+						</li>
+								<li><a href="http://kultura.wp.pl/title,Tuwim-dla-Doroslych,wid,16151065,wiadomosc.html"><b>Tuwim dla Dorosłych</b></a></li><li><a href="http://kultura.wp.pl/title,Nastasja-Filipowna-juz-w-grudniu-w-Ateneum,wid,16153578,wiadomosc.html"><b>Nastasja Filipowna </b></a></li><li><a href="http://kultura.wp.pl/title,Bashmet-Baeva-Berezovsky-i-Bauer,wid,16098652,patronat.html"><b>Koncert</b> symfoniczny</a></li><li><a href="http://kultura.wp.pl/gid,16039563,kat,1011061,title,Shrek-komedia-dla-doroslych-na-ktora-mozesz-przyjsc-z-dziecmi,galeria.html"><b>Shrek musicalowo!</b></a></li><li><a href="http://kultura.wp.pl/title,Klub-Kawalerow,wid,16191702,patronat.html"><b>Klub Kawalerów</b></a></li>
+					</ul>
+				</div>	</section>
+	<section id="Produkty">
+		
+			<div id="bxOgloszenia" class="bx">
+				<header class="naglowekBoksu"><a href="http://ogloszenia.wp.pl">OGŁOSZENIA</a></header>
+				<ul class="dot">
+					<li class="pierwszy">
+						<a href="http://ogloszenia.wp.pl/drobne_/?S[w]=psy&amp;S[ft]=1">
+							<img src="http://y.wpimg.pl/i/ivar/G/201310/1380627076_a.jpg" alt=""/>
+							<strong>Piękne psy dla ciebie</strong>
+						</a>
+					</li>
+					
+					<li class="pierwszy">
+						<a href="http://ogloszenia.wp.pl/Koty_9293_/">
+							<img src="http://y.wpimg.pl/i/ivar/G/201308/1377516465_a.jpg" alt=""/>
+							<strong>Prześliczne koty do wzięcia! Skusisz się?</strong>
+						</a>
+					</li>
+					
+					</ul>
+						<div class="stopkaBoksu"><a href="http://ogloszenia.wp.pl/Uslugi_9239_/">Usługi</a> | <a href="http://ogloszenia.wp.pl/wyniki_drobne.html?S[kat]=5585">Drobne</a> | <a href="http://ogloszenia.wp.pl/Moda_9135_/">Moda</a></div>
+			</div>
+			<div id="bxTwojeProdukty" class="bx">
+				<header class="naglowekBoksu">TWOJE PRODUKTY</header>
+				<ul class="dot">
+						
+						<li class="pierwszy">
+							<a href="http://dot.wp.pl/redir?SN=dpp&amp;url=http%3A%2F%2Fpokochasz.pl%2F%3Ftpsg413">
+								<img src="http://y.wpimg.pl/i/ivar/T/201304/1366629698_a.jpg" alt=""/>
+								<strong>Pokochasz.pl</strong>
+							</a>
+							<span class="tresc"> Znajdź miłość razem z nami </span>
+						</li>
+						
+						<li class="pierwszy">
+							<a href="http://dot.wp.pl/redir?SN=dpp&amp;url=http%3A%2F%2Fsms.wp.pl%2Flp_full.xhtml%3FlpUrl%3Dhttp%3A%2F%2Fwww.wp.rower.nagrodawp.superserwisy.pl%26chId%3D18068%26tp">
+								<img src="http://y.wpimg.pl/i/ivar/T/201309/1378208300_a.jpg" alt=""/>
+								<strong>WYGRAJ!</strong>
+							</a>
+							<span class="tresc"> Profesjonalny rower górski</span>
+						</li>
+						
+				</ul>
+			</div>
+			<div id="bxDoCelu" class="bx">
+				<header class="naglowekBoksu">WYBRANE OFERTY</header>
+				<ul class="dot">
+					<li class="pierwszy">
+						<div id="dynAdv21"></div>
+					</li>
+					<li class="pierwszy">
+						<div id="dynAdv22"></div>
+					</li>
+				</ul>
+			</div>	</section>
+	<section id="Gry">
+		
+			<div id="bxGry" class="bx">
+				<header class="naglowekBoksu">WYBIERZ SWOJĄ GRĘ</header>
+				<ul>
+					<li>
+						<a href="http://dot.wp.pl/redir?SN=dpp&amp;url=http%3A%2F%2Fsupremacy1914.wp.pl%2F%3Fpasek">
+							<img src="http://y.wpimg.pl/i/ivar/G/201309/1378903522_a.jpg" alt=""/>
+							<strong>Generale gdzie mamy atakować teraz?</strong>
+						</a>
+						<span class="tresc">Twoi żołnierze czekają na rozkaz!</span>
+					</li>
+					<li>
+						<a href="http://dot.wp.pl/redir?SN=dpp&amp;url=http%3A%2F%2Fnaryby.wp.pl%2F%3Fpasek">
+							<img src="http://y.wpimg.pl/i/ivar/G/201311/1384524666_a.jpg" alt=""/>
+							<strong>Franek złapał szczupaka!</strong>
+						</a>
+						<span class="tresc">A co ty wyłowisz?</span>
+					</li>
+					<li>
+						<a href="http://dot.wp.pl/redir?SN=dpp&amp;url=http%3A%2F%2Fvioletfall.pl%3Fpasek">
+							<img src="http://y.wpimg.pl/i/ivar/M/201310/1381412728_a.gif" alt=""/>
+							<strong>Violet Fall</strong>
+						</a>
+						<span class="tresc">Sprawdź czy przeżyjesz w świecie po katastrofie</span>
+					</li>
+					<li>
+						<a href="http://dot.wp.pl/redir?SN=dpp&amp;url=http%3A%2F%2Fempire.wp.pl%2F%3Fpasek">
+							<img src="http://y.wpimg.pl/i/ivar/G/201311/1384524418_a.jpg" alt=""/>
+							<strong>Buduj, broń, atakuj!</strong>
+						</a>
+						<span class="tresc">Imperium czeka właśnie na Ciebie!</span>
+					</li>
+					<li>
+						<a href="http://dot.wp.pl/redir?SN=dpp&amp;url=http%3A%2F%2Fforgeofempires.wp.pl%2F%3Fpasek">
+							<img src="http://y.wpimg.pl/i/ivar/G/201311/1384526072_a.jpg" alt=""/>
+							<strong>Chyba kupię sobie cyrk...</strong>
+						</a>
+						<span class="tresc">Myślisz, że to dobry ruch?</span>
+					</li>
+					<li>
+						<a href="http://dot.wp.pl/redir?SN=dpp&amp;url=http%3A%2F%2Fgryonline.wp.pl%2Fwsg.html%3Fpasek">
+							<img src="http://y.wpimg.pl/i/ivar/G/201308/1376471375_a.jpg" alt=""/>
+							<strong>Jesteś gotowy do prawdziwej gry?</strong>
+						</a>
+						<span class="tresc">Sprawdź, czy dasz radę</span>
+					</li>
+				</ul>
+			</div>	</section>
+	<div id="dynAdv06"></div>
+	<section id="SzukajDolny">
+		<div class="szukaj">
+	<form action="/s/szukaj.html" method="get">
+		<div class="opcjeSzukania">
+			<span class="polskieWWW"><strong>Polskie WWW</strong></span> <a href="http://szukaj.wp.pl/wp/">WP.PL &rsaquo;</a> <a href="http://szukaj.wp.pl/obrazki.html">Obrazki &rsaquo;</a> <a href="http://tanio.pl/">Produkty &rsaquo;</a> <a href="http://szukaj.wp.pl/wpkonkret.html">więcej &rsaquo;</a>
+		</div>
+	<input type="hidden" name="form" value="01" />
+	<input type="text" class="txt" name="szukaj1" /> <input type="submit" value="szukaj" class="btnSzukaj"/>
+	</form>
+</div>
+<div class="doCelu">
+	<form action="http://docelu.pl" method="get">
+		<a href="http://docelu.pl" class="logoDocelu"></a>
+		<input type="text" class="txt" name="pl_k" value="" placeholder="co?" />
+		<input type="text" class="txt gdzie" name="pl_c" value="" placeholder="gdzie?" />
+		<input type="hidden" value="utf" name="enc" />
+		<input type="submit" value="szukaj" class="btnSzukaj" />
+	</form>
+</div>
+
+	</section>
+			<div id="Stopka">
+		
+			<div id="StopkaKatalog" class="stopkaBoksu">
+				<span>Katalog stron: </span><a href="http://katalog.wp.pl/biznes-i-ekonomia/?ticaid=111c1c&amp;_ticrsn=5">Biznes i Ekonomia</a> | <a href="http://katalog.wp.pl/edukacja/">Edukacja</a> | <a href="http://katalog.wp.pl/przedstrona.html?target=erotyka">Erotyka</a> | <a href="http://katalog.wp.pl/handel-elektroniczny/">Handel</a> | <a href="http://katalog.wp.pl/informacje-i-media/">Informacje</a> | <a href="http://katalog.wp.pl/komputery-i-internet/">Komputery</a> | <a href="http://katalog.wp.pl/kultura-i-sztuka/">Kultura</a> | <a href="http://katalog.wp.pl/medycyna-i-zdrowie/">Medycyna</a> | <a href="http://katalog.wp.pl/motoryzacja/">Motoryzacja</a> | <a href="http://katalog.wp.pl/muzyka/">Muzyka</a> | <a href="http://katalog.wp.pl/nauka/">Nauka</a> | <a href="http://katalog.wp.pl/rozrywka/">Rozrywka</a> | <a href="http://katalog.wp.pl/sport/">Sport</a> | <a href="http://katalog.wp.pl/turystyka/">Turystyka</a></div>			<div class="stopkaBoksu">
+					<span class="copy">Copyright &copy; 1995-2013 <a href="http://www.wp.pl">Wirtualna Polska</a></span>
+					<a href="http://onas.wp.pl">O firmie</a> | <a href="http://dlaprasy.wp.pl">Informacje prasowe</a> | <a href="http://reklama.wp.pl">Reklama</a> | <a href="http://ebiznes.wp.pl">Biznes z WP.PL</a> | <a href="http://pomoc.wp.pl/formularz.html?serwis=WP">Napisz do nas</a> | <a href="http://rekrutacja.wp.pl">Praca w WP.PL</a> | <a href="http://onas.wp.pl/poufnosc.html">Polityka prywatności</a> | <a href="http://onas.wp.pl/zasady.html">Zasady korzystania</a> | <a href="http://rss.wp.pl">RSS</a>
+			</div>
+		</div>
+		
+</div>
+</div>
+<!-- STRONA :: END -->
+<div id="dynAdv09"></div><div id="dynAdv10"></div><div id="dynAdv11"></div><div id="dynAdv12"></div><div id="dynAdv18"></div><div id="dynAdv19"></div><div id="dynAdv23"></div><div id="dynAdv24"></div><div id="dynAdv25"></div><div id="dynAdv26"></div><div id="dynAdv27"></div><div id="dynAdv28"></div>
+		<script src="http://x.wpimg.pl/i/ivar/layout/201201/dynamiclib.js?v=84" type="text/javascript" charset="utf-8" async></script>
+<div id="dynAdvContainer">
+		    <div id="adv02" class="wpAdv"><script type="text/javascript">NPB("002");</script></div>
+		    <div id="adv03" class="wpAdv"><script type="text/javascript">NPB("003");</script></div>
+		    <div id="adv08" class="wpAdv"><script type="text/javascript">NPB("008");</script></div>
+		    <div id="adv15" class="wpAdv"><script type="text/javascript">NPB("015");</script></div>
+		    <div id="adv13" class="wpAdv"><script type="text/javascript">NPB("013");</script></div>
+		    <div id="adv20" class="wpAdv"><script type="text/javascript">NPB("020");</script></div>
+		    <div id="adv05" class="wpAdv"><script type="text/javascript">NPB("005");</script></div>
+		    <div id="adv17" class="wpAdv"><script type="text/javascript">NPB("017");</script></div>
+		    <div id="adv14" class="wpAdv"><script type="text/javascript">NPB("014");</script></div>
+		    <div id="adv16" class="wpAdv"><script type="text/javascript">NPB("016");</script></div>
+		    <div id="adv11" class="wpAdv"><script type="text/javascript">NPB("011");</script></div>
+		    <div id="adv12" class="wpAdv"><script type="text/javascript">NPB("012");</script></div>
+		    <div id="adv18" class="wpAdv"><script type="text/javascript">NPB("018");</script></div>
+		    <div id="adv19" class="wpAdv"><script type="text/javascript">NPB("019");</script></div>
+		    <div id="adv10" class="wpAdv"><script type="text/javascript">NPB("010");</script></div>
+		    <div id="adv09" class="wpAdv"><script type="text/javascript">NPB("009");</script></div>
+		    <div id="adv21" class="wpAdv"><script type="text/javascript">NPB("021");</script></div>
+		    <div id="adv22" class="wpAdv"><script type="text/javascript">NPB("022");</script></div>
+		    <div id="adv23" class="wpAdv"><script type="text/javascript">NPB("023");</script></div>
+		    <div id="adv24" class="wpAdv"><script type="text/javascript">NPB("024");</script></div>
+		    <div id="adv25" class="wpAdv"><script type="text/javascript">NPB("025");</script></div>
+		    <div id="adv26" class="wpAdv"><script type="text/javascript">NPB("026");</script></div>
+		    <div id="adv27" class="wpAdv"><script type="text/javascript">NPB("027");</script></div>
+		    <div id="adv28" class="wpAdv"><script type="text/javascript">NPB("028");</script></div>
+		    <div id="adv29" class="wpAdv"><script type="text/javascript">NPB("029");</script></div>
+		    <div id="adv34" class="wpAdv"><script type="text/javascript">NPB("034");</script></div>
+		    <div id="adv06" class="wpAdv"><script type="text/javascript">NPB("006");</script></div>
+		    <div id="adv04" class="wpAdv"><script type="text/javascript">NPB("004");</script></div>
+		    <div id="adv07" class="wpAdv"><script type="text/javascript">NPB("007");</script></div>
+		    <script type="text/javascript">
+		    // <![CDATA[
+		    if (NJB('extra20')) WP.$('#adv05').html('');
+		    WP.$('.wpAdv').each(function(){
+			var id = this.id.substr(3,2);
+			ID('dynAdv'+id ).appendChild( this );
+		    });
+		    // ]]>
+		    </script>
+		</div>
+		
+</body>
+</html>

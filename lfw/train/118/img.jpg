@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>Wandering Goat Coffee Roasters</title>
+		<meta name="author" content="Dustin" />
+		<meta name="keywords" content="Eugene Coffee Roasters, Specialty Coffee Roasters, Organic Coffee, Espresso, Vegan, Bakery, Sustainable Business, Live Music, Draught Beers, Organic Beer" />
+		<link rel="stylesheet" type="text/css" href="tmp_resources/style.css" />
+		<!-- include jQuery library -->
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+		<!-- include jQuery cycle -->
+		<script type="text/javascript" src="tmp_resources/jquery.cycle.lite.min.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function() {
+				 $('#slideshow').cycle({
+					fx: 'fade', speed: 1500, pause:1, random:1, timeout:5000, next:'#slideshow'
+				});
+			});
+		</script>
+	</head>
+	<body>
+		<div id="container">
+			<div id="body">
+				<div id="header">
+					<h1>Wandering Goat Coffee Co.</h1>
+					<h2>New Website coming soon.</h2>
+				</div>
+					<p>
+						We are a small specialty coffee roaster, locally owned and operated in Eugene, Oregon. We are dedicated to sourcing only the highest quality coffees and roasting them to accentuate their unique regional and varietal differences. 
+						Our baristas are extremely passionate about coffee and are extensively trained to prepare the best espresso drinks in town.
+					</p>
+					<p>
+						Our cafe, located at 268 Madison Avenue features live music on weekends, a great selection of local and organic beers in bottle and on draught.
+						And our onsite bakery prepares delicious vegan and organic pastries, soups and breads daily.
+					</p>
+					<div id="slideshow">
+						<img alt="Pastry Case and Macchiatto" title="Pastry Case and Macchiatto" src="tmp_resources/comp-pastry-macc.jpg" width="920" height="400"/>
+						<img alt="Loring Roasted and Cafe" title="Loring Roasted and Cafe" src="tmp_resources/comp-roaster-cafe.jpg" width="920" height="400"/>
+						<img alt="Roasted Beans and Bags" title="Roasted Beans and Bags" src="tmp_resources/comp-roaster-bags.jpg" width="920" height="400"/>
+						<img alt="Cafe Exterior and Sign" title="Cafe Exterior and Sign" src="tmp_resources/comp-exterior-sign.jpg" width="920" height="400"/>
+					</div>
+					<div id="hours"><span>Open 7am Monday-Friday, 8am Weekends | Closed 11pm Monday-Wednesday, Midnight Thursday-Saturday, and 10pm Sunday</span></div>
+				</div>
+			</div>
+		<div id="footer">
+			<span class="headline">To order coffee or get information, please call (541) 344-5161. For Events, visit Facebook
+				<a href="http://www.facebook.com/WanderingGoatCoffeeCo" title="Wandering Goat Facebook Page"><img class="inline-img" src="tmp_resources/facebook-icon-32.png" alt="facebook icon" /></a>
+			</span>
+		</div>
+	</body>
+</html>

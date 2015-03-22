@@ -1,0 +1,1769 @@
+﻿
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html id="ctl00_HtmlElement" xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+        <meta name="description" content="Modern Times Group is a leading international entertainment broadcasting group with the second largest geographical broadcast footprint in Europe." /><meta name="keywords" content="Modern Times Group, MTG,Viasat Broadcasting" /><meta name="rating" content="General" /><meta name="revisit-after" content="4 weeks" /><meta name="generator" content="EPiServer" /><meta name="robots" content="all" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="creation_date" content="Tue, 13 Jan 2009 10:50:00 GMT" /><meta name="last-modified" content="Tue, 13 Jan 2009 10:50:23 GMT" /><meta name="revised" content="Tue, 13 Jan 2009 10:50:23 GMT" /><meta http-equiv="Content-Language" content="en" />
+
+<link rel="icon" type="image/png" href="/templates/public/images/favicon.png" />
+<link rel="SHORTCUT ICON" href="/templates/public/images/favicon.ico" />
+<link rel="stylesheet" type="text/css" media="screen" href="/templates/public/styles/reset.css" /><link rel="stylesheet" type="text/css" media="screen" href="/templates/public/styles/default.css" />
+<link href="/templates/public/styles/printmaster.css" rel="Stylesheet" media="print" type="text/css" />
+<!--[if lte IE 6]> 
+    <style type="text/css">
+        @import url("/Templates/Public/Styles/ie6.css");
+        .dock img { behavior: url("/Templates/Public/Styles/iepngfix.htc") }
+    </style>   
+<![endif]-->
+<!--[if lte IE 7]> 
+    <style type="text/css">
+        @import url("/Templates/Public/Styles/ie7.css");
+    </style>   
+<![endif]-->
+<!--[if lte IE 8]> 
+    <style type="text/css">
+        @import url("/Templates/Public/Styles/ie.css");
+    </style>   
+<![endif]-->
+<script type="text/javascript" src="/media/scripts/combo_6c0b885cfb340366373c4da0e00b74c6.js"></script>
+<script src="/media/scripts/jquery.fancybox.js" type="text/javascript"></script>
+<script src="/media/scripts/default.js" type="text/javascript"></script>
+
+
+
+<meta name="google-site-verification" content="5M--GPbBqJGwHAzFMiXBFG4HG759NV3oF_mWUIpSl-0" />
+        
+
+
+    
+<link href="http://www.mtg.se/en/" rel="canonical" /><title>
+	MTG
+</title></head>
+<body class="">
+    <form name="aspnetForm" method="post" action="/en/" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDk0ODY1NjkPZBYCZg9kFgICAQ8WAh4EbGFuZwUCZW4WAgIBD2QWBAIDD2QWAmYPDxYGHgtOYXZpZ2F0ZVVybAUhL2RlZmF1bHQuYXNweD9pZD0zJmVwc2xhbmd1YWdlPWVuHgdUb29sVGlwBQRIb21lHgRUZXh0BQRIb21lZGQCBQ9kFgxmD2QWAmYPFgIeCV9wYWdlTGluaygpbEVQaVNlcnZlci5Db3JlLlBhZ2VSZWZlcmVuY2UsIEVQaVNlcnZlciwgVmVyc2lvbj02LjAuNTMwLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49OGZlODNkZWE3MzhiNDViNwQ1MTIzFghmD2QWBAIBD2QWAmYPFQNDL1RlbXBsYXRlcy9Bbm51YWxSZXBvcnQyMDEyL1BhZ2VzL1N0YXJ0LmFzcHg/aWQ9NTAyNCZlcHNsYW5ndWFnZT1lbi4vR2xvYmFsL1N0YXJ0cGFnZS9TbGlkZXIlMjAyMDEzL01UR19IRVJPXzEuanBnBUhlcm8xZAIDDxYCHgdWaXNpYmxlaBYCZg8VAi4vR2xvYmFsL1N0YXJ0cGFnZS9TbGlkZXIlMjAyMDEzL01UR19IRVJPXzEuanBnBUhlcm8xZAIBD2QWBAIBD2QWAmYPFQNDL1RlbXBsYXRlcy9Bbm51YWxSZXBvcnQyMDEyL1BhZ2VzL1N0YXJ0LmFzcHg/aWQ9NTAyNCZlcHNsYW5ndWFnZT1lbi4vR2xvYmFsL1N0YXJ0cGFnZS9TbGlkZXIlMjAyMDEzL01UR19IRVJPXzIuanBnBUhlcm8yZAIDDxYCHwVoFgJmDxUCLi9HbG9iYWwvU3RhcnRwYWdlL1NsaWRlciUyMDIwMTMvTVRHX0hFUk9fMi5qcGcFSGVybzJkAgIPZBYEAgEPZBYCZg8VA0MvVGVtcGxhdGVzL0FubnVhbFJlcG9ydDIwMTIvUGFnZXMvU3RhcnQuYXNweD9pZD01MDI0JmVwc2xhbmd1YWdlPWVuLi9HbG9iYWwvU3RhcnRwYWdlL1NsaWRlciUyMDIwMTMvTVRHX0hFUk9fMy5qcGcFSGVybzNkAgMPFgIfBWgWAmYPFQIuL0dsb2JhbC9TdGFydHBhZ2UvU2xpZGVyJTIwMjAxMy9NVEdfSEVST18zLmpwZwVIZXJvM2QCAw9kFgQCAQ9kFgJmDxUDQy9UZW1wbGF0ZXMvQW5udWFsUmVwb3J0MjAxMi9QYWdlcy9TdGFydC5hc3B4P2lkPTUwMjQmZXBzbGFuZ3VhZ2U9ZW4uL0dsb2JhbC9TdGFydHBhZ2UvU2xpZGVyJTIwMjAxMy9NVEdfSEVST180LmpwZwZIZXJvIDRkAgMPFgIfBWgWAmYPFQIuL0dsb2JhbC9TdGFydHBhZ2UvU2xpZGVyJTIwMjAxMy9NVEdfSEVST180LmpwZwZIZXJvIDRkAgkPZBYCZg8WBB4JX21heENvdW50AgMfBCgrBAIyMRYGAgEPZBYCZg8VBDgvZW4vaW52ZXN0b3JzL2ZpbmFuY2lhbC1jYWxlbmRhci9xNC1pbnRlcmltLXJlcG9ydC0yMDE0LxZXZWRuZXNkYXksIDEyIEZlYnJ1YXJ5OC9lbi9pbnZlc3RvcnMvZmluYW5jaWFsLWNhbGVuZGFyL3E0LWludGVyaW0tcmVwb3J0LTIwMTQvHFE0IDIwMTMgYW5kIEZ1bGwgWWVhciBSZXBvcnRkAgIPZBYCZg8VBDgvZW4vaW52ZXN0b3JzL2ZpbmFuY2lhbC1jYWxlbmRhci9xMS0yMDE0LWludGVyaW0tcmVwb3J0LxBGcmlkYXksIDI1IEFwcmlsOC9lbi9pbnZlc3RvcnMvZmluYW5jaWFsLWNhbGVuZGFyL3ExLTIwMTQtaW50ZXJpbS1yZXBvcnQvFlExIDIwMTQgSW50ZXJpbSBSZXBvcnRkAgMPZBYCZg8VBD0vZW4vaW52ZXN0b3JzL2ZpbmFuY2lhbC1jYWxlbmRhci9hbm51YWwtZ2VuZXJhbC1tZWV0aW5nLTIwMTQvD1R1ZXNkYXksIDEzIE1heT0vZW4vaW52ZXN0b3JzL2ZpbmFuY2lhbC1jYWxlbmRhci9hbm51YWwtZ2VuZXJhbC1tZWV0aW5nLTIwMTQvG0FubnVhbCBHZW5lcmFsIE1lZXRpbmcgMjAxNGQCEA8PFgQeC19pc0VkaXRhYmxlaB4JX2xhc3RUeXBlBQdEZWZhdWx0ZGQCEQ8WAh4IRmxhc2hVcmxlFgICAQ8PFgQfAQUNL2VuL2N1c3RvbWVyLx4ISW1hZ2VVcmwFHy9HbG9iYWwvQmFubmVycy9NVEdWUExBWVJFRC5naWZkZAISD2QWAmYPZBYEZg8PFgQfB2gfCAUHRGVmYXVsdGRkAgEPDxYEHwdoHwgFB0RlZmF1bHRkZAIUDw8WBB8BBQ0vZW4vY3VzdG9tZXIvHwoFJS9HbG9iYWwvQmFubmVycy9QTF9NVEdfNDY4eDE0Ml9VSy5qcGdkZBgTBSxjdGwwMCRIZWFkZXJIb2xkZXIkTWFpbk1lbnUkTWVudSRjdGwwMiRjdGwwMA8PZmRkBTFjdGwwMCRQYWdlSG9sZGVyJGN0bDAzJEJyYW5kaXRlbUxpc3QkY3RsMDIkQnJhbmRzDw9mZGQFLGN0bDAwJEhlYWRlckhvbGRlciRNYWluTWVudSRNZW51JGN0bDA0JGN0bDAwDw9mZGQFI2N0bDAwJFBhZ2VIb2xkZXIkY3RsMDUkQ2FsZW5kYXJMaXN0Dw9mZGQFJGN0bDAwJFBhZ2VIb2xkZXIkY3RsMDMkQnJhbmRUYWJzTGlzdA8PZmRkBSxjdGwwMCRIZWFkZXJIb2xkZXIkTWFpbk1lbnUkTWVudSRjdGwwMyRjdGwwMA8PZmRkBSxjdGwwMCRIZWFkZXJIb2xkZXIkTWFpbk1lbnUkTWVudSRjdGwwMSRjdGwwMA8PZmRkBTFjdGwwMCRQYWdlSG9sZGVyJGN0bDAzJEJyYW5kaXRlbUxpc3QkY3RsMDMkQnJhbmRzDw9mZGQFJmN0bDAwJFBhZ2VIb2xkZXIkY3RsMDAkSW1hZ2VTbGlkZXJMaXN0Dw9mZGQFLGN0bDAwJEhlYWRlckhvbGRlciRNYWluTWVudSRNZW51JGN0bDA3JGN0bDAwDw9mZGQFLGN0bDAwJEhlYWRlckhvbGRlciRNYWluTWVudSRNZW51JGN0bDA1JGN0bDAwDw9mZGQFJGN0bDAwJFBhZ2VIb2xkZXIkY3RsMDMkQnJhbmRpdGVtTGlzdA8PZmRkBTFjdGwwMCRQYWdlSG9sZGVyJGN0bDAzJEJyYW5kaXRlbUxpc3QkY3RsMDAkQnJhbmRzDw9mZGQFMWN0bDAwJFBhZ2VIb2xkZXIkY3RsMDMkQnJhbmRpdGVtTGlzdCRjdGwwNCRCcmFuZHMPD2ZkZAUxY3RsMDAkUGFnZUhvbGRlciRjdGwwMyRCcmFuZGl0ZW1MaXN0JGN0bDAxJEJyYW5kcw8PZmRkBRtjdGwwMCRQYWdlSG9sZGVyJFJlcG9ydExpc3QPD2ZkZAUiY3RsMDAkUGFnZUhvbGRlciRQcmVzc1JlbGVhc2VzTGlzdA8PZmRkBSxjdGwwMCRIZWFkZXJIb2xkZXIkTWFpbk1lbnUkTWVudSRjdGwwNiRjdGwwMA8PZmRkBRtjdGwwMCRQYWdlSG9sZGVyJFNsaWRlckxpc3QPD2ZkZDxu7G91jttUdqBPp79xRau+Px+1" />
+
+
+<script src="/scriptresource.axd?d=LGl_ims6tBwsMQiVTPMB9dLCir0s3OqUGn9soAmFW_Uv6oxgOnWYWlI73v6aI0ptskeEU6dwsu-HuhsI4-gIw__ovbWM3gefEjzyGUvzpfga1bNHOlu-kealm0QQ5obIqfg5-HOdkUwAIFAigrUQX0GowBaTACPsdtLIj7XrDrR1EG4y0&amp;t=2e2045e2" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+        
+        <div id="page">
+            
+    <div id="header" class="start-header">
+        <div id="start-logo">
+            <a id="ctl00_HeaderHolder_lnkLogotype" accesskey="1" title="Home" href="/en/">Home</a>
+        </div>
+        <div id="header-content">
+            <div id="tools">
+                
+<div id="TickerHeader">
+    <div>
+        <span class="tickerheader">MTG B</span>
+        <span class="tickerdate">12/3/2013 10:12 AM</span>
+    </div>
+    
+    <div>
+        <span class="tickercurrent">333.5 SEK</span>
+        <span class="tickerchange">+1.8 SEK</span>
+    </div>
+
+    
+</div>
+                <div id="tool-buttons">
+                    <a id="ctl00_HeaderHolder_Language_LanguageButton" class="languageButton" href="/sv/">In Swedish</a>
+
+                      <a href="https://twitter.com/mtgab" class="twitter-follow-button" data-show-count="false" data-dnt="true">Follow @MTGAB</a>
+                      <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https'; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = p + '://platform.twitter.com/widgets.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'twitter-wjs');</script>
+
+                    <a id="Contact" href="/en/contacts/">
+                        Contact
+                    </a>
+                </div>
+                <div id="quicksearch">
+                    <div>
+	
+    <input name="ctl00$HeaderHolder$QuickSearch$SearchText" type="text" value="Search on mtg.se" id="ctl00_HeaderHolder_QuickSearch_SearchText" tabindex="1" class="quickSearchField" onfocus="this.value='';" /><input type="submit" name="ctl00$HeaderHolder$QuickSearch$SearchButton" value="" id="ctl00_HeaderHolder_QuickSearch_SearchButton" class="quickSearchButton" />
+
+</div>
+                </div>
+            </div>
+            <div id="nav">
+                
+        <ul>
+    
+        <li class="unselected first"><a href="/en/about-mtg/"><span>About MTG</span></a>
+        
+        
+        <div class="dropdown"><ul>
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/about-mtg/board-of-directors/">Board of Directors</a>
+                </li>
+            
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/about-mtg/executive-management/">Executive Management</a>
+                </li>
+            
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/about-mtg/history-of-mtg/">History of MTG</a>
+                </li>
+            </ul></div>
+        
+        </li>
+    
+        <li class="unselected"><a href="/en/brands--operations/operations/"><span>Brands & Operations</span></a>
+        
+        
+        <div class="dropdown"><ul>
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/brands--operations/operations/">Operations</a>
+                </li>
+            
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/brands--operations/footprint/">Footprint</a>
+                </li>
+            
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/brands--operations/brands/">Brands</a>
+                </li>
+            </ul></div>
+        
+        </li>
+    
+        <li class="unselected"><a href="/en/investors/"><span>Investors</span></a>
+        
+        
+        <div class="dropdown"><ul>
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/investors/annual-reports/">Annual Reports</a>
+                </li>
+            
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/investors/corporate-brochures/">Corporate Brochures</a>
+                </li>
+            
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/investors/quarterly-reports/">Quarterly Reports</a>
+                </li>
+            
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/investors/presentations/quarterly-presentations/">Presentations</a>
+                </li>
+            
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/investors/supplementary-financial-information/">Supplementary financial information</a>
+                </li>
+            
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/investors/capital-markets-day/">Capital Markets Day</a>
+                </li>
+            
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/investors/conference-calls/">Conference calls</a>
+                </li>
+            
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/investors/financial-calendar/">Financial calendar</a>
+                </li>
+            
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/investors/press-releases/">Press releases</a>
+                </li>
+            
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/investors/the-share/">The share</a>
+                </li>
+            
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/investors/analysts/">Analysts</a>
+                </li>
+            
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/investors/subscribe/">Subscribe</a>
+                </li>
+            </ul></div>
+        
+        </li>
+    
+        <li class="unselected"><a href="/en/media/"><span>Media</span></a>
+        
+        
+        <div class="dropdown"><ul>
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/media/press-releases/">Press releases</a>
+                </li>
+            
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/media/image-archive/executive-management/">Picture archive</a>
+                </li>
+            
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/media/subscribe/">Subscribe</a>
+                </li>
+            </ul></div>
+        
+        </li>
+    
+        <li class="unselected"><a href="/en/corporate-governance/"><span>Corporate Governance</span></a>
+        
+        
+        <div class="dropdown"><ul>
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/corporate-governance/articles-of-association/">Articles of Association</a>
+                </li>
+            
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/corporate-governance/board-of-directors/">Board of Directors</a>
+                </li>
+            
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/corporate-governance/ceo-and-executive-management/">CEO and Executive Management</a>
+                </li>
+            
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/corporate-governance/auditors/">Auditors</a>
+                </li>
+            
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/corporate-governance/nomination-committee/">Nomination Committee</a>
+                </li>
+            
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/corporate-governance/remuneration-policy-/">Remuneration Policy </a>
+                </li>
+            
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/corporate-governance/annual-general-meeting/">Annual General Meeting</a>
+                </li>
+            </ul></div>
+        
+        </li>
+    
+        <li class="unselected"><a href="/en/modern-responsibility/"><span>Modern Responsibility</span></a>
+        
+        
+        <div class="dropdown"><ul>
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/modern-responsibility/whats-it-all-about/">What's it all about?</a>
+                </li>
+            
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/modern-responsibility/responsibility-timeline/">Responsibility Timeline</a>
+                </li>
+            
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/modern-responsibility/our-responsibilities/">Our responsibilities</a>
+                </li>
+            
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/modern-responsibility/modern-responsibility-reports/">Modern Responsibility Reports</a>
+                </li>
+            
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/modern-responsibility/mtg-united-for-peace/">MTG United for Peace</a>
+                </li>
+            
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/modern-responsibility/reach-for-change/">Reach for Change</a>
+                </li>
+            
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/modern-responsibility/events/">Activities</a>
+                </li>
+            </ul></div>
+        
+        </li>
+    
+        <li class="unselected"><a href="/en/career/"><span>Career</span></a>
+        
+        
+        <div class="dropdown"><ul>
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/career/who/">Find your career path at MTG</a>
+                </li>
+            
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/career/be-a-key-player-for-our-team/">Be a key player for our team</a>
+                </li>
+            
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/career/dare-to-be-different/">Dare to be different</a>
+                </li>
+            
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/career/we-invest-in-our-people/">We invest in our people</a>
+                </li>
+            
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/career/management-trainee-programme/">Management Trainee Programme</a>
+                </li>
+            
+                <li>                    
+                    <span>&rsaquo;</span>
+                    <a href="/en/career/careers/">Job opportunities</a>
+                </li>
+            </ul></div>
+        
+        </li>
+    
+        </ul>
+    
+            </div>
+        </div>
+    </div>
+
+            
+<div id="startpage">
+    <div id="top-container">
+        
+    <div>
+        
+        <a href="/en/annual-report-2012/">
+            <img src="/global/startpage/slider%202013/mtg_hero_1.jpg" alt="Hero1" />
+        </a>
+        
+        
+    </div>
+    
+    <div>
+        
+        <a href="/en/annual-report-2012/">
+            <img src="/global/startpage/slider%202013/mtg_hero_2.jpg" alt="Hero2" />
+        </a>
+        
+        
+    </div>
+    
+    <div>
+        
+        <a href="/en/annual-report-2012/">
+            <img src="/global/startpage/slider%202013/mtg_hero_3.jpg" alt="Hero3" />
+        </a>
+        
+        
+    </div>
+    
+    <div>
+        
+        <a href="/en/annual-report-2012/">
+            <img src="/global/startpage/slider%202013/mtg_hero_4.jpg" alt="Hero 4" />
+        </a>
+        
+        
+    </div>
+    
+    </div>
+    
+    
+    <div id="StaticTextSEO">
+        
+    </div>
+    
+    
+    <div id="middle-container1" class="stage-container">
+        <div class="col1">
+           <h3>Press Releases</h3>
+            
+            <div id="presslist">
+                
+                        <span>11/1/2013 8:00 AM</span>
+                        <h2>
+                            <a href="/en/media/press-releases/mtg-completes-acquisition-of-nice-entertainment-group/">
+                                MTG completes acquisition of Nice Entertainment Group
+                            </a>
+                        </h2>
+                    
+                        <span>10/31/2013 8:05 AM</span>
+                        <h2>
+                            <a href="/en/media/press-releases/mtg-prolongs-exclusive-media-rights-to-uefa-champions-league-football-in-scandinavia/">
+                                MTG prolongs exclusive media rights to UEFA Champion...
+                            </a>
+                        </h2>
+                    
+            </div>
+            
+            <p><a href="/en/media/press-releases/" class="ArchiveLink">View all Press Releases</a></p>
+        </div>
+
+        <div class="col2">
+            <h3>News</h3>
+            <div id="news-slider-nav"></div>
+            <div id="news-slider">
+                
+                    <div>
+                        <img src="/global/news%20pix/ar2012.jpg" alt="" border="0" />
+                        <p>MTG released its Annual Report&nbsp;2012 on Tuesday&nbsp;9 April.</p>
+                        <a class="ArchiveLink" href="/annual-report-2012/">Read the report here</a>
+                    </div>
+                
+                    <div>
+                        <img src="/global/startpage/slider%20images/cmd%20no%20madsen.jpg" alt="" border="0" />
+                        <p>MTG held its&nbsp;2013 Capital Markets Day&nbsp;on Thursday 13 June in Stockholm.</p>
+                        <a class="ArchiveLink" href="/investors/presentations/capital-markets-days/capital-markets-day-2013/">View the presentations here</a>
+                    </div>
+                
+                    <div>
+                        <img src="/global/investors/slider%20images/q3_2013%20no%20madsen.jpg" alt="" border="0" />
+                        <p><span style="font-family: 'Arial','sans-serif'; color: #333333; font-size: 9pt;">MTG released its&nbsp;Q3 2013 results on Tuesday&nbsp;22 October.</span></p>
+                        <a class="ArchiveLink" href="/investors/quarterly-reports/q3-2013-interim-report-january-september/">Read more here</a>
+                    </div>
+                
+                    <div>
+                        <img src="/global/startpage/news%20images/mr-report-thumb_215x120.jpg" alt="" border="0" />
+                        <p>Read the Modern Responsibility Report 2012.</p>
+                        <a class="ArchiveLink" href="http://cr2012.mtg.se/">Click here for the online report</a>
+                    </div>
+                
+            </div>
+        </div>
+        
+        <div class="col3">
+            <h3>Our Footprint</h3>
+            <p></p><p><a href="/en/brands--operations/footprint/"><img src="/global/startpage/mtg%20footprint%200712.jpg" alt="" width="215" height="126" /></a></p>            
+            <p><a href="/en/brands--operations/footprint/" class="ArchiveLink">Explore Our Footprint</a></p>            
+        </div>
+    </div>
+    
+    <div id="middle-container2" class="stage-container">
+        
+        <div class="col1" id="brands-col">
+            <h3>Brands & Operations</h3>
+            <div id="brands">
+               <ul class="tabs">
+        
+        <li><a href="">Free-TV</a></li>
+    
+        
+        <li><a href="">Pay-TV</a></li>
+    
+        
+        <li><a href="">Play TV</a></li>
+    
+        
+        <li><a href="">HDTV</a></li>
+    
+        
+        <li><a href="">Other Businesses</a></li>
+    </ul>
+
+
+
+    
+            <div class="panes">
+                <div class="innerpane">
+        
+                    <a class="logolink" href="/en/brands--operations/brands/free-tv/tv3-sweden/" rel="TV3 is Viasat Broadcasting's core brand, available in Scandinavia, the Baltic states and Hungary (as Viasat3). It's an entertainment brand the position of which may differ in the respective territories. In general TV3 is skewed towards female viewers. This version of the logotype is used in Sweden.">                        
+                            
+                            <img title="TV3 Sweden" class="pngfix" src="/temp/img-2038646641.jpg" alt="TV3 Sweden" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/free-tv/tv3-norway/" rel="TV3 is Viasat Broadcasting's core brand, available in Scandinavia, the Baltic states and Hungary (as Viasat3). It's an entertainment brand the position of which may differ in the respective territories. In general TV3 is skewed towards female viewers. This version of the logotype is used in Norway.">                        
+                            
+                            <img title="TV3 Norway" class="pngfix" src="/temp/img1567117240.jpg" alt="TV3 Norway" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/free-tv/tv3-denmark1/" rel="TV3 is Viasat Broadcasting's core brand, available in Scandinavia, the Baltic states and Hungary (as Viasat3). It's an entertainment brand the position of which may differ in the respective territories. In general TV3 is skewed towards female viewers. This version of the logotype is used in Denmark.">                        
+                            
+                            <img title="TV3 Denmark" class="pngfix" src="/temp/img480842893.jpg" alt="TV3 Denmark" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/free-tv/tv3/" rel="TV3 is Viasat Broadcasting's core brand, available in Scandinavia, the Baltic states and Hungary (as Viasat3). It's an entertainment brand the position of which may differ in the respective territories. In general TV3 is skewed towards female viewers. This version of the logotype is used in Hungary.">                        
+                            
+                            <img title="TV3 Hungary" class="pngfix" src="/temp/img-2121282283.jpg" alt="TV3 Hungary" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/free-tv/tv3-baltics1/" rel="TV3 is Viasat Broadcasting's core brand, available in Scandinavia, the Baltic states and Hungary (as Viasat3). It's an entertainment brand the position of which may differ in the respective territories. In general TV3 is skewed towards female viewers. This version of the logotype is used in Estonia.">                        
+                            
+                            <img title="TV3 Estonia" class="pngfix" src="/temp/img-913513071.jpg" alt="TV3 Estonia" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/free-tv/tv3-baltics2/" rel="TV3 is Viasat Broadcasting's core brand, available in Scandinavia, the Baltic states and Hungary (as Viasat3). It's an entertainment brand the position of which may differ in the respective territories. In general TV3 is skewed towards female viewers. This version of the logotype is used in Latvia.">                        
+                            
+                            <img title="TV3 Latvia" class="pngfix" src="/temp/img1799087962.jpg" alt="TV3 Latvia" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/free-tv/tv3-baltics/" rel="TV3 is Viasat Broadcasting's core brand, available in Scandinavia, the Baltic states and Hungary (as Viasat3). It's an entertainment brand the position of which may differ in the respective territories. In general TV3 is skewed towards female viewers. This version of the logotype is used in Lithuania.">                        
+                            
+                            <img title="TV3 Lithuania" class="pngfix" src="/temp/img1567117240.jpg" alt="TV3 Lithuania" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/free-tv/tv3-denmark/" rel="TV3+ is the secondary channel in Denmark, skewed towards male viewers and is an entertainment channel broadcasting series, movies – and live football. It has a similar profile to TV6 in Sweden and Viasat4 in Norway. In Latvia and Estonia 3+ are entertainment channels targeting Russian speaking viewers. This version of the logotype is used in Denmark.
+
+">                        
+                            
+                            <img title="TV3+ Denmark" class="pngfix" src="/temp/img1241804428.jpg" alt="TV3+ Denmark" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/free-tv/3-estonia--latvia/" rel="TV3+ is the secondary channel in Denmark, skewed towards male viewers and is an entertainment channel broadcasting series, movies – and live football. It has a similar profile to TV6 in Sweden and Viasat4 in Norway. In Latvia and Estonia 3+ are entertainment channels targeting Russian speaking viewers. This version of the logotype is used in Latvia and Estonia.">                        
+                            
+                            <img title="3+ Estonia &amp; Latvia" class="pngfix" src="/temp/img728450402.jpg" alt="3+ Estonia &amp; Latvia" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/free-tv/tv3-puls/" rel="TV3 PULS is the third free-TV channel in Denmark and broadcasts exclusive live coverage of the Formula One motor racing and MotoGP motorcycle grand prix championships, as well as blockbuster movies, top drama series and popular lifestyle programmes.">                        
+                            
+                            <img title="TV3 PULS" class="pngfix" src="/temp/img-1450334883.jpg" alt="TV3 PULS" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/free-tv/viasat4/" rel="Viasat4 in Norway is a broad general interest and entertainment channel with a similar profile to TV6 in Sweden and TV3+ in Denmark. Viasat4 is skewed towards male viewers.">                        
+                            
+                            <img title="Viasat4" class="pngfix" src="/temp/img277966389.jpg" alt="Viasat4" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/free-tv/tv61/" rel="TV6 is a broad general interest and entertainment channel with a similar profile to Viasat4 in Norway and TV3+ in Denmark. TV6 is skewed towards male viewers. This version of the logotype is used in Sweden.">                        
+                            
+                            <img title="TV6 Sweden" class="pngfix" src="/temp/img2076469133.jpg" alt="TV6 Sweden" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/free-tv/tv6/" rel="TV6 is a broad general interest and entertainment channel with a similar profile to Viasat4 in Norway and TV3+ in Denmark. TV6 is skewed towards male viewers. This version of the logotype is used in Estonia, Latvia, Lithuania and Hungary (as Viasat6).">                        
+                            
+                            <img title="TV6 Baltics etc" class="pngfix" src="/temp/img-2097815703.jpg" alt="TV6 Baltics etc" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/free-tv/tv6-norway/" rel="TV6 Norway is a general entertainment and lifestyle channel, and broadcast a combination of talk shows, quality drama, crime series and movies.">                        
+                            
+                            <img title="TV6 Norway" class="pngfix" src="/temp/img-301545950.jpg" alt="TV6 Norway" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/free-tv/tv8/" rel="TV8 in Sweden targets more mature viewers – above 35 – with current affairs, financial news and lifestyle programmes mixed with series, movies and occasionally sports.">                        
+                            
+                            <img title="TV8 Sweden" class="pngfix" src="/temp/img277908977.jpg" alt="TV8 Sweden" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/free-tv/tv8-lithuania/" rel="TV8 in Lithuania is aimed at women aged 35+ and broadcasts high quality programming, in Lithuanian and Russian, including locally-produced talk shows and dramas, as well as international content such as soap operas, hit telenovelas, movies and lifestyle programmes.">                        
+                            
+                            <img title="TV8 Lithuania" class="pngfix" src="/temp/img-747428837.jpg" alt="TV8 Lithuania" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/free-tv/tv10/" rel="TV10 is the fourth free-TV channel in Sweden and broadcasts a mixture of sports and factual programming targeting a male audience in the age group of 25-59.">                        
+                            
+                            <img title="TV10" class="pngfix" src="/temp/img1602061224.jpg" alt="TV10" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/free-tv/prima/" rel="Prima Family broadcasts a broad line-up of entertainment with a slight focus on female viewers. Own produced drama as well as other own produced programme genres create the backbone of Prima Family.">                        
+                            
+                            <img title="Prima Family" class="pngfix" src="/temp/img1552367029.jpg" alt="Prima Family" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/free-tv/prima-cool/" rel="Prima COOL is a broad-based general entertainment channel targeting 20-40 year old viewers. The programming schedule of the male-skewed channel includes blockbuster movies, as well as a number of new shows and hit series never broadcast in the Czech Republic before. The channel also broadcasts English Premier League football. ">                        
+                            
+                            <img title="Prima COOL" class="pngfix" src="/temp/img-844511084.jpg" alt="Prima COOL" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/free-tv/prima-love/" rel="Prima Love focuses on attracting a 15-44 year old female audience with a fun, informative and romantic format, broadcasting international series, blockbuster romantic and comedy movies as well as infotainment shows.">                        
+                            
+                            <img title="Prima Love" class="pngfix" src="/temp/img425469809.jpg" alt="Prima Love" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/free-tv/prima-zoom/" rel="Prima ZOOM features high quality documentary and factual entertainment programmes from leading international content producers.">                        
+                            
+                            <img title="Prima ZOOM" class="pngfix" src="/temp/img786549491.jpg" alt="Prima ZOOM" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/free-tv/nova/" rel="Nova, the second most watched TV channel in Bulgaria, has an urban-focused, young, predominantly female audience profile, and broadcasts a broad mix of local content and successful international TV formats.">                        
+                            
+                            <img title="Nova" class="pngfix" src="/temp/img1631721344.jpg" alt="Nova" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/free-tv/diema/" rel="Diema operates in Bulgaria and focuses on a male target group with a mix of acquired programmes, own productions and sports.">                        
+                            
+                            <img title="Diema" class="pngfix" src="/temp/img263431844.jpg" alt="Diema" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/free-tv/diema-2/" rel="KinoNova operates in Bulgaria and its core target group is young male viewers. Comedies and movies are KinoNova's content cornerstones.">                        
+                            
+                            <img title="KinoNova" class="pngfix" src="/temp/img816990946.jpg" alt="KinoNova" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/free-tv/diema-family/" rel="Diema Family operates in Bulgaria and focuses on a female target group aged 25 and over. Telenovelas, TV movies as well as selected other programming genres for the target group create the backbone of its schedule.">                        
+                            
+                            <img title="Diema Family" class="pngfix" src="/temp/img1836718398.jpg" alt="Diema Family" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/free-tv/viasat1/" rel="Viasat1 is a broad-based entertainment channel featuring a combination of international movies and series.">                        
+                            
+                            <img title="Viasat1" class="pngfix" src="/temp/img1651683328.jpg" alt="Viasat1" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/free-tv/ctc/" rel="Today CTC is a leading entertainment network in Russia. Focusing on entertainment, CTC broadcasts a mix between Russian productions and international programming of interest to its target audience; viewers aged 6–54, with a particularly strong appeal to younger audiences.">                        
+                            
+                            <img title="CTC" class="pngfix" src="/temp/img-326992476.jpg" alt="CTC" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/free-tv/domashny/" rel="Domashny broadcasts a mix of Russian productions and international programming which targets female viewers, aged 25–60. The programming focuses on issues of interest to women including health, family, career, style and fashion, as well as Russian movies and foreign series.">                        
+                            
+                            <img title="Domashny" class="pngfix" src="/temp/img-890331441.jpg" alt="Domashny" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/free-tv/dtv/" rel="Peretz, formerly known as DTV but rebranded in October 2011, focuses primarily on 25 to 59 year-old viewers with a core target audience of everyone between 35 and 45.">                        
+                            
+                            <img title="Peretz" class="pngfix" src="/temp/img668168446.jpg" alt="Peretz" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/free-tv/lnt/" rel="MTG completed the acquisition of 100% of AS Latvijas Neatkarīgā Televīzija – the country’s second largest free-TV operator, broadcasting the national channel LNT, the Russian language channel TV5 and the entertainment channel Kanals 2 – in June 2012.">                        
+                            
+                            <img title="LNT" class="pngfix" src="/temp/img-2069741121.jpg" alt="LNT" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/free-tv/kanals-2/" rel="MTG completed the acquisition of 100% of AS Latvijas Neatkarīgā Televīzija – at the time the country’s second largest free-TV operator, broadcasting the national channel LNT, the Russian language channel TV5 and the entertainment channel Kanals 2 – in June 2012.">                        
+                            
+                            <img title="Kanals 2" class="pngfix" src="/temp/img1044911165.jpg" alt="Kanals 2" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/free-tv/kanals-21/" rel="MTG completed the acquisition of 100% of AS Latvijas Neatkarīgā Televīzija – at the time the country’s second largest free-TV operator, broadcasting the national channel LNT, the Russian language channel TV5 and the entertainment channel Kanals 2 – in June 2012.">                        
+                            
+                            <img title="TV5" class="pngfix" src="/temp/img1578771440.jpg" alt="TV5" border="0" />
+                    </a>
+                    
+        
+                </div>
+            </div>
+        
+
+    
+            <div class="panes">
+                <div class="innerpane">
+        
+                    <a class="logolink" href="/en/brands--operations/brands/pay-tv/viasat/" rel="Viasat is the brand for the digital satellite TV platforms in Sweden, Norway, Denmark, Finland, Estonia, Latvia, Lithuania and Ukraine. Viasat – or Viasat Broadcasting – is also the largest business area within Modern Times Group.">                        
+                            
+                            <img title="Viasat" class="pngfix" src="/temp/img1009381602.jpg" alt="Viasat" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/pay-tv/tv1000/" rel="The TV1000 movie channel brand is available as a TV1000 East version in the Baltic States and in an additional nine countries within the CIS and as a version for ten countries in the Balkan region. The channels show the very latest Hollywood and European movies.">                        
+                            
+                            <img title="TV1000" class="pngfix" src="/temp/img1928277849.jpg" alt="TV1000" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/pay-tv/tv1000-action/" rel="TV1000 Action broadcasts premium movies, comprising America's finest all-action blockbusters and thrillers to keep viewers on the edge of their seats.">                        
+                            
+                            <img title="TV1000 Action" class="pngfix" src="/temp/img187261113.jpg" alt="TV1000 Action" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/pay-tv/tv1000-russian-kino/" rel="The premium movie channel TV1000 Russian Kino provides viewers with original Russian movies, ranging from classic titles to more recent blockbusters.">                        
+                            
+                            <img title="TV1000 Russian Kino" class="pngfix" src="/temp/img-1088320413.jpg" alt="TV1000 Russian Kino" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/pay-tv/tv1000-premium/" rel="TV1000 Premium airs Hollywood blockbuster movies 24 hours a day, with more than 300 movie premieres on the channel each year. As a special premium channel in Estonia, Latvia and Lithuania, it is only available for subscribers of the gold package on Viasat's satellite platform, as an add-on channel. It is subtitled in either Estonian or Latvian, while in Lithuania the films are dubbed. Russian subtitles are available in all countries.">                        
+                            
+                            <img title="TV1000 Premium" class="pngfix" src="/temp/img-1628787333.jpg" alt="TV1000 Premium" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/pay-tv/viasat-film/" rel="The main Viasat Film movie channel is available in Sweden, Norway, Denmark and Finland broadcasting exclusive premieres, blockbusters and top movies from the leading Hollywood and Scandinavian studios.">                        
+                            
+                            <img title="Viasat Film" class="pngfix" src="/temp/img-1993756294.jpg" alt="Viasat Film" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/pay-tv/viasat-film-action/" rel="Viasat Film Action broadcasts premium movies, comprising America's finest all-action blockbusters and thrillers to keep viewers on the edge of their seats">                        
+                            
+                            <img title="Viasat Film Action" class="pngfix" src="/temp/img1040914483.jpg" alt="Viasat Film Action" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/pay-tv/viasat-film-nordic/" rel="Viasat Film Nordic broadcasts premium movies from Sweden, Norway, Denmark and Finland, comprising a combination of new releases as well as massively popular and famous vintage film productions.">                        
+                            
+                            <img title="Viasat Film Nordic" class="pngfix" src="/temp/img1515552499.jpg" alt="Viasat Film Nordic" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/pay-tv/viasat-film-family/" rel="Viasat Film Family broadcasts premium movies for the whole family, with around the clock laughter and entertainment from hit family-orientated comedy and animated features.">                        
+                            
+                            <img title="Viasat Film Family" class="pngfix" src="/temp/img318108230.jpg" alt="Viasat Film Family" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/pay-tv/viasat-film-classic/" rel="Viasat Film Classic broadcasts premium movies, comprising a combination of cult and classic movie titles featuring the world’s leading film stars.">                        
+                            
+                            <img title="Viasat Film Classic" class="pngfix" src="/temp/img206724962.jpg" alt="Viasat Film Classic" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/pay-tv/viasat-film-drama/" rel="Viasat Film Drama offers a combination of films across the drama genre, from bodice ripping costume dramas to suspense-filled crime dramas; from great love stories to great life stories; from light drama to intense drama.">                        
+                            
+                            <img title="Viasat Film Drama" class="pngfix" src="/temp/img1547443884.jpg" alt="Viasat Film Drama" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/pay-tv/viasat-sport/" rel="Viasat Sport viewers in Sweden have access to the most extensive coverage ever in Sweden of NFL American football, to ATP Masters Series and Davis Cup tennis, and Swedish basketball league and Euroleague basketball. Viasat also has the rights to the European and World basketball championships in 2009 and 2010, respectively.">                        
+                            
+                            <img title="Viasat Sport" class="pngfix" src="/temp/img259323798.jpg" alt="Viasat Sport" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/pay-tv/viasat-fotboll/" rel="Viasat Fotboll is Sweden’s only dedicated football channel. Viasat Fotboll has exclusive live broadcasting rights to UEFA Champions League and Barclays Premier League matches; the English FA Cup; Chelsea and Manchester United club TV and the French league and is sharing the rights to Inter, Juventus, Milan, Fiorentina, Genoa, Roma, Cagliari, Lazio, Catania and Bologna's home matches in the Italian football league Serie A.">                        
+                            
+                            <img title="Viasat Fotboll" class="pngfix" src="/temp/img-584184434.jpg" alt="Viasat Fotboll" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/pay-tv/viasat-fotball/" rel="Viasat Fotball is Norway’s only dedicated football channel. Viasat Fotball has exclusive broadcasting rights to UEFA Champions League, UEFA Europa League, the English FA Cup and The Championship; Chelsea and Manchester United club TV and the French league.">                        
+                            
+                            <img title="Viasat Fotball" class="pngfix" src="/temp/img1048237065.jpg" alt="Viasat Fotball" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/pay-tv/viasat-hockey/" rel="Viasat Hockey is the only dedicated ice hockey channel in Sweden and Finland.">                        
+                            
+                            <img title="Viasat Hockey" class="pngfix" src="/temp/img-34873792.jpg" alt="Viasat Hockey" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/pay-tv/viasat-motor/" rel="Viasat Motor is the only dedicated motor sports channel in Sweden and Norway and features the most extensive Formula One coverage imaginable, including live coverage of each race and the qualifying sessions. The channel also has the rights to the MotoGP motorcycle grand prix championship and the Swedish Touring Car Championships, as well as carrying the NASCAR Sprint Cup Series and the Indy Racing League from the US.">                        
+                            
+                            <img title="Viasat Motor" class="pngfix" src="/temp/img-542938005.jpg" alt="Viasat Motor" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/pay-tv/viasat-golf/" rel="Viasat Golf is the only dedicated golf channel in Northern Europe, and broadcasts more than 1,400 hours of live golf coverage per year, including the European Tour tournaments, American PGA Tour, Ryder Cup, The British Open, the US PGA Championship and the US Open.">                        
+                            
+                            <img title="Viasat Golf" class="pngfix" src="/temp/img1397372160.jpg" alt="Viasat Golf" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/pay-tv/viasat-sport-baltic/" rel="Viasat Sport Baltic broadcasts a wide mix of sports coverage, including the UEFA Champions League, Formula One, the Ice Hockey World Championships, Euroleague basketball, ATP tennis, as well as major regional sports events, such as the SEB Baltic basketball league and the Triobet Baltic League in football, with commentary in Estonian, Latvian and Lithuanian.">                        
+                            
+                            <img title="Viasat Sport Baltic" class="pngfix" src="/temp/img-1924228983.jpg" alt="Viasat Sport Baltic" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/pay-tv/nova-sport/" rel="Nova Sport in Bulgaria features premium sports content including English Barclays Premier League and UEFA Champions League football, IAAF Diamond League athletics, and 2010 IIHF World Championship ice-hockey. ">                        
+                            
+                            <img title="Nova Sport" class="pngfix" src="/temp/img2000678132.jpg" alt="Nova Sport" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/pay-tv/tv2-sport/" rel="TV3 SPORT 1 in Denmark features a variety of premium sports rights as football, tennis, cycling, boxing and motorsport.">                        
+                            
+                            <img title="TV3 SPORT 1" class="pngfix" src="/temp/img-692976834.jpg" alt="TV3 SPORT 1" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/pay-tv/tv3-sport-2/" rel="TV3 SPORT 2 in Denmark was launched on 5 February 2013 and features a variety of premium sports rights such as boxing, speedway, NASCAR, WTA Tour, Champions League handball, All England badminton, football from the English Premier League and the French Ligue 1, NHL and much more.">                        
+                            
+                            <img title="TV3 SPORT 2" class="pngfix" src="/temp/img1564970340.jpg" alt="TV3 SPORT 2" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/pay-tv/viasat-history/" rel="Viasat History is an entertaining documentary channel featuring a blend of ancient and modern history, biography and popular culture brought to screen through a variety of TV formats – from award-winning documentaries to captivating historical dramas. Viasat History is bringing history to life!">                        
+                            
+                            <img title="Viasat History" class="pngfix" src="/temp/img1856274626.jpg" alt="Viasat History" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/pay-tv/viasat-explorer/" rel="Viasat Explorer is a documentary channel for those seeking thrills and adventure, travel, boys toys, extreme weather and famous criminal stories. Travel with international stars, ascend the highest peaks on Earth and follow the incredible adventures of athletes, scientists and criminals. Amazing sights, sounds and journeys await you.">                        
+                            
+                            <img title="Viasat Explorer" class="pngfix" src="/temp/img-696459281.jpg" alt="Viasat Explorer" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/pay-tv/viasat-nature/" rel="Viasat Nature offers a wide range of high-quality, award-winning and entertaining nature documentaries. We follow vets, wildlife experts and celebrities on their fascinating journeys; we meet dangerous predators, sweet cuddly pets and wild animals from all over the world.">                        
+                            
+                            <img title="Viasat Nature" class="pngfix" src="/temp/img690872755.jpg" alt="Viasat Nature" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/pay-tv/viasat-crime/" rel="Viasat Crime is a fictional crime channel that offers the very best of American and British crime series, mini-series and dramas about secret agents, murderers, assassins, criminal detectives and police investigations. We cater to our viewers 'criminal desires'.">                        
+                            
+                            <img title="Viasat Crime" class="pngfix" src="/temp/img772008191.jpg" alt="Viasat Crime" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/pay-tv/polsat-viasat-history/" rel="Polsat Viasat History takes the viewers on powerful journeys through time, offering intelligent, well-researched programmes that entertains and broadens the mind. The channel’s content is fresh and modern yet personal, bringing history to life with captivating stories. It is one of the few channels purely dedicated to history.">                        
+                            
+                            <img title="Polsat Viasat History" class="pngfix" src="/temp/img1040202474.jpg" alt="Polsat Viasat History" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/pay-tv/polsat-viasat-explorer/" rel="Polsat Viasat Explorer celebrates real men everywhere, with a diverse range of locations, vocations, experiences and passions. The stars are genuine, down to earth everyday men and women.">                        
+                            
+                            <img title="Polsat Viasat Explorer" class="pngfix" src="/temp/img819230192.jpg" alt="Polsat Viasat Explorer" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/pay-tv/polsat-viasat-nature/" rel="Polsat Viasat Nature is a premium nature channel, ideal for families and children to enjoy. It is packed with award winning content, with emphasis on cute and warm wildlife programming. Polsat Viasat Nature’s programming focuses on the positive relationship between animals and humans.">                        
+                            
+                            <img title="Polsat Viasat Nature" class="pngfix" src="/temp/img-1087289292.jpg" alt="Polsat Viasat Nature" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/pay-tv/viasat-3d/" rel="Viasat 3D features programming sourced from the HIGH TV 3D channel – including entertainment news, travel shows, dramas, reality shows, comedies, fitness programmes and feature films – as well as live and recorded coverage of premium sports events and movies.">                        
+                            
+                            <img title="Viasat 3D" class="pngfix" src="/temp/img-1020006618.jpg" alt="Viasat 3D" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/pay-tv/raduga-tv/" rel="Raduga TV is the brand for the digital satellite TV platform in Russia. The platform offers a package of more than 50 TV channels, including a wide range of Russian channels, as well as the localised versions of leading international channel brands such as Discovery Channel, Eurosport, National Geographic and Jetix. The package also includes Viasat Broadcasting’s Viasat History, Viasat Explorer, TV1000 Russian Kino, TV1000 East and TV1000 Action East channels.">                        
+                            
+                            <img title="Raduga TV" class="pngfix" src="/temp/img-1226014472.jpg" alt="Raduga TV" border="0" />
+                    </a>
+                    
+        
+                </div>
+            </div>
+        
+
+    
+            <div class="panes">
+                <div class="innerpane">
+        
+                    <a class="logolink" href="/en/brands--operations/brands/play-tv/viaplay/" rel="Viaplay was launched as Viasat OnDemand, an online video streaming service only, in May 2007, providing a broad selection of feature films, live sports events and TV series for Sweden, Norway and Denmark. In October 2008 it also became the brand name for the on demand TV service through the recordable box for Viasat subscribers in Scandinavia.">                        
+                            
+                            <img title="Viaplay" class="pngfix" src="/temp/img2105859638.jpg" alt="Viaplay" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/play-tv/tv3-play-sweden/" rel="The catch up service TV3 Play was launched in Sweden on the internet in February 2009 and via Viasat's recordable box in August 2009.">                        
+                            
+                            <img title="TV3 Play" class="pngfix" src="/temp/img-1619309082.jpg" alt="TV3 Play" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/play-tv/tv3-play-denmark/" rel="The catch up service TV3 Play was launched in Norway on the internet and via Viasat's recordable box in May 2010.">                        
+                            
+                            <img title="TV3 Play" class="pngfix" src="/temp/img704826472.jpg" alt="TV3 Play" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/play-tv/tv3-gensyn/" rel="The catch up service TV3 Play was launched in Denmark via Viasat's recordable box in August 2010.">                        
+                            
+                            <img title="TV3 Play" class="pngfix" src="/temp/img-1947133794.jpg" alt="TV3 Play" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/play-tv/tv3-play-estonia/" rel="The catch up service TV3 Play was launched in Latvia on the internet in September 2010 and in Estonia in November 2010. The service was then launched in Lithuania in May 2011.">                        
+                            
+                            <img title="TV3 Play" class="pngfix" src="/temp/img-915259059.jpg" alt="TV3 Play" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/play-tv/tv3-gensyn1/" rel="The catch up service TV3+ Gensyn was launched in Denmark via Viasat's recordable box in August 2010.">                        
+                            
+                            <img title="TV3+ Gensyn" class="pngfix" src="/temp/img930017401.jpg" alt="TV3+ Gensyn" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/play-tv/tv3-puls-gensyn/" rel="The catch up service TV3 Puls Gensyn was launched in Denmark via Viasat's recordable box in August 2010.">                        
+                            
+                            <img title="TV3 Puls Gensyn" class="pngfix" src="/temp/img-17992528.jpg" alt="TV3 Puls Gensyn" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/play-tv/tv4-play/" rel="The catch up service Viasat4 Play was launched in Norway on the internet and via Viasat's recordable box in October 2010.">                        
+                            
+                            <img title="Viasat4 Play" class="pngfix" src="/temp/img1639808685.jpg" alt="Viasat4 Play" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/play-tv/tv6-play/" rel="The catch up service TV6 Play was launched in Sweden on the internet in February 2009 and via Viasat's recordable box in August 2009.">                        
+                            
+                            <img title="TV6 Play" class="pngfix" src="/temp/img149641570.jpg" alt="TV6 Play" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/play-tv/tv8-play/" rel="The catch up service TV8 Play was launched in Sweden on the internet in March 2009 and via Viasat's recordable box in August 2009.">                        
+                            
+                            <img title="TV8 Play" class="pngfix" src="/temp/img1292403283.jpg" alt="TV8 Play" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/play-tv/nova-play/" rel="The catch up service Nova Play was launched in Bulgaria on the internet in June 2010.">                        
+                            
+                            <img title="Nova Play" class="pngfix" src="/temp/img-1381018148.jpg" alt="Nova Play" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/play-tv/primaplay/" rel="The online on demand channel PrimaPLAY was launched in March 2012.">                        
+                            
+                            <img title="PrimaPLAY" class="pngfix" src="/temp/img872345420.jpg" alt="PrimaPLAY" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/play-tv/viasat-play-hungary/" rel="The catch up service Viasat Play was launched in Hungary on the internet in 2010.">                        
+                            
+                            <img title="Viasat Play Hungary" class="pngfix" src="/temp/img1429970738.jpg" alt="Viasat Play Hungary" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/play-tv/viasat-explorer-play/" rel="The catch up service Viasat Explorer Play was launched in the Nordic region via Viasat's recordable box in August 2009.">                        
+                            
+                            <img title="Viasat Explorer Play" class="pngfix" src="/temp/img-1165809453.jpg" alt="Viasat Explorer Play" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/play-tv/viasat-history-play/" rel="The catch up service Viasat History Play was launched in the Nordic region via Viasat's recordable box in August 2009.">                        
+                            
+                            <img title="Viasat History Play" class="pngfix" src="/temp/img613622194.jpg" alt="Viasat History Play" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/play-tv/viasat-nature-play/" rel="The catch up service Viasat Nature Play was launched in the Nordic region via Viasat's recordable box in August 2009.">                        
+                            
+                            <img title="Viasat Nature Play" class="pngfix" src="/temp/img1083552607.jpg" alt="Viasat Nature Play" border="0" />
+                    </a>
+                    
+        
+                </div>
+            </div>
+        
+
+    
+            <div class="panes">
+                <div class="innerpane">
+        
+                    <a class="logolink" href="/en/brands--operations/brands/hd-tv/tv3-hd/" rel="TV3 is Viasat Broadcasting's core brand, available in Scandinavia, the Baltic states, Hungary (as Viasat3) and Slovenia. It's an entertainment brand the position of which may differ in the respective territories. In general TV3 is skewed towards female viewers.">                        
+                            
+                            <img title="TV3 HD Sweden" class="pngfix" src="/temp/img1272893990.jpg" alt="TV3 HD Sweden" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/hd-tv/tv3-hd-norway/" rel="TV3 is Viasat Broadcasting's core brand, available in Scandinavia, the Baltic states, Hungary (as Viasat3) and Slovenia. It's an entertainment brand the position of which may differ in the respective territories. In general TV3 is skewed towards female viewers.">                        
+                            
+                            <img title="TV3 HD Norway" class="pngfix" src="/temp/img1170389755.jpg" alt="TV3 HD Norway" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/hd-tv/3-plus-hd/" rel="TV3+ is the secondary channel in Denmark, skewed towards male viewers and is an entertainment channel broadcasting series, movies – and live football. It has a similar profile to TV6 in Sweden and Viasat4 in Norway. In Latvia and Estonia 3+ are entertainment channels targeting Russian speaking viewers. ">                        
+                            
+                            <img title="TV3+ HD Denmark" class="pngfix" src="/temp/img789306636.jpg" alt="TV3+ HD Denmark" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/hd-tv/viasat-sport-hd_norway/" rel="Viasat Sport HD Norway broadcasts a selection of events from Viasat's other sports channels, such as UEFA Champions League, in HD.">                        
+                            
+                            <img title="Viasat Sport HD Norway" class="pngfix" src="/temp/img269292683.jpg" alt="Viasat Sport HD Norway" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/hd-tv/viasat-fotboll-hd/" rel="Viasat Fotboll in Sweden has the exclusive live broadcasting rights to UEFA Champions League and Barclays Premier League, broadcasts parts of the FA Cup and a lot more. ">                        
+                            
+                            <img title="Viasat Fotboll HD Sweden" class="pngfix" src="/temp/img2055507369.jpg" alt="Viasat Fotboll HD Sweden" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/hd-tv/viasat-motor-hd/" rel="Viasat Motor is the only dedicated motor sports channel in Sweden and Norway and features the most extensive Formula One coverage imaginable, including live coverage of each race and the qualifying sessions. The channel also has the rights to the MotoGP motorcycle grand prix championship and the Swedish Touring Car Championships, as well as carrying the NASCAR Sprint Cup Series and the Indy Racing League from the US.">                        
+                            
+                            <img title="Viasat Motor HD Sweden, Norway" class="pngfix" src="/temp/img-1505216252.jpg" alt="Viasat Motor HD Sweden, Norway" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/hd-tv/viasat-film-hd/" rel="Viasat Film HD is an HD version of the main Viasat Film premium movie channel in the Nordic region, broadcasting exclusive premieres, blockbusters and top movies from the leading Hollywood and Scandinavian studios.">                        
+                            
+                            <img title="Viasat Film HD" class="pngfix" src="/temp/img-174555102.jpg" alt="Viasat Film HD" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/hd-tv/viasat-film-action-hd/" rel="Viasat Film Action HD is an HD version of Viasat Film Action broadcasting premium movies, comprising America's finest all-action blockbusters and thrillers to keep viewers on the edge of their seats.">                        
+                            
+                            <img title="Viasat Film Action HD" class="pngfix" src="/temp/img2026472517.jpg" alt="Viasat Film Action HD" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/hd-tv/viasat-film-nordic-hd/" rel="Viasat Film Nordic HD is an HD version of Viasat Film Nordic and broadcasts premium movies from Sweden, Norway, Denmark and Finland, comprising a combination of new releases as well as massively popular and famous vintage film productions.">                        
+                            
+                            <img title="Viasat Film Nordic HD" class="pngfix" src="/temp/img1300624661.jpg" alt="Viasat Film Nordic HD" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/hd-tv/viasat-film-family-hd/" rel="Viasat Film Family HD is an HD version of Viasat Film Family and broadcasts premium movies for the whole family, with around the clock laughter and entertainment from hit family-orientated comedy and animated features.">                        
+                            
+                            <img title="Viasat Film Family HD" class="pngfix" src="/temp/img981630604.jpg" alt="Viasat Film Family HD" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/hd-tv/viasat-film-drama-hd/" rel="Viasat Film Drama HD is an HD version of Viasat Film Drama and offers a combination of films across the drama genre, from bodice ripping costume dramas to suspense-filled crime dramas; from great love stories to great life stories; from light drama to intense drama.">                        
+                            
+                            <img title="Viasat Film Drama HD" class="pngfix" src="/temp/img-1449957260.jpg" alt="Viasat Film Drama HD" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/hd-tv/tv2-sport-hd/" rel="TV3 SPORT 1 HD in Denmark features a variety of premium sports rights as football, tennis, cycling, boxing and motorsport.">                        
+                            
+                            <img title="TV3 SPORT 1 HD" class="pngfix" src="/temp/img-558879792.jpg" alt="TV3 SPORT 1 HD" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/hd-tv/tv3-sport-2-hd/" rel="TV3 SPORT 2 HD in Denmark was launched in February 2013 and features a variety of premium sports rights such as boxing, speedway, NASCAR, WTA Tour, Champions League handball, All England badminton, football from the English Premier League and the French Ligue 1, NHL and much more.">                        
+                            
+                            <img title="TV3 SPORT 2 HD" class="pngfix" src="/temp/img-2009657794.jpg" alt="TV3 SPORT 2 HD" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/hd-tv/viasat-nature-hd/" rel="Viasat Nature HD offers viewers a wide range of high-quality, award-winning and entertaining nature documentaries. The channel follows vets, wildlife experts and celebrities on fascinating journeys, and allows viewers to encounter dangerous predators, wild animals and pets from around the world.">                        
+                            
+                            <img title="Viasat Nature HD" class="pngfix" src="/temp/img142075518.jpg" alt="Viasat Nature HD" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/hd-tv/viasat-history-hd/" rel="Viasat History HD is an entertaining documentary channel which features a mix of ancient and modern history, biopics and popular culture presented in a broad variety of formats ranging from award-winning documentaries to captivating historical dramas.">                        
+                            
+                            <img title="Viasat History HD" class="pngfix" src="/temp/img1502744004.jpg" alt="Viasat History HD" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/hd-tv/viasat-explorer-hd/" rel="Viasat Explorer HD is a documentary channel for those seeking thrills and adventure, travel, boys toys, extreme weather and famous criminal stories.">                        
+                            
+                            <img title="Viasat Explorer HD" class="pngfix" src="/temp/img-82450893.jpg" alt="Viasat Explorer HD" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/hd-tv/tv1000-premium-hd/" rel="TV1000 Premium HD is a premium tier movie channel available in Russia, Ukraine and the CIS countries. The channel focuses on first run premieres of award winning films from Hollywood studios and independent local distributors.">                        
+                            
+                            <img title="TV1000 Premium HD" class="pngfix" src="/temp/img1494005751.jpg" alt="TV1000 Premium HD" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/hd-tv/tv1000-megahit-hd/" rel="TV1000 Megahit HD is a movie channel available in Russia, Ukraine and the CIS countries which features first run premieres of the latest blockbuster titles from Hollywood and Russia.">                        
+                            
+                            <img title="TV1000 Megahit HD" class="pngfix" src="/temp/img1675563204.jpg" alt="TV1000 Megahit HD" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/hd-tv/tv1000-comedy-hd/" rel="TV1000 Comedy HD is a channel dedicated to US comedy movies and is available in Russia, Ukraine and the CIS countries.">                        
+                            
+                            <img title="TV1000 Comedy HD" class="pngfix" src="/temp/img52663907.jpg" alt="TV1000 Comedy HD" border="0" />
+                    </a>
+                    
+        
+                </div>
+            </div>
+        
+
+    
+            <div class="panes">
+                <div class="innerpane">
+        
+                    <a class="logolink" href="/en/brands--operations/brands/other-businesses/rix-fm/" rel="RIX FM entertains three million listeners in Sweden every week with music, news, humour and a huge portion of fun.">                        
+                            
+                            <img title="RIX FM" class="pngfix" src="/temp/img-1550503654.jpg" alt="RIX FM" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/other-businesses/bandit/" rel="Bandit Rock is Sweden's biggest rock station, playing a mixture of modern and alternative rock.">                        
+                            
+                            <img title="Bandit" class="pngfix" src="/temp/img-767320918.jpg" alt="Bandit" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/other-businesses/lugna-favoriter/" rel="Lugna Favoriter, playing calm popular music, is local radio station in Stockholm.">                        
+                            
+                            <img title="Lugna Favoriter" class="pngfix" src="/temp/img-1866323988.jpg" alt="Lugna Favoriter" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/other-businesses/star-fm/" rel="Radio1 is Sweden's first commercial talk radio station with focus on news, weather, debate and discussion as well as traffic reports, 24 hours per day. The station is broadcast in Stockholm and was launched on 4 April 2011.">                        
+                            
+                            <img title="Radio1" class="pngfix" src="/temp/img-1762757663.jpg" alt="Radio1" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/other-businesses/p4/" rel="P4 is currently the largest national radio station in Norway overall in its target group 20-50, however it is constantly challenged by the public station P1 for this position. P4 was launched on 15 September 1993 as the only national commercial radio network in the country. The ten year license had been granted on 15 January 1993 after fierce competition.">                        
+                            
+                            <img title="P4" class="pngfix" src="/temp/img-1116644963.jpg" alt="P4" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/other-businesses/p5/" rel="P5 entertains listeners in Norway’s four largest cities – Oslo, Bergen, Trondheim and Stavanger – where it offers local news, traffic and updates. And plays the biggest hits.">                        
+                            
+                            <img title="P5" class="pngfix" src="/temp/img483390967.jpg" alt="P5" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/other-businesses/power-hit-radio/" rel="Power Hit Radio – in the biggest cities of Lithuania and in Tallinn in Estonia – provides chart hits and targets a young audience.">                        
+                            
+                            <img title="Power Hit Radio" class="pngfix" src="/temp/img-300782177.jpg" alt="Power Hit Radio" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/other-businesses/star-fm-baltic/" rel="STAR FM in Estonia and Latvia is a pure music channel with an adult contemporary popular music chart. It got its name in the Baltic states in 2000 when Easy FM was rebranded.">                        
+                            
+                            <img title="STAR FM Baltic" class="pngfix" src="/temp/img-1897708160.jpg" alt="STAR FM Baltic" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/other-businesses/nova/" rel="The core idea of Radio Nova's operations can be summarised by the phrase: We'll make your day better. Radio Nova broadcasts the best mix of classics and the most stylish novelties.">                        
+                            
+                            <img title="Radio Nova" class="pngfix" src="/temp/img1662743413.jpg" alt="Radio Nova" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/other-businesses/mtg-studios/" rel="Presently, MTG Studios comprises: Strix, a global leader in entertainment television production and development of reality TV formats; Paprika Latino, originally a Romanian television production company, Paprika has made a name for itself in Hungary, Slovakia, Serbia, Bulgaria and Slovenia; and Redaktörerna, experts at editorial communication through a variety of channels, including print, online and mobile media.">                        
+                            
+                            <img title="MTG Studios" class="pngfix" src="/temp/img1943322009.jpg" alt="MTG Studios" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/other-businesses/strix-television/" rel="Strix Television has grown to become one of the biggest television production and format companies in Scandinavia, and a respected international provider of original formats.">                        
+                            
+                            <img title="Strix Television" class="pngfix" src="/temp/img-1211148759.jpg" alt="Strix Television" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/other-businesses/paprika-latino/" rel="The leading Central and Eastern European production group Paprika Latino was founded in 2004, and has offices in seven countries: Romania, Hungary, Slovakia, Serbia, Bulgaria, Slovenia and Costa Rica.">                        
+                            
+                            <img title="Paprika Latino" class="pngfix" src="/temp/img-1416006352.jpg" alt="Paprika Latino" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/other-businesses/redaktorerna/" rel="Redaktörerna is a publishing company that helps companies and organisations improve their communication through customer, internal and member magazines.">                        
+                            
+                            <img title="Redaktörerna" class="pngfix" src="/temp/img1592543478.jpg" alt="Redaktörerna" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/other-businesses/digital-rights-group/" rel="Digital Rights Group (DRG) is the UK’s leading independent TV rights distribution group, and provides TV producers and broadcasters with international distribution for their rights and programmes.">                        
+                            
+                            <img title="Digital Rights Group" class="pngfix" src="/temp/img1021652036.jpg" alt="Digital Rights Group" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/other-businesses/novemberfilm/" rel="Novemberfilm is a Norwegian production company with offices in Oslo and Arendal. The company is focused on the production of TV series and advertising commercials for both the Norwegian and international markets.">                        
+                            
+                            <img title="Novemberfilm" class="pngfix" src="/temp/img-1904347497.jpg" alt="Novemberfilm" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/other-businesses/modern-african-productions/" rel="Modern African Productions (MAP) was founded in December 2010. Based in Ghana’s capital city of Accra, yet with its roots in Europe, MAP operates with the mission statement: “We think global, we produce local”.">                        
+                            
+                            <img title="Modern African Productions" class="pngfix" src="/temp/img73797062.jpg" alt="Modern African Productions" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/other-businesses/idrottsgalan/" rel="Svenska Idrottsgalan – the Swedish Sports Gala which honours Swedish sporting achievements – is an annual event that has run since the inaugural gala on 17 January 2000 in the Globe Arena in Stockholm. It is broadcast by the Swedish public broadcaster Sveriges Television and Sveriges Radio.">                        
+                            
+                            <img title="Idrottsgalan" class="pngfix" src="/temp/img-1890406070.jpg" alt="Idrottsgalan" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/other-businesses/viagame/" rel="Viagame is a buy and download service offering the best and latest video games online for direct download to PC/Mac.">                        
+                            
+                            <img title="Viagame" class="pngfix" src="/temp/img-1727438737.jpg" alt="Viagame" border="0" />
+                    </a>
+                    
+        
+                    <a class="logolink" href="/en/brands--operations/brands/other-businesses/liketv/" rel="Like.tv is a second screen service available in Sweden which covers all the Swedish television channels, on both free-TV and pay-TV.">                        
+                            
+                            <img title="Like.tv" class="pngfix" src="/temp/img-1664103006.jpg" alt="Like.tv" border="0" />
+                    </a>
+                    
+        
+                </div>
+            </div>
+        
+
+
+
+
+            </div>
+        </div>
+        
+        <div class="col2">
+           <h3>Calendar</h3>            
+            
+            <div id="calendarlist">
+                <ul>
+        <li>
+            <h2><a href="/en/investors/financial-calendar/q4-interim-report-2014/">Wednesday, 12 February</a></h2>
+            <span>
+                <a href="/en/investors/financial-calendar/q4-interim-report-2014/">
+                    Q4 2013 and Full Year Report
+                </a>
+            </span>
+        </li>
+    
+        <li>
+            <h2><a href="/en/investors/financial-calendar/q1-2014-interim-report/">Friday, 25 April</a></h2>
+            <span>
+                <a href="/en/investors/financial-calendar/q1-2014-interim-report/">
+                    Q1 2014 Interim Report
+                </a>
+            </span>
+        </li>
+    
+        <li>
+            <h2><a href="/en/investors/financial-calendar/annual-general-meeting-2014/">Tuesday, 13 May</a></h2>
+            <span>
+                <a href="/en/investors/financial-calendar/annual-general-meeting-2014/">
+                    Annual General Meeting 2014
+                </a>
+            </span>
+        </li>
+    </ul>
+            </div>
+            
+            <p><a href="/en/investors/financial-calendar/" class="ArchiveLink">Go to calendar</a></p>
+        </div>
+        
+        <div class="col3">
+            <h3>The Share</h3>
+            
+
+<div id="TickerInfo">
+<p class="tickerdate"><span id="ctl00_PageHolder__ctrl_0_TickerTime">12/3/2013 10:12 AM</span></p>
+<span class="tickercurrent">333.5 SEK</span>
+<span class="tickerchange">+1.8 SEK</span>
+<p class="tickerlink"><a id="ctl00_PageHolder__ctrl_0_ShareInfoLink" class="ArchiveLink" href="/en/investors/the-share/share-price/">Share information</a></p>
+</div>
+            <h3>Reports</h3>
+            <ul class="report-list"><li><span>10/22/2013 1:00 PM</span><h2><a href="/en/investors/quarterly-reports/q3-2013-interim-report-january-september/">Q3 2013 Interim report January – September</a></h2></li></ul>
+            <p><a class="ArchiveLink" href="/en/investors/quarterly-reports/">Archive</a></p>
+        </div>
+    </div>
+    
+    <div id="bottom-container">
+        <div class="HeadingArea"><h3><span>Become a customer</span></h3></div>
+        
+        <div id="BottomStageContent">
+            <div class="bottomteaser">
+                <div id="ctl00_PageHolder_SecondFlash">
+	
+                    <a id="ctl00_PageHolder_SecondFlash_SecondTeaser" href="/en/customer/"><img src="/global/banners/mtgvplayred.gif" border="0" /></a>
+                
+</div>
+            </div>
+            <div class="bottomteaser">
+                
+
+
+
+<!-- button that opens up overlay -->
+<a rel="div.overlay" id="videopreview">
+    <img id="videothumb" src="/global/images/startpage/video-thumb.jpg" alt="Video preview" />
+    <img id="play-icon" src="/templates/public/images/buttons/play-button.png" alt="Play video" />
+</a>
+<!-- element that is overlayed, visuals are done with external CSS -->
+<div class="overlay">
+    <div class="HeadingArea"><h3><span>VIASAT Trailer</span></h3></div>
+    <!-- flowplayer container -->
+    <a id="player">
+        <!-- some initial content so that player is not loaded upon page load -->
+        &nbsp;
+    </a>
+    
+    <div id="BodyArea">
+        <div>
+
+</div>
+    </div>
+</div>
+
+    <script type="text/javascript">
+        flashembed.domReady(function() {
+            $(function() {
+                
+                var player = $f("player", "/Templates/Public/Flash/flowplayer.commercial-3.1.0.swf", {
+                    key: '#@5ff338b862a00354bc6',
+                    play: {
+                        url: '/Templates/Public/Images/Buttons/play-button.png',
+                        height: 50,
+                        width: 50
+                    },
+                    clip: {                    
+                        autoPlay : true, 
+                        autoBuffering: true,
+                        url: 'English_Viasat_May2013',
+                        provider: 'influxis'
+                    },
+                    
+                    plugins: {
+                        controls:  {
+					        url:'/Templates/Public/Flash/flowplayer.controls.mtgsmall-1.0.swf'
+					    },
+                        
+                        influxis: {
+                            url: '/Templates/Public/Flash/flowplayer.rtmp-3.1.0.swf',
+                            
+                            netConnectionUrl: 'rtmp://mtgfs.fplive.net/mtg/flash/mtg/traileren/' 
+                        }
+                    }
+                });
+                
+                $("a#videopreview[rel]").overlay({ 
+                    
+                    color: '#ccc',
+                    closeOnClick: false,
+                    
+                    onLoad: function() {
+                        player.load();
+                    },
+                    
+                    onClose: function() {
+                        player.unload();
+                    },
+                    
+                    mask: {
+                        color: '#222222',
+                        loadSpeed: 200,
+                        opacity: 0.9
+                    }
+                });
+            });
+        });
+    </script>   
+                
+            </div>     
+               
+            <div class="bottomteaser">
+                <a id="ctl00_PageHolder_FirstTeaser" href="/en/customer/"><img src="/global/banners/pl_mtg_468x142_uk.jpg" border="0" /></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+            <div id="footer-sitemap">
+                
+
+
+
+<div id="sitemap-logo">
+    <a href="/en/">MTG</a>
+</div>
+
+
+<div id="sitemap">
+    
+		    <ul>
+	    
+			    <li>
+	    
+                    <a class="topitem" href="/en/about-mtg/">About MTG</a>
+        
+		    <ul>
+	    
+			    <li>
+	    
+				    <a href="/en/about-mtg/board-of-directors/">Board of Directors</a>
+	    
+			    </li>
+	    
+			    <li>
+	    
+				    <a href="/en/about-mtg/executive-management/">Executive Management</a>
+	    
+			    </li>
+	    
+			    <li>
+	    
+				    <a href="/en/about-mtg/history-of-mtg/">History of MTG</a>
+	    
+			    </li>
+	    
+		    </ul>
+	    
+			    </li>
+	    
+			    <li>
+	    
+                    <a class="topitem" href="/en/brands--operations/operations/">Brands &amp; Operations</a>
+        
+		    <ul>
+	    
+			    <li>
+	    
+				    <a href="/en/brands--operations/operations/">Operations</a>
+	    
+			    </li>
+	    
+			    <li>
+	    
+				    <a href="/en/brands--operations/footprint/">Footprint</a>
+	    
+			    </li>
+	    
+			    <li>
+	    
+				    <a href="/en/brands--operations/brands/">Brands</a>
+	    
+			    </li>
+	    
+		    </ul>
+	    
+			    </li>
+	    
+			    <li>
+	    
+                    <a class="topitem" href="/en/investors/">Investors</a>
+        
+		    <ul>
+	    
+			    <li>
+	    
+				    <a href="/en/investors/annual-reports/">Annual Reports</a>
+	    
+			    </li>
+	    
+			    <li>
+	    
+				    <a href="/en/investors/corporate-brochures/">Corporate Brochures</a>
+	    
+			    </li>
+	    
+			    <li>
+	    
+				    <a href="/en/investors/quarterly-reports/">Quarterly Reports</a>
+	    
+			    </li>
+	    
+			    <li>
+	    
+				    <a href="/en/investors/presentations/quarterly-presentations/">Presentations</a>
+	    
+			    </li>
+	    
+			    <li>
+	    
+				    <a href="/en/investors/supplementary-financial-information/">Supplementary financial information</a>
+	    
+			    </li>
+	    
+			    <li>
+	    
+				    <a href="/en/investors/capital-markets-day/">Capital Markets Day</a>
+	    
+			    </li>
+	    
+			    <li>
+	    
+				    <a href="/en/investors/conference-calls/">Conference calls</a>
+	    
+			    </li>
+	    
+			    <li>
+	    
+				    <a href="/en/investors/financial-calendar/">Financial calendar</a>
+	    
+			    </li>
+	    
+			    <li>
+	    
+				    <a href="/en/investors/press-releases/">Press releases</a>
+	    
+			    </li>
+	    
+			    <li>
+	    
+				    <a href="/en/investors/the-share/">The share</a>
+	    
+			    </li>
+	    
+			    <li>
+	    
+				    <a href="/en/investors/analysts/">Analysts</a>
+	    
+			    </li>
+	    
+			    <li>
+	    
+				    <a href="/en/investors/subscribe/">Subscribe</a>
+	    
+			    </li>
+	    
+		    </ul>
+	    
+			    </li>
+	    
+			    <li>
+	    
+                    <a class="topitem" href="/en/media/">Media</a>
+        
+		    <ul>
+	    
+			    <li>
+	    
+				    <a href="/en/media/press-releases/">Press releases</a>
+	    
+			    </li>
+	    
+			    <li>
+	    
+				    <a href="/en/media/image-archive/executive-management/">Picture archive</a>
+	    
+			    </li>
+	    
+			    <li>
+	    
+				    <a href="/en/media/subscribe/">Subscribe</a>
+	    
+			    </li>
+	    
+		    </ul>
+	    
+			    </li>
+	    
+			    <li>
+	    
+                    <a class="topitem" href="/en/corporate-governance/">Corporate Governance</a>
+        
+		    <ul>
+	    
+			    <li>
+	    
+				    <a href="/en/corporate-governance/articles-of-association/">Articles of Association</a>
+	    
+			    </li>
+	    
+			    <li>
+	    
+				    <a href="/en/corporate-governance/board-of-directors/">Board of Directors</a>
+	    
+			    </li>
+	    
+			    <li>
+	    
+				    <a href="/en/corporate-governance/ceo-and-executive-management/">CEO and Executive Management</a>
+	    
+			    </li>
+	    
+			    <li>
+	    
+				    <a href="/en/corporate-governance/auditors/">Auditors</a>
+	    
+			    </li>
+	    
+			    <li>
+	    
+				    <a href="/en/corporate-governance/nomination-committee/">Nomination Committee</a>
+	    
+			    </li>
+	    
+			    <li>
+	    
+				    <a href="/en/corporate-governance/remuneration-policy-/">Remuneration Policy </a>
+	    
+			    </li>
+	    
+			    <li>
+	    
+				    <a href="/en/corporate-governance/annual-general-meeting/">Annual General Meeting</a>
+	    
+			    </li>
+	    
+		    </ul>
+	    
+			    </li>
+	    
+			    <li>
+	    
+                    <a class="topitem" href="/en/modern-responsibility/">Modern Responsibility</a>
+        
+		    <ul>
+	    
+			    <li>
+	    
+				    <a href="/en/modern-responsibility/whats-it-all-about/">What's it all about?</a>
+	    
+			    </li>
+	    
+			    <li>
+	    
+				    <a href="/en/modern-responsibility/responsibility-timeline/">Responsibility Timeline</a>
+	    
+			    </li>
+	    
+			    <li>
+	    
+				    <a href="/en/modern-responsibility/our-responsibilities/">Our responsibilities</a>
+	    
+			    </li>
+	    
+			    <li>
+	    
+				    <a href="/en/modern-responsibility/modern-responsibility-reports/">Modern Responsibility Reports</a>
+	    
+			    </li>
+	    
+			    <li>
+	    
+				    <a href="/en/modern-responsibility/mtg-united-for-peace/">MTG United for Peace</a>
+	    
+			    </li>
+	    
+			    <li>
+	    
+				    <a href="/en/modern-responsibility/reach-for-change/">Reach for Change</a>
+	    
+			    </li>
+	    
+			    <li>
+	    
+				    <a href="/en/modern-responsibility/events/">Activities</a>
+	    
+			    </li>
+	    
+		    </ul>
+	    
+			    </li>
+	    
+			    <li>
+	    
+                    <a class="topitem" href="/en/career/">Career</a>
+        
+		    <ul>
+	    
+			    <li>
+	    
+				    <a href="/en/career/who/">Find your career path at MTG</a>
+	    
+			    </li>
+	    
+			    <li>
+	    
+				    <a href="/en/career/be-a-key-player-for-our-team/">Be a key player for our team</a>
+	    
+			    </li>
+	    
+			    <li>
+	    
+				    <a href="/en/career/dare-to-be-different/">Dare to be different</a>
+	    
+			    </li>
+	    
+			    <li>
+	    
+				    <a href="/en/career/we-invest-in-our-people/">We invest in our people</a>
+	    
+			    </li>
+	    
+			    <li>
+	    
+				    <a href="/en/career/management-trainee-programme/">Management Trainee Programme</a>
+	    
+			    </li>
+	    
+			    <li>
+	    
+				    <a href="/en/career/careers/">Job opportunities</a>
+	    
+			    </li>
+	    
+		    </ul>
+	    
+			    </li>
+	    
+		    </ul>
+	    
+</div>
+            </div>
+            <div id="FooterArea">
+                <div>
+	<p>Modern Times Group MTG AB Box 2094 SE-103 13 Stockholm Sweden Visiting: Skeppsbron 18 Tel: +46 8 562 000 50</p>
+</div>
+
+
+            </div>
+            <div id="ModalContent" style="display: none">
+                <img class="loading" src="/templates/public/images/ajax-loader.gif" alt="Loading" />
+            </div>
+        </div>
+        <div id="tooltip">
+            <h4 class="learnmore"><a class="link">
+                Learn more about
+                <span></span></a></h4>
+            <div class="tooltip-middle">
+                <h3><a class="link"></a></h3>
+                <p></p>
+            </div>
+            <div class="tooltip-bottom"></div>
+        </div>
+        <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script>
+        <script type="text/javascript">
+            try {
+                var pageTracker = _gat._getTracker("UA-7427623-1");
+                pageTracker._trackPageview();
+            } catch (err) { }</script>
+
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+
+</body>
+</html>

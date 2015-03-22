@@ -1,0 +1,1231 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xml:lang="en" xmlns:ui="hbo.app.view.ui.components" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <META http-equiv="Content-Type" content="text/html; charset=utf-8">
+     <title>HBO: Movies: Home</title>
+    <meta name="description" content="The official website for HBO Movies, featuring videos, images, synopsis information, and schedules. ">
+
+    <meta name="keywords" content="HBO, HBO Movies, theatricals, hollywood hits, blockbusters, the buzz, Saturday night movies, new releases, classics">
+
+	<link rel="canonical" href="http://www.hbo.com/movies" />
+
+		
+			<meta id="meta-lite-url" href="http://m.hbo.com/404" />
+		<link rel="alternate" href="http://m.hbo.com/404" />
+	
+
+    <script type="text/javascript" src="/utils/js/hbo_scripts.js"></script>
+<script type="text/javascript" src="/utils/js/swfobject.js"></script>
+<script type="text/javascript" src="/utils/js/swfaddress.js"></script>
+<script type="text/javascript" src="/utils/js/flashscaler.js"></script>
+<script type="text/javascript" src="/utils/js/jquery/jquery-1.2.6.pack.js"></script>
+<script type="text/javascript" src="/utils/js/jquery/plugins/jquery.cookie.js"></script>
+<script type="text/javascript" src="/utils/js/jquery/ui/ui.core.js"></script>
+<script type="text/javascript" src="/utils/js/jquery/ui/ui.draggable.js"></script>
+<script type="text/javascript" src="/utils/js/CCJavaScript.js"></script>
+<script type="text/javascript" src="/utils/js/BrowserAndFlashCheck.js"></script>
+<script type="text/javascript" src="/utils/js/browser_messages.js"></script>
+
+<script type="text/javascript" src="/utils/js/redirect.js"></script>
+
+<script type="text/javascript" src="/html/js/s_code.js"></script>
+<script type="text/javascript" src="/html/js/survey.js"></script>
+<script type="text/javascript" charset="utf-8">
+
+var JQ = jQuery.noConflict();
+var data = {};
+// Omniture code
+var oPV = swfobject.getFlashPlayerVersion();
+s.prop29 = s.eVar29 = "flash " + oPV.major + "." +oPV.minor + "." + oPV.release;
+s.linkTrackVars="campaign,prop26,prop27,prop28,prop29,eVar26,eVar27,eVar28,eVar29,eVar39,eVar41,eVar43,eVar44";
+s.tl(this,'o','omniture init');
+// END - Omniture code
+
+</script>
+    <link rel="stylesheet" type="text/css" href="/html/css/overlay.css" />
+<link rel="stylesheet" type="text/css" href="/html/css/hbo-global-styles.css" />
+<!--[if IE]>
+<link href="/html/css/hbo-general-ie-styles.css" rel="stylesheet" type="text/css">
+<![endif]-->
+</head>
+<body>
+<div id="spacerId" class="spacer">
+    <noscript>
+           <div id="noscript">
+              Your Javascript is Turned off. You need Javascript to be turned to view this site.
+               <a href="/html/error/browser_error.html">Browsers</a>
+           </div>
+    </noscript>
+</div>
+<div id="scaler" class="hbo-dotcom-html">
+<div id="pageContent">
+<div id="flashMovie">Please update your flash player...</div>
+    <h1>Movies</h1>
+
+    <div id="panels">
+                <div class="panel">
+            <h2>
+            	
+	            	                	                    <a href="/movies/stoker">
+	                	                	Stoker
+	                </a>
+	                        </h2>
+
+            <p>Premieres December 7 at 8PM</p>
+            <p id="description"><P>An introverted girl dealing with her father's death turns down a dark, twisted path.</P></p>
+            			
+			                                                <a href="/movies/stoker">
+                						
+                                    <img src="http://i.lv3.hbo.com/assets/images/movies/home/stoker/stoker-450.jpg" alt=""/>
+                                             </a>
+                        
+			            
+			        </div>
+		
+		        
+                <div class="panel">
+            <h2>
+            	
+	            	                	                    <a href="/movies/beautiful-creatures">
+	                	                	Beautiful Creatures
+	                </a>
+	                        </h2>
+
+            <p>Now Airing</p>
+            <p id="description"><P>A small-town youth falls for a teenage witch as the powers of evil try to claim her in this supernatural drama.&nbsp;</P></p>
+            			
+			                                                <a href="/movies/beautiful-creatures">
+                						
+                                    <img src="http://i.lv3.hbo.com/assets/images/movies/home/beautiful-creatures/beautiful-creatures-450.jpg" alt=""/>
+                                             </a>
+                        
+			            
+			        </div>
+		
+		        
+                <div class="panel">
+            <h2>
+            	
+	            	                	                    <a href="/movies/identity-thief">
+	                	                	Identity Thief
+	                </a>
+	                        </h2>
+
+            <p>Now Airing</p>
+            <p id="description"><P>Average schnook Jason Bateman undertakes a mission to track down identity thief Melissa McCarthy in this outrageous comedy.&nbsp;</P></p>
+            			
+			                                                <a href="/movies/identity-thief">
+                						
+                                    <img src="http://i.lv3.hbo.com/assets/images/movies/home/identity-thief/identity-thief-450.jpg" alt=""/>
+                                             </a>
+                        
+			            
+			        </div>
+		
+		        
+                <div class="panel">
+            <h2>
+            	
+	            	                	                    <a href="/order-now|toolbar=1,status=1,scrollbars=0,resizable=1,width=992,height=655">
+	                	                	Don't Have HBO?
+	                </a>
+	                        </h2>
+
+            <p></p>
+            <p id="description"><P>Subscribe Now and watch acclaimed HBO Films as they air or anytime you like on HBO On Demand or HBO GO.</P></p>
+                        <div class="panel description">Get HBO Now</div>
+						
+			                                                <a href="/order-now|toolbar=1,status=1,scrollbars=0,resizable=1,width=992,height=655">
+                						
+                                    <img src="http://i.lv3.hbo.com/assets/images/movies/home/behind-the-candelabra/behind-the-candelabra-450.jpg" alt=""/>
+                                             </a>
+                        
+			            
+			        </div>
+		
+		        
+            </div>
+    <!--End div panels -->
+    <div id="talkItems">
+                <div class="talkItems item">
+            <p>Muhammad Ali's Greatest Fight</p>
+
+            <p></p>
+                            </div>
+                <div class="talkItems item">
+            <p>Mike Tyson: Undisputed Truth</p>
+
+            <p></p>
+                            </div>
+                <div class="talkItems item">
+            <p>The Girl</p>
+
+            <p></p>
+                            </div>
+                <div class="talkItems item">
+            <p>Too Big To Fail</p>
+
+            <p></p>
+                            </div>
+                <div class="talkItems item">
+            <p>Cinema Verite</p>
+
+            <p></p>
+                            </div>
+                <div class="talkItems item">
+            <p>Avatar's Lasting Impact</p>
+
+            <p></p>
+                            </div>
+                <div class="talkItems item">
+            <p>You Don't Know Jack</p>
+
+            <p></p>
+                            </div>
+                <div class="talkItems item">
+            <p>Taking Chance</p>
+
+            <p></p>
+                            </div>
+                <div class="talkItems item">
+            <p>Share Your Experience With Autism </p>
+
+            <p></p>
+                            </div>
+                <div class="talkItems item">
+            <p>Temple Grandin's Real Life Journey</p>
+
+            <p></p>
+                            </div>
+            </div>
+    <div id="features">
+                    <h3>Features</h3>
+                        <div class="features item">
+            <h4>Jack the Giant Slayer</h4>
+            <strong>Premieres December 14 at 8PM</strong>
+
+            <p><P>A farmhand leads the charge to save his kingdom's princess from a nasty race of giants.</P></p>
+                            <a href="/movies/jack-the-giant-slayer">                    
+            
+                                <img src="http://i.lv3.hbo.com/assets/images/movies/jack-the-giant-slayer/jack-the-giant-slayer-100.jpg" alt="Jack the Giant Slayer"/>
+                                Jack the Giant Slayer
+            </a>
+
+        </div>
+                <div class="features item">
+            <h4>Taken 2</h4>
+            <strong>Now Airing</strong>
+
+            <p><P>Retired CIA operative Liam Neeson must use every trick in his arsenal after he is 'taken' in this pulse-pounding sequel.</P></p>
+                            <a href="/movies/taken-2">                    
+            
+                                <img src="http://i.lv3.hbo.com/assets/images/movies/taken-2/taken-2-100.jpg" alt="Taken 2"/>
+                                Taken 2
+            </a>
+
+        </div>
+                <div class="features item">
+            <h4>Mike Tyson: Undisputed Truth</h4>
+            <strong>Now Airing</strong>
+
+            <p><P>Former heavyweight champion Mike Tyson and legendary filmmaker Spike Lee bring Tyson's one-man hit stage show to television in this exclusive HBO Films presentation.</P></p>
+                            <a href="/movies/mike-tyson-undisputed-truth">                    
+            
+                                <img src="http://i.lv3.hbo.com/assets/images/movies/mike-tyson-undisputed-truth/mike-tyson-undisputed-truth-100.jpg" alt="Mike Tyson: Undisputed Truth"/>
+                                Mike Tyson: Undisputed Truth
+            </a>
+
+        </div>
+                <div class="features item">
+            <h4>Muhammad Ali's Greatest Fight</h4>
+            <strong>Airing Now</strong>
+
+            <p><P>Looks at Muhammad Alis historic Supreme Court battle from behind closed doors.</P>
+<P>&nbsp;</P></p>
+                            <a href="/movies/muhammad-alis-greatest-fight">                    
+            
+                                <img src="http://i.lv3.hbo.com/assets/images/movies/muhammad-alis-greatest-fight/homepage/130927-muhammads-fight-frank-100.jpg" alt="Muhammad Ali's Greatest Fight"/>
+                                Muhammad Ali's Greatest Fight
+            </a>
+
+        </div>
+                <div class="features item">
+            <h4>Behind the Candelabra Wins 11 Emmys; HBO Picks Up 27 in All</h4>
+            <strong>HBO Films News</strong>
+
+            <p><P>The Academy of Television Arts and Sciences announced the winners of the 65th Primetime Emmy Awards this evening. HBO received 7 Emmys.</P></p>
+                            <a href="/movies/talk/news/behind-the-candelabra-wins-11-emmys-hbo-picks-up-27-in-all">                    
+            
+                                <img src="http://i.lv3.hbo.com/assets/images/movies/behind-the-candelabra/homepage/130421-behind-the-candelabra-michael-piano-100.jpg" alt="Behind the Candelabra Wins 11 Emmys; HBO Picks Up 27 in All"/>
+                                Behind the Candelabra Wins 11 Emmys; HBO Picks Up 27 in All
+            </a>
+
+        </div>
+                <div class="features item">
+            <h4>Clear History</h4>
+            <strong>Now Airing</strong>
+
+            <p><P>A new comedic original film starring Larry David (HBO's "Curb Your Enthusiasm").</P></p>
+                            <a href="/movies/clear-history">                    
+            
+                                <img src="http://i.lv3.hbo.com/assets/images/movies/clear-history/homepage/130707-clear-history-rolly-100.jpg" alt="Clear History"/>
+                                Clear History
+            </a>
+
+        </div>
+                <div class="features item">
+            <h4>Behind the Candelabra</h4>
+            <strong>Now Airing</strong>
+
+            <p><P>Before Elvis; before Elton John, Madonna, and Lady Gaga, there was Liberace.</P></p>
+                            <a href="/movies/behind-the-candelabra">                    
+            
+                                <img src="http://i.lv3.hbo.com/assets/images/movies/behind-the-candelabra/homepage/130504-behind-the-candelabra-liberace-piano-red-jacket-100.jpg" alt="Behind the Candelabra"/>
+                                Behind the Candelabra
+            </a>
+
+        </div>
+                <div class="features item">
+            <h4>Watch Now</h4>
+            <strong></strong>
+
+            <p><P>Watch&nbsp;The Hobbit: An Unexpected Journey&nbsp;and other hit movies&nbsp;on HBO GO.</P></p>
+                            <a href="http://www.hbogo.com/#movies/">
+            
+                                <img src="http://i.lv3.hbo.com/assets/images/movies/the-hobbit-an-unexpected-journey/the-hobbit-an-unexpected-journey-100.jpg" alt="Watch Now"/>
+                                Watch Now
+            </a>
+
+        </div>
+            </div>
+
+ 
+	 	
+	<h3></h3>
+   
+			  
+	 	 	
+		
+		<div class="goVideo item">
+            <h4>The Bourne Legacy</h4>
+
+            <a href="http://www.hbogo.com/?camp=GoS3#movies/video&assetID=GOROSTGP40746?videoMode=embeddedVideo/">
+                                <img src="http://i.hbo.lv3.hbogo.com/images/hbo/asset/726275/726275_1793898_120x68.jpg" alt="The Bourne Legacy"/>
+                                The Bourne Legacy
+            </a>
+
+        </div>
+	  	 	
+		
+		<div class="goVideo item">
+            <h4>The Descendants</h4>
+
+            <a href="http://www.hbogo.com/?camp=GoS3#movies/video&assetID=GOROSTGP38047?videoMode=embeddedVideo/">
+                                <img src="http://i.hbo.lv3.hbogo.com/images/hbo/asset/718556/718556_1474737_120x68.jpg" alt="The Descendants"/>
+                                The Descendants
+            </a>
+
+        </div>
+	  	 	
+		
+		<div class="goVideo item">
+            <h4>Cloud Atlas</h4>
+
+            <a href="http://www.hbogo.com/?camp=GoS3#movies/video&assetID=GOROSTGP41461?videoMode=embeddedVideo/">
+                                <img src="http://i.hbo.lv3.hbogo.com/images/hbo/asset/741944/741944_1855345_120x68.jpg" alt="Cloud Atlas"/>
+                                Cloud Atlas
+            </a>
+
+        </div>
+	  	 	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+			 			  			  
+			  
+			  			  
+			  				
+																			
+              <a href="video/index.html&categories=movies&type=full-length&isVideoPage=true&order=date-desc&limit=none">All Movies</a>
+
+			  	
+
+	
+
+
+  <div id="recaps">
+                    <h3>Clips & Photos</h3>
+        
+                <div class="recaps item">
+            <h4>Stoker</h4>
+
+            <p>Video Preview</p>
+
+            <p></p>
+            <a href="/movies/stoker/video/preview">
+                                <img src="http://i.lv3.hbo.com/assets/images/movies/stoker/video-stills/preview-615587-4_PRO1-100.jpg" alt="Stoker"/>
+                                Stoker
+            </a>
+
+        </div>
+                <div class="recaps item">
+            <h4>Jack the Giant Slayer</h4>
+
+            <p>Video Preview</p>
+
+            <p></p>
+            <a href="/movies/jack-the-giant-slayer/video/preview">
+                                <img src="http://i.lv3.hbo.com/assets/images/movies/jack-the-giant-slayer/video-stills/preview-619147-4_PRO1-100.jpg" alt="Jack the Giant Slayer"/>
+                                Jack the Giant Slayer
+            </a>
+
+        </div>
+            </div>
+    <div id="newsLetters">
+                     <h3>Newsletters</h3>
+                      <div id="newsLetter item">
+            <h4>Movies Newsletter</h4>
+            <p><P>Sign up now to get breaking news, fresh content and exclusive deals delivered to your inbox.</P></p>
+                            <a href="/movies/newsletter">Movies Newsletter</a>                    
+                     </div>   
+                    </div>
+    	<ul class="dockedBar">
+                <li><a href="/movies/index.html">Movies</a></li>
+                            				
+												
+                                <li><a href="/movies/catalog/index.html?limit=none">Films</a></li>
+                                                				
+												
+                                <li><a href="/movies/talk/index.html">Talk</a></li>
+                                                            <a href="http://store.hbo.com/?v=hbo_shows_programming_original-films&ecid=PRF-TV2-800895&PA=PRF-TV2-800895">Shop</a>
+                    	</ul>
+
+    <div id="header">
+    <ul>
+        <li>
+            <a href="/index.html" title="Home">Home</a>
+        </li>
+        <li>
+            <a href="/global/talk/index.html" title="Talk">Talk</a>
+        </li>
+        <li>
+            <a href="/video/index.html?isVideoPage=true&categories=series&order=date-desc&limit=none" title="Videos">Videos</a>
+        </li>
+        <li>
+            <a href="/explore-hbo/order-now.html" title="Order Now">Order Now</a>
+        </li>
+        <li>
+            <a href="http://store.hbo.com" title="Shop">Shop</a>
+        </li>
+        <li>
+            <a href="/about/index.html" title="About">About</a>
+        </li>
+        <li>
+            <a href="/schedule" title="Schedule">Schedule</a>
+        </li>
+        <li>
+            <a href="/schedule/on-demand" title="On Demand Schedule">On-demand Schedule</a>
+        </li>
+        <li>
+            <a href="/schedule/go" title="HBO Go Schedule">HBO Go Schedule</a>
+        </li>
+    </ul>
+</div>
+
+<div id="footer">
+    <ul>
+        <li>
+            &#169;2012 Home Box Office, Inc. All Rights Reserved. This website may contain mature content.
+        </li>
+        
+    </ul>
+</div>
+
+</div>
+</div>
+
+<script type="text/javascript">
+	// start popup blocker detector methods
+	
+	var PopupBlockerDetector = {
+	popupsEnabled : false,
+	externalResourceURL : "",
+	
+	handlePopupsEnabled : function()
+	{
+		this.popupsEnabled = true;		 
+	},
+	
+	popups_are_enabled : function()
+	{
+		return this.popupsEnabled;
+	},
+	resetDetector : function()
+	{
+		this.popupsEnabled = false;
+	},
+	getExternalResourceUrl : function() 
+	{
+		return this.externalResourceURL;
+	},
+	getSwfInstance : function(swfid) {
+		if (navigator.appName.indexOf("Microsoft") != -1) {
+	    		return window[swfid];
+	    	} else {
+	    		return document[swfid];
+	    	}
+	},
+	open_window : function()
+	{
+		var popup = window.open("/bin/html/popupdom.html");
+		
+			
+			
+			var on_load_test = function(){PopupBlockerDetector.notifySwf();};	
+			var timer = setTimeout(on_load_test, 3100); // this is the time to wait before calling the swf
+	},
+	notifySwf : function()
+	{
+		this.getSwfInstance('myContent').setPopUpsEnabled(this.popups_are_enabled());
+	}
+  };
+  
+  // this is the entry point
+  function openGoWin(url) {
+  	
+  	// reset the detection mechanism
+  	PopupBlockerDetector.resetDetector();
+  	// give it the url
+	PopupBlockerDetector.externalResourceURL = url;	
+	// tell it to open the window
+	PopupBlockerDetector.open_window();
+}
+	// end popup blocker detector methods
+    // start browser support methods
+    function checkAndPromptForBrowserOrFlashUpgrade(){
+        var cookieNameBrowser = "hbo.browser.upgrade";
+        var cookieNameFlash = "hbo.flash.upgrade";
+        if( (readCookie(cookieNameBrowser) == "ignore") || ( readCookie(cookieNameFlash) == "ignore") ){
+            return true;
+        }
+
+
+       if(flashSupported() && flashVersionGood()) {
+           if(browserVersionGood()){
+                return true;
+           } else {
+                window.location.href = '/html/error/browser_message_e.html?return=' + encodeOriginUrl();
+                return false;
+           }
+       } else {
+           if(browserVersionGood() ) {
+                window.location.href = '/html/error/browser_message_a.html?return=' + encodeOriginUrl();
+                return false;
+            } else {
+                window.location.href = '/html/error/browser_message_b.html?return=' + encodeOriginUrl();
+                return false;
+            }
+       }
+
+        return false;
+    }
+
+    function flashSupported(){
+        if(FlashCheck.installed && FlashCheck.versionAtLeast(10, 2, 159)){
+            return true;
+        }
+        return false;
+    }
+
+    function flashVersionGood(){
+        if(FlashCheck.major >= 10){
+            return true;
+        }else{
+            return false;
+        }
+    }
+
+    function browserSupported(browserName){
+        var supported = false;
+        var supportedBrowsersOnPC = ['Microsoft Internet Explorer', 'Chrome', 'Firefox'];
+        var supportedBrowsersOnMac = ['Firefox', 'Safari', 'Chrome'];
+
+        if(isMac()){
+            for(var i=0; i<supportedBrowsersOnMac.length; i++){
+                if(browserName == supportedBrowsersOnMac[i]){
+                    supported = true;
+                    break;
+                }
+            }
+        }else{
+            for(var i=0; i<supportedBrowsersOnPC.length; i++){
+                if(browserName == supportedBrowsersOnPC[i]){
+                    supported = true;
+                    break;
+                }
+            }
+        }
+        return supported;
+    }
+
+    function olderBrowserUnsupported(){
+            var unsupported = false;
+            var bname = getBrowserName();
+            if(bname == 'Microsoft Internet Explorer' && getBrowserMajorVersion() < 6){
+                unsupported = true;
+            }
+            return unsupported;
+    }
+
+    function browserVersionGood(){
+        versionGood = false;
+        bname = getBrowserName();
+        if(!browserSupported(bname)){
+            return false;
+        }
+        if(bname == 'Microsoft Internet Explorer' && getBrowserMajorVersion() >= 7){
+                versionGood = true;
+        }else if(bname == 'Firefox' && getBrowserMajorVersion() >= 4){
+            // navigator.appVersion has some text after the version string, so strip out the extra text
+            var versionString = navigator.appVersion;
+            var spacePosition = navigator.appVersion.indexOf(" ");
+            if(spacePosition > 0) {
+                versionString = navigator.appVersion.substring(0, spacePosition);
+            }
+
+            if(firefoxVersionGood(versionString)) {
+                 versionGood = true;
+            }
+        }else if(bname == 'Chrome' && getBrowserMajorVersion() >= 4){
+                 versionGood = true;
+        }else if(bname == 'Safari' && getBrowserMajorVersion() >= 530 ){
+                 versionGood = true;
+        }
+        return versionGood;
+    }
+    function firefoxVersionGood(browserVersion) {
+        return versionCmp(browserVersion, 4.0);
+    }
+
+    function versionCmp(v1, v2) {
+        v1 = String(v1).split('.');
+        v2 = String(v2).split('.');
+        var diff = 0;
+        while((v1.length || v2.length) && !diff) {
+            // as soon as its not zero, it breaks the loop condition
+            diff = (+v1.shift() || 0) - (+v2.shift() || 0);
+        }
+        return (diff > 0) - (diff < 0);
+    }
+    // end browser support methods
+    
+	if (checkAndPromptForBrowserOrFlashUpgrade())
+    {
+		//parseUrlAndReplaceCurrentUrl();
+        renderFlash();
+
+
+    }
+ 	
+  function parseUrlAndReplaceCurrentUrl()
+  {
+  		 var isUrlChanged= false;
+     	 var url = window.location.href;
+    	 if(url.indexOf("?") != -1){
+         	url = url.replace("?", "&");
+    		isUrlChanged= true;
+    	 }
+    	 if(url.indexOf(".com/video/") != -1){
+    		url = url.replace(".com/video/", ".com/#/video/");
+    		isUrlChanged= true;
+    	 }
+    	 if( isUrlChanged== true)
+    	 {
+    	 	window.location.assign(url);
+    	 }	 
+  }	
+ 
+ function renderFlash()
+    {
+             var flashvars = {configDir: "/bin/web/assets/config/prod/", configDirNoEnv:"/config/"};
+            
+        var params = {wmode:'opaque', align:'top', scale:'noscale', bgcolor:'#000000', allowFullScreen:'true', allowScriptAccess:'always', base:'/bin/web'};
+        var attributes = {id: 'myContent',name:'myContent'};
+        swfobject.embedSWF("/bin/SiteMain.swf", "pageContent", "100%", "100%", "10.2.159.1", "utils/flash/expressInstall.swf", flashvars, params, attributes);
+       // if (!swfobject.hasFlashPlayerVersion("9.0.124"))
+       // {
+       //     window.location = '/html/error/browser_error.html';
+       // }
+        JQ(".spacer").css("display", "none");
+    }
+	
+   
+</script>
+<script type="text/javascript">
+    scale = new FlashScaler("scaler", 980, 600);
+</script>
+<script type="text/javascript" src="/utils/js/swfwheel.js"></script>
+
+<div id="popupContact">
+    <div id="survey-box-top"></div>
+    <div id="survey-box">
+        <div id="close-btn"><a href="#" onclick="javascript:disablePopup();return false;">Close</a></div>
+        <div id="survey-copy">
+            <h1>Are you an HBO GO Subscriber?</h1>
+            <p>Tell us what you think about HBO GO. Sign up now to participate in the HBO GO Advisory Panel to share your opinions and for a chance to be entered into HBO sweepstakes and contests.</p>            
+        </div>
+        <ul class="buttons">
+            <li><a href="#" onclick="javascript:disablePopup();return false;">No Thanks</a></li>
+            <li><a id="survey-url" target="_blank" onclick="javascript:disablePopup();"><script>document.write('<img src="/custom-assets/img/button-take-survey.png" alt="Take Survey" border="0" />');</script></a></li>
+        </ul>
+    </div>
+    <div id="survey-box-btm"></div>
+</div>
+<div id="backgroundPopup"></div>
+
+<script type="text/javascript">
+   /* geoFilter Value = n */ 
+   var survey = document.getElementById('survey-url');
+   survey.href = 'http://www.hbo.com';
+   if (survey_url)
+   {
+        survey.href = survey_url;
+   }
+</script>
+
+</body>
+</html>

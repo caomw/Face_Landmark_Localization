@@ -1,0 +1,32 @@
+In file included from MyTesting.h:42:0,
+                 from MyTraining.h:1,
+                 from main.cpp:1:
+visualization.h: In static member function ‘static cv::Mat Visualization::overlayDetectedFidsImage(cv::Mat, std::vector<DetecetedPoint>&, bool)’:
+visualization.h:134:42: warning: use of ‘ll’ length modifier with ‘f’ type character [-Wformat=]
+     sprintf(number,"%0.2llf", res[j].prob);
+                                          ^
+In file included from MyTraining.h:1:0,
+                 from main.cpp:1:
+MyTesting.h: In static member function ‘static void Testing::testFids(std::string, std::string, int)’:
+MyTesting.h:769:67: warning: use of ‘ll’ length modifier with ‘f’ type character [-Wformat=]
+      printf ("\nTime seconds.%s = %llf seconds\n",imgfile, seconds);
+                                                                   ^
+In file included from main.cpp:2:0:
+MyGa.h: In member function ‘Candidate GA::run_GA(int, double, double)’:
+MyGa.h:1568:48: warning: use of ‘ll’ length modifier with ‘f’ type character [-Wformat=]
+        next(pop.begin(), j)->second.fit, cd.fit);
+                                                ^
+MyGa.h:1568:48: warning: use of ‘ll’ length modifier with ‘f’ type character [-Wformat=]
+MyGa.h:1568:48: warning: use of ‘ll’ length modifier with ‘f’ type character [-Wformat=]
+MyGa.h: In member function ‘std::string GA::testLFPW(std::string, std::string, std::string, int, int, double, double, int, int)’:
+MyGa.h:1760:66: warning: use of ‘ll’ length modifier with ‘f’ type character [-Wformat=]
+     printf ("\nTime seconds.%s = %llf seconds\n",imgfile, seconds);
+                                                                  ^
+MyGa.h: In member function ‘void GA::testHelen(std::string, std::string, std::string, int, int)’:
+MyGa.h:1809:66: warning: use of ‘ll’ length modifier with ‘f’ type character [-Wformat=]
+     printf ("\nTime seconds.%s = %llf seconds\n",imgfile, seconds);
+                                                                  ^
+MyGa.h: In member function ‘void GA::testBioID(std::string, std::string, std::string, int, int)’:
+MyGa.h:1888:66: warning: use of ‘ll’ length modifier with ‘f’ type character [-Wformat=]
+     printf ("\nTime seconds.%s = %llf seconds\n",imgfile, seconds);
+                                                                  ^

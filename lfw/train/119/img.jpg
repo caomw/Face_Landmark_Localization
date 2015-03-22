@@ -1,0 +1,407 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xml:lang="en" xmlns:ui="hbo.app.view.ui.components" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <META http-equiv="Content-Type" content="text/html; charset=utf-8">
+     <title>HBO: Talk: Home</title>
+    <meta name="description" content="The official forums for HBO, featuring message boards and discussion threads. ">
+
+    <meta name="keywords" content="HBO, community, message boards, forums, discussions, feedback, frequently asked questions">
+
+	<link rel="canonical" href="http://www.hbo.com/global/talk.html" />
+
+		
+			<meta id="meta-lite-url" href="http://m.hbo.com/404" />
+		<link rel="alternate" href="http://m.hbo.com/404" />
+	
+
+    <script type="text/javascript" src="/utils/js/hbo_scripts.js"></script>
+<script type="text/javascript" src="/utils/js/swfobject.js"></script>
+<script type="text/javascript" src="/utils/js/swfaddress.js"></script>
+<script type="text/javascript" src="/utils/js/flashscaler.js"></script>
+<script type="text/javascript" src="/utils/js/jquery/jquery-1.2.6.pack.js"></script>
+<script type="text/javascript" src="/utils/js/jquery/plugins/jquery.cookie.js"></script>
+<script type="text/javascript" src="/utils/js/jquery/ui/ui.core.js"></script>
+<script type="text/javascript" src="/utils/js/jquery/ui/ui.draggable.js"></script>
+<script type="text/javascript" src="/utils/js/CCJavaScript.js"></script>
+<script type="text/javascript" src="/utils/js/BrowserAndFlashCheck.js"></script>
+<script type="text/javascript" src="/utils/js/browser_messages.js"></script>
+
+<script type="text/javascript" src="/utils/js/redirect.js"></script>
+
+<script type="text/javascript" src="/html/js/s_code.js"></script>
+<script type="text/javascript" src="/html/js/survey.js"></script>
+<script type="text/javascript" charset="utf-8">
+
+var JQ = jQuery.noConflict();
+var data = {};
+// Omniture code
+var oPV = swfobject.getFlashPlayerVersion();
+s.prop29 = s.eVar29 = "flash " + oPV.major + "." +oPV.minor + "." + oPV.release;
+s.linkTrackVars="campaign,prop26,prop27,prop28,prop29,eVar26,eVar27,eVar28,eVar29,eVar39,eVar41,eVar43,eVar44";
+s.tl(this,'o','omniture init');
+// END - Omniture code
+
+</script>
+    <link rel="stylesheet" type="text/css" href="/html/css/overlay.css" />
+<link rel="stylesheet" type="text/css" href="/html/css/hbo-global-styles.css" />
+<!--[if IE]>
+<link href="/html/css/hbo-general-ie-styles.css" rel="stylesheet" type="text/css">
+<![endif]-->
+    <script type="text/javascript">
+
+	
+        function showSurveyPopup() {
+            var cookieValue = JQ.cookie("hbo.survey.cookie");
+            var checkSurveyCookie = true;
+            var randomNumber = Math.floor(Math.random()*1001);
+            var checkSurveyUser = (randomNumber < (survey_percentage * 10) );
+
+            if (cookieValue)
+            {
+                // debugger;
+                if (cookieValue == survey_cookie__value)
+                    checkSurveyCookie = false;
+            }
+
+            if (enable_flag && checkSurveyCookie && checkSurveyUser)
+            {
+                if (expiresDays && expiresDays > 0)
+                {
+                setTimeout("centerPopup();loadPopup()", survey_delay_seconds)
+                // adds cookie
+                JQ.cookie("hbo.survey.cookie", survey_cookie__value, { expires: expiresDays });
+                }
+            }
+        }
+
+
+
+    </script>
+</head>
+<body>
+<div id='spacerId' class="spacer">
+    <noscript>
+           <div id="noscript">
+              Your Javascript is Turned off. You need Javascript to be turned to view this site.
+               <a href="/html/error/browser_error.html">Browsers</a>
+           </div>
+    </noscript>
+</div>
+
+<div id="scaler" class="hbo-dotcom-html">
+<div id="pageContent">
+    <div id="globalNavigator">
+	<ul>
+		</ul>
+</div>
+
+
+    
+
+
+    <br/>
+
+<div id="home-panels">
+    <ul>
+        </ul>
+</div>
+
+    <div id="header">
+    <ul>
+        <li>
+            <a href="/index.html" title="Home">Home</a>
+        </li>
+        <li>
+            <a href="/global/talk/index.html" title="Talk">Talk</a>
+        </li>
+        <li>
+            <a href="/video/index.html?isVideoPage=true&categories=series&order=date-desc&limit=none" title="Videos">Videos</a>
+        </li>
+        <li>
+            <a href="/explore-hbo/order-now.html" title="Order Now">Order Now</a>
+        </li>
+        <li>
+            <a href="http://store.hbo.com" title="Shop">Shop</a>
+        </li>
+        <li>
+            <a href="/about/index.html" title="About">About</a>
+        </li>
+        <li>
+            <a href="/schedule" title="Schedule">Schedule</a>
+        </li>
+        <li>
+            <a href="/schedule/on-demand" title="On Demand Schedule">On-demand Schedule</a>
+        </li>
+        <li>
+            <a href="/schedule/go" title="HBO Go Schedule">HBO Go Schedule</a>
+        </li>
+    </ul>
+</div>
+
+<div id="footer">
+    <ul>
+        <li>
+            &#169;2012 Home Box Office, Inc. All Rights Reserved. This website may contain mature content.
+        </li>
+        
+    </ul>
+</div>
+</div>
+</div>
+
+<script type="text/javascript">
+	// start popup blocker detector methods
+	
+	var PopupBlockerDetector = {
+	popupsEnabled : false,
+	externalResourceURL : "",
+	
+	handlePopupsEnabled : function()
+	{
+		this.popupsEnabled = true;		 
+	},
+	
+	popups_are_enabled : function()
+	{
+		return this.popupsEnabled;
+	},
+	resetDetector : function()
+	{
+		this.popupsEnabled = false;
+	},
+	getExternalResourceUrl : function() 
+	{
+		return this.externalResourceURL;
+	},
+	getSwfInstance : function(swfid) {
+		if (navigator.appName.indexOf("Microsoft") != -1) {
+	    		return window[swfid];
+	    	} else {
+	    		return document[swfid];
+	    	}
+	},
+	open_window : function()
+	{
+		var popup = window.open("/bin/html/popupdom.html");
+		
+			
+			
+			var on_load_test = function(){PopupBlockerDetector.notifySwf();};	
+			var timer = setTimeout(on_load_test, 3100); // this is the time to wait before calling the swf
+	},
+	notifySwf : function()
+	{
+		this.getSwfInstance('myContent').setPopUpsEnabled(this.popups_are_enabled());
+	}
+  };
+  
+  // this is the entry point
+  function openGoWin(url) {
+  	
+  	// reset the detection mechanism
+  	PopupBlockerDetector.resetDetector();
+  	// give it the url
+	PopupBlockerDetector.externalResourceURL = url;	
+	// tell it to open the window
+	PopupBlockerDetector.open_window();
+}
+	// end popup blocker detector methods
+    // start browser support methods
+    function checkAndPromptForBrowserOrFlashUpgrade(){
+        var cookieNameBrowser = "hbo.browser.upgrade";
+        var cookieNameFlash = "hbo.flash.upgrade";
+        if( (readCookie(cookieNameBrowser) == "ignore") || ( readCookie(cookieNameFlash) == "ignore") ){
+            return true;
+        }
+
+
+       if(flashSupported() && flashVersionGood()) {
+           if(browserVersionGood()){
+                return true;
+           } else {
+                window.location.href = '/html/error/browser_message_e.html?return=' + encodeOriginUrl();
+                return false;
+           }
+       } else {
+           if(browserVersionGood() ) {
+                window.location.href = '/html/error/browser_message_a.html?return=' + encodeOriginUrl();
+                return false;
+            } else {
+                window.location.href = '/html/error/browser_message_b.html?return=' + encodeOriginUrl();
+                return false;
+            }
+       }
+
+        return false;
+    }
+
+    function flashSupported(){
+        if(FlashCheck.installed && FlashCheck.versionAtLeast(10, 2, 159)){
+            return true;
+        }
+        return false;
+    }
+
+    function flashVersionGood(){
+        if(FlashCheck.major >= 10){
+            return true;
+        }else{
+            return false;
+        }
+    }
+
+    function browserSupported(browserName){
+        var supported = false;
+        var supportedBrowsersOnPC = ['Microsoft Internet Explorer', 'Chrome', 'Firefox'];
+        var supportedBrowsersOnMac = ['Firefox', 'Safari', 'Chrome'];
+
+        if(isMac()){
+            for(var i=0; i<supportedBrowsersOnMac.length; i++){
+                if(browserName == supportedBrowsersOnMac[i]){
+                    supported = true;
+                    break;
+                }
+            }
+        }else{
+            for(var i=0; i<supportedBrowsersOnPC.length; i++){
+                if(browserName == supportedBrowsersOnPC[i]){
+                    supported = true;
+                    break;
+                }
+            }
+        }
+        return supported;
+    }
+
+    function olderBrowserUnsupported(){
+            var unsupported = false;
+            var bname = getBrowserName();
+            if(bname == 'Microsoft Internet Explorer' && getBrowserMajorVersion() < 6){
+                unsupported = true;
+            }
+            return unsupported;
+    }
+
+    function browserVersionGood(){
+        versionGood = false;
+        bname = getBrowserName();
+        if(!browserSupported(bname)){
+            return false;
+        }
+        if(bname == 'Microsoft Internet Explorer' && getBrowserMajorVersion() >= 7){
+                versionGood = true;
+        }else if(bname == 'Firefox' && getBrowserMajorVersion() >= 4){
+            // navigator.appVersion has some text after the version string, so strip out the extra text
+            var versionString = navigator.appVersion;
+            var spacePosition = navigator.appVersion.indexOf(" ");
+            if(spacePosition > 0) {
+                versionString = navigator.appVersion.substring(0, spacePosition);
+            }
+
+            if(firefoxVersionGood(versionString)) {
+                 versionGood = true;
+            }
+        }else if(bname == 'Chrome' && getBrowserMajorVersion() >= 4){
+                 versionGood = true;
+        }else if(bname == 'Safari' && getBrowserMajorVersion() >= 530 ){
+                 versionGood = true;
+        }
+        return versionGood;
+    }
+    function firefoxVersionGood(browserVersion) {
+        return versionCmp(browserVersion, 4.0);
+    }
+
+    function versionCmp(v1, v2) {
+        v1 = String(v1).split('.');
+        v2 = String(v2).split('.');
+        var diff = 0;
+        while((v1.length || v2.length) && !diff) {
+            // as soon as its not zero, it breaks the loop condition
+            diff = (+v1.shift() || 0) - (+v2.shift() || 0);
+        }
+        return (diff > 0) - (diff < 0);
+    }
+    // end browser support methods
+    
+	if (checkAndPromptForBrowserOrFlashUpgrade())
+    {
+		//parseUrlAndReplaceCurrentUrl();
+        renderFlash();
+
+
+    }
+ 	
+  function parseUrlAndReplaceCurrentUrl()
+  {
+  		 var isUrlChanged= false;
+     	 var url = window.location.href;
+    	 if(url.indexOf("?") != -1){
+         	url = url.replace("?", "&");
+    		isUrlChanged= true;
+    	 }
+    	 if(url.indexOf(".com/video/") != -1){
+    		url = url.replace(".com/video/", ".com/#/video/");
+    		isUrlChanged= true;
+    	 }
+    	 if( isUrlChanged== true)
+    	 {
+    	 	window.location.assign(url);
+    	 }	 
+  }	
+ 
+ function renderFlash()
+    {
+             var flashvars = {configDir: "/bin/web/assets/config/prod/", configDirNoEnv:"/config/"};
+            
+        var params = {wmode:'opaque', align:'top', scale:'noscale', bgcolor:'#000000', allowFullScreen:'true', allowScriptAccess:'always', base:'/bin/web'};
+        var attributes = {id: 'myContent',name:'myContent'};
+        swfobject.embedSWF("/bin/SiteMain.swf", "pageContent", "100%", "100%", "10.2.159.1", "utils/flash/expressInstall.swf", flashvars, params, attributes);
+       // if (!swfobject.hasFlashPlayerVersion("9.0.124"))
+       // {
+       //     window.location = '/html/error/browser_error.html';
+       // }
+        JQ(".spacer").css("display", "none");
+    }
+	
+   
+</script>
+<script type="text/javascript">
+    scale = new FlashScaler("scaler", 980, 600);
+</script>
+<script type="text/javascript" src="/utils/js/swfwheel.js"></script>
+
+<div id="popupContact">
+    <div id="survey-box-top"></div>
+    <div id="survey-box">
+        <div id="close-btn"><a href="#" onclick="javascript:disablePopup();return false;">Close</a></div>
+        <div id="survey-copy">
+            <h1>Are you an HBO GO Subscriber?</h1>
+            <p>Tell us what you think about HBO GO. Sign up now to participate in the HBO GO Advisory Panel to share your opinions and for a chance to be entered into HBO sweepstakes and contests.</p>            
+        </div>
+        <ul class="buttons">
+            <li><a href="#" onclick="javascript:disablePopup();return false;">No Thanks</a></li>
+            <li><a id="survey-url" target="_blank" onclick="javascript:disablePopup();"><script>document.write('<img src="/custom-assets/img/button-take-survey.png" alt="Take Survey" border="0" />');</script></a></li>
+        </ul>
+    </div>
+    <div id="survey-box-btm"></div>
+</div>
+<div id="backgroundPopup"></div>
+
+<script type="text/javascript">
+   /* geoFilter Value = n */ 
+   var survey = document.getElementById('survey-url');
+   survey.href = 'http://www.hbo.com';
+   if (survey_url)
+   {
+        survey.href = survey_url;
+   }
+</script>
+
+
+<script type="text/javascript">
+showSurveyPopup();
+</script>
+</body>
+</html>

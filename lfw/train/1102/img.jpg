@@ -1,0 +1,1283 @@
+
+		
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<title>Blogamole</title>
+<meta charset="UTF-8" />
+<meta name="mtvn_pb" content="Blogamole" />
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" href="http://blogamole.tr3s.com/wp-content/themes/blogamole/style.css" />
+<link rel="pingback" href="http://blogamole.tr3s.com/xmlrpc.php" />
+
+
+<script type="text/javascript" src="http://www.tr3s.com/scripts/jquery/jquery-1.7.min.js"></script>
+<script type="text/javascript" src="http://www.tr3s.com/scripts/jquery/jquery.cookies.2.2.0.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */ var isIE6 = false, isIE7 = false;
+/* ]]> */
+</script>
+<!--[if lt IE 7 ]>
+<script type="text/javascript">
+/* <![CDATA[ */ isIE6 = true;
+/* ]]> */
+</script>
+<![endif]-->
+<!--[if IE 7]>
+<script type="text/javascript">
+/* <![CDATA[ */ isIE7 = true;
+/* ]]> */
+</script>
+<![endif]-->
+<script type="text/javascript">
+/* <![CDATA[ */
+var localHatTotal = 3;
+var FluxCommentFocus = false;
+var adRegion = "dev";
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.tr3s.com/scripts/global_2011_11_21.js" charset="utf-8"></script>
+<script type="text/javascript">
+/* <![CDATA[ */ MTVNI.Global.ord = generateOrd();
+/* ]]> */
+</script>
+
+<script type="text/javascript" src="http://www.tr3s.com/scripts/sm4/SocialMedia4Config.js"></script>
+<script type="text/javascript" src="http://www.tr3s.com/scripts/yepnope/yepnope.min.js"></script>
+<script type="text/javascript" src="http://www.tr3s.com/scripts/sm4/loadSm4.js"></script>
+<script type="text/javascript" src="http://www.tr3s.com/scripts/jquery/jquery-ui-1.8.2.custom.min.js"></script>
+
+<script type="text/javascript">
+	/* <![CDATA[ */
+	jQuery(document).ready(function() {
+		jQuery(".sm4Widget").sm4();
+
+		jQuery('.entry-content img.tfe, .entry-summary img.tfe').each(function() {
+			var PostParent = jQuery(this).parent('div');
+			jQuery(this).appendTo(PostParent);
+		});
+
+		jQuery('.home-entry p:first-child').css({"display":"none"});
+	});
+	/* ]]> */
+</script>
+
+
+</head>
+
+<body  id="homebody">
+
+<script type="text/javascript" src="http://widgets3.flux-staging.com/Loader" id="FEF7FFFF009993DA0002FFFFF7FE"></script>
+<script src="http://widgets3.flux-staging.com/context/short/FEF7FFFF009993DA0002FFFFF7FE" type="text/javascript"></script>
+<script type="text/javascript" src="http://cus.flux-staging.com/api/ContextService/Context?communityUcid=FEF7FFFF009993DA0002FFFFF7FE"></script>
+<script type="text/javascript">
+/* <![CDATA[ */ var MTVNI = window.MTVNI || {};
+MTVNI.utils = MTVNI.utils || {};
+MTVNI.utils.static = jQuery('body').hasClass('static');
+if(!MTVNI.utils.static){
+if(typeof MTVNI.Global.hatTrick == "function") MTVNI.Global.hatTrick();
+}
+/* ]]> */
+</script>
+
+<div class="sm4Widget" data-widget="userBar" data-contentUri="FEF7FFFF009993DA0002FFFFF7FE"></div>
+<script type="text/javascript">
+  if(typeof Community != "undefined" && typeof Community.Page != "undefined"){ Community.Page.init(); }
+</script>
+
+<div id="wrapper" class="hfeed">
+	<div id="header">
+		<div id="masthead">
+        <div id="siteheader">
+	<div id="personalizationBar" class="clearAfter">
+		<!-- Template Start: Personalization Master null -->
+		<!-- Zone Start: Personalization[fluxnav] -->
+		<div id="loginWidget" class="sm4Widget flux4Widget flux4" data-widget="userBarTop">
+			<div class="userBar"></div>
+		</div>
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			var FluxAuthenticationWidget = {
+				createSignInWidget : function() {
+					Flux.createWidget('Authentication', {
+						fluxHosted : true
+					}, function(authenticationWidget) {
+						authenticationWidget.showSignInForm();
+					});
+				},
+				createSignUpWidget : function() {
+					Flux.createWidget('Authentication', {
+						fluxHosted : true
+					}, function(authenticationWidget) {
+						authenticationWidget.showSignUpForm();
+					});
+				},
+				createInterimWidget : function() {
+					Flux.createWidget('Authentication', {
+						fluxHosted : true
+					}, function(authenticationWidget) {
+						authenticationWidget.showInterimForm();
+					});
+				}
+			}
+			/* ]]> */
+		</script>
+		<!-- Zone End: Personalization[fluxnav] -->
+		<!-- Template End: Personalization Master null -->
+	</div>
+	<div id="socialUtilitiesBar" class="clearAfter">
+		<!-- Template Start: SocialUtilities Master null -->
+		<!-- Zone Start: SocialUtilities[Row] -->
+		<div class="advertorial ">
+			<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Ftr3s&amp;locale=en_US&amp;send=false&amp;layout=button_count&amp;width=80&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21&amp;appId=312667285482043" scrolling="No" frameborder="0" style="border:none; overflow:hidden; width:80px; height:21px;" allowtransparency="true"></iframe>
+		</div>
+		<div class="advertorial ">
+			<iframe allowtransparency="true" frameborder="0" scrolling="No" src="http://platform.twitter.com/widgets/follow_button.1340179658.html#_=1343053532550&amp;id=twitter-widget-0&amp;lang=en&amp;screen_name=Tr3s&amp;show_count=false&amp;show_screen_name=true&amp;size=m" class="twitter-follow-button" style="width: 105px; height: 20px; " title="Twitter Follow Button"></iframe>
+			<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+		</div>
+		<div class="advertorial ">
+			<!-- Place this anchor tag where you want the button to go -->
+			<div id="fourSq_widget_id_1343053533185_0_920" style="border: none; overflow: hidden; display: block; cursor: pointer; position: relative; height: 20px; width: 64px; ">
+				<a style="border: none; overflow: hidden; display: block; cursor: pointer; position: relative; height: 20px; width: 64px; background-image: url(http://platform.foursquare.com/img/like.png); background-attachment: scroll; background-color: transparent; background-position: 0px 0px; background-repeat: no-repeat no-repeat; "></a>
+			</div>
+			<!-- Place this script somewhere after the anchor tag above. If you have multiple buttons, only include the script once. -->
+			<script type="text/javascript">
+				(function() {
+					window.___fourSq = {};
+					var s = document.createElement('script');
+					s.type = 'text/javascript';
+					s.src = 'http://platform.foursquare.com/js/widgets.js';
+					s.async = true;
+					var ph = document.getElementsByTagName('script')[0];
+					ph.parentNode.insertBefore(s, ph);
+				})();
+			</script>
+		</div>
+
+		<div class="advertorial ">
+			<a href="http://instagram.com/mtv3" target="_blank" class="followgramlink"><img src="/wp-content/themes/blogamole/images/instagram_mtv3.png" alt="Follow @mtv3 on Instagram" /></a>
+		</div>
+
+		<!-- Zone End: SocialUtilities[Row] -->
+		<!-- Template End: SocialUtilities Master null -->
+	</div>
+	<div id="expandedNav" class="navWrap clearAfter">
+		<!-- Template Start: ExpandedNavComposed Master null -->
+		<!-- Zone Start: ExpandedNavComposed[navLogo] -->
+		<div id="navLogo">
+			<h1 id="headerTagLine"><a href="http://www.tr3s.com" title="MTV: Home">Latin Music, M&uacute;sica Latina, Live Performances, Videos en Vivo, Photos, Fotos, Shows | Tr3s</a></h1>
+		</div>
+		<!-- Zone End: ExpandedNavComposed[navLogo] -->
+		<!-- Zone Start: ExpandedNavComposed[navExpanded] -->
+		<ul id="topnavLinks">
+			<li class="first">
+				<a href="http://www.tr3s.com/versus/">Versus</a>
+			</li>
+			<li class="">
+				<a href="http://www.tr3s.com/photos/">Photos</a>
+			</li>
+			<li class="">
+				<a href="http://www.tr3s.com/watchvideos/">Videos</a>
+			</li>
+			<li class="">
+				<a href="http://network.blogamole.com/">Blogamole Network</a>
+			</li>
+		</ul>
+
+		<ul id='navlist'><li id='n-music' class='toplvl'><a href='http://www.tr3s.com/music/' class='n-link'>Music</a><ul class='gridContainer' style='z-index:99999;'><li><div class='grid columns-6'><ul class='gridMain' ><li><a href='http://www.tr3s.com/music/'>Music Main</a></li><li><a href='http://www.tr3s.com/watchvideos/'>Music Videos</a></li><li><a href='http://www.tr3s.com/music/artists/browse/'>All Artists</a></li><li><a href='http://blogamole.tr3s.com/category/musica/'>Music News</a></li><li class="gridMainBrowseAll"><p class="alpha-list"> <span class="alphaHeader">Browse Artists</span> <a href="http://www.tr3s.com/music/artists/browse/a/" class="">A</a> <a href="http://www.tr3s.com/music/artists/browse/b/" class="">B</a> <a href="http://www.tr3s.com/music/artists/browse/c/" class="">C</a> <a href="http://www.tr3s.com/music/artists/browse/d/" class="">D</a> <a href="http://www.tr3s.com/music/artists/browse/e/" class="">E</a> <a href="http://www.tr3s.com/music/artists/browse/f/" class="">F</a> <a href="http://www.tr3s.com/music/artists/browse/g/" class="">G</a> <a href="http://www.tr3s.com/music/artists/browse/h/" class="">H</a> <a href="http://www.tr3s.com/music/artists/browse/i/" class="">I</a> <a href="http://www.tr3s.com/music/artists/browse/j/" class="">J</a> <a href="http://www.tr3s.com/music/artists/browse/k/" class="">K</a> <a href="http://www.tr3s.com/music/artists/browse/l/" class="">L</a> <a href="http://www.tr3s.com/music/artists/browse/m/" class="">M</a> <a href="http://www.tr3s.com/music/artists/browse/n/" class="">N</a> <a href="http://www.tr3s.com/music/artists/browse/o/" class="">O</a> <a href="http://www.tr3s.com/music/artists/browse/p/" class="">P</a> <a href="http://www.tr3s.com/music/artists/browse/q/" class="">Q</a> <a href="http://www.tr3s.com/music/artists/browse/r/" class="">R</a> <a href="http://www.tr3s.com/music/artists/browse/s/" class="">S</a> <a href="http://www.tr3s.com/music/artists/browse/t/" class="">T</a> <a href="http://www.tr3s.com/music/artists/browse/u/" class="">U</a> <a href="http://www.tr3s.com/music/artists/browse/v/" class="">V</a> <a href="http://www.tr3s.com/music/artists/browse/w/" class="">W</a> <a href="http://www.tr3s.com/music/artists/browse/x/" class="">X</a> <a href="http://www.tr3s.com/music/artists/browse/y/" class="">Y</a> <a href="http://www.tr3s.com/music/artists/browse/z/" class="">Z</a> <a href="http://www.tr3s.com/music/artists/browse/0/">#</a> </p></li></ul><ul class='centerCol' ><li class='first'><span>Videos</span></li><li class='0'><a href='http://www.tr3s.com/watchvideos/'>Music Videos</a></li><li class='0'><a href='http://www.tr3s.com/music/videos/browse/'>Latest Music Videos</a></li><li class='0'><a href='http://www.tr3s.com/music/videos/browse/mostviewed/'>Top Music Videos</a></li><li class='0'><a href='http://www.tr3s.com/music/playlists/browse/'>Playlists</a></li></ul><ul class='centerCol' ><li class='first'><span>Artists</span></li><li class='0'><a href='http://www.tr3s.com/music/artists/'>Featured Artists</a></li><li class='0'><a href='http://www.tr3s.com/music/artists/browse/'>All Artists</a></li><li class='0'><a href='http://www.tr3s.com/music/downloads/'>Descubre & Download</a></li></ul><ul class='centerCol' ><li class='first'><span>Music Shows</span></li><li class='0'><a href='http://www.tr3s.com/shows/top-20/'>Top 20</a></li><li class='0'><a href='http://mmg.tr3s.com/'>Music My Guey</a></li><li class='0'><a href='http://www.tr3s.com/shows/la-hora-nacional/'>La Hora Nacional</a></li><li class='0'><a href='http://www.tr3s.com/shows/remexa/'>Remexa</a></li></ul><ul class='centerCol' ><li class='first'><span>Music Specials</span></li><li class='0'><a href='http://www.tr3s.com/specials/unplugged/'>Unplugged Main</a></li><li class='0'><a href='http://www.tr3s.com/specials/unplugged/juanes/'>Juanes Unplugged</a></li><li class='0'><a href='http://www.tr3s.com/specials/world-stage/'>World Stage</a></li><li class='0'><a href='http://www.tr3s.com/specials/world-stage/kesha/'>Ke$ha World Stage</a></li></ul><ul class='centerCol' ><li class='first'><span>More Music</span></li><li class='0'><a href='http://www.tr3s.com/ourstage/'>El Headliner</a></li><li class='0'><a href='http://www.tr3s.com/charts/'>Charts</a></li><li class='0'><a href='http://blogamole.tr3s.com/category/musica/'>Music on Blogamole</a></li></ul></div></li></ul></li><li id='n-shows' class='toplvl'><a href='http://www.tr3s.com/shows/' class='n-link'>Shows</a><ul class='gridContainer' style='z-index:99999;'><li><div class='grid columns-6'><ul class='gridMain' ><li><a href='http://www.tr3s.com/shows/'>Shows Main</a></li><li> <a href="http://www.tr3s.com/shows/channel/Tr3s/">Channel Schedule</a> </li><li><a href='http://www.tr3s.com/mini/channel-locator/'>Channel Locator</a></li><li><a href='http://www.tr3s.com/videos/browse/'>Latest Show Videos</a></li><li><a href='http://www.tr3s.com/videos/browse/mostviewed/'>Top Show Videos</a></li><li><a href='http://blogamole.tr3s.com/tag/tr3s-shows/'>Tr3s Shows on Blogamole</a></li></ul><ul class='centerCol' ><li class='first'><span>Popular Shows</span></li><li class='0'><a href='http://www.tr3s.com/shows/quiero-mis-quinces-season-9/'>Quiero Mis Quinces</a></li><li class='0'><a href='http://www.tr3s.com/shows/teen-mom/'>Teen Mom</a></li><li class='0'><a href='http://www.tr3s.com/shows/featured/familia-de-circo/'>Familia De Circo</a></li><li class='0'><a href='http://www.tr3s.com/shows/parental-control/'>Parental Control</a></li><li class='0'><a href='http://www.tr3s.com/shows/vecinos/'>Vecinos</a></li><li class='0'><a href='http://www.tr3s.com/shows/impact-wrestling/'>Impact Wrestling</a></li><li class='0'><a href='http://www.tr3s.com/shows/remexa/'>ReMexa</a></li><li class='0'><a href='http://www.tr3s.com/shows/pelis-and-popcorn/'>Pelis & Popcorn</a></li><li class='0'><a href='http://www.tr3s.com/shows/quiero-mi-baby-season-3/'>Quiero Mi Baby</a></li><li class='0'><a href='http://www.tr3s.com/shows/cena-de-estrellas/'>Cena de Estrellas</a></li><li class='0'><a href='http://www.tr3s.com/shows/next/'>Next</a></li><li class='0'><a href='http://www.tr3s.com/shows/top-20/'>Top 20</a></li><li class='0'><a href='http://www.tr3s.com/shows/pedro-el-escamoso/'>Pedro el Escamoso</a></li><li class='0'><a href='http://www.tr3s.com/shows/quiero-mi-boda-season-6/'>Quiero Mi Boda</a></li><li class='0'><a href='http://www.tr3s.com/shows/la-hora-nacional/'>La Hora Nacional</a></li><li class='0'><a href='http://www.tr3s.com/shows/ridiculousness/'>Ridículos (Ridiculousness)</a></li></ul><ul class='centerCol' ><li class='first'><span>Web-Exclusives</span></li><li class='0'><a href='http://www.tr3s.com/shows/featured/almas-perdidas/'>Almas Perdidas</a></li><li class='0'><a href='http://www.tr3s.com/shows/grillin-with-rico/'>Grillin' With Rico</a></li><li class='0'><a href='http://www.tr3s.com/shows/spooky/'>El Spooky Show</a></li></ul><ul class='centerCol' ><li class='first'><span>Specials</span></li><li class='0'><a href='http://www.tr3s.com/specials/prosocial/agentes-de-cambio/'>Agentes de Cambio</a></li><li class='0'><a href='http://www.tr3s.com/specials/tr3s-specials/hispanic-heritage-month/'>Hispanic Heritage Month</a></li><li class='0'><a href='http://www.tr3s.com/shows/EMA/'>EMA</a></li></ul><ul class='centerCol' ><li class='first'><span>Classics</span></li><li class='0'><a href='http://www.tr3s.com/shows/featured/popland/'>Popland</a></li><li class='0'><a href='http://www.tr3s.com/shows/lo-que-te-pica/'>Lo Que Te Pica</a></li><li class='0'><a href='http://www.tr3s.com/shows/mis-videos-locos/'>Mis Videos Locos</a></li><li class='0'><a href='http://www.tr3s.com/shows/the-ricardo-laguna-project/'>Ricardo Laguna Project</a></li><li class='0'><a href='http://www.tr3s.com/shows/el-luchador/'>El Luchador</a></li><li class='0'><a href='http://www.tr3s.com/shows/the-chisme-club/'>The Chisme Club</a></li><li class='0'><a href='http://www.tr3s.com/shows/featured/ninas-mal/'>Niñas Mal</a></li><li class='0'><a href='http://www.tr3s.com/shows/la-escalera/'>La Escalera</a></li></ul></div></li></ul></li><li id='n-movies' class='toplvl'><a href='http://movies.tr3s.com/' class='n-link'>Movies</a><ul class='gridContainer' style='z-index:99999;'><li><div class='grid columns-6'><ul class='gridMain' ><li><a href='http://movies.tr3s.com/'>Movies Main</a></li><li><a href='http://movies.tr3s.com/news/'>Movies News</a></li><li><a href='http://blogamole.tr3s.com/category/cine/'>Movies on Blogamole</a></li></ul><ul class='centerCol' ><li class='first'><span>Movies by category</span></li><li class='0'><a href='http://movies.tr3s.com/movies/action-adventure/'>Action / Adventure</a></li><li class='0'><a href='http://movies.tr3s.com/movies/comedy/'>Comedy</a></li><li class='0'><a href='http://movies.tr3s.com/movies/drama/'>Drama</a></li><li class='0'><a href='http://movies.tr3s.com/movies/horror-suspense/'>Horror / Suspense</a></li></ul><ul class='centerCol' ><li class='first'><span>A World of Film</span></li><li class='0'><a href='http://movies.tr3s.com/videos/'>Videos</a></li><li class='0'><a href='http://movies.tr3s.com/videos/trailers/'>Trailers</a></li><li class='0'><a href='http://movies.tr3s.com/reviews/'>Reviews</a></li><li class='0'><a href='http://movies.tr3s.com/reviews/in-theaters/'>In-Theatres</a></li><li class='0'><a href='http://movies.tr3s.com/reviews/blu-ray-dvd/'>Blu-Ray / DVD</a></li><li class='0'><a href='http://movies.tr3s.com/photos/'>Photos</a></li></ul></div></li></ul></li><li id='n-news' class='toplvl last'><a href='http://www.tr3s.com/news/' class='n-link'>News</a><ul class='gridContainer' style='z-index:99999;'><li><div class='grid columns-6'><ul class='gridMain' ><li><a href='http://www.tr3s.com/news/'>News Main</a></li><li><a href='http://blogamole.tr3s.com/'>Blogamole</a></li><li><a href='http://blogamole.tr3s.com/category/chisme/'>Celebrity Gossip</a></li><li><a href='http://blogamole.tr3s.com/category/cine/'>Movie News</a></li><li><a href='http://blogamole.tr3s.com/category/musica/'>Music News</a></li><li><a href='http://www.tr3s.com/news/browse/'>Browse Articles by Date</a></li></ul><ul class='centerCol' ><li class='first'><span>Like Us, Follow Us</span></li><li class='0'><a href='http://www.tr3s.comhttps://www.facebook.com/tr3s'>Tr3s on Facebook</a></li><li class='0'><a href='http://www.tr3s.comhttps://twitter.com/mtv3'>Tr3s on Twitter</a></li><li class='0'><a href='http://www.tr3s.comhttps://plus.google.com/u/0/b/102525895737874704434'>Tr3s on Google +</a></li><li class='0'><a href='http://www.tr3s.comhttps://foursquare.com/mtv3'>Tr3s on Foursquare</a></li></ul></div></li></ul></li></ul><script type='text/javascript'>
+				jQuery(document).ready(function() {
+					jQuery('.columns-6').each(function(){
+						var ammount = jQuery(this).children().size();
+						//alert(ammount);
+						jQuery(this).removeClass('columns-6');
+						jQuery(this).addClass('columns-'+ammount);
+					});
+				});
+			</script>
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			jQuery(document).ready(function() {
+				jQuery('#navlist .gridContainer').css({
+					'z-index' : 99999
+				});
+				/* global Nav */
+				jQuery('#navlist li.toplvl').hover(function() {
+					jQuery(this).addClass('hover').children('ul.gridContainer').addClass('hover');
+				}, function() {
+					jQuery(this).removeClass('hover').children('ul.gridContainer').removeClass('hover');
+				});
+				/* global Nav grid columns height matching */
+				jQuery('ul#navlist li.toplvl').each(function(a) {
+					var maxHeight = 0;
+					var $columns = jQuery(jQuery('ul#navlist li.toplvl')[a]).find('ul.gridContainer div.grid ul.gridMain, ul.gridContainer div.grid ul.centerCol');
+					$columns.each(function(e) {
+						if (jQuery($columns[e]).height() > maxHeight)
+							maxHeight = jQuery($columns[e]).height();
+					});
+					$columns.height(maxHeight);
+				});
+			});
+			/* ]]> */
+		</script>
+		<!-- Zone End: ExpandedNavComposed[navExpanded] -->
+		<!-- Zone Start: ExpandedNavComposed[navSearchbox] -->
+		<div id="searchblock">
+			<form accept-charset="utf-8" id="searchForm" name="search" action="" method="post" onsubmit="javascript:submitSearch(); return false;">
+				<input type="text" name="query" id="mainSearch" class="searchmtv-text ui-autocomplete-input" value="Search" onclick="this.value='';" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true" />
+				<input type="image" class="searchmtv-btn" src="http://www.tr3s.com/images/Common/btn-comgo.gif" alt="Go" onclick="submitSearch(this.form); return false;" />
+			</form>
+			<ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 101; top: 0px; left: 0px; display: none; "></ul>
+		</div>
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			function submitSearch(form) {
+				var searchStr = document.getElementById("mainSearch").value;
+				searchStr = searchStr.replace(/\//g, "%2F");
+				var searchUrl = "/search/" + "?query=" + encodeURIComponent(searchStr);
+				this.document.location = searchUrl;
+			}
+
+			/* ]]> */
+		</script>
+		<!-- Zone End: ExpandedNavComposed[navSearchbox] -->
+		<!-- Template End: ExpandedNavComposed Master null -->
+	</div>
+
+<!--<script type="text/javascript">
+	 jQuery(document).ready(function() {
+	jQuery.getJSON("http://aplicaciones.mtvla.com/feeds/?feed=3&id=9c671a59-1026-443c-ae3f-454ee13d05b7&callback=?", function(data){
+		  var ad = data.Items.Item.TextCopy;
+			jQuery("#headerPromoAd").append(ad);
+		});
+	});
+	</script>-->
+	<div id="headerPromoAd"></div>
+
+	<div id="bannerad">
+		<div class="adv">
+
+			<script type="text/javascript" src="http://aplicaciones.mtvla.com/sitewide/scripts/geo/esi_geo_js.php"></script>
+			<script type="text/javascript" src="http://btg.mtvnservices.com/aria/coda.html?site=mtvtr3s.com"></script>
+
+			<script type="text/javascript">
+				var prfx = 'blogamole';
+
+				//Set DART Site Specific Props
+				btg.config.DoubleClick.dartSite = 'mtvtr3s.mtvi/' + prfx;
+				btg.config.DoubleClick.contentType = 'adj';
+				btg.config.DoubleClick.positionThreshold = '1';
+
+				//Initialize Controller
+				btg.Controller.init();
+
+				var indexVals=["index.php","index.html","index.jhtml"];
+				var hr = prfx+btg.config._defaultPageName;
+				var pn = '/'+hr;
+
+				//Replace all possible index.* used with 'index'
+				for (var i = 0; i < indexVals.length; ++i) {
+				  if (pn.indexOf(indexVals[i]) > -1 )
+					var sRegExInput = new RegExp(indexVals[i], 'ig');
+					pn = pn.replace(sRegExInput ,'index');
+					hr = hr.replace(sRegExInput ,'index');
+				}
+
+				//Send Omniture call
+				btg.Controller.sendPageCall(
+				{
+					pageName: pn,
+					channel: prfx,
+					hier1: hr
+				});
+
+				//Set Default Site Sections for site ads
+				btg.config.International.sections = pn;
+
+				var keys = "dcopt=ist;mpu=1;sky=0;overlay=1;site_region=latam;!category=blog;!category=expand;!category=float";
+				btg.Controller.placeAd({
+					size:"728x90",
+					isReloadable:true,
+					reloadInterval:90000,
+					region: countryCode.toUpperCase(),
+					keyValues:keys
+				});
+			</script>
+
+		</div>
+
+	</div>
+</div>
+        </div>
+
+	</div><!-- #header -->
+
+	<div id="main">
+
+		<div id="container">
+			<div id="content" role="main">
+<h1 id="site-title"><a href="http://blogamole.tr3s.com" title="blogamole">Blogamole</a></h1>
+
+			
+
+
+
+
+
+			<div id="post-102268" class="post-102268 post type-post status-publish format-standard hentry category-celebrity tag-celebrities tag-chisme tag-huffington-post-latinovoices">
+
+
+            <h2 class="entry-title"><a href="http://blogamole.tr3s.com/2013/12/02/how-latino-stars-celebrated-thanksgiving-photos/" title="Permalink to How Latino Stars Celebrated Thanksgiving (PHOTOS)" rel="bookmark">How Latino Stars Celebrated Thanksgiving (PHOTOS)</a></h2>
+
+     <div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://blogamole.tr3s.com/2013/12/02/how-latino-stars-celebrated-thanksgiving-photos/" title="10:14 pm" rel="bookmark"><span class="entry-date">December 2, 2013</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://blogamole.tr3s.com/author/" title="See all of acostai posts">Ikam Acosta</a></span>                					<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">in</span> <a href="http://blogamole.tr3s.com/category/celebrity/" title="View all posts in Celebrities" rel="category tag">Celebrities</a>					</span>
+							</div><!-- .entry-meta -->
+
+
+
+				<div class="entry-content home-entry">
+				                <img width="300" src="http://blogamole.tr3s.com/wp-content/uploads/2013/12/n-SOFIA-VERGARA-THANKSGIVING-large570-300x221.jpg" class="aligncenter wp-post-image tfe" alt="n-SOFIA-VERGARA-THANKSGIVING-large570" title="" /><p>From HuffPost LatinoVoices:</p>
+<p>Thanksgiving is a all about loved ones, food and gratitude for life&#8217;s blessings &#8212; even for the biggest stars.</p>
+<p>From Sofía Vergara to Paulina Rubio, these celebs know how to put together a feast and spend it with the people they care for the most. Take a look at how these Latino stars celebrated <br /><a class="excerpt-link-text" href="http://blogamole.tr3s.com/2013/12/02/how-latino-stars-celebrated-thanksgiving-photos/">Read More&#8230;</a></p>
+
+							 <br clear="all" />
+            </div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+				 					<span class="tag-links">
+						<span class="entry-utility-prep entry-utility-prep-tag-links">Tags </span> <a href="http://blogamole.tr3s.com/tag/celebrities/" rel="tag">Celebrities</a>, <a href="http://blogamole.tr3s.com/tag/chisme/" rel="tag">Chisme</a>, <a href="http://blogamole.tr3s.com/tag/huffington-post-latinovoices/" rel="tag">Huffington Post LatinoVoices</a>					</span>
+									
+			</div><!-- .entry-utility -->
+ 		</div><!-- #post-## -->
+
+
+
+         <div class="SocialWidgets" id="homewidget">
+            	<div id="shareMarkup" class="sm4Widget" data-widget="shareHorizontal2" data-contentUri="http://blogamole.tr3s.com/2013/12/02/how-latino-stars-celebrated-thanksgiving-photos/" data-layout="horizontal"></div>
+                <script type="text/javascript">
+				MTVN.conf.sm4["widgets"]["shareHorizontal2"] = {
+					"name": "Share",
+					"opts": {
+						title: ' ',
+						elements: [
+							{ id: 'Facebook' },
+							{ id: 'Twitter' },
+							{ id: 'StumbleUpon' },
+							{ id: 'More', title: 'More' }
+						]
+					}
+				};
+				</script>
+                <a href="http://blogamole.tr3s.com/2013/12/02/how-latino-stars-celebrated-thanksgiving-photos/" class="permalink">| Permalink</a>
+
+
+
+            	<script type="text/javascript" charset="utf-8">
+					Flux.createWidget('ContentAction', {
+						contentUri: 'http://blogamole.tr3s.com/2013/12/02/how-latino-stars-celebrated-thanksgiving-photos/',
+						layout: 'horizontal',
+						size: 'small',
+						metricsAsPermalink: false,
+						hideShareToGroup: false,
+						items: [
+							{ id: 'commentCount', title: 'comments' },
+							{ id: 'contentRating', type: 'thumbsUpDown', title: { thumbsUpTitle: 'Rating', thumbsDownTitle: 'Rating' }}
+						]
+					});
+				</script>
+
+				<!-- don't want to count view of post on homepage listing //-->
+                <!-- <img class="pixel" src="http://t.flux.com/tracking.gif?CMU=FEF7FFFF009993DA0002FFFFF7FE&amp;CUR=http://blogamole.tr3s.com/2013/12/02/how-latino-stars-celebrated-thanksgiving-photos/&amp;WN=ContentView&amp;FTG=1&amp;RND=1386064913.3048" border="0" alt="" /> -->
+            </div>
+
+
+
+
+
+
+		
+	
+
+
+			<div id="post-102265" class="post-102265 post type-post status-publish format-standard hentry category-chisme tag-blogger-ikam-acosta tag-casper-smart tag-celebrities tag-chisme tag-jennifer-lopez">
+
+
+            <h2 class="entry-title"><a href="http://blogamole.tr3s.com/2013/12/02/casper-smart-likes-to-shower-jlo-with-luxurious-gifts/" title="Permalink to Casper Smart Likes To Shower JLo With Luxurious Gifts" rel="bookmark">Casper Smart Likes To Shower JLo With Luxurious Gifts</a></h2>
+
+     <div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://blogamole.tr3s.com/2013/12/02/casper-smart-likes-to-shower-jlo-with-luxurious-gifts/" title="8:54 pm" rel="bookmark"><span class="entry-date">December 2, 2013</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://blogamole.tr3s.com/author/" title="See all of acostai posts">Ikam Acosta</a></span>                					<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">in</span> <a href="http://blogamole.tr3s.com/category/chisme/" title="View all posts in Chisme" rel="category tag">Chisme</a>					</span>
+							</div><!-- .entry-meta -->
+
+
+
+				<div class="entry-content home-entry">
+				                <img width="300" src="http://blogamole.tr3s.com/wp-content/uploads/2013/12/jloandcasper-235x300.jpg" class="aligncenter wp-post-image tfe" alt="Jennifer Lopez Chooses Mystere By Cirque du Soleil At Treasure Island Las Vegas" title="" /><p>Now that the holidays are here, we all like to receive lavish gifts. Well it seems that Jennifer Lopez receives these luxurious gifts from Casper Smart all the time.</p>
+<p>Casper loves to shower JLo with expensive presents to show her how special she is to him. Although we all know Jenny can afford to buy herself <br /><a class="excerpt-link-text" href="http://blogamole.tr3s.com/2013/12/02/casper-smart-likes-to-shower-jlo-with-luxurious-gifts/">Read More&#8230;</a></p>
+
+							 <br clear="all" />
+            </div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+				 					<span class="tag-links">
+						<span class="entry-utility-prep entry-utility-prep-tag-links">Tags </span> <a href="http://blogamole.tr3s.com/tag/blogger-ikam-acosta/" rel="tag">Blogger: Ikam Acosta</a>, <a href="http://blogamole.tr3s.com/tag/casper-smart/" rel="tag">Casper Smart</a>, <a href="http://blogamole.tr3s.com/tag/celebrities/" rel="tag">Celebrities</a>, <a href="http://blogamole.tr3s.com/tag/chisme/" rel="tag">Chisme</a>, <a href="http://blogamole.tr3s.com/tag/jennifer-lopez/" rel="tag">Jennifer Lopez</a>					</span>
+									
+			</div><!-- .entry-utility -->
+ 		</div><!-- #post-## -->
+
+
+
+         <div class="SocialWidgets" id="homewidget">
+            	<div id="shareMarkup" class="sm4Widget" data-widget="shareHorizontal2" data-contentUri="http://blogamole.tr3s.com/2013/12/02/casper-smart-likes-to-shower-jlo-with-luxurious-gifts/" data-layout="horizontal"></div>
+                <script type="text/javascript">
+				MTVN.conf.sm4["widgets"]["shareHorizontal2"] = {
+					"name": "Share",
+					"opts": {
+						title: ' ',
+						elements: [
+							{ id: 'Facebook' },
+							{ id: 'Twitter' },
+							{ id: 'StumbleUpon' },
+							{ id: 'More', title: 'More' }
+						]
+					}
+				};
+				</script>
+                <a href="http://blogamole.tr3s.com/2013/12/02/casper-smart-likes-to-shower-jlo-with-luxurious-gifts/" class="permalink">| Permalink</a>
+
+
+
+            	<script type="text/javascript" charset="utf-8">
+					Flux.createWidget('ContentAction', {
+						contentUri: 'http://blogamole.tr3s.com/2013/12/02/casper-smart-likes-to-shower-jlo-with-luxurious-gifts/',
+						layout: 'horizontal',
+						size: 'small',
+						metricsAsPermalink: false,
+						hideShareToGroup: false,
+						items: [
+							{ id: 'commentCount', title: 'comments' },
+							{ id: 'contentRating', type: 'thumbsUpDown', title: { thumbsUpTitle: 'Rating', thumbsDownTitle: 'Rating' }}
+						]
+					});
+				</script>
+
+				<!-- don't want to count view of post on homepage listing //-->
+                <!-- <img class="pixel" src="http://t.flux.com/tracking.gif?CMU=FEF7FFFF009993DA0002FFFFF7FE&amp;CUR=http://blogamole.tr3s.com/2013/12/02/casper-smart-likes-to-shower-jlo-with-luxurious-gifts/&amp;WN=ContentView&amp;FTG=1&amp;RND=1386064913.3328" border="0" alt="" /> -->
+            </div>
+
+
+
+
+
+
+		
+	
+
+
+			<div id="post-102261" class="post-102261 post type-post status-publish format-standard hentry category-celebrity tag-blogger-ikam-acosta tag-celebrities tag-chisme tag-paul-walker tag-roger-rodas">
+
+
+            <h2 class="entry-title"><a href="http://blogamole.tr3s.com/2013/12/02/speed-might-have-been-a-factor-in-fiery-crash-killing-paul-walker-and-roger-rodas/" title="Permalink to Speed Might Have Been A Factor In Fiery Crash Killing Paul Walker And Roger Rodas" rel="bookmark">Speed Might Have Been A Factor In Fiery Crash Killing Paul Walker And Roger Rodas</a></h2>
+
+     <div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://blogamole.tr3s.com/2013/12/02/speed-might-have-been-a-factor-in-fiery-crash-killing-paul-walker-and-roger-rodas/" title="8:46 pm" rel="bookmark"><span class="entry-date">December 2, 2013</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://blogamole.tr3s.com/author/" title="See all of acostai posts">Ikam Acosta</a></span>                					<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">in</span> <a href="http://blogamole.tr3s.com/category/celebrity/" title="View all posts in Celebrities" rel="category tag">Celebrities</a>					</span>
+							</div><!-- .entry-meta -->
+
+
+
+				<div class="entry-content home-entry">
+				                <img width="300" src="http://blogamole.tr3s.com/wp-content/uploads/2013/12/168254524-300x200.jpg" class="aligncenter wp-post-image tfe" alt="Fast &amp; Furious 6 - World Premiere - Red Carpet Arrivals" title="" /><p>By now we&#8217;ve all heard about Fast and Furious star Paul Walker&#8217;s untimely death in a fiery crash in Los Angeles this weekend. To no surprise, speed might have been a factor in the accident.</p>
+<p>Paul&#8217;s longtime friend, Salvadorean car racer Roger Rodas was driving the vehicle that lost control and crashed into a tree. The <br /><a class="excerpt-link-text" href="http://blogamole.tr3s.com/2013/12/02/speed-might-have-been-a-factor-in-fiery-crash-killing-paul-walker-and-roger-rodas/">Read More&#8230;</a></p>
+
+							 <br clear="all" />
+            </div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+				 					<span class="tag-links">
+						<span class="entry-utility-prep entry-utility-prep-tag-links">Tags </span> <a href="http://blogamole.tr3s.com/tag/blogger-ikam-acosta/" rel="tag">Blogger: Ikam Acosta</a>, <a href="http://blogamole.tr3s.com/tag/celebrities/" rel="tag">Celebrities</a>, <a href="http://blogamole.tr3s.com/tag/chisme/" rel="tag">Chisme</a>, <a href="http://blogamole.tr3s.com/tag/paul-walker/" rel="tag">Paul Walker</a>, <a href="http://blogamole.tr3s.com/tag/roger-rodas/" rel="tag">Roger Rodas</a>					</span>
+									
+			</div><!-- .entry-utility -->
+ 		</div><!-- #post-## -->
+
+
+
+         <div class="SocialWidgets" id="homewidget">
+            	<div id="shareMarkup" class="sm4Widget" data-widget="shareHorizontal2" data-contentUri="http://blogamole.tr3s.com/2013/12/02/speed-might-have-been-a-factor-in-fiery-crash-killing-paul-walker-and-roger-rodas/" data-layout="horizontal"></div>
+                <script type="text/javascript">
+				MTVN.conf.sm4["widgets"]["shareHorizontal2"] = {
+					"name": "Share",
+					"opts": {
+						title: ' ',
+						elements: [
+							{ id: 'Facebook' },
+							{ id: 'Twitter' },
+							{ id: 'StumbleUpon' },
+							{ id: 'More', title: 'More' }
+						]
+					}
+				};
+				</script>
+                <a href="http://blogamole.tr3s.com/2013/12/02/speed-might-have-been-a-factor-in-fiery-crash-killing-paul-walker-and-roger-rodas/" class="permalink">| Permalink</a>
+
+
+
+            	<script type="text/javascript" charset="utf-8">
+					Flux.createWidget('ContentAction', {
+						contentUri: 'http://blogamole.tr3s.com/2013/12/02/speed-might-have-been-a-factor-in-fiery-crash-killing-paul-walker-and-roger-rodas/',
+						layout: 'horizontal',
+						size: 'small',
+						metricsAsPermalink: false,
+						hideShareToGroup: false,
+						items: [
+							{ id: 'commentCount', title: 'comments' },
+							{ id: 'contentRating', type: 'thumbsUpDown', title: { thumbsUpTitle: 'Rating', thumbsDownTitle: 'Rating' }}
+						]
+					});
+				</script>
+
+				<!-- don't want to count view of post on homepage listing //-->
+                <!-- <img class="pixel" src="http://t.flux.com/tracking.gif?CMU=FEF7FFFF009993DA0002FFFFF7FE&amp;CUR=http://blogamole.tr3s.com/2013/12/02/speed-might-have-been-a-factor-in-fiery-crash-killing-paul-walker-and-roger-rodas/&amp;WN=ContentView&amp;FTG=1&amp;RND=1386064913.3551" border="0" alt="" /> -->
+            </div>
+
+
+
+
+
+
+		
+	
+
+
+			<div id="post-102255" class="post-102255 post type-post status-publish format-standard hentry category-celebrity tag-blogger-michael-lopez tag-casper-smart tag-celebrities tag-chisme tag-dating tag-jennifer-lopez">
+
+
+            <h2 class="entry-title"><a href="http://blogamole.tr3s.com/2013/11/28/casper-smart-discusses-jlo-date-nights/" title="Permalink to Casper Smart Discusses JLo &#8216;Date Nights&#8217;" rel="bookmark">Casper Smart Discusses JLo &#8216;Date Nights&#8217;</a></h2>
+
+     <div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://blogamole.tr3s.com/2013/11/28/casper-smart-discusses-jlo-date-nights/" title="10:27 am" rel="bookmark"><span class="entry-date">November 28, 2013</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://blogamole.tr3s.com/author/" title="See all of lopezmi posts">Michael Lopez</a></span>                					<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">in</span> <a href="http://blogamole.tr3s.com/category/celebrity/" title="View all posts in Celebrities" rel="category tag">Celebrities</a>					</span>
+							</div><!-- .entry-meta -->
+
+
+
+				<div class="entry-content home-entry">
+				                <img width="300" src="http://blogamole.tr3s.com/wp-content/uploads/2013/11/jloandcasper-235x300.jpg" class="aligncenter wp-post-image tfe" alt="Jennifer Lopez Chooses Mystere By Cirque du Soleil At Treasure Island Las Vegas" title="" /><p>With so many projects on the horizon, you&#8217;ve got to wonder how Jennifer Lopez makes time for romance. Well, according to her boyfriend Casper Smart, quality time does exist&#8230;just in brief increments.</p>
+<p>Casper recently told People that their dance rehearsals often work as impromptu &#8220;date nights.&#8221; Apparently, they give them the opportunity to stay in close <br /><a class="excerpt-link-text" href="http://blogamole.tr3s.com/2013/11/28/casper-smart-discusses-jlo-date-nights/">Read More&#8230;</a></p>
+
+							 <br clear="all" />
+            </div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+				 					<span class="tag-links">
+						<span class="entry-utility-prep entry-utility-prep-tag-links">Tags </span> <a href="http://blogamole.tr3s.com/tag/blogger-michael-lopez/" rel="tag">Blogger: Michael Lopez</a>, <a href="http://blogamole.tr3s.com/tag/casper-smart/" rel="tag">Casper Smart</a>, <a href="http://blogamole.tr3s.com/tag/celebrities/" rel="tag">Celebrities</a>, <a href="http://blogamole.tr3s.com/tag/chisme/" rel="tag">Chisme</a>, <a href="http://blogamole.tr3s.com/tag/dating/" rel="tag">Dating</a>, <a href="http://blogamole.tr3s.com/tag/jennifer-lopez/" rel="tag">Jennifer Lopez</a>					</span>
+									
+			</div><!-- .entry-utility -->
+ 		</div><!-- #post-## -->
+
+
+
+         <div class="SocialWidgets" id="homewidget">
+            	<div id="shareMarkup" class="sm4Widget" data-widget="shareHorizontal2" data-contentUri="http://blogamole.tr3s.com/2013/11/28/casper-smart-discusses-jlo-date-nights/" data-layout="horizontal"></div>
+                <script type="text/javascript">
+				MTVN.conf.sm4["widgets"]["shareHorizontal2"] = {
+					"name": "Share",
+					"opts": {
+						title: ' ',
+						elements: [
+							{ id: 'Facebook' },
+							{ id: 'Twitter' },
+							{ id: 'StumbleUpon' },
+							{ id: 'More', title: 'More' }
+						]
+					}
+				};
+				</script>
+                <a href="http://blogamole.tr3s.com/2013/11/28/casper-smart-discusses-jlo-date-nights/" class="permalink">| Permalink</a>
+
+
+
+            	<script type="text/javascript" charset="utf-8">
+					Flux.createWidget('ContentAction', {
+						contentUri: 'http://blogamole.tr3s.com/2013/11/28/casper-smart-discusses-jlo-date-nights/',
+						layout: 'horizontal',
+						size: 'small',
+						metricsAsPermalink: false,
+						hideShareToGroup: false,
+						items: [
+							{ id: 'commentCount', title: 'comments' },
+							{ id: 'contentRating', type: 'thumbsUpDown', title: { thumbsUpTitle: 'Rating', thumbsDownTitle: 'Rating' }}
+						]
+					});
+				</script>
+
+				<!-- don't want to count view of post on homepage listing //-->
+                <!-- <img class="pixel" src="http://t.flux.com/tracking.gif?CMU=FEF7FFFF009993DA0002FFFFF7FE&amp;CUR=http://blogamole.tr3s.com/2013/11/28/casper-smart-discusses-jlo-date-nights/&amp;WN=ContentView&amp;FTG=1&amp;RND=1386064913.3785" border="0" alt="" /> -->
+            </div>
+
+
+
+
+
+
+		
+	
+
+
+			<div id="post-102239" class="post-102239 post type-post status-publish format-standard hentry category-celebrity tag-arianna-huffington tag-beyonce tag-blake-lively tag-blogger-ikam-acosta tag-celebrities tag-chisme tag-evan-rachel-wood tag-freida-pinto tag-halle-berry tag-jada-pinkett-smith tag-john-legend tag-katy-perry tag-li-bingbing tag-olivia-wilde tag-salma-hayek tag-ziggy-marley tag-zoe-saldana">
+
+
+            <h2 class="entry-title"><a href="http://blogamole.tr3s.com/2013/11/27/salma-hayek-stands-up-for-womens-rights/" title="Permalink to Salma Hayek Stands Up For Women&#8217;s Rights" rel="bookmark">Salma Hayek Stands Up For Women&#8217;s Rights</a></h2>
+
+     <div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://blogamole.tr3s.com/2013/11/27/salma-hayek-stands-up-for-womens-rights/" title="3:38 pm" rel="bookmark"><span class="entry-date">November 27, 2013</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://blogamole.tr3s.com/author/" title="See all of acostai posts">Ikam Acosta</a></span>                					<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">in</span> <a href="http://blogamole.tr3s.com/category/celebrity/" title="View all posts in Celebrities" rel="category tag">Celebrities</a>					</span>
+							</div><!-- .entry-meta -->
+
+
+
+				<div class="entry-content home-entry">
+				                <img width="300" src="http://blogamole.tr3s.com/wp-content/uploads/2013/11/salmahaye3-252x300.jpg" class="aligncenter wp-post-image tfe" alt="&quot;Grown Ups 2&quot; Photo Call At The 5th Annual Summer Of Sony" title="" /><p>Salma Hayek joined other powerful women in the entertainment business to stand up for women&#8217;s rights.</p>
+<p>Beyonce, who tells her daughters every day they can be president, is one of the familiar faces you&#8217;ll see behind the video Chime For Change, which encourages young girls that women can be anything they want to be in this <br /><a class="excerpt-link-text" href="http://blogamole.tr3s.com/2013/11/27/salma-hayek-stands-up-for-womens-rights/">Read More&#8230;</a></p>
+
+							 <br clear="all" />
+            </div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+				 					<span class="tag-links">
+						<span class="entry-utility-prep entry-utility-prep-tag-links">Tags </span> <a href="http://blogamole.tr3s.com/tag/arianna-huffington/" rel="tag">Arianna Huffington</a>, <a href="http://blogamole.tr3s.com/tag/beyonce/" rel="tag">Beyonce</a>, <a href="http://blogamole.tr3s.com/tag/blake-lively/" rel="tag">Blake Lively</a>, <a href="http://blogamole.tr3s.com/tag/blogger-ikam-acosta/" rel="tag">Blogger: Ikam Acosta</a>, <a href="http://blogamole.tr3s.com/tag/celebrities/" rel="tag">Celebrities</a>, <a href="http://blogamole.tr3s.com/tag/chisme/" rel="tag">Chisme</a>, <a href="http://blogamole.tr3s.com/tag/evan-rachel-wood/" rel="tag">Evan Rachel Wood</a>, <a href="http://blogamole.tr3s.com/tag/freida-pinto/" rel="tag">Freida Pinto</a>, <a href="http://blogamole.tr3s.com/tag/halle-berry/" rel="tag">halle Berry</a>, <a href="http://blogamole.tr3s.com/tag/jada-pinkett-smith/" rel="tag">Jada Pinkett Smith</a>, <a href="http://blogamole.tr3s.com/tag/john-legend/" rel="tag">John Legend</a>, <a href="http://blogamole.tr3s.com/tag/katy-perry/" rel="tag">Katy Perry</a>, <a href="http://blogamole.tr3s.com/tag/li-bingbing/" rel="tag">Li Bingbing</a>, <a href="http://blogamole.tr3s.com/tag/olivia-wilde/" rel="tag">Olivia Wilde</a>, <a href="http://blogamole.tr3s.com/tag/salma-hayek/" rel="tag">Salma Hayek</a>, <a href="http://blogamole.tr3s.com/tag/ziggy-marley/" rel="tag">Ziggy Marley</a>, <a href="http://blogamole.tr3s.com/tag/zoe-saldana/" rel="tag">Zoe Saldana</a>					</span>
+									
+			</div><!-- .entry-utility -->
+ 		</div><!-- #post-## -->
+
+
+
+         <div class="SocialWidgets" id="homewidget">
+            	<div id="shareMarkup" class="sm4Widget" data-widget="shareHorizontal2" data-contentUri="http://blogamole.tr3s.com/2013/11/27/salma-hayek-stands-up-for-womens-rights/" data-layout="horizontal"></div>
+                <script type="text/javascript">
+				MTVN.conf.sm4["widgets"]["shareHorizontal2"] = {
+					"name": "Share",
+					"opts": {
+						title: ' ',
+						elements: [
+							{ id: 'Facebook' },
+							{ id: 'Twitter' },
+							{ id: 'StumbleUpon' },
+							{ id: 'More', title: 'More' }
+						]
+					}
+				};
+				</script>
+                <a href="http://blogamole.tr3s.com/2013/11/27/salma-hayek-stands-up-for-womens-rights/" class="permalink">| Permalink</a>
+
+
+
+            	<script type="text/javascript" charset="utf-8">
+					Flux.createWidget('ContentAction', {
+						contentUri: 'http://blogamole.tr3s.com/2013/11/27/salma-hayek-stands-up-for-womens-rights/',
+						layout: 'horizontal',
+						size: 'small',
+						metricsAsPermalink: false,
+						hideShareToGroup: false,
+						items: [
+							{ id: 'commentCount', title: 'comments' },
+							{ id: 'contentRating', type: 'thumbsUpDown', title: { thumbsUpTitle: 'Rating', thumbsDownTitle: 'Rating' }}
+						]
+					});
+				</script>
+
+				<!-- don't want to count view of post on homepage listing //-->
+                <!-- <img class="pixel" src="http://t.flux.com/tracking.gif?CMU=FEF7FFFF009993DA0002FFFFF7FE&amp;CUR=http://blogamole.tr3s.com/2013/11/27/salma-hayek-stands-up-for-womens-rights/&amp;WN=ContentView&amp;FTG=1&amp;RND=1386064913.41" border="0" alt="" /> -->
+            </div>
+
+
+
+
+
+
+		
+	
+
+
+			<div id="post-102247" class="post-102247 post type-post status-publish format-standard hentry category-chisme tag-blogger-michael-lopez tag-child-support tag-chisme tag-dayanara-torres tag-marc-anthony">
+
+
+            <h2 class="entry-title"><a href="http://blogamole.tr3s.com/2013/11/27/marc-anthony-slapped-with-stiff-child-support-bills/" title="Permalink to Marc Anthony Slapped With Stiff Child Support Bills" rel="bookmark">Marc Anthony Slapped With Stiff Child Support Bills</a></h2>
+
+     <div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://blogamole.tr3s.com/2013/11/27/marc-anthony-slapped-with-stiff-child-support-bills/" title="12:20 pm" rel="bookmark"><span class="entry-date">November 27, 2013</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://blogamole.tr3s.com/author/" title="See all of lopezmi posts">Michael Lopez</a></span>                					<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">in</span> <a href="http://blogamole.tr3s.com/category/chisme/" title="View all posts in Chisme" rel="category tag">Chisme</a>					</span>
+							</div><!-- .entry-meta -->
+
+
+
+				<div class="entry-content home-entry">
+				                <img width="300" src="http://blogamole.tr3s.com/wp-content/uploads/2013/11/159800461-233x300.jpg" class="aligncenter wp-post-image tfe" alt="Latino Inaugural 2013: In Performance At Kennedy Center - Show" title="" /><p>No one ever said being Marc Anthony was easy. Though things seemed rosy for the singer last week (after dominating the Latin Grammys), he is now facing some stiff stipends from an angry ex.</p>
+<p>Dayanara Torres was married to Marc back in the early 2000&#8242;s and bore two of his kids. Now apparently, she wants a <br /><a class="excerpt-link-text" href="http://blogamole.tr3s.com/2013/11/27/marc-anthony-slapped-with-stiff-child-support-bills/">Read More&#8230;</a></p>
+
+							 <br clear="all" />
+            </div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+				 					<span class="tag-links">
+						<span class="entry-utility-prep entry-utility-prep-tag-links">Tags </span> <a href="http://blogamole.tr3s.com/tag/blogger-michael-lopez/" rel="tag">Blogger: Michael Lopez</a>, <a href="http://blogamole.tr3s.com/tag/child-support/" rel="tag">Child Support</a>, <a href="http://blogamole.tr3s.com/tag/chisme/" rel="tag">Chisme</a>, <a href="http://blogamole.tr3s.com/tag/dayanara-torres/" rel="tag">Dayanara Torres</a>, <a href="http://blogamole.tr3s.com/tag/marc-anthony/" rel="tag">Marc Anthony</a>					</span>
+									
+			</div><!-- .entry-utility -->
+ 		</div><!-- #post-## -->
+
+
+
+         <div class="SocialWidgets" id="homewidget">
+            	<div id="shareMarkup" class="sm4Widget" data-widget="shareHorizontal2" data-contentUri="http://blogamole.tr3s.com/2013/11/27/marc-anthony-slapped-with-stiff-child-support-bills/" data-layout="horizontal"></div>
+                <script type="text/javascript">
+				MTVN.conf.sm4["widgets"]["shareHorizontal2"] = {
+					"name": "Share",
+					"opts": {
+						title: ' ',
+						elements: [
+							{ id: 'Facebook' },
+							{ id: 'Twitter' },
+							{ id: 'StumbleUpon' },
+							{ id: 'More', title: 'More' }
+						]
+					}
+				};
+				</script>
+                <a href="http://blogamole.tr3s.com/2013/11/27/marc-anthony-slapped-with-stiff-child-support-bills/" class="permalink">| Permalink</a>
+
+
+
+            	<script type="text/javascript" charset="utf-8">
+					Flux.createWidget('ContentAction', {
+						contentUri: 'http://blogamole.tr3s.com/2013/11/27/marc-anthony-slapped-with-stiff-child-support-bills/',
+						layout: 'horizontal',
+						size: 'small',
+						metricsAsPermalink: false,
+						hideShareToGroup: false,
+						items: [
+							{ id: 'commentCount', title: 'comments' },
+							{ id: 'contentRating', type: 'thumbsUpDown', title: { thumbsUpTitle: 'Rating', thumbsDownTitle: 'Rating' }}
+						]
+					});
+				</script>
+
+				<!-- don't want to count view of post on homepage listing //-->
+                <!-- <img class="pixel" src="http://t.flux.com/tracking.gif?CMU=FEF7FFFF009993DA0002FFFFF7FE&amp;CUR=http://blogamole.tr3s.com/2013/11/27/marc-anthony-slapped-with-stiff-child-support-bills/&amp;WN=ContentView&amp;FTG=1&amp;RND=1386064913.4335" border="0" alt="" /> -->
+            </div>
+
+
+
+
+
+
+		
+	
+
+
+			<div id="post-102243" class="post-102243 post type-post status-publish format-standard hentry category-agentes-de-cambio-2 tag-agentes-de-cambio tag-world-aids-day-2013">
+
+
+            <h2 class="entry-title"><a href="http://blogamole.tr3s.com/2013/11/26/join-the-global-reunion-world-aids-day-2013/" title="Permalink to Join the Global Reunion: World AIDS Day 2013" rel="bookmark">Join the Global Reunion: World AIDS Day 2013</a></h2>
+
+     <div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://blogamole.tr3s.com/2013/11/26/join-the-global-reunion-world-aids-day-2013/" title="7:57 pm" rel="bookmark"><span class="entry-date">November 26, 2013</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://blogamole.tr3s.com/author/" title="See all of acostai posts">Ikam Acosta</a></span>                					<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">in</span> <a href="http://blogamole.tr3s.com/category/agentes-de-cambio-2/" title="View all posts in Agentes de Cambio" rel="category tag">Agentes de Cambio</a>					</span>
+							</div><!-- .entry-meta -->
+
+
+
+				<div class="entry-content home-entry">
+				                <img width="300" src="http://blogamole.tr3s.com/wp-content/uploads/2013/11/dancered-249x300.jpg" class="aligncenter wp-post-image tfe" alt="dancered" title="" /><p>This Sunday December 1st the world is uniting for World AIDS Day! This special day aims to generate great awareness of HIV/AIDS and demonstrate global solidarity among youth.</p>
+<p>We invite you to watch the Livestream of the event starting Saturday November 30thas you listen, dance, and share your message of hope from all over the world <br /><a class="excerpt-link-text" href="http://blogamole.tr3s.com/2013/11/26/join-the-global-reunion-world-aids-day-2013/">Read More&#8230;</a></p>
+
+							 <br clear="all" />
+            </div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+				 					<span class="tag-links">
+						<span class="entry-utility-prep entry-utility-prep-tag-links">Tags </span> <a href="http://blogamole.tr3s.com/tag/agentes-de-cambio/" rel="tag">Agentes De Cambio</a>, <a href="http://blogamole.tr3s.com/tag/world-aids-day-2013/" rel="tag">World AIDS Day 2013</a>					</span>
+									
+			</div><!-- .entry-utility -->
+ 		</div><!-- #post-## -->
+
+
+
+         <div class="SocialWidgets" id="homewidget">
+            	<div id="shareMarkup" class="sm4Widget" data-widget="shareHorizontal2" data-contentUri="http://blogamole.tr3s.com/2013/11/26/join-the-global-reunion-world-aids-day-2013/" data-layout="horizontal"></div>
+                <script type="text/javascript">
+				MTVN.conf.sm4["widgets"]["shareHorizontal2"] = {
+					"name": "Share",
+					"opts": {
+						title: ' ',
+						elements: [
+							{ id: 'Facebook' },
+							{ id: 'Twitter' },
+							{ id: 'StumbleUpon' },
+							{ id: 'More', title: 'More' }
+						]
+					}
+				};
+				</script>
+                <a href="http://blogamole.tr3s.com/2013/11/26/join-the-global-reunion-world-aids-day-2013/" class="permalink">| Permalink</a>
+
+
+
+            	<script type="text/javascript" charset="utf-8">
+					Flux.createWidget('ContentAction', {
+						contentUri: 'http://blogamole.tr3s.com/2013/11/26/join-the-global-reunion-world-aids-day-2013/',
+						layout: 'horizontal',
+						size: 'small',
+						metricsAsPermalink: false,
+						hideShareToGroup: false,
+						items: [
+							{ id: 'commentCount', title: 'comments' },
+							{ id: 'contentRating', type: 'thumbsUpDown', title: { thumbsUpTitle: 'Rating', thumbsDownTitle: 'Rating' }}
+						]
+					});
+				</script>
+
+				<!-- don't want to count view of post on homepage listing //-->
+                <!-- <img class="pixel" src="http://t.flux.com/tracking.gif?CMU=FEF7FFFF009993DA0002FFFFF7FE&amp;CUR=http://blogamole.tr3s.com/2013/11/26/join-the-global-reunion-world-aids-day-2013/&amp;WN=ContentView&amp;FTG=1&amp;RND=1386064913.4541" border="0" alt="" /> -->
+            </div>
+
+
+
+
+
+
+		
+	
+
+
+			<div id="post-102237" class="post-102237 post type-post status-publish format-standard hentry category-award-shows tag-award-shows tag-blogger-ikam-acosta tag-cultura tag-culture tag-latina tag-latinos">
+
+
+            <h2 class="entry-title"><a href="http://blogamole.tr3s.com/2013/11/26/is-there-contempt-for-latinos-in-the-music-industry/" title="Permalink to Is There Contempt For Latinos In The Music Industry?" rel="bookmark">Is There Contempt For Latinos In The Music Industry?</a></h2>
+
+     <div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://blogamole.tr3s.com/2013/11/26/is-there-contempt-for-latinos-in-the-music-industry/" title="7:08 pm" rel="bookmark"><span class="entry-date">November 26, 2013</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://blogamole.tr3s.com/author/" title="See all of acostai posts">Ikam Acosta</a></span>                					<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">in</span> <a href="http://blogamole.tr3s.com/category/award-shows/" title="View all posts in Award Shows" rel="category tag">Award Shows</a>					</span>
+							</div><!-- .entry-meta -->
+
+
+
+				<div class="entry-content home-entry">
+				                <img width="300" src="http://blogamole.tr3s.com/wp-content/uploads/2013/11/marc-anthony-jennifer-lopez-pitbull-american-music-awards-1125-art-300x221.jpg" class="aligncenter wp-post-image tfe" alt="marc-anthony-jennifer-lopez-pitbull-american-music-awards-1125-art" title="" /><p>Latina magazine is reporting that a lot of Americans expressed some hate on Twitter over the Latino presence at the American Music Awards.</p>
+<p>One viewer said, &#8220;Pitbull isnt even american like gtfo off the stage,&#8221; and another tweeted, &#8220;Yeah, let someone that can&#8217;t even enunciate his words or speak English without slipping in words of Spanish <br /><a class="excerpt-link-text" href="http://blogamole.tr3s.com/2013/11/26/is-there-contempt-for-latinos-in-the-music-industry/">Read More&#8230;</a></p>
+
+							 <br clear="all" />
+            </div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+				 					<span class="tag-links">
+						<span class="entry-utility-prep entry-utility-prep-tag-links">Tags </span> <a href="http://blogamole.tr3s.com/tag/award-shows/" rel="tag">Award Shows</a>, <a href="http://blogamole.tr3s.com/tag/blogger-ikam-acosta/" rel="tag">Blogger: Ikam Acosta</a>, <a href="http://blogamole.tr3s.com/tag/cultura/" rel="tag">Cultura</a>, <a href="http://blogamole.tr3s.com/tag/culture/" rel="tag">culture</a>, <a href="http://blogamole.tr3s.com/tag/latina/" rel="tag">Latina</a>, <a href="http://blogamole.tr3s.com/tag/latinos/" rel="tag">Latinos</a>					</span>
+									
+			</div><!-- .entry-utility -->
+ 		</div><!-- #post-## -->
+
+
+
+         <div class="SocialWidgets" id="homewidget">
+            	<div id="shareMarkup" class="sm4Widget" data-widget="shareHorizontal2" data-contentUri="http://blogamole.tr3s.com/2013/11/26/is-there-contempt-for-latinos-in-the-music-industry/" data-layout="horizontal"></div>
+                <script type="text/javascript">
+				MTVN.conf.sm4["widgets"]["shareHorizontal2"] = {
+					"name": "Share",
+					"opts": {
+						title: ' ',
+						elements: [
+							{ id: 'Facebook' },
+							{ id: 'Twitter' },
+							{ id: 'StumbleUpon' },
+							{ id: 'More', title: 'More' }
+						]
+					}
+				};
+				</script>
+                <a href="http://blogamole.tr3s.com/2013/11/26/is-there-contempt-for-latinos-in-the-music-industry/" class="permalink">| Permalink</a>
+
+
+
+            	<script type="text/javascript" charset="utf-8">
+					Flux.createWidget('ContentAction', {
+						contentUri: 'http://blogamole.tr3s.com/2013/11/26/is-there-contempt-for-latinos-in-the-music-industry/',
+						layout: 'horizontal',
+						size: 'small',
+						metricsAsPermalink: false,
+						hideShareToGroup: false,
+						items: [
+							{ id: 'commentCount', title: 'comments' },
+							{ id: 'contentRating', type: 'thumbsUpDown', title: { thumbsUpTitle: 'Rating', thumbsDownTitle: 'Rating' }}
+						]
+					});
+				</script>
+
+				<!-- don't want to count view of post on homepage listing //-->
+                <!-- <img class="pixel" src="http://t.flux.com/tracking.gif?CMU=FEF7FFFF009993DA0002FFFFF7FE&amp;CUR=http://blogamole.tr3s.com/2013/11/26/is-there-contempt-for-latinos-in-the-music-industry/&amp;WN=ContentView&amp;FTG=1&amp;RND=1386064913.474" border="0" alt="" /> -->
+            </div>
+
+
+
+
+
+
+		
+	
+
+
+			<div id="post-102234" class="post-102234 post type-post status-publish format-standard hentry category-chisme tag-blogger-ikam-acosta tag-celebrities tag-chisme tag-piolin">
+
+
+            <h2 class="entry-title"><a href="http://blogamole.tr3s.com/2013/11/26/graphic-allegations-against-piolin-by-his-employees/" title="Permalink to Graphic Allegations Against Piolin By His Employees" rel="bookmark">Graphic Allegations Against Piolin By His Employees</a></h2>
+
+     <div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://blogamole.tr3s.com/2013/11/26/graphic-allegations-against-piolin-by-his-employees/" title="4:57 pm" rel="bookmark"><span class="entry-date">November 26, 2013</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://blogamole.tr3s.com/author/" title="See all of acostai posts">Ikam Acosta</a></span>                					<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">in</span> <a href="http://blogamole.tr3s.com/category/chisme/" title="View all posts in Chisme" rel="category tag">Chisme</a>					</span>
+							</div><!-- .entry-meta -->
+
+
+
+				<div class="entry-content home-entry">
+				                <img width="300" src="http://blogamole.tr3s.com/wp-content/uploads/2013/11/Eddie-Piolin-Sotelo-300x254.jpg" class="aligncenter wp-post-image tfe" alt="Eddie Piolin Sotelo" title="" /><p>Some of the allegations about radio host Eddie &#8220;Piolin&#8221; Sotelo have taken quite a graphic turn as some of his ex employees step up and accuse him of saying and doing some very inappropriate things.</p>
+<p>According to TMZ, Piolin made some employees watch him pee and poo, and also dished out some verbal and sometimes physical <br /><a class="excerpt-link-text" href="http://blogamole.tr3s.com/2013/11/26/graphic-allegations-against-piolin-by-his-employees/">Read More&#8230;</a></p>
+
+							 <br clear="all" />
+            </div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+				 					<span class="tag-links">
+						<span class="entry-utility-prep entry-utility-prep-tag-links">Tags </span> <a href="http://blogamole.tr3s.com/tag/blogger-ikam-acosta/" rel="tag">Blogger: Ikam Acosta</a>, <a href="http://blogamole.tr3s.com/tag/celebrities/" rel="tag">Celebrities</a>, <a href="http://blogamole.tr3s.com/tag/chisme/" rel="tag">Chisme</a>, <a href="http://blogamole.tr3s.com/tag/piolin/" rel="tag">Piolin</a>					</span>
+									
+			</div><!-- .entry-utility -->
+ 		</div><!-- #post-## -->
+
+
+
+         <div class="SocialWidgets" id="homewidget">
+            	<div id="shareMarkup" class="sm4Widget" data-widget="shareHorizontal2" data-contentUri="http://blogamole.tr3s.com/2013/11/26/graphic-allegations-against-piolin-by-his-employees/" data-layout="horizontal"></div>
+                <script type="text/javascript">
+				MTVN.conf.sm4["widgets"]["shareHorizontal2"] = {
+					"name": "Share",
+					"opts": {
+						title: ' ',
+						elements: [
+							{ id: 'Facebook' },
+							{ id: 'Twitter' },
+							{ id: 'StumbleUpon' },
+							{ id: 'More', title: 'More' }
+						]
+					}
+				};
+				</script>
+                <a href="http://blogamole.tr3s.com/2013/11/26/graphic-allegations-against-piolin-by-his-employees/" class="permalink">| Permalink</a>
+
+
+
+            	<script type="text/javascript" charset="utf-8">
+					Flux.createWidget('ContentAction', {
+						contentUri: 'http://blogamole.tr3s.com/2013/11/26/graphic-allegations-against-piolin-by-his-employees/',
+						layout: 'horizontal',
+						size: 'small',
+						metricsAsPermalink: false,
+						hideShareToGroup: false,
+						items: [
+							{ id: 'commentCount', title: 'comments' },
+							{ id: 'contentRating', type: 'thumbsUpDown', title: { thumbsUpTitle: 'Rating', thumbsDownTitle: 'Rating' }}
+						]
+					});
+				</script>
+
+				<!-- don't want to count view of post on homepage listing //-->
+                <!-- <img class="pixel" src="http://t.flux.com/tracking.gif?CMU=FEF7FFFF009993DA0002FFFFF7FE&amp;CUR=http://blogamole.tr3s.com/2013/11/26/graphic-allegations-against-piolin-by-his-employees/&amp;WN=ContentView&amp;FTG=1&amp;RND=1386064913.4932" border="0" alt="" /> -->
+            </div>
+
+
+
+
+
+
+		
+	
+
+
+			<div id="post-102231" class="post-102231 post type-post status-publish format-standard hentry category-award-shows tag-award-shows tag-huffpost-latinovoices tag-latin-grammy-awards tag-latin-grammys">
+
+
+            <h2 class="entry-title"><a href="http://blogamole.tr3s.com/2013/11/26/latin-grammy-2013-red-carpet-the-good-the-bad-and-the-terrifying-photos/" title="Permalink to Latin Grammy 2013 Red Carpet: The Good, The Bad And The Terrifying (PHOTOS)" rel="bookmark">Latin Grammy 2013 Red Carpet: The Good, The Bad And The Terrifying (PHOTOS)</a></h2>
+
+     <div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://blogamole.tr3s.com/2013/11/26/latin-grammy-2013-red-carpet-the-good-the-bad-and-the-terrifying-photos/" title="2:44 pm" rel="bookmark"><span class="entry-date">November 26, 2013</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="http://blogamole.tr3s.com/author/" title="See all of acostai posts">Ikam Acosta</a></span>                					<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">in</span> <a href="http://blogamole.tr3s.com/category/award-shows/" title="View all posts in Award Shows" rel="category tag">Award Shows</a>					</span>
+							</div><!-- .entry-meta -->
+
+
+
+				<div class="entry-content home-entry">
+				                <img width="300" src="http://blogamole.tr3s.com/wp-content/uploads/2013/11/n-LATIN-GRAMMY-large570.jpg" class="aligncenter wp-post-image tfe" alt="n-LATIN-GRAMMY-large570" title="" /><p>From HuffPost LatinoVoices</p>
+<p>The 2013 Latin Grammy Awards&#8217; red carpet may have been rained out, but it didn&#8217;t stop the stars from flaunting their fashion.</p>
+<p>Gowns with bold plunges and curve-hugging silhouettes ruled the impromptu red carpet, though there were some looks that simply missed the mark. From what seemed to be a Gaga-inspired ensemble, to a <br /><a class="excerpt-link-text" href="http://blogamole.tr3s.com/2013/11/26/latin-grammy-2013-red-carpet-the-good-the-bad-and-the-terrifying-photos/">Read More&#8230;</a></p>
+
+							 <br clear="all" />
+            </div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+				 					<span class="tag-links">
+						<span class="entry-utility-prep entry-utility-prep-tag-links">Tags </span> <a href="http://blogamole.tr3s.com/tag/award-shows/" rel="tag">Award Shows</a>, <a href="http://blogamole.tr3s.com/tag/huffpost-latinovoices/" rel="tag">HuffPost LatinoVoices</a>, <a href="http://blogamole.tr3s.com/tag/latin-grammy-awards/" rel="tag">Latin Grammy Awards</a>, <a href="http://blogamole.tr3s.com/tag/latin-grammys/" rel="tag">Latin Grammys</a>					</span>
+									
+			</div><!-- .entry-utility -->
+ 		</div><!-- #post-## -->
+
+
+
+         <div class="SocialWidgets" id="homewidget">
+            	<div id="shareMarkup" class="sm4Widget" data-widget="shareHorizontal2" data-contentUri="http://blogamole.tr3s.com/2013/11/26/latin-grammy-2013-red-carpet-the-good-the-bad-and-the-terrifying-photos/" data-layout="horizontal"></div>
+                <script type="text/javascript">
+				MTVN.conf.sm4["widgets"]["shareHorizontal2"] = {
+					"name": "Share",
+					"opts": {
+						title: ' ',
+						elements: [
+							{ id: 'Facebook' },
+							{ id: 'Twitter' },
+							{ id: 'StumbleUpon' },
+							{ id: 'More', title: 'More' }
+						]
+					}
+				};
+				</script>
+                <a href="http://blogamole.tr3s.com/2013/11/26/latin-grammy-2013-red-carpet-the-good-the-bad-and-the-terrifying-photos/" class="permalink">| Permalink</a>
+
+
+
+            	<script type="text/javascript" charset="utf-8">
+					Flux.createWidget('ContentAction', {
+						contentUri: 'http://blogamole.tr3s.com/2013/11/26/latin-grammy-2013-red-carpet-the-good-the-bad-and-the-terrifying-photos/',
+						layout: 'horizontal',
+						size: 'small',
+						metricsAsPermalink: false,
+						hideShareToGroup: false,
+						items: [
+							{ id: 'commentCount', title: 'comments' },
+							{ id: 'contentRating', type: 'thumbsUpDown', title: { thumbsUpTitle: 'Rating', thumbsDownTitle: 'Rating' }}
+						]
+					});
+				</script>
+
+				<!-- don't want to count view of post on homepage listing //-->
+                <!-- <img class="pixel" src="http://t.flux.com/tracking.gif?CMU=FEF7FFFF009993DA0002FFFFF7FE&amp;CUR=http://blogamole.tr3s.com/2013/11/26/latin-grammy-2013-red-carpet-the-good-the-bad-and-the-terrifying-photos/&amp;WN=ContentView&amp;FTG=1&amp;RND=1386064913.5118" border="0" alt="" /> -->
+            </div>
+
+
+
+
+
+
+		
+	
+
+<div class='wp-pagenavi'>
+<span class='current'>1</span><a href='http://blogamole.tr3s.com/page/2/' class='page larger'>2</a><a href='http://blogamole.tr3s.com/page/3/' class='page larger'>3</a><a href='http://blogamole.tr3s.com/page/4/' class='page larger'>4</a><a href='http://blogamole.tr3s.com/page/5/' class='page larger'>5</a><a href='http://blogamole.tr3s.com/page/6/' class='page larger'>6</a><a href='http://blogamole.tr3s.com/page/7/' class='page larger'>7</a><a href='http://blogamole.tr3s.com/page/8/' class='page larger'>8</a><a href='http://blogamole.tr3s.com/page/9/' class='page larger'>9</a><a href='http://blogamole.tr3s.com/page/10/' class='page larger'>10</a><a href="http://blogamole.tr3s.com/page/2/" class="nextpostslink">»</a>
+</div>
+<div class="Trendingtres">
+	<h3>Tr3nding on tr3s</h3>
+    <div>
+    	<a href="http://www.tr3s.com/shows/featured/familia-de-circo/app" target="_blank">Familia de Circo</a>
+    	<a href="/shows/remexa/" target="_blank">Remexa</a>
+    	<a href="/shows/top-20/" target="_blank">Top 20</a>
+    </div>
+</div>
+
+			</div><!-- #content -->
+		</div><!-- #container -->
+
+
+		<div id="primary" class="widget-area" role="complementary">
+        			<ul class="xoxo">
+
+
+
+			<li id="search" class="widget-container widget_search">
+				<form role="search" method="get" id="searchform" class="searchform" action="http://blogamole.tr3s.com/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form>			</li>
+
+            <li>
+            	<div class="Adv300x250">
+                	<script type="text/javascript">
+						var keys = "mpu=1;sky=0;overlay=1;site_region=latam;!category=blog;!category=expand;!category=float";
+						btg.Controller.placeAd({
+							size:"300x250",
+							isReloadable:true,
+							reloadInterval:90000,
+							region: countryCode.toUpperCase(),
+							keyValues:keys
+						});
+					</script>
+
+                </div>
+            </li>
+
+
+<li id="extended-categories-2" class="widget-container widget_extended-categories"><!-- AVH Extended Categories version 3.6.4 | http://blog.avirtualhome.com/wordpress-plugins/ --><h3 class="widget-title">Categories</h3><ul>	<li class="cat-item cat-item-1"><div class="avhec-widget-line"><a href="http://blogamole.tr3s.com/category/celebrity/" title="View all posts filed under Celebrities">Celebrities</a></div>
+</li>
+	<li class="cat-item cat-item-10"><div class="avhec-widget-line"><a href="http://blogamole.tr3s.com/category/chisme/" title="View all posts filed under Chisme">Chisme</a></div>
+</li>
+	<li class="cat-item cat-item-11"><div class="avhec-widget-line"><a href="http://blogamole.tr3s.com/category/television/tr3s_shows/" title="View all posts filed under Tr3s Shows">Tr3s Shows</a></div>
+</li>
+	<li class="cat-item cat-item-12"><div class="avhec-widget-line"><a href="http://blogamole.tr3s.com/category/musica/" title="View all posts filed under Música">Música</a></div>
+</li>
+	<li class="cat-item cat-item-14"><div class="avhec-widget-line"><a href="http://blogamole.tr3s.com/category/style/" title="View all posts filed under Style">Style</a></div>
+</li>
+	<li class="cat-item cat-item-248"><div class="avhec-widget-line"><a href="http://blogamole.tr3s.com/category/sports/" title="View all posts filed under Sports">Sports</a></div>
+</li>
+	<li class="cat-item cat-item-952"><div class="avhec-widget-line"><a href="http://blogamole.tr3s.com/category/politics/" title="View all posts filed under Politics">Politics</a></div>
+</li>
+	<li class="cat-item cat-item-1595"><div class="avhec-widget-line"><a href="http://blogamole.tr3s.com/category/cine/" title="View all posts filed under Movies &amp; CineMás">Movies &amp; CineMás</a></div>
+</li>
+	<li class="cat-item cat-item-1601"><div class="avhec-widget-line"><a href="http://blogamole.tr3s.com/category/holidays/" title="View all posts filed under Holidays">Holidays</a></div>
+</li>
+	<li class="cat-item cat-item-2123"><div class="avhec-widget-line"><a href="http://blogamole.tr3s.com/category/immigration/" title="View all posts filed under Immigration">Immigration</a></div>
+</li>
+	<li class="cat-item cat-item-2375"><div class="avhec-widget-line"><a href="http://blogamole.tr3s.com/category/hot-stuff/" title="View all posts filed under Hot Stuff">Hot Stuff</a></div>
+</li>
+	<li class="cat-item cat-item-2963"><div class="avhec-widget-line"><a href="http://blogamole.tr3s.com/category/award-shows/" title="View all posts filed under Award Shows">Award Shows</a></div>
+</li>
+	<li class="cat-item cat-item-3177"><div class="avhec-widget-line"><a href="http://blogamole.tr3s.com/category/salud/" title="View all posts filed under Health">Health</a></div>
+</li>
+	<li class="cat-item cat-item-5844"><div class="avhec-widget-line"><a href="http://blogamole.tr3s.com/category/tr3s-exclusives/" title="View all posts filed under Tr3s Exclusives">Tr3s Exclusives</a></div>
+</li>
+	<li class="cat-item cat-item-13087"><div class="avhec-widget-line"><a href="http://blogamole.tr3s.com/category/agentes-de-cambio-2/" title="View all posts filed under Agentes de Cambio">Agentes de Cambio</a></div>
+</li>
+</ul></li>
+
+            <li>
+            	<a href="http://network.blogamole.com" class="banner_ad"> <img src="/wp-content/themes/blogamole/images/banner_ad.jpg" alt="" /></a>
+            </li>
+            <li class="latinofeed">
+            	<script type="text/javascript" src="http://www.tr3s.com/gsp/blogamole_feed/js/jquery.jgfeed-min.js" ></script>
+            	<script type="text/javascript" src="http://www.huffingtonpost.com/feeds/verticals/latino-voices/news.xml" ></script>
+                <script type="text/javascript">
+					jQuery(function(){
+					jQuery.jGFeed('http://www.huffingtonpost.com/feeds/verticals/latino-voices/news.xml',
+						function(feeds){
+						  if(!feeds){
+						//	alert('Failed');
+						  }
+						  for(var i=0; i<feeds.entries.length; i++){
+							var entry = feeds.entries[i];
+							var div = jQuery('<li><a href="'+entry.link+'" target="_blank">'+entry.title+'</a></li>');
+							jQuery('.latinofeed ul').append(div);
+						  }
+						}, 5);
+					});
+				</script>
+                <h3>HUFFPOST LATINOVOICES</h3>
+                <ul>
+                </ul>
+
+            </li>
+
+
+			</ul>
+		</div><!-- #primary .widget-area -->
+
+</div><!-- #main -->
+<div id="footer" role="contentinfo">
+  <div id="sitefooter" class="sitefooter">
+  <dl class="footerLinks clearAfter">
+    <dt>Stay Connected: </dt>
+    <dd> <a href="http://blogamole.tr3s.com">Blogamole</a> | <a href="http://www.facebook.com/tr3s">Tr3s on Facebook</a> | <a href="http://twitter.com/MTV3">Tr3s on Twitter</a> | <a href="http://exodus.mtv.com/site/signup">Tr3s Newsletter</a> | <a href="mailto:feedback@tr3s.com">Feedback</a> </dd>
+  </dl>
+  <dl class="footerLinks clearAfter">
+    <dt>Shows: </dt>
+    <dd> <a href="http://www.tr3s.com/shows/quiero-mi-boda-season-3/">Quiero Mi Boda</a> | <a href="http://www.tr3s.com/shows/featured/ninas-mal">Ni&ntilde;as Mal</a> | <a href="http://www.tr3s.com/shows/quiero-mis-quinces-season-6/">Quiero Mis Quinces</a> | <a href="http://mmg.tr3s.com/">Music My Guey</a> | <a href="http://www.tr3s.com/shows/mis-videos-locos/">Mis Videos Locos</a> </dd>
+  </dl>
+  <dl class="footerLinks clearAfter">
+    <dt>M&uacute;sica: </dt>
+    <dd> <a href="http://blogamole.tr3s.com/category/musica/">M&uacute;sica on Blogamole</a> | <a href="http://www.tr3s.com/music/artists/">Featured Tr3s Artists</a> | <a href="http://www.tr3s.com/ourstage">OurStage</a> </dd>
+  </dl>
+  <dl class="footerLinks clearAfter">
+    <dt>Tr3s Info: </dt>
+    <dd> <a href="http://www.tr3s.comhttp://www.tr3s.com/gsp/tr3s-info-files/tr3s-terms-of-use.pdf">Terms &amp; Conditions</a> | <a href="http://www.tr3s.com/gsp/tr3s-info-files/tr3s-privacy-policy-updated-march-2011.pdf">Privacy Policy</a> | <a href="http://www.tr3s.com/gsp/tr3s-info-files/tr3s-user-content-submission-agreement.pdf">User Content Submission Agreement</a> | <a href="http://www.tr3s.com/gsp/tr3s-info-files/tr3s-copyright-compliance-policy.pdf">Copyright Compliance</a> | <a href="http://srp.mtvn.com/sitefaq.html">Ad Choices <img src="http://www.tr3s.com/gsp/marquee-images/013111/Advertising-Option-Icon.jpg" /></a> | <a href="http://www.mtvnetworkscareers.com/">MTV Jobs</a> | <a href="http://www.socialproject.com/PrivacyPolicy.html">Social Project Terms of Use and Privacy Policy</a> </dd>
+  </dl>
+  <div class="footerCopyright clearAfter">
+    <div class="copyrightInfo">
+      <p>&copy; MTV Networks 2011 / All Rights Reserved</p>
+      <p></p>
+    </div>
+  </div>
+
+<script type="text/javascript" src="http://www.tr3s.com/scripts/jquery/jquery-ui-1.8.2.custom.min.js"></script>
+<script type="text/javascript">
+	/* <![CDATA[ */ jQuery(document).ready(function() {
+	jQuery("#mainSearch").autocomplete({
+	source: function(request, response) {
+	jQuery.ajax({
+	url: "http://search.mtvnservices.com/typeahead/suggest/",
+	dataType: "jsonp",
+	data: {
+	siteName: "solr_mtvtr3s",
+	format: "json",
+	limit: 25,
+	prefix: request.term
+	},
+	success: function(data) {
+	response(jQuery.map(data.response.docs, function(item) {
+	var re = new RegExp("(" + request.term + ")","i");
+	return {
+	label: item.term.replace(re, "<strong>$1</strong>"),
+	value: item.term
+	}
+	}))
+	}
+	})
+	},
+	select: function(event, ui) {
+	window.location.href = "/search/?query=" + ui.item.value;
+	},
+	minLength: 1,
+	delay: 100,
+	position: {
+	offset: "13 -2",
+	of: jQuery("#searchblock")
+	}
+	});
+	});
+	/* ]]> */
+</script>
+
+<script type="text/javascript">
+	/* GOOGLE ANALYTICS */
+	var prefix = '/blogamole';
+	var url = window.location.href;
+	var url_parts = url.split('.com');
+	var final_url = prefix + ((url_parts[1])?url_parts[1]:'');
+
+	var dn = '.tr3s.com';
+	if ( window.location.href.indexOf('.tr3s-d.mtvi.com') < 0 || window.location.href.indexOf('.tr3s-q.mtvi.com') < 0 ){
+		dn = '.mtvi.com';
+	}
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-20036270-1']);
+	_gaq.push(['_setDomainName', dn]);
+	_gaq.push(['_trackPageview',final_url]);
+
+	(function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
+</script>
+
+</div> 
+</div>
+<!-- #footer -->
+
+</div><!-- #wrapper -->
+
+<!--PAGEOK-->
+
+</body>
+</html>
+		

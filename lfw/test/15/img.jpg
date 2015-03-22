@@ -1,0 +1,923 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
+<head><title>
+	Fall 2013 - DGA Quarterly Fall 2013
+</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="CODE_LANGUAGE" content="C#" /><meta name="vs_defaultClientScript" content="JavaScript" /><meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5" /><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" /><link rel="Stylesheet" type="text/css" href="/styles/main.css?v=11262013" />
+<link rel="Stylesheet" type="text/css" href="/styles/buttons.css?v=11262013" />
+<link rel="Stylesheet" type="text/css" href="/styles/boxes.css?v=11262013" />
+<link rel="Stylesheet" type="text/css" href="/styles/grid.css?v=11262013" />
+<link rel="Stylesheet" type="text/css" href="/styles/ezmark.css?v=11262013" />
+<link rel="Stylesheet" type="text/css" href="/styles/slider.css?v=11262013" />
+<link rel="Stylesheet" type="text/css" href="/styles/videobox.css?v=11262013" />
+<link rel="Stylesheet" type="text/css" href="/styles/colorbox.css?v=11262013" />
+<link rel="Stylesheet" type="text/css" href="/styles/stylish-select.css?v=11262013" />
+<link rel="Stylesheet" type="text/css" href="/styles/calendar.css?v=11262013" />
+<link rel="Stylesheet" type="text/css" href="/styles/carousel.css?v=11262013" />
+<link rel="Stylesheet" type="text/css" href="/styles/jquery.rte.css?v=11262013" />
+<link rel="Stylesheet" type="text/css" href="/styles/richContent.css?v=11262013" />
+<link rel="Stylesheet" type="text/css" href="/styles/isotope.css?v=11262013" />
+<link rel="Stylesheet" type="text/css" href="/assets/css/jquery.Jcrop.css?v=11262013" />
+<!--[if lt IE 9]>
+<link rel="Stylesheet" type="text/css" href="/styles/ie-fixes.css?v=11262013" />
+<![endif]-->
+<meta name="ItemType" content="DGA Quarterly" /><meta name="ItemID" content="{EEA7ECE0-64C5-4C91-8022-514C9B5ACFF8}" /><meta name="itempath" content="/sitecore/content/Home/Craft/DGAQ/Issues/1304 Fall 2013" /><meta name="templateid" content="{FFDD220A-161E-4C63-959E-CF7F0E2CAD31}" /><link href="/layouts/System/VisitorIdentification.aspx" rel="stylesheet" type="text/css" />
+
+    <script src="http://cdn.jquerytools.org/1.2.4/full/jquery.tools.min.js"></script>
+    <script type="text/javascript" src="/scripts/jcarousellite_1.0.1.js"></script>
+    <script type="text/javascript" src="/scripts/cufon-yui.js"></script>
+    <script type="text/javascript" src="/scripts/DIN_500.font.js"></script>
+    <script type="text/javascript" src="/scripts/DIN-Medium_500.font.js"></script>
+    <script type="text/javascript" src="/scripts/DIN-Light_300.font.js"></script>
+    <script type="text/javascript" src="/scripts/global.js?v=11262013"></script>
+
+
+    <script type="text/javascript" src="/scripts/jquery.colorbox-min.js"></script>
+    <script type="text/javascript" src="/scripts/jquery.videobox.js"></script>
+    <script type="text/javascript" src="/scripts/jquery.ezmark.js"></script>
+    <script type="text/javascript" src="/scripts/jquery.stylish-select.js"></script>
+       
+
+
+</head>
+<body>
+<!-- BEGIN MainLayout.aspx DGAQ-->
+
+
+
+<!-- BEGIN Controls/Omniture.ascx -->
+
+
+
+<!-- SiteCatalyst code -->
+<script language="JavaScript" type="text/javascript" src="/scripts/s_code.js"></script>
+
+
+    <script language="JavaScript" type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on the next lines. */
+s.channel = "CRAFT"
+s.prop1 = "DGA Quarterly"
+s.prop3 = "Issues"
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code = s.t(); if (s_code) document.write(s_code)//--></script>
+
+
+<script language="JavaScript" type="text/javascript"><!--
+    if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-')
+//--></script>
+
+<noscript>
+    <img src="http://directorsguildofamerica.112.2o7.net/b/ss/dgoadev/1/H.23.8--NS/0?[AQB]&cdp=3&[AQE]"
+height="1" width="1" border="0" alt="" />
+</noscript>
+<!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.23.8. -->
+
+
+<!-- END Controls/Omniture.ascx -->
+
+
+<form name="form1" method="post" action="/Craft/DGAQ/Issues/1304-Fall-2013.aspx?IID=%7BEEA7ECE0-64C5-4C91-8022-514C9B5ACFF8%7D" id="form1" onsubmit="setHourglass();return true;">
+<div>
+<input type="hidden" name="top_0_ToolkitScriptManager1_HiddenField" id="top_0_ToolkitScriptManager1_HiddenField" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTQ5NTcxNjI4Mw9kFgQCAw9kFgQCAQ8WAh4HVmlzaWJsZWhkAgMPFgIeBFRleHQF5wI8c2NyaXB0IGxhbmd1YWdlPSJKYXZhU2NyaXB0IiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwhLS0NCi8qIFlvdSBtYXkgZ2l2ZSBlYWNoIHBhZ2UgYW4gaWRlbnRpZnlpbmcgbmFtZSwgc2VydmVyLCBhbmQgY2hhbm5lbCBvbiB0aGUgbmV4dCBsaW5lcy4gKi8NCnMuY2hhbm5lbCA9ICJDUkFGVCINCnMucHJvcDEgPSAiREdBIFF1YXJ0ZXJseSINCnMucHJvcDMgPSAiSXNzdWVzIg0KLyoqKioqKioqKioqKiogRE8gTk9UIEFMVEVSIEFOWVRISU5HIEJFTE9XIFRISVMgTElORSAhICoqKioqKioqKioqKioqLw0KdmFyIHNfY29kZSA9IHMudCgpOyBpZiAoc19jb2RlKSBkb2N1bWVudC53cml0ZShzX2NvZGUpLy8tLT48L3NjcmlwdD4NCmQCBRBkZBYMAgEPZBYEZg9kFgJmD2QWAgIDD2QWAgIBDxYCHgRocmVmBXsvTG9naW4uYXNweD9SZXR1cm5Vcmw9JTJmQ3JhZnQlMmZER0FRJTJmSXNzdWVzJTJmMTMwNC1GYWxsLTIwMTMuYXNweCUzZklJRCUzZCUyNTdCRUVBN0VDRTAtNjRDNS00QzkxLTgwMjItNTE0QzlCNUFDRkY4JTI1N0RkAgEPZBYCZg9kFgICAQ8WAh4LXyFJdGVtQ291bnQCCBYQZg9kFgRmDxUEFmhyZWY9Ii9UaGUtR3VpbGQuYXNweCIAAAlUaGUgR3VpbGRkAgEPZBYCAgEPFgIfAwIIFhBmD2QWAmYPFQEXL1RoZS1HdWlsZC9NZW1iZXJzLmFzcHhkAgEPZBYCZg8VARcvVGhlLUd1aWxkL0xlYWRlcnMuYXNweGQCAg9kFgJmDxUBGi9UaGUtR3VpbGQvQ29tbWl0dGVlcy5hc3B4ZAIDD2QWAmYPFQEYL1RoZS1HdWlsZC9Db3VuY2lscy5hc3B4ZAIED2QWAmYPFQEbL1RoZS1HdWlsZC9EZXBhcnRtZW50cy5hc3B4ZAIFD2QWAmYPFQEZL1RoZS1HdWlsZC9EaXZlcnNpdHkuYXNweGQCBg9kFgJmDxUBGC9UaGUtR3VpbGQvVGhlYXRlcnMuYXNweGQCBw9kFgJmDxUBFy9UaGUtR3VpbGQvSGlzdG9yeS5hc3B4ZAIBD2QWBGYPFQQWaHJlZj0iL0VtcGxveWVycy5hc3B4IgAACUVtcGxveWVyc2QCAQ9kFgICAQ8WAh8DAgYWDGYPZBYCZg8VASEvRW1wbG95ZXJzL0JlY29taW5nU2lnbmF0b3J5LmFzcHhkAgEPZBYCZg8VARkvRW1wbG95ZXJzL0RlYWxNZW1vcy5hc3B4ZAICD2QWAmYPFQEfL0VtcGxveWVycy9FbXBsb3llcnNTZWFyY2guYXNweGQCAw9kFgJmDxUBIS9FbXBsb3llcnMvQXZhaWxBbmRQcm9kTGlzdHMuYXNweGQCBA9kFgJmDxUBIi9FbXBsb3llcnMvUXVhbGlmaWNhdGlvbkxpc3RzLmFzcHhkAgUPZBYCZg8VASEvRW1wbG95ZXJzL1NpZ25hdG9yeURhdGFiYXNlLmFzcHhkAgIPZBYEZg8VBBZocmVmPSIvQ29udHJhY3RzLmFzcHgiAAAJQ29udHJhY3RzZAIBD2QWAgIBDxYCHwMCAxYGZg9kFgJmDxUBGi9Db250cmFjdHMvQWdyZWVtZW50cy5hc3B4ZAIBD2QWAmYPFQEiL0NvbnRyYWN0cy9SYXRlcy0yMDEzLXRvLTIwMTQuYXNweGQCAg9kFgJmDxUBHy9Db250cmFjdHMvQ3JlYXRpdmUtUmlnaHRzLmFzcHhkAgMPZBYEZg8VBAANbWVudUVtcGxveWVycxBjdXJzb3I6IGRlZmF1bHQ7BE5ld3NkAgEPZBYCAgEPFgIfAwIFFgpmD2QWAmYPFQEYL05ld3MvUHJlc3NSZWxlYXNlcy5hc3B4ZAIBD2QWAmYPFQEVL05ld3MvR3VpbGQtTmV3cy5hc3B4ZAICD2QWAmYPFQEZL05ld3MvTWVtYmVyc2hpcE5ld3MuYXNweGQCAw9kFgJmDxUBFy9OZXdzL0luZHVzdHJ5TmV3cy5hc3B4ZAIED2QWAmYPFQEVL05ld3MvREdBTW9udGhseS5hc3B4ZAIED2QWBGYPFQQTaHJlZj0iL0V2ZW50cy5hc3B4IgAABkV2ZW50c2QCAQ8WAh8AaBYCAgEPFgIfA2ZkAgUPZBYEZg8VBAANbWVudUVtcGxveWVycxBjdXJzb3I6IGRlZmF1bHQ7BkF3YXJkc2QCAQ9kFgICAQ8WAh8DAgUWCmYPZBYCZg8VARMvQXdhcmRzL0FubnVhbC5hc3B4ZAIBD2QWAmYPFQEUL0F3YXJkcy9FeHBsb3JlLmFzcHhkAgIPZBYCZg8VARQvQXdhcmRzL0hpc3RvcnkuYXNweGQCAw9kFgJmDxUBFS9Bd2FyZHMvU3R1ZGVudHMuYXNweGQCBA9kFgJmDxUBEy9Bd2FyZHMvSG9ub3JzLmFzcHhkAgYPZBYEZg8VBBhocmVmPSIvSW5pdGlhdGl2ZXMuYXNweCIAAAtJbml0aWF0aXZlc2QCAQ9kFgICAQ8WAh8DAgUWCmYPZBYCZg8VAScvSW5pdGlhdGl2ZXMvUHJvZHVjdGlvbi1JbmNlbnRpdmVzLmFzcHhkAgEPZBYCZg8VAS0vSW5pdGlhdGl2ZXMvUHJvdGVjdGluZy1DcmVhdGl2ZS1Db250ZW50LmFzcHhkAgIPZBYCZg8VASgvSW5pdGlhdGl2ZXMvQWRkaXRpb25hbC1Jbml0aWF0aXZlcy5hc3B4ZAIDD2QWAmYPFQEfL0luaXRpYXRpdmVzL0ludGVybmF0aW9uYWwuYXNweGQCBA9kFgJmDxUBFS9Jbml0aWF0aXZlcy9QQUMuYXNweGQCBw9kFgRmDxUEABNhY3RpdmVtZW51RW1wbG95ZXJzEGN1cnNvcjogZGVmYXVsdDsFQ3JhZnRkAgEPZBYCAgEPFgIfAwIEFghmD2QWAmYPFQEQL0NyYWZ0L0RHQVEuYXNweGQCAQ9kFgJmDxUBFy9DcmFmdC9EaXJlY3Rvci1RQS5hc3B4ZAICD2QWAmYPFQEZL0NyYWZ0L1Zpc3VhbEhpc3RvcnkuYXNweGQCAw9kFgJmDxUBHC9DcmFmdC83NXRoLUFubml2ZXJzYXJ5LmFzcHhkAgUPZBYCZg9kFgJmD2QWAgIBDxQrAAIPFgQeC18hRGF0YUJvdW5kZx8DAgZkZBYCZg9kFgwCAQ9kFgICAw8UKwACDxYEHwRnHwNmZGRkAgIPZBYCAgMPFCsAAg8WBB8EZx8DZmRkZAIDD2QWAgIDDxQrAAIPFgQfBGcfAwIEZGQWAmYPZBYIAgEPZBYCAgMPDxYEHwEFDkRHQSBJbnRlcnZpZXdzHgtOYXZpZ2F0ZVVybAVUL0NyYWZ0L0RHQVEvQ2F0ZWdvcmllcy9ER0EtSW50ZXJ2aWV3LmFzcHg/SUlEPXtFRUE3RUNFMC02NEM1LTRDOTEtODAyMi01MTRDOUI1QUNGRjh9ZGQCAg9kFgICAw8PFgQfAQUQRGlyZWN0b3IgUHJvZmlsZR8FBVcvQ3JhZnQvREdBUS9DYXRlZ29yaWVzL0RpcmVjdG9yLVByb2ZpbGUuYXNweD9JSUQ9e0VFQTdFQ0UwLTY0QzUtNEM5MS04MDIyLTUxNEM5QjVBQ0ZGOH1kZAIDD2QWAgIDDw8WBB8BBQ9PbiB0aGUgSm9iIFdpdGgfBQVWL0NyYWZ0L0RHQVEvQ2F0ZWdvcmllcy9Pbi10aGUtSm9iLVdpdGguYXNweD9JSUQ9e0VFQTdFQ0UwLTY0QzUtNEM5MS04MDIyLTUxNEM5QjVBQ0ZGOH1kZAIED2QWAgIDDw8WBB8BBRFJbmRlcGVuZGVudCBWb2ljZR8FBVgvQ3JhZnQvREdBUS9DYXRlZ29yaWVzL0luZGVwZW5kZW50LVZvaWNlLmFzcHg/SUlEPXtFRUE3RUNFMC02NEM1LTRDOTEtODAyMi01MTRDOUI1QUNGRjh9ZGQCBA9kFgICAw8UKwACDxYEHwRnHwMCBWRkFgJmD2QWCgIBD2QWAgIDDw8WBB8BBQhGZWF0dXJlcx8FBU8vQ3JhZnQvREdBUS9DYXRlZ29yaWVzL0ZlYXR1cmVzLmFzcHg/SUlEPXtFRUE3RUNFMC02NEM1LTRDOTEtODAyMi01MTRDOUI1QUNGRjh9ZGQCAg9kFgICAw8PFgQfAQUKVGVsZXZpc2lvbh8FBVEvQ3JhZnQvREdBUS9DYXRlZ29yaWVzL1RlbGV2aXNpb24uYXNweD9JSUQ9e0VFQTdFQ0UwLTY0QzUtNEM5MS04MDIyLTUxNEM5QjVBQ0ZGOH1kZAIDD2QWAgIDDw8WBB8BBRBTaG90IHRvIFJlbWVtYmVyHwUFVy9DcmFmdC9ER0FRL0NhdGVnb3JpZXMvU2hvdC10by1SZW1lbWJlci5hc3B4P0lJRD17RUVBN0VDRTAtNjRDNS00QzkxLTgwMjItNTE0QzlCNUFDRkY4fWRkAgQPZBYCAgMPDxYEHwEFDFBob3RvIEVzc2F5cx8FBVMvQ3JhZnQvREdBUS9DYXRlZ29yaWVzL1Bob3RvLUVzc2F5cy5hc3B4P0lJRD17RUVBN0VDRTAtNjRDNS00QzkxLTgwMjItNTE0QzlCNUFDRkY4fWRkAgUPZBYCAgMPDxYEHwEFDlNjcmVlbmluZyBSb29tHwUFVS9DcmFmdC9ER0FRL0NhdGVnb3JpZXMvU2NyZWVuaW5nLVJvb20uYXNweD9JSUQ9e0VFQTdFQ0UwLTY0QzUtNEM5MS04MDIyLTUxNEM5QjVBQ0ZGOH1kZAIFD2QWAgIDDxQrAAIPFgQfBGcfAwILZGQWAmYPZBYWAgEPZBYCAgMPDxYEHwEFDDEwIFF1ZXN0aW9ucx8FBVMvQ3JhZnQvREdBUS9DYXRlZ29yaWVzLzEwLVF1ZXN0aW9ucy5hc3B4P0lJRD17RUVBN0VDRTAtNjRDNS00QzkxLTgwMjItNTE0QzlCNUFDRkY4fWRkAgIPZBYCAgMPDxYEHwEFDkZ1bm55IEJ1c2luZXNzHwUFVS9DcmFmdC9ER0FRL0NhdGVnb3JpZXMvRnVubnktQnVzaW5lc3MuYXNweD9JSUQ9e0VFQTdFQ0UwLTY0QzUtNEM5MS04MDIyLTUxNEM5QjVBQ0ZGOH1kZAIDD2QWAgIDDw8WBB8BBRlUaGUgSW5kdXN0cnkgLyBUZWNobm9sb2d5HwUFXi9DcmFmdC9ER0FRL0NhdGVnb3JpZXMvVGhlLUluZHVzdHJ5LVRlY2hub2xvZ3kuYXNweD9JSUQ9e0VFQTdFQ0UwLTY0QzUtNEM5MS04MDIyLTUxNEM5QjVBQ0ZGOH1kZAIED2QWAgIDDw8WBB8BBQ9Dcml0aWMncyBDb3JuZXIfBQVVL0NyYWZ0L0RHQVEvQ2F0ZWdvcmllcy9Dcml0aWNzLUNvcm5lci5hc3B4P0lJRD17RUVBN0VDRTAtNjRDNS00QzkxLTgwMjItNTE0QzlCNUFDRkY4fWRkAgUPZBYCAgMPDxYEHwEFDkludGVybmV0IFRoZWZ0HwUFVS9DcmFmdC9ER0FRL0NhdGVnb3JpZXMvSW50ZXJuZXQtVGhlZnQuYXNweD9JSUQ9e0VFQTdFQ0UwLTY0QzUtNEM5MS04MDIyLTUxNEM5QjVBQ0ZGOH1kZAIGD2QWAgIDDw8WBB8BBQVCb29rcx8FBUwvQ3JhZnQvREdBUS9DYXRlZ29yaWVzL0Jvb2tzLmFzcHg/SUlEPXtFRUE3RUNFMC02NEM1LTRDOTEtODAyMi01MTRDOUI1QUNGRjh9ZGQCBw9kFgICAw8PFgQfAQUMRFZEIENsYXNzaWNzHwUFUy9DcmFmdC9ER0FRL0NhdGVnb3JpZXMvRFZELUNsYXNzaWNzLmFzcHg/SUlEPXtFRUE3RUNFMC02NEM1LTRDOTEtODAyMi01MTRDOUI1QUNGRjh9ZGQCCA9kFgICAw8PFgQfAQUNSW4gTXkgT3Bpbmlvbh8FBVQvQ3JhZnQvREdBUS9DYXRlZ29yaWVzL0luLU15LU9waW5pb24uYXNweD9JSUQ9e0VFQTdFQ0UwLTY0QzUtNEM5MS04MDIyLTUxNEM5QjVBQ0ZGOH1kZAIJD2QWAgIDDw8WBB8BBQ9PdXQgb2YgdGhlIFBhc3QfBQVWL0NyYWZ0L0RHQVEvQ2F0ZWdvcmllcy9PdXQtb2YtdGhlLVBhc3QuYXNweD9JSUQ9e0VFQTdFQ0UwLTY0QzUtNEM5MS04MDIyLTUxNEM5QjVBQ0ZGOH1kZAIKD2QWAgIDDw8WBB8BBQ1EcmF3aW5nIEJvYXJkHwUFVC9DcmFmdC9ER0FRL0NhdGVnb3JpZXMvRHJhd2luZy1Cb2FyZC5hc3B4P0lJRD17RUVBN0VDRTAtNjRDNS00QzkxLTgwMjItNTE0QzlCNUFDRkY4fWRkAgsPZBYCAgMPDxYEHwEFEENyb3Nzd29yZCBQdXp6bGUfBQVXL0NyYWZ0L0RHQVEvQ2F0ZWdvcmllcy9Dcm9zc3dvcmQtUHV6emxlLmFzcHg/SUlEPXtFRUE3RUNFMC02NEM1LTRDOTEtODAyMi01MTRDOUI1QUNGRjh9ZGQCBg9kFgICAw8UKwACDxYEHwRnHwMCBGRkFgJmD2QWCAIBD2QWAgIDDw8WBB8BBQVBYm91dB8FBUwvQ3JhZnQvREdBUS9DYXRlZ29yaWVzL0Fib3V0LmFzcHg/SUlEPXtFRUE3RUNFMC02NEM1LTRDOTEtODAyMi01MTRDOUI1QUNGRjh9ZGQCAg9kFgICAw8PFgQfAQUNU3Vic2NyaXB0aW9ucx8FBVQvQ3JhZnQvREdBUS9DYXRlZ29yaWVzL1N1YnNjcmlwdGlvbnMuYXNweD9JSUQ9e0VFQTdFQ0UwLTY0QzUtNEM5MS04MDIyLTUxNEM5QjVBQ0ZGOH1kZAIDD2QWAgIDDw8WBB8BBQdMZWdlbmRzHwUFTi9DcmFmdC9ER0FRL0NhdGVnb3JpZXMvTGVnZW5kcy5hc3B4P0lJRD17RUVBN0VDRTAtNjRDNS00QzkxLTgwMjItNTE0QzlCNUFDRkY4fWRkAgQPZBYCAgMPDxYEHwEFB0hpc3RvcnkfBQVOL0NyYWZ0L0RHQVEvQ2F0ZWdvcmllcy9IaXN0b3J5LmFzcHg/SUlEPXtFRUE3RUNFMC02NEM1LTRDOTEtODAyMi01MTRDOUI1QUNGRjh9ZGQCBw9kFgJmD2QWAmYPZBYCAgEPZBYCZg9kFgJmD2QWBgIBDw8WAh8FBUcvQ3JhZnQvREdBUS9BbGwtQXJ0aWNsZXMvMTMwNC1GYWxsLTIwMTMvREdBLUludGVydmlldy1EYXZpZC1OdXR0ZXIuYXNweGRkAgMPDxYCHwUFRy9DcmFmdC9ER0FRL0FsbC1BcnRpY2xlcy8xMzA0LUZhbGwtMjAxMy9ER0EtSW50ZXJ2aWV3LURhdmlkLU51dHRlci5hc3B4ZGQCCQ8UKwACDxYEHwRnHwMCC2RkFgJmD2QWFgIBD2QWBAIBDw8WAh8FBT0vQ3JhZnQvREdBUS9BbGwtQXJ0aWNsZXMvMTMwNC1GYWxsLTIwMTMvRGFycmVuLUFyb25vZnNreS5hc3B4ZBYCAgEPFgIfAGhkAgMPDxYCHwUFPS9DcmFmdC9ER0FRL0FsbC1BcnRpY2xlcy8xMzA0LUZhbGwtMjAxMy9EYXJyZW4tQXJvbm9mc2t5LmFzcHhkZAICD2QWBAIBDw8WAh8FBTcvQ3JhZnQvREdBUS9BbGwtQXJ0aWNsZXMvMTMwNC1GYWxsLTIwMTMvTWltaS1MZWRlci5hc3B4ZBYCAgEPFgIfAGhkAgMPDxYCHwUFNy9DcmFmdC9ER0FRL0FsbC1BcnRpY2xlcy8xMzA0LUZhbGwtMjAxMy9NaW1pLUxlZGVyLmFzcHhkZAIDD2QWBAIBDw8WAh8FBT0vQ3JhZnQvREdBUS9BbGwtQXJ0aWNsZXMvMTMwNC1GYWxsLTIwMTMvQm9hcmR3YWxrLUVtcGlyZS5hc3B4ZBYCAgEPFgIfAGhkAgMPDxYCHwUFPS9DcmFmdC9ER0FRL0FsbC1BcnRpY2xlcy8xMzA0LUZhbGwtMjAxMy9Cb2FyZHdhbGstRW1waXJlLmFzcHhkZAIED2QWBAIBDw8WAh8FBUQvQ3JhZnQvREdBUS9BbGwtQXJ0aWNsZXMvMTMwNC1GYWxsLTIwMTMvSW5kaWUtVm9pY2UtTGVuYS1EdW5oYW0uYXNweGQWAgIBDxYCHwBoZAIDDw8WAh8FBUQvQ3JhZnQvREdBUS9BbGwtQXJ0aWNsZXMvMTMwNC1GYWxsLTIwMTMvSW5kaWUtVm9pY2UtTGVuYS1EdW5oYW0uYXNweGRkAgUPZBYEAgEPDxYCHwUFUi9DcmFmdC9ER0FRL0FsbC1BcnRpY2xlcy8xMzA0LUZhbGwtMjAxMy9TaG90LXRvLVJlbWVtYmVyLVNoYXdzaGFuay1SZWRlbXB0aW9uLmFzcHhkFgICAQ8WAh8AaGQCAw8PFgIfBQVSL0NyYWZ0L0RHQVEvQWxsLUFydGljbGVzLzEzMDQtRmFsbC0yMDEzL1Nob3QtdG8tUmVtZW1iZXItU2hhd3NoYW5rLVJlZGVtcHRpb24uYXNweGRkAgYPZBYEAgEPDxYCHwUFOy9DcmFmdC9ER0FRL0FsbC1BcnRpY2xlcy8xMzA0LUZhbGwtMjAxMy9VUy1PcGVuLVRlbm5pcy5hc3B4ZBYCAgEPFgIfAGhkAgMPDxYCHwUFOy9DcmFmdC9ER0FRL0FsbC1BcnRpY2xlcy8xMzA0LUZhbGwtMjAxMy9VUy1PcGVuLVRlbm5pcy5hc3B4ZGQCBw9kFgQCAQ8PFgIfBQVCL0NyYWZ0L0RHQVEvQWxsLUFydGljbGVzLzEzMDQtRmFsbC0yMDEzL0Nsb3NlLVVwLUphbWllLUJhYmJpdC5hc3B4ZBYCAgEPFgIfAGhkAgMPDxYCHwUFQi9DcmFmdC9ER0FRL0FsbC1BcnRpY2xlcy8xMzA0LUZhbGwtMjAxMy9DbG9zZS1VcC1KYW1pZS1CYWJiaXQuYXNweGRkAggPZBYEAgEPDxYCHwUFOi9DcmFmdC9ER0FRL0FsbC1BcnRpY2xlcy8xMzA0LUZhbGwtMjAxMy9EZW5uaWUtR29yZG9uLmFzcHhkFgICAQ8WAh8AaGQCAw8PFgIfBQU6L0NyYWZ0L0RHQVEvQWxsLUFydGljbGVzLzEzMDQtRmFsbC0yMDEzL0Rlbm5pZS1Hb3Jkb24uYXNweGRkAgkPZBYEAgEPDxYCHwUFPy9DcmFmdC9ER0FRL0FsbC1BcnRpY2xlcy8xMzA0LUZhbGwtMjAxMy9QaG90by1Fc3NheS1Ib3Jyb3IuYXNweGRkAgMPDxYCHwUFPy9DcmFmdC9ER0FRL0FsbC1BcnRpY2xlcy8xMzA0LUZhbGwtMjAxMy9QaG90by1Fc3NheS1Ib3Jyb3IuYXNweGRkAgoPZBYEAgEPDxYCHwUFSC9DcmFmdC9ER0FRL0FsbC1BcnRpY2xlcy8xMzA0LUZhbGwtMjAxMy9EVkQtQ2xhc3NpY3MtU3RhbmxleS1LcmFtZXIuYXNweGQWAgIBDxYCHwBoZAIDDw8WAh8FBUgvQ3JhZnQvREdBUS9BbGwtQXJ0aWNsZXMvMTMwNC1GYWxsLTIwMTMvRFZELUNsYXNzaWNzLVN0YW5sZXktS3JhbWVyLmFzcHhkZAILD2QWBAIBDw8WAh8FBUUvQ3JhZnQvREdBUS9BbGwtQXJ0aWNsZXMvMTMwNC1GYWxsLTIwMTMvMTAtUXVlc3Rpb25zLVJpY2stQ290dG9uLmFzcHhkFgICAQ8WAh8AaGQCAw8PFgIfBQVFL0NyYWZ0L0RHQVEvQWxsLUFydGljbGVzLzEzMDQtRmFsbC0yMDEzLzEwLVF1ZXN0aW9ucy1SaWNrLUNvdHRvbi5hc3B4ZGQCDQ8PFgIfAGhkZAIPD2QWBGYPZBYCZg9kFgQCAQ9kFgICAQ9kFgRmDxYCHwEFpAE8c3R5bGU+DQoubmV3SW1hZ2VHcm91cF9yaWdodGNvbnRlbnRfMF9BRENhcm91c2VsIHt3aWR0aDozMDBweDtvdmVyZmxvdzpoaWRkZW47IHBhZGRpbmc6MHB4OyBkaXNwbGF5Om5vbmU7fQ0KLm5ld0ltYWdlR3JvdXBfcmlnaHRjb250ZW50XzBfQURDYXJvdXNlbCB7fQ0KPC9zdHlsZT4NCmQCAQ8UKwACDxYEHwRnHwMCAmRkFgJmD2QWBAIBD2QWAmYPFCsAAg8WBB8EZx8DAgEWAh4KUGFyZW50SXRlbQUme0IzQzc5MzExLUI2NkEtNEY1MS04ODlELTZFM0REMzQwMkQzQn1kFgJmD2QWAgIBD2QWAgIBDw8WAh8FBSJodHRwOi8vd3d3LmNic2ZpbG1zc2NyZWVuaW5ncy5jb20vZGQCAg9kFgJmDxQrAAIPFgQfBGcfAwIBFgIfBgUmezM5NzU2REFELThDRDUtNDdBQi1BOTc4LUY3NEZGRTA1MkZEMn1kFgJmD2QWAgIBD2QWAgIBDw8WAh8FBS4vSG9tZS9DcmFmdC9ER0FRL0NhdGVnb3JpZXMvU3Vic2NyaXB0aW9ucy5hc3B4ZGQCAw9kFgICAQ9kFgRmDxYCHwEFswE8c3R5bGU+DQoubmV3SW1hZ2VHcm91cF9yaWdodGNvbnRlbnRfMF9BRENhcm91c2VsMiB7d2lkdGg6MzAwcHg7b3ZlcmZsb3c6aGlkZGVuOyBwYWRkaW5nOjBweDsgZGlzcGxheTpub25lO2hlaWdodDo2MDBweDt9DQoubmV3SW1hZ2VHcm91cF9yaWdodGNvbnRlbnRfMF9BRENhcm91c2VsMiB7fQ0KPC9zdHlsZT4NCmQCAQ8UKwACDxYEHwRnHwMCAmRkFgJmD2QWBAIBD2QWAmYPFCsAAg8WBB8EZx8DAgEWAh8GBSZ7MjVEMEM3NzYtNTI4QS00MzhBLTlERDItQTQ3ODkzMTUyNDNCfWQWAmYPZBYCAgEPZBYCAgEPDxYCHwUFHS9Ib21lL1RoZSBHdWlsZC9UaGVhdGVycy5hc3B4ZGQCAg9kFgJmDxQrAAIPFgQfBGcfAwIBFgIfBgUme0FGQkIwMTY1LTk5QUUtNEM0MC1CRkQzLTY5N0JCQzc2OTQxNn1kFgJmD2QWAgIBD2QWAgIBDw8WAh8FBS4vSG9tZS9DcmFmdC9ER0FRL0NhdGVnb3JpZXMvU3Vic2NyaXB0aW9ucy5hc3B4ZGQCAQ9kFgJmD2QWAgIDDxQrAAIPFgQfBGcfAwIHZGQWAmYPZBYOAgEPZBYEAgEPDxYCHwUFSi9DcmFmdC9ER0FRL0FsbC1BcnRpY2xlcy8xMzA0LUZhbGwtMjAxMy9EcmF3aW5nLUJvYXJkLVdlc3QtU2lkZS1TdG9yeS5hc3B4ZGQCBQ8PFgIfBQVKL0NyYWZ0L0RHQVEvQWxsLUFydGljbGVzLzEzMDQtRmFsbC0yMDEzL0RyYXdpbmctQm9hcmQtV2VzdC1TaWRlLVN0b3J5LmFzcHhkZAICD2QWBgIBDw8WAh8FBUQvQ3JhZnQvREdBUS9BbGwtQXJ0aWNsZXMvMTMwNC1GYWxsLTIwMTMvT24tdGhlLUpvYi1BbGljaWEtTGV3aXMuYXNweGRkAgMPFgIfAGhkAgUPDxYCHwUFRC9DcmFmdC9ER0FRL0FsbC1BcnRpY2xlcy8xMzA0LUZhbGwtMjAxMy9Pbi10aGUtSm9iLUFsaWNpYS1MZXdpcy5hc3B4ZGQCAw9kFgYCAQ8PFgIfBQVGL0NyYWZ0L0RHQVEvQWxsLUFydGljbGVzLzEzMDQtRmFsbC0yMDEzL09uLXRoZS1Kb2ItSm9hcXVpbi1QcmFuZ2UuYXNweGRkAgMPFgIfAGhkAgUPDxYCHwUFRi9DcmFmdC9ER0FRL0FsbC1BcnRpY2xlcy8xMzA0LUZhbGwtMjAxMy9Pbi10aGUtSm9iLUpvYXF1aW4tUHJhbmdlLmFzcHhkZAIED2QWBgIBDw8WAh8FBUYvQ3JhZnQvREdBUS9BbGwtQXJ0aWNsZXMvMTMwNC1GYWxsLTIwMTMvT24tdGhlLUpvYi1NaWNoYWVsLUxlcm1hbi5hc3B4ZGQCAw8WAh8AaGQCBQ8PFgIfBQVGL0NyYWZ0L0RHQVEvQWxsLUFydGljbGVzLzEzMDQtRmFsbC0yMDEzL09uLXRoZS1Kb2ItTWljaGFlbC1MZXJtYW4uYXNweGRkAgUPZBYEAgEPDxYCHwUFRi9DcmFmdC9ER0FRL0FsbC1BcnRpY2xlcy8xMzA0LUZhbGwtMjAxMy9PdXQtb2YtdGhlLVBhc3QtSGl0Y2hjb2NrLmFzcHhkZAIFDw8WAh8FBUYvQ3JhZnQvREdBUS9BbGwtQXJ0aWNsZXMvMTMwNC1GYWxsLTIwMTMvT3V0LW9mLXRoZS1QYXN0LUhpdGNoY29jay5hc3B4ZGQCBg9kFgYCAQ8PFgIfBQU9L0NyYWZ0L0RHQVEvQWxsLUFydGljbGVzLzEzMDQtRmFsbC0yMDEzL0Jvb2tzLUFCQy1TcG9ydHMuYXNweGRkAgMPFgIfAGhkAgUPDxYCHwUFPS9DcmFmdC9ER0FRL0FsbC1BcnRpY2xlcy8xMzA0LUZhbGwtMjAxMy9Cb29rcy1BQkMtU3BvcnRzLmFzcHhkZAIHD2QWBgIBDw8WAh8FBTkvQ3JhZnQvREdBUS9BbGwtQXJ0aWNsZXMvMTMwNC1GYWxsLTIwMTMvQm9va3MtQmFkaGFtLmFzcHhkZAIDDxYCHwBoZAIFDw8WAh8FBTkvQ3JhZnQvREdBUS9BbGwtQXJ0aWNsZXMvMTMwNC1GYWxsLTIwMTMvQm9va3MtQmFkaGFtLmFzcHhkZAITD2QWAmYPZBYCZg9kFgQCAQ8WAh8DAgUWCmYPZBYCZg8VAg8vUmVzb3VyY2VzLmFzcHgJUmVzb3VyY2VzZAIBD2QWAmYPFQIVL1V0aWxpdHkvQ29udGFjdC5hc3B4B0NvbnRhY3RkAgIPZBYCZg8VAiIvVXRpbGl0eS9UZXJtcy1hbmQtQ29uZGl0aW9ucy5hc3B4ElRlcm1zICYgQ29uZGl0aW9uc2QCAw9kFgJmDxUCHC9VdGlsaXR5L1ByaXZhY3ktUG9saWN5LmFzcHgOUHJpdmFjeSBQb2xpY3lkAgQPZBYCZg8VAh0vVXRpbGl0eS9HZW5lcmFsLVdlbGNvbWUuYXNweA9BYm91dCB0aGlzIFNpdGVkAgMPFgIeCWlubmVyaHRtbAWgAUNvcHlyaWdodCAmIzE2OTsgMjAxMS0yMDEzIERHQS4gICBBbGwgUmlnaHRzIFJlc2VydmVkLiAgIFlvdXIgdXNlIG9mIHRoaXMgc2l0ZSBpcyBib3VuZCBieSB0aGUgdGVybXMgYW5kIGNvbmRpdGlvbnMgc2V0IGZvcnRoIGJ5IHRoZSBEaXJlY3RvcnMgR3VpbGQgb2YgQW1lcmljYS5kGBAFN3NpZGVuYXZpZ2F0aW9uXzAkR3JvdXBSZXN1bHRzTFYkY3RybDMkQ2F0ZWdvcnlSZXN1bHRzTFYPPCsACgIHPCsABQAIAgVkBR9yaWdodGNvbnRlbnRfMSRNb3JlQXJ0aWNsZXNMaXN0DzwrAAoCBzwrAAcACAIHZAUlcmlnaHRjb250ZW50XzAkQURDYXJvdXNlbCRBREl0ZW1zTGlzdA88KwAKAgcUKwACZGQIAgJkBR9zaWRlbmF2aWdhdGlvbl8wJEdyb3VwUmVzdWx0c0xWDzwrAAoCBzwrAAYACAIGZAU3c2lkZW5hdmlnYXRpb25fMCRHcm91cFJlc3VsdHNMViRjdHJsMCRDYXRlZ29yeVJlc3VsdHNMVg88KwAKAQhmZAUycmlnaHRjb250ZW50XzAkQURDYXJvdXNlbCRBREl0ZW1zTGlzdCRjdHJsMSRycHRBZHMPPCsACgIHFCsAAWQIAgFkBSZyaWdodGNvbnRlbnRfMCRBRENhcm91c2VsMiRBREl0ZW1zTGlzdA88KwAKAgcUKwACZGQIAgJkBRxjb250ZW50XzAkbGVmdF8wJEFydGljbGVMaXN0DzwrAAoCBzwrAAsACAILZAU3c2lkZW5hdmlnYXRpb25fMCRHcm91cFJlc3VsdHNMViRjdHJsMiRDYXRlZ29yeVJlc3VsdHNMVg88KwAKAgc8KwAEAAgCBGQFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBQ90b3BfMSRTZWFyY2hCdG4FN3NpZGVuYXZpZ2F0aW9uXzAkR3JvdXBSZXN1bHRzTFYkY3RybDUkQ2F0ZWdvcnlSZXN1bHRzTFYPPCsACgIHPCsABAAIAgRkBTJyaWdodGNvbnRlbnRfMCRBRENhcm91c2VsJEFESXRlbXNMaXN0JGN0cmwwJHJwdEFkcw88KwAKAgcUKwABZAgCAWQFM3JpZ2h0Y29udGVudF8wJEFEQ2Fyb3VzZWwyJEFESXRlbXNMaXN0JGN0cmwwJHJwdEFkcw88KwAKAgcUKwABZAgCAWQFM3JpZ2h0Y29udGVudF8wJEFEQ2Fyb3VzZWwyJEFESXRlbXNMaXN0JGN0cmwxJHJwdEFkcw88KwAKAgcUKwABZAgCAWQFN3NpZGVuYXZpZ2F0aW9uXzAkR3JvdXBSZXN1bHRzTFYkY3RybDEkQ2F0ZWdvcnlSZXN1bHRzTFYPPCsACgEIZmQFN3NpZGVuYXZpZ2F0aW9uXzAkR3JvdXBSZXN1bHRzTFYkY3RybDQkQ2F0ZWdvcnlSZXN1bHRzTFYPPCsACgIHPCsACwAIAgtkRaSnWyWhH7xrTDysulQLbipWE7I=" />
+</div>
+
+
+<script src="/ScriptResource.axd?d=TkfbtrLuhTN8enTCIXtz7wUrVUcfaKwN5r3fdcQAlUFGmXvCjYaqnhP4IfN_IvbF5ijm83eiyC3o0JNBfnwa085kDSH00j7Xd62vBVzC6xTpMUfXVnHjEW2jhC5T_TOQYnQqxQ2&amp;t=ffffffffd31df06a" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAK326fABQK0gPjaBgLguLTACwLHyPuJBqC5VkahX0BP+vwnjZsJ7kkkl1f5" />
+</div>
+    
+	
+
+    <div class="bottomWaterMark"></div>
+    <div class="leftWaterMark"></div>
+    <div class="rightWaterMark"></div>
+<div id="pageContainer">
+
+    <!--HEADER-->
+    
+
+    <!-- BEGIN MyDGA.ascx -->
+
+<!-- Had to make scriptmode as "Release" as otherwise I was getting deadly 
+"Object of type 'Sys._Application' cannot be converted to type 'Sys._Application'" error -->
+
+
+<input type="hidden" id="testme" value="testing" />
+
+
+
+    <div class="headerLinks">
+        <div class="headerLinksContainer">
+
+                <a class="emblemLogo" href="/"> Directors Guild of America </a>
+                <div class="btnRight">
+                    <a href="/Login.aspx?ReturnUrl=%2fCraft%2fDGAQ%2fIssues%2f1304-Fall-2013.aspx%3fIID%3d%257BEEA7ECE0-64C5-4C91-8022-514C9B5ACFF8%257D" id="top_0_LoginA" class="btn goldBttn"><span>Member Sign In</span></a>
+
+                </div>
+
+                <div class="welcomeLinks">
+ 
+                </div>
+
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+    <!-- END MyDGA.ascx -->
+
+
+
+
+    <!-- BEGIN PrimaryNavigation.ascx -->
+
+<script language="javascript">
+	$j(document).ready(function () {
+
+		var menuCounter = 0;
+		$j("ul.mainMenu ul").each(function () {
+			menuCounter++;
+			var backgroundPosition = 0;
+			backgroundPosition = 100 / 8 * menuCounter;
+			$j(this).css("background-position", backgroundPosition + "% 0px");
+
+		});
+
+	});
+</script>
+
+
+<div class="headerSubHeader">
+    <div class="subHeaderInnerContainer">
+     
+        <ul class="mainMenu">
+
+            
+                    <li><div><a href="/The-Guild.aspx" class='' style="">The Guild</a></div>
+                        <ul>
+
+                            
+                                    <li><a href="/The-Guild/Members.aspx">Member Directory</a></li>
+                                
+                                    <li><a href="/The-Guild/Leaders.aspx">Leaders</a></li>
+                                
+                                    <li><a href="/The-Guild/Committees.aspx">Committees</a></li>
+                                
+                                    <li><a href="/The-Guild/Councils.aspx">Councils</a></li>
+                                
+                                    <li><a href="/The-Guild/Departments.aspx">Departments</a></li>
+                                
+                                    <li><a href="/The-Guild/Diversity.aspx">Diversity</a></li>
+                                
+                                    <li><a href="/The-Guild/Theaters.aspx">Theaters</a></li>
+                                
+                                    <li><a href="/The-Guild/History.aspx">History</a></li>
+                                
+
+                        </ul>
+                    </li>
+                
+                    <li><div><a href="/Employers.aspx" class='' style="">Employers</a></div>
+                        <ul>
+
+                            
+                                    <li><a href="/Employers/BecomingSignatory.aspx">Becoming Signatory</a></li>
+                                
+                                    <li><a href="/Employers/DealMemos.aspx">Deal Memos & Reports Compliance Forms</a></li>
+                                
+                                    <li><a href="/Employers/EmployersSearch.aspx">Employment Eligibility Search</a></li>
+                                
+                                    <li><a href="/Employers/AvailAndProdLists.aspx">Availability and Production Lists</a></li>
+                                
+                                    <li><a href="/Employers/QualificationLists.aspx">Qualification Lists</a></li>
+                                
+                                    <li><a href="/Employers/SignatoryDatabase.aspx">Signatory Confirmation Database</a></li>
+                                
+
+                        </ul>
+                    </li>
+                
+                    <li><div><a href="/Contracts.aspx" class='' style="">Contracts</a></div>
+                        <ul>
+
+                            
+                                    <li><a href="/Contracts/Agreements.aspx">Agreements</a></li>
+                                
+                                    <li><a href="/Contracts/Rates-2013-to-2014.aspx">DGA Rate Cards 2013 - 2014</a></li>
+                                
+                                    <li><a href="/Contracts/Creative-Rights.aspx">Creative Rights</a></li>
+                                
+
+                        </ul>
+                    </li>
+                
+                    <li><div><a  class='menuEmployers' style="cursor: default;">News</a></div>
+                        <ul>
+
+                            
+                                    <li><a href="/News/PressReleases.aspx">Press Releases</a></li>
+                                
+                                    <li><a href="/News/Guild-News.aspx">Guild News</a></li>
+                                
+                                    <li><a href="/News/MembershipNews.aspx">Members Only News</a></li>
+                                
+                                    <li><a href="/News/IndustryNews.aspx">Industry News</a></li>
+                                
+                                    <li><a href="/News/DGAMonthly.aspx">DGA Monthly</a></li>
+                                
+
+                        </ul>
+                    </li>
+                
+                    <li><div><a href="/Events.aspx" class='' style="">Events</a></div>
+                        
+                    </li>
+                
+                    <li><div><a  class='menuEmployers' style="cursor: default;">Awards</a></div>
+                        <ul>
+
+                            
+                                    <li><a href="/Awards/Annual.aspx">66th Annual DGA Awards</a></li>
+                                
+                                    <li><a href="/Awards/Explore.aspx">Winner and Nominee Search</a></li>
+                                
+                                    <li><a href="/Awards/History.aspx">DGA Awards History</a></li>
+                                
+                                    <li><a href="/Awards/Students.aspx">Student Film Awards</a></li>
+                                
+                                    <li><a href="/Awards/Honors.aspx">DGA Honors</a></li>
+                                
+
+                        </ul>
+                    </li>
+                
+                    <li><div><a href="/Initiatives.aspx" class='' style="">Initiatives</a></div>
+                        <ul>
+
+                            
+                                    <li><a href="/Initiatives/Production-Incentives.aspx">Production Incentives</a></li>
+                                
+                                    <li><a href="/Initiatives/Protecting-Creative-Content.aspx">Protecting Creative Content</a></li>
+                                
+                                    <li><a href="/Initiatives/Additional-Initiatives.aspx">Additional Initiatives</a></li>
+                                
+                                    <li><a href="/Initiatives/International.aspx">International</a></li>
+                                
+                                    <li><a href="/Initiatives/PAC.aspx">PAC</a></li>
+                                
+
+                        </ul>
+                    </li>
+                
+                    <li><div><a  class='activemenuEmployers' style="cursor: default;">Craft</a></div>
+                        <ul>
+
+                            
+                                    <li><a href="/Craft/DGAQ.aspx">DGA Quarterly</a></li>
+                                
+                                    <li><a href="/Craft/Director-QA.aspx">Director Q&A</a></li>
+                                
+                                    <li><a href="/Craft/VisualHistory.aspx">Visual History</a></li>
+                                
+                                    <li><a href="/Craft/75th-Anniversary.aspx">75th Anniversary</a></li>
+                                
+
+                        </ul>
+                    </li>
+                
+
+        </ul>
+
+        <div id="top_1_SearchBoxDiv" class="memberSearchBox">
+            <div id="top_1_Panel1">
+	
+            <input name="top_1$cp_header_search" type="text" id="top_1_cp_header_search" class="memberSearch" />
+            <input type="image" name="top_1$SearchBtn" id="top_1_SearchBtn" src="/images/go_btn.png" style="border-width:0px;" />
+            
+</div>
+        </div>
+
+
+
+    </div>
+    <div class="headerSubHeaderDivider"></div>
+</div>
+
+    <!-- END PrimaryNavigation.ascx -->
+
+
+
+
+    <div id="dgaQuarterlyContainer">
+            
+            <div class="dgaInnerContainer">
+            <div class="innerContentWide">
+                
+
+
+            </div>
+
+
+                <!--SIDE NAVIGATION-->
+                
+
+
+<!-- start SideNavigationSublayout.ascx -->
+<div class="innerContentSide">
+    
+        <ul class="craftNav">
+            <li class="craftNavItem itemDGAQ">
+                <div><a class="dgaqLogo" href="/Craft/DGAQ/Category Groups/Current Issue.aspx"><span> DGA Quarterly </span> </a></div>
+            </li>
+            
+            <li class="craftNavItem">
+                <div><a href="/sitecore/content/Home/Craft/DGAQ/Issues/1304%20Fall%202013?IID={EEA7ECE0-64C5-4C91-8022-514C9B5ACFF8}">CURRENT ISSUE</a></div>
+                
+            </li>
+        
+            <li class="craftNavItem">
+                <div><a href="/Craft/DGAQ/Category-Groups/Back-Issues.aspx?IID={EEA7ECE0-64C5-4C91-8022-514C9B5ACFF8}">BACK ISSUES</a></div>
+                
+            </li>
+        
+            <li class="craftNavItem">
+                <div>PROFILES</div>
+                
+                        <ul class="craftNavSubmenu">
+                        <li ><a id="sidenavigation_0_GroupResultsLV_ctrl2_CategoryResultsLV_ctrl0_Category" href="/Craft/DGAQ/Categories/DGA-Interview.aspx?IID={EEA7ECE0-64C5-4C91-8022-514C9B5ACFF8}" style="text-decoration:none;">DGA Interviews</a></li>
+                    
+                        <li ><a id="sidenavigation_0_GroupResultsLV_ctrl2_CategoryResultsLV_ctrl1_Category" href="/Craft/DGAQ/Categories/Director-Profile.aspx?IID={EEA7ECE0-64C5-4C91-8022-514C9B5ACFF8}" style="text-decoration:none;">Director Profile</a></li>
+                    
+                        <li ><a id="sidenavigation_0_GroupResultsLV_ctrl2_CategoryResultsLV_ctrl2_Category" href="/Craft/DGAQ/Categories/On-the-Job-With.aspx?IID={EEA7ECE0-64C5-4C91-8022-514C9B5ACFF8}" style="text-decoration:none;">On the Job With</a></li>
+                    
+                        <li ><a id="sidenavigation_0_GroupResultsLV_ctrl2_CategoryResultsLV_ctrl3_Category" href="/Craft/DGAQ/Categories/Independent-Voice.aspx?IID={EEA7ECE0-64C5-4C91-8022-514C9B5ACFF8}" style="text-decoration:none;">Independent Voice</a></li>
+                    </ul>
+                    
+            </li>
+        
+            <li class="craftNavItem">
+                <div>BEHIND THE SCENES</div>
+                
+                        <ul class="craftNavSubmenu">
+                        <li ><a id="sidenavigation_0_GroupResultsLV_ctrl3_CategoryResultsLV_ctrl0_Category" href="/Craft/DGAQ/Categories/Features.aspx?IID={EEA7ECE0-64C5-4C91-8022-514C9B5ACFF8}" style="text-decoration:none;">Features</a></li>
+                    
+                        <li ><a id="sidenavigation_0_GroupResultsLV_ctrl3_CategoryResultsLV_ctrl1_Category" href="/Craft/DGAQ/Categories/Television.aspx?IID={EEA7ECE0-64C5-4C91-8022-514C9B5ACFF8}" style="text-decoration:none;">Television</a></li>
+                    
+                        <li ><a id="sidenavigation_0_GroupResultsLV_ctrl3_CategoryResultsLV_ctrl2_Category" href="/Craft/DGAQ/Categories/Shot-to-Remember.aspx?IID={EEA7ECE0-64C5-4C91-8022-514C9B5ACFF8}" style="text-decoration:none;">Shot to Remember</a></li>
+                    
+                        <li ><a id="sidenavigation_0_GroupResultsLV_ctrl3_CategoryResultsLV_ctrl3_Category" href="/Craft/DGAQ/Categories/Photo-Essays.aspx?IID={EEA7ECE0-64C5-4C91-8022-514C9B5ACFF8}" style="text-decoration:none;">Photo Essays</a></li>
+                    
+                        <li ><a id="sidenavigation_0_GroupResultsLV_ctrl3_CategoryResultsLV_ctrl4_Category" href="/Craft/DGAQ/Categories/Screening-Room.aspx?IID={EEA7ECE0-64C5-4C91-8022-514C9B5ACFF8}" style="text-decoration:none;">Screening Room</a></li>
+                    </ul>
+                    
+            </li>
+        
+            <li class="craftNavItem">
+                <div>COLUMNS</div>
+                
+                        <ul class="craftNavSubmenu">
+                        <li ><a id="sidenavigation_0_GroupResultsLV_ctrl4_CategoryResultsLV_ctrl0_Category" href="/Craft/DGAQ/Categories/10-Questions.aspx?IID={EEA7ECE0-64C5-4C91-8022-514C9B5ACFF8}" style="text-decoration:none;">10 Questions</a></li>
+                    
+                        <li ><a id="sidenavigation_0_GroupResultsLV_ctrl4_CategoryResultsLV_ctrl1_Category" href="/Craft/DGAQ/Categories/Funny-Business.aspx?IID={EEA7ECE0-64C5-4C91-8022-514C9B5ACFF8}" style="text-decoration:none;">Funny Business</a></li>
+                    
+                        <li ><a id="sidenavigation_0_GroupResultsLV_ctrl4_CategoryResultsLV_ctrl2_Category" href="/Craft/DGAQ/Categories/The-Industry-Technology.aspx?IID={EEA7ECE0-64C5-4C91-8022-514C9B5ACFF8}" style="text-decoration:none;">The Industry / Technology</a></li>
+                    
+                        <li ><a id="sidenavigation_0_GroupResultsLV_ctrl4_CategoryResultsLV_ctrl3_Category" href="/Craft/DGAQ/Categories/Critics-Corner.aspx?IID={EEA7ECE0-64C5-4C91-8022-514C9B5ACFF8}" style="text-decoration:none;">Critic's Corner</a></li>
+                    
+                        <li ><a id="sidenavigation_0_GroupResultsLV_ctrl4_CategoryResultsLV_ctrl4_Category" href="/Craft/DGAQ/Categories/Internet-Theft.aspx?IID={EEA7ECE0-64C5-4C91-8022-514C9B5ACFF8}" style="text-decoration:none;">Internet Theft</a></li>
+                    
+                        <li ><a id="sidenavigation_0_GroupResultsLV_ctrl4_CategoryResultsLV_ctrl5_Category" href="/Craft/DGAQ/Categories/Books.aspx?IID={EEA7ECE0-64C5-4C91-8022-514C9B5ACFF8}" style="text-decoration:none;">Books</a></li>
+                    
+                        <li ><a id="sidenavigation_0_GroupResultsLV_ctrl4_CategoryResultsLV_ctrl6_Category" href="/Craft/DGAQ/Categories/DVD-Classics.aspx?IID={EEA7ECE0-64C5-4C91-8022-514C9B5ACFF8}" style="text-decoration:none;">DVD Classics</a></li>
+                    
+                        <li ><a id="sidenavigation_0_GroupResultsLV_ctrl4_CategoryResultsLV_ctrl7_Category" href="/Craft/DGAQ/Categories/In-My-Opinion.aspx?IID={EEA7ECE0-64C5-4C91-8022-514C9B5ACFF8}" style="text-decoration:none;">In My Opinion</a></li>
+                    
+                        <li ><a id="sidenavigation_0_GroupResultsLV_ctrl4_CategoryResultsLV_ctrl8_Category" href="/Craft/DGAQ/Categories/Out-of-the-Past.aspx?IID={EEA7ECE0-64C5-4C91-8022-514C9B5ACFF8}" style="text-decoration:none;">Out of the Past</a></li>
+                    
+                        <li ><a id="sidenavigation_0_GroupResultsLV_ctrl4_CategoryResultsLV_ctrl9_Category" href="/Craft/DGAQ/Categories/Drawing-Board.aspx?IID={EEA7ECE0-64C5-4C91-8022-514C9B5ACFF8}" style="text-decoration:none;">Drawing Board</a></li>
+                    
+                        <li ><a id="sidenavigation_0_GroupResultsLV_ctrl4_CategoryResultsLV_ctrl10_Category" href="/Craft/DGAQ/Categories/Crossword-Puzzle.aspx?IID={EEA7ECE0-64C5-4C91-8022-514C9B5ACFF8}" style="text-decoration:none;">Crossword Puzzle</a></li>
+                    </ul>
+                    
+            </li>
+        
+            <li class="craftNavItem">
+                <div>MORE</div>
+                
+                        <ul class="craftNavSubmenu">
+                        <li ><a id="sidenavigation_0_GroupResultsLV_ctrl5_CategoryResultsLV_ctrl0_Category" href="/Craft/DGAQ/Categories/About.aspx?IID={EEA7ECE0-64C5-4C91-8022-514C9B5ACFF8}" style="text-decoration:none;">About</a></li>
+                    
+                        <li ><a id="sidenavigation_0_GroupResultsLV_ctrl5_CategoryResultsLV_ctrl1_Category" href="/Craft/DGAQ/Categories/Subscriptions.aspx?IID={EEA7ECE0-64C5-4C91-8022-514C9B5ACFF8}" style="text-decoration:none;">Subscriptions</a></li>
+                    
+                        <li ><a id="sidenavigation_0_GroupResultsLV_ctrl5_CategoryResultsLV_ctrl2_Category" href="/Craft/DGAQ/Categories/Legends.aspx?IID={EEA7ECE0-64C5-4C91-8022-514C9B5ACFF8}" style="text-decoration:none;">Legends</a></li>
+                    
+                        <li ><a id="sidenavigation_0_GroupResultsLV_ctrl5_CategoryResultsLV_ctrl3_Category" href="/Craft/DGAQ/Categories/History.aspx?IID={EEA7ECE0-64C5-4C91-8022-514C9B5ACFF8}" style="text-decoration:none;">History</a></li>
+                    </ul>
+                    
+            </li>
+        
+        </ul>
+           
+</div>
+
+<!-- END SideNavigationSublayout.ascx -->
+
+
+
+
+                <div class="innerContentMain">
+
+                
+                    <!--CONTENT-->
+                    
+
+<div class="whiteBox">
+    
+
+<!-- start CurrentIssueSublayout.ascx -->
+    
+            <div class="mainItemImage">
+                <a id="content_0_left_0_ArticleLink1" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/DGA-Interview-David-Nutter.aspx"><img src="~/media/Images/Landscape Images/DGAQuarterly/1303Fall2013/NutterHERO.ashx?mh=277&amp;mw=490" alt="" width="490" height="276" /></a>
+                <div class="mainItem">
+                    <h1 class="itemHeader"><a id="content_0_left_0_ArticleLink2" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/DGA-Interview-David-Nutter.aspx">Taking Off</a></h1>
+                    <h2 class="itemSubHeader"> David Nutter</h2>
+                    <p>David Nutter has directed 19 pilots and an unprecedented 17 have been picked up for series. How does he do it? By following his instincts, respecting his collaborators, and sticking to stories that move him.</p>
+                </div>
+            </div>
+            <div class="contentSection">
+            
+                    
+                    <div class="largeGridItem">
+                        <div class="standardImageContainer">
+                            <a id="content_0_left_0_ArticleList_ctrl0_ArticleLink3" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/Darren-Aronofsky.aspx"><img src="~/media/Images/Landscape Images/DGAQuarterly/1303Fall2013/aronofsky.ashx?mh=110&amp;mw=190" alt="Darren Aronofsky" width="190" height="107" /></a>
+                        </div>
+                        <div class="itemTitle"> <a id="content_0_left_0_ArticleList_ctrl0_ArticleLink" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/Darren-Aronofsky.aspx">The Many Worlds of Darren Aronofsky</a>	</div>		
+                        <div class="itemSubTitle">  </div>
+                        Whether it’s a pill-popping math genius, a washed-up wrestler, or a haunted ballet dancer, Darren Aronofsky finds a way to get inside his characters’ heads. His latest challenge in <em>Noah</em> is making the biblical disaster story come to life. 
+                    </div><!-- end largeGridItem -->
+                
+                    <div class="largeGridItem">
+                        <div class="standardImageContainer">
+                            <a id="content_0_left_0_ArticleList_ctrl1_ArticleLink3" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/Mimi-Leder.aspx"><img src="~/media/Images/Landscape Images/DGAQuarterly/1303Fall2013/MimiLederHERO.ashx?mh=110&amp;mw=190" alt="" width="190" height="107" /></a>
+                        </div>
+                        <div class="itemTitle"> <a id="content_0_left_0_ArticleList_ctrl1_ArticleLink" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/Mimi-Leder.aspx">Where the Action Is</a>	</div>		
+                        <div class="itemSubTitle"> Mimi Leder </div>
+                        In her diverse and accomplished career, Mimi Leder has brought a sharp eye and fluid camera to big-budget features and emotionally charged TV series. For her, it’s all about what the characters need.
+                    </div><!-- end largeGridItem -->
+                
+                    <div class="largeGridItem">
+                        <div class="standardImageContainer">
+                            <a id="content_0_left_0_ArticleList_ctrl2_ArticleLink3" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/Boardwalk-Empire.aspx"><img src="~/media/Images/Landscape Images/DGAQuarterly/1303Fall2013/boardwalkHERO2.ashx?mh=110&amp;mw=190" alt="Boardwalk Empire" width="190" height="107" /></a>
+                        </div>
+                        <div class="itemTitle"> <a id="content_0_left_0_ArticleList_ctrl2_ArticleLink" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/Boardwalk-Empire.aspx">Under the Boardwalk</a>	</div>		
+                        <div class="itemSubTitle"> <em>Boardwalk Empire</em> </div>
+                        In an extraordinarily creative environment, director-producer Tim Van Patten and a team of highly skilled veteran directors recreate the glamorous, seedy and seductive world of Prohibition-era America in <em>Boardwalk Empire</em>. 
+                    </div><!-- end largeGridItem -->
+                
+                    <div class="largeGridItem">
+                        <div class="standardImageContainer">
+                            <a id="content_0_left_0_ArticleList_ctrl3_ArticleLink3" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/Indie-Voice-Lena-Dunham.aspx"><img src="~/media/Images/Landscape Images/DGAQuarterly/1303Fall2013/LenaDunhamHERO.ashx?mh=110&amp;mw=190" alt="" width="190" height="107" /></a>
+                        </div>
+                        <div class="itemTitle"> <a id="content_0_left_0_ArticleList_ctrl3_ArticleLink" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/Indie-Voice-Lena-Dunham.aspx">The It Girl</a>	</div>		
+                        <div class="itemSubTitle"> Lena Dunham </div>
+                        As the star of her HBO series <em>Girls</em>, Lena Dunham has become a lightning rod for all sorts of cultural issues. But behind the camera she’s a director learning her craft. 
+                    </div><!-- end largeGridItem -->
+                
+                    <div class="largeGridItem">
+                        <div class="standardImageContainer">
+                            <a id="content_0_left_0_ArticleList_ctrl4_ArticleLink3" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/Shot-to-Remember-Shawshank-Redemption.aspx"><img src="~/media/Images/Landscape Images/DGAQuarterly/1303Fall2013/ShotFallHERO.ashx?mh=110&amp;mw=190" alt="Saturday Night Fever John Badham John Travolta" width="190" height="107" /></a>
+                        </div>
+                        <div class="itemTitle"> <a id="content_0_left_0_ArticleList_ctrl4_ArticleLink" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/Shot-to-Remember-Shawshank-Redemption.aspx">Take Me to the River</a>	</div>		
+                        <div class="itemSubTitle"> <em>The Shawshank Redemption</em> </div>
+                        Frank Darabont had audiences cheering as Tim Robbins escaped from prison in <em>The Shawshank Redemption</em> (1994). The director explains how he set him free.
+                    </div><!-- end largeGridItem -->
+                
+                    <div class="largeGridItem">
+                        <div class="standardImageContainer">
+                            <a id="content_0_left_0_ArticleList_ctrl5_ArticleLink3" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/US-Open-Tennis.aspx"><img src="~/media/Images/Landscape Images/DGAQuarterly/1303Fall2013/BobFishmanHERO.ashx?mh=110&amp;mw=190" alt="" width="190" height="107" /></a>
+                        </div>
+                        <div class="itemTitle"> <a id="content_0_left_0_ArticleList_ctrl5_ArticleLink" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/US-Open-Tennis.aspx">Matchpoint</a>	</div>		
+                        <div class="itemSubTitle"> U.S. Tennis Open </div>
+                        Bob Fishman, assisted by a small army of associate directors, has been directing the U.S. Tennis Open for years. But with an impeccable eye for intimate details, he’s still searching for great emotional moments.
+                    </div><!-- end largeGridItem -->
+                
+                    <div class="largeGridItem">
+                        <div class="standardImageContainer">
+                            <a id="content_0_left_0_ArticleList_ctrl6_ArticleLink3" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/Close-Up-Jamie-Babbit.aspx"><img src="~/media/Images/Landscape Images/DGAQuarterly/1303Fall2013/BabbitHERO.ashx?mh=110&amp;mw=190" alt="" width="190" height="107" /></a>
+                        </div>
+                        <div class="itemTitle"> <a id="content_0_left_0_ArticleList_ctrl6_ArticleLink" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/Close-Up-Jamie-Babbit.aspx">Fast Learner</a>	</div>		
+                        <div class="itemSubTitle"> Jamie Babbit </div>
+                        Breaking in with the indie feature <em>But I'm a Cheerleader</em>, prolific TV and film director Jamie Babbit got off to a quick start—and hasn’t slowed down since. 
+                    </div><!-- end largeGridItem -->
+                
+                    <div class="largeGridItem">
+                        <div class="standardImageContainer">
+                            <a id="content_0_left_0_ArticleList_ctrl7_ArticleLink3" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/Dennie-Gordon.aspx"><img src="~/media/Images/Landscape Images/DGAQuarterly/1303Fall2013/dennie2.ashx?mh=110&amp;mw=190" alt="Dennie Gordon" width="190" height="107" /></a>
+                        </div>
+                        <div class="itemTitle"> <a id="content_0_left_0_ArticleList_ctrl7_ArticleLink" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/Dennie-Gordon.aspx">Her Lucky Star</a>	</div>		
+                        <div class="itemSubTitle"> Dennie Gordon </div>
+                        As the first American woman to direct a Chinese production in China, Dennie Gordon had to cross the cultural barrier. Now she’s a director in demand 6,000 miles from home.
+                    </div><!-- end largeGridItem -->
+                
+                    <div class="largeGridItem">
+                        <div class="standardImageContainer">
+                            <a id="content_0_left_0_ArticleList_ctrl8_ArticleLink3" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/Photo-Essay-Horror.aspx"><img src="~/media/Images/Landscape Images/DGAQuarterly/1303Fall2013/PhotoEssayHERO.ashx?mh=110&amp;mw=190" alt="" width="190" height="107" /><div id="content_0_left_0_ArticleList_ctrl8_PDF" class="pdf"> <span>This file is a PDF </span></div></a>
+                        </div>
+                        <div class="itemTitle"> <a id="content_0_left_0_ArticleList_ctrl8_ArticleLink" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/Photo-Essay-Horror.aspx">Scary Movies</a>	</div>		
+                        <div class="itemSubTitle"> Horror Films </div>
+                        Fright—in all of its forms—has always been an essential part of the moviegoing experience. No wonder directors have figured out so many ways to horrify an audience.
+                    </div><!-- end largeGridItem -->
+                
+                    <div class="largeGridItem">
+                        <div class="standardImageContainer">
+                            <a id="content_0_left_0_ArticleList_ctrl9_ArticleLink3" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/DVD-Classics-Stanley-Kramer.aspx"><img src="~/media/Images/Landscape Images/DGAQuarterly/1303Fall2013/DVDhero.ashx?mh=110&amp;mw=190" alt="" width="190" height="107" /></a>
+                        </div>
+                        <div class="itemTitle"> <a id="content_0_left_0_ArticleList_ctrl9_ArticleLink" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/DVD-Classics-Stanley-Kramer.aspx">Message Movies</a>	</div>		
+                        <div class="itemSubTitle"> Stanley Kramer </div>
+                        Following World War II, a host of directors, led by Stanley Kramer, began tackling the hot-button issues of their day. We celebrate Kramer’s centennial with a look back at a time when movies mattered.<br/>
+                    </div><!-- end largeGridItem -->
+                
+                    <div class="largeGridItem">
+                        <div class="standardImageContainer">
+                            <a id="content_0_left_0_ArticleList_ctrl10_ArticleLink3" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/10-Questions-Rick-Cotton.aspx"><img src="~/media/Images/Landscape Images/DGAQuarterly/1303Fall2013/fall201310QHERO.ashx?mh=110&amp;mw=190" alt="" width="190" height="107" /></a>
+                        </div>
+                        <div class="itemTitle"> <a id="content_0_left_0_ArticleList_ctrl10_ArticleLink" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/10-Questions-Rick-Cotton.aspx">Crime Fighter</a>	</div>		
+                        <div class="itemSubTitle"> Rick Cotton </div>
+                        As former NBCUniversal executive vice president and general counsel, now head of its worldwide anti-piracy unit, Rick Cotton has been an industry leader in battling Internet theft. He reports on the latest from the front.
+                    </div><!-- end largeGridItem -->
+                
+                  
+            </div>
+   
+    <!-- end CurrentIssueSublayout.ascx -->
+
+
+</div>
+
+
+                    <div class="articleRightNav">
+
+
+                        <!--CATEGORY TEASER CONTENT-->
+                        
+
+                        <!--ISSUE TEASER CONTENT-->
+                        
+
+
+<!-- IssueTeaserSublayout -->
+<div class="rightContentSection categorySection">
+    <div class="sectionHeader categoryHeader">DGA Quarterly <br />Fall 2013</div>
+    <div class="sectionBody">
+        
+    </div>
+</div>
+<!-- end IssueTeaserSublayout -->
+
+
+                        <!--BANNER AD CONTENT-->
+                        
+                        
+
+                        <!--RIGHT CONTENT-->
+                        
+
+<!-- BEGIN DGAQIssueAdCarousel.ascx -->
+
+<div class="standardAdContainer">
+
+    
+
+<!-- BEGIN Controls/ADCarousel.ascx -->
+
+<style>
+.newImageGroup_rightcontent_0_ADCarousel {width:300px;overflow:hidden; padding:0px; display:none;}
+.newImageGroup_rightcontent_0_ADCarousel {}
+</style>
+
+
+<script language="javascript" type="text/javascript">
+
+    function AD_reassembleList_rightcontent_0_ADCarousel() {
+        var longest = 0;
+        var itemMultiple = 1;
+        $j(".imageGroup_rightcontent_0_ADCarousel").each(function () {
+            var thisLength = $j(this).children().length;
+            itemMultiple = thisLength * itemMultiple;
+            if (thisLength > longest) {
+                longest = thisLength;
+            }
+
+        });
+        $j(".imageGroup_rightcontent_0_ADCarousel").each(function () {
+            itemFactor = itemMultiple / $j(this).children().length;
+            $j('li', this).duplicate(longest).appendTo(this);
+        });
+
+        for (var n = 0; n < longest; ++n) {
+            $j(".imageGroup_rightcontent_0_ADCarousel").each(function (index) {
+                listItem = $j('li:eq(' + n + ')', this);
+                $j(listItem).clone().appendTo('.newImageGroup_rightcontent_0_ADCarousel');
+            });
+        }
+        $j('.newImageGroup_rightcontent_0_ADCarousel').css('display', 'block');
+        var randomStart = Math.floor(Math.random() * ($j('.newImageGroup_rightcontent_0_ADCarousel li').length - 1));
+        $j('.newImageGroup_rightcontent_0_ADCarousel').cycle({
+            fx: 'fade',
+            speed: 'slow',
+            timeout: 8000,
+            pause: 0,
+            startingSlide: randomStart
+        });
+    };
+
+</script>
+
+
+
+
+
+    <script type="text/javascript" src="/scripts/jquery.cycle.all.js"></script>
+	<script language="javascript">
+      	    $j(document).ready(function () {
+         AD_reassembleList_rightcontent_0_ADCarousel();
+     });
+
+    </script>
+   
+    <div class="imageGroups_rightcontent_0_ADCarousel" style="display:none;">  
+        
+                
+            <ul class="imageGroup_rightcontent_0_ADCarousel">
+            
+                    
+                <li>
+                    <a id="rightcontent_0_ADCarousel_ADItemsList_ctrl0_rptAds_ctrl0_scPromoImageLink" href="http://www.cbsfilmsscreenings.com/" target="_blank"><img src="~/media/Images/ADS/131125CbsFilmsInsideLlewynDavis.ashx?mw=300" border="0" alt="Inside Llewyn Davis" width="300" height="250" /></a>
+                </li>
+                
+                
+            </ul>
+        
+            <ul class="imageGroup_rightcontent_0_ADCarousel">
+            
+                    
+                <li>
+                    <a id="rightcontent_0_ADCarousel_ADItemsList_ctrl1_rptAds_ctrl0_scPromoImageLink" href="/Home/Craft/DGAQ/Categories/Subscriptions.aspx" target="_blank"><img src="~/media/Images/ADS/120405DGAQSubscriptionAdBluePurple.ashx?mw=300" border="0" alt="DGA Quarterly" width="300" height="250" /></a>
+                </li>
+                
+                
+            </ul>
+        
+        
+    </div>
+
+    
+    
+    <ul class="newImageGroup_rightcontent_0_ADCarousel" style="display:none;"> </ul>
+
+
+
+<!-- END Controls/ADCarousel.ascx -->
+
+    <div class="tallBanner">
+         
+
+<!-- BEGIN Controls/ADCarousel.ascx -->
+
+<style>
+.newImageGroup_rightcontent_0_ADCarousel2 {width:300px;overflow:hidden; padding:0px; display:none;height:600px;}
+.newImageGroup_rightcontent_0_ADCarousel2 {}
+</style>
+
+
+<script language="javascript" type="text/javascript">
+
+    function AD_reassembleList_rightcontent_0_ADCarousel2() {
+        var longest = 0;
+        var itemMultiple = 1;
+        $j(".imageGroup_rightcontent_0_ADCarousel2").each(function () {
+            var thisLength = $j(this).children().length;
+            itemMultiple = thisLength * itemMultiple;
+            if (thisLength > longest) {
+                longest = thisLength;
+            }
+
+        });
+        $j(".imageGroup_rightcontent_0_ADCarousel2").each(function () {
+            itemFactor = itemMultiple / $j(this).children().length;
+            $j('li', this).duplicate(longest).appendTo(this);
+        });
+
+        for (var n = 0; n < longest; ++n) {
+            $j(".imageGroup_rightcontent_0_ADCarousel2").each(function (index) {
+                listItem = $j('li:eq(' + n + ')', this);
+                $j(listItem).clone().appendTo('.newImageGroup_rightcontent_0_ADCarousel2');
+            });
+        }
+        $j('.newImageGroup_rightcontent_0_ADCarousel2').css('display', 'block');
+        var randomStart = Math.floor(Math.random() * ($j('.newImageGroup_rightcontent_0_ADCarousel2 li').length - 1));
+        $j('.newImageGroup_rightcontent_0_ADCarousel2').cycle({
+            fx: 'fade',
+            speed: 'slow',
+            timeout: 8000,
+            pause: 0,
+            startingSlide: randomStart
+        });
+    };
+
+</script>
+
+
+
+
+
+    <script type="text/javascript" src="/scripts/jquery.cycle.all.js"></script>
+	<script language="javascript">
+      	    $j(document).ready(function () {
+         AD_reassembleList_rightcontent_0_ADCarousel2();
+     });
+
+    </script>
+   
+    <div class="imageGroups_rightcontent_0_ADCarousel2" style="display:none;">  
+        
+                
+            <ul class="imageGroup_rightcontent_0_ADCarousel2">
+            
+                    
+                <li>
+                    <a id="rightcontent_0_ADCarousel2_ADItemsList_ctrl0_rptAds_ctrl0_scPromoImageLink" href="/Home/The%20Guild/Theaters.aspx" target="_blank"><img src="~/media/Images/ADS 300x600/dgaTheater300x600.ashx?mh=600&amp;mw=300" border="0" alt="DGA Theater" width="300" height="600" /></a>
+                </li>
+                
+                
+            </ul>
+        
+            <ul class="imageGroup_rightcontent_0_ADCarousel2">
+            
+                    
+                <li>
+                    <a id="rightcontent_0_ADCarousel2_ADItemsList_ctrl1_rptAds_ctrl0_scPromoImageLink" href="/Home/Craft/DGAQ/Categories/Subscriptions.aspx" target="_blank"><img src="~/media/Images/ADS 300x600/dgaqMobile300x600.ashx?mh=600&amp;mw=300" border="0" alt="DGA Quarterly Mobile" width="300" height="600" /></a>
+                </li>
+                
+                
+            </ul>
+        
+        
+    </div>
+
+    
+    
+    <ul class="newImageGroup_rightcontent_0_ADCarousel2" style="display:none;"> </ul>
+
+
+
+<!-- END Controls/ADCarousel.ascx -->
+
+    </div>
+</div><!-- end standardAdContainer -->
+
+
+<!-- END DGAQIssueAdCarousel.ascx -->
+
+
+<!-- start CurrentIssueRightContentSublayout.ascx -->
+    <div class="greyBox">
+            <div class="relatedColumns">
+                <div class="rightContentSection"> 
+                    <div class="sectionHeader">More</div>
+                    <div class="sectionBody">
+                        
+                    </div>
+                </div><!-- end rightContentSection -->
+                
+                        
+                        <div class="issueRightNavItem lightBox">
+                                <a id="rightcontent_1_MoreArticlesList_ctrl0_ArticleLink1" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/Drawing-Board-West-Side-Story.aspx"><img src="~/media/Images/Landscape Images/DGAQuarterly/1303Fall2013/DrawingBoardHERO.ashx?mh=51&amp;mw=90" alt="" width="90" height="51" /></a>
+                                <div id="rightcontent_1_MoreArticlesList_ctrl0_PDF" class="pdf"> <span>This file is a PDF </span></div>
+                                <div class="itemTitle"><a id="rightcontent_1_MoreArticlesList_ctrl0_ArticleLink" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/Drawing-Board-West-Side-Story.aspx">When You're a Jet...</a></div>
+                                <div class="itemSubTitle"><em>West Side Story</em></div>
+                                <p>Saul Bass’ storyboards helped Robert Wise and Jerome Robbins get <em>West Side Story</em> (1961) off to a rousing start on the streets of New York. </p>
+                        </div>
+                    
+                        <div class="issueRightNavItem lightBox">
+                                <a id="rightcontent_1_MoreArticlesList_ctrl1_ArticleLink1" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/On-the-Job-Alicia-Lewis.aspx"><img src="~/media/Images/Landscape Images/DGAQuarterly/1303Fall2013/OTJAliciaLewisHERO.ashx?mh=51&amp;mw=90" alt="" width="90" height="51" /></a>
+                                
+                                <div class="itemTitle"><a id="rightcontent_1_MoreArticlesList_ctrl1_ArticleLink" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/On-the-Job-Alicia-Lewis.aspx">Alicia Lewis</a></div>
+                                <div class="itemSubTitle">At Base Camp</div>
+                                <p>In her nearly 20 years as a 2nd 2nd AD on a string of hit TV shows, Alicia Lewis has made “base camp” a safe haven in often roaring seas.</p>
+                        </div>
+                    
+                        <div class="issueRightNavItem lightBox">
+                                <a id="rightcontent_1_MoreArticlesList_ctrl2_ArticleLink1" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/On-the-Job-Joaquin-Prange.aspx"><img src="~/media/Images/Landscape Images/DGAQuarterly/1303Fall2013/OTJjoaquinHERO.ashx?mh=51&amp;mw=90" alt="" width="90" height="51" /></a>
+                                
+                                <div class="itemTitle"><a id="rightcontent_1_MoreArticlesList_ctrl2_ArticleLink" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/On-the-Job-Joaquin-Prange.aspx">Joaquin Prange</a></div>
+                                <div class="itemSubTitle">On Location</div>
+                                <p>New York City-based Joaquin Prange says he entered the film business with the full intention of being a cinematographer, but "got hooked" working as a location manager.</p>
+                        </div>
+                    
+                        <div class="issueRightNavItem lightBox">
+                                <a id="rightcontent_1_MoreArticlesList_ctrl3_ArticleLink1" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/On-the-Job-Michael-Lerman.aspx"><img src="~/media/Images/Landscape Images/DGAQuarterly/1303Fall2013/OTJLermanHERO.ashx?mh=51&amp;mw=90" alt="" width="90" height="51" /></a>
+                                
+                                <div class="itemTitle"><a id="rightcontent_1_MoreArticlesList_ctrl3_ArticleLink" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/On-the-Job-Michael-Lerman.aspx">Michael Lerman</a></div>
+                                <div class="itemSubTitle">Top of the World</div>
+                                <p>With a career that includes sterling art house indies and mega tentpole movies, Michael Lerman has seen the full horizon of the AD’s craft--and the view has never been less than incredible.</p>
+                        </div>
+                    
+                        <div class="issueRightNavItem lightBox">
+                                <a id="rightcontent_1_MoreArticlesList_ctrl4_ArticleLink1" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/Out-of-the-Past-Hitchcock.aspx"><img src="~/media/Images/Landscape Images/DGAQuarterly/1303Fall2013/OutPastHERO.ashx?mh=51&amp;mw=90" alt="" width="90" height="51" /></a>
+                                <div id="rightcontent_1_MoreArticlesList_ctrl4_PDF" class="pdf"> <span>This file is a PDF </span></div>
+                                <div class="itemTitle"><a id="rightcontent_1_MoreArticlesList_ctrl4_ArticleLink" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/Out-of-the-Past-Hitchcock.aspx">Bird on a Wire</a></div>
+                                <div class="itemSubTitle"><em>The Birds</em></div>
+                                <p>Alfred Hitchcock directs some of his fine feathered friends on the Bodega Bay set of <em>The Birds</em> (1963). </p>
+                        </div>
+                    
+                        <div class="issueRightNavItem lightBox">
+                                <a id="rightcontent_1_MoreArticlesList_ctrl5_ArticleLink1" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/Books-ABC-Sports.aspx"><img src="~/media/Images/Landscape Images/DGAQuarterly/1303Fall2013/BooksABCHERO.ashx?mh=51&amp;mw=90" alt="" width="90" height="51" /></a>
+                                
+                                <div class="itemTitle"><a id="rightcontent_1_MoreArticlesList_ctrl5_ArticleLink" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/Books-ABC-Sports.aspx">The World Was Our Stage: Spanning the Globe with ABC Sports </a></div>
+                                <div class="itemSubTitle">Doug Wilson and Jody Cohan</div>
+                                <p>Wilson’s new memoir is a fascinating behind-the-scenes account of what it was like to bring viewers “the thrill of victory, and the agony of defeat,” week in, week out.</p>
+                        </div>
+                    
+                        <div class="issueRightNavItem lightBox">
+                                <a id="rightcontent_1_MoreArticlesList_ctrl6_ArticleLink1" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/Books-Badham.aspx"><img src="~/media/Images/Landscape Images/DGAQuarterly/1303Fall2013/BooksBadhamHERO.ashx?mh=51&amp;mw=90" alt="" width="90" height="51" /></a>
+                                
+                                <div class="itemTitle"><a id="rightcontent_1_MoreArticlesList_ctrl6_ArticleLink" href="/Craft/DGAQ/All-Articles/1304-Fall-2013/Books-Badham.aspx">John Badham On Directing</a></div>
+                                <div class="itemSubTitle">John Badham</div>
+                                <p>In John Badham's latest book he culls from his nearly 40-year history in the industry to provide invaluable first-hand insight for vets and novices alike.</p>
+                        </div>
+                    
+                      
+            </div><!-- end relatedColumns -->
+    </div> 
+    <!-- end CurrentIssueRightContentSublayout.ascx -->  
+  
+
+
+                    </div>
+
+
+                    <!--RIGHT BOTTOM CONTENT-->
+                    
+
+                </div>
+                <div class="clr"></div>
+            </div><!-- end dgaInnerContainer -->
+    </div>
+       <div class="pageClr"></div>
+</div>
+
+    
+
+    <!-- BEGIN Footer.ascx -->
+
+<div class="pageFooter">
+    <div class="pageFooterContainer">
+        <div class="pageFooterLinks">
+
+            
+                    <a href='/Resources.aspx'>Resources</a>
+                
+                    <a href='/Utility/Contact.aspx'>Contact</a>
+                
+                    <a href='/Utility/Terms-and-Conditions.aspx'>Terms & Conditions</a>
+                
+                    <a href='/Utility/Privacy-Policy.aspx'>Privacy Policy</a>
+                
+                    <a href='/Utility/General-Welcome.aspx'>About this Site</a>
+                
+            
+        </div>
+        <div id="bottom_0_CopyDiv" class="pageFooterCopy">Copyright &#169; 2011-2013 DGA.   All Rights Reserved.   Your use of this site is bound by the terms and conditions set forth by the Directors Guild of America.</div>
+    </div>
+</div>
+
+    <!-- END Footer.ascx -->
+
+    <input type="hidden" name="ReleaseID" id="ReleaseID" value="Build_11262013" />
+
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+    <!-- To avoid delays, initialize Cufón before other scripts at the bottom -->
+    <script type="text/javascript">
+        Cufon.now();
+//        buildLoader();
+    </script> 
+    </body>
+</html>
